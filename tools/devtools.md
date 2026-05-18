@@ -13,4 +13,6 @@
 | ChatGPT Finance | 连接银行账户通过 Plaid，理财分析钱包监控 | [🔗](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/) |
 | Zerostack | 纯Rust编码Agent，8MB内存Unix哲学，每个工具独立进程 | [🔗](https://github.com/gi-dellav/zerostack) |
 | WhichLLM | 按硬件自动跑基准测试推荐最佳本地LLM | [🔗](https://github.com/Andyyyy64/whichllm) |
-|
+| Semble | Agent专用代码搜索，Token消耗比grep少98%，直接输出语义块 | [🔗](https://github.com/MinishLab/semble) |
+| AI Engineering Coach | 微软开源，追踪Copilot/Claude/Codex用量的AI编程Strava | [🔗](https://github.com/microsoft/AI-Engineering-Coach) |
+| Git未准备好AI编码 | Git线性diff模型跟AI批量生成输出不匹配，冲突率暴增引发讨论 | [🔗](https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480) |
