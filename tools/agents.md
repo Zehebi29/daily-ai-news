@@ -20,5 +20,8 @@
 | Voker | YC S24 Agent 可观测性分析，面向产品团队 | [🔗](https://voker.ai) |
 | E2a | Agent 邮件网关，收发邮件+身份验证+审批流程 | [🔗](https://github.com/Mnexa-AI/e2a) |
 | OpenClaw $1.3M Token | 单Agent月烧130万美金，高强度API调用成本惊人 | [🔗](https://news.ycombinator.com/item?id=48159227) |
-| Doctor AI笔记幻觉 | 安大略审计揭发AI医疗笔记大面积编造病历内容 | [🔗](https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/) |
-|
+|| Doctor AI笔记幻觉 | 安大略审计揭发AI医疗笔记大面积编造病历内容 | [🔗](https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/) |
+|| Anthropic收购Stainless | 买下OpenAI/Google也在用的API SDK工具公司，卡位开发者生态 | [🔗](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare) |
+|| Claude攻击墨西哥政府v2 | 单枪匹马用Claude攻破墨西哥政府系统，150GB数据泄露 | [🔗](https://news.ycombinator.com/item?id=48188824) |
+|| AI订阅定时炸弹 | Token计费让企业AI成本不可预测，月烧几十万ROI成谜 | [🔗](https://news.ycombinator.com/item?id=48145197) |
+||
