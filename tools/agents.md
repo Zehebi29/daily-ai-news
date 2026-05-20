@@ -23,5 +23,7 @@
 || Doctor AI笔记幻觉 | 安大略审计揭发AI医疗笔记大面积编造病历内容 | [🔗](https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/) |
 || Anthropic收购Stainless | 买下OpenAI/Google也在用的API SDK工具公司，卡位开发者生态 | [🔗](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare) |
 || Claude攻击墨西哥政府v2 | 单枪匹马用Claude攻破墨西哥政府系统，150GB数据泄露 | [🔗](https://news.ycombinator.com/item?id=48188824) |
-|| AI订阅定时炸弹 | Token计费让企业AI成本不可预测，月烧几十万ROI成谜 | [🔗](https://news.ycombinator.com/item?id=48145197) |
-||
+||| AI订阅定时炸弹 | Token计费让企业AI成本不可预测，月烧几十万ROI成谜 | [🔗](https://news.ycombinator.com/item?id=48145197) |
+||| Karpathy加入Anthropic | OpenAI联合创始人转投Anthropic，AI人才争夺战升级 | [🔗](https://twitter.com/karpathy/status/2056753169888334312) |
+||| Claude Managed Agents | 自托管沙箱+MCP隧道，企业级Agent安全部署 | [🔗](https://claude.com/blog/claude-managed-agents-updates) |
+|||

@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 05-20 周三
+
+| # | 分类 | 工具 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🤖 | [Karpathy加入Anthropic](https://twitter.com/karpathy/status/2056753169888334312) | OpenAI联合创始人转投Anthropic，AI人才争夺战升级 |
+| 2 | 🛠️ | [Forge](https://github.com/antoinezambelli/forge) | 8B小模型Agent可靠性53%→99%，开源guardrails框架 |
+| 3 | 🧠 | [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) | Google IO全线押注Agent，非聊天机器人，Search被重新定义 |
+| 4 | 🛠️ | [Android CLI 1.0](https://android-developers.googleblog.com/2026/05/android-cli-stable-1-0-agent-development.html) | Agent通过CLI直接开发Android应用，最后一公里打通 |
+| 5 | 🤖 | [Claude Managed Agents](https://claude.com/blog/claude-managed-agents-updates) | 自托管沙箱+MCP隧道，企业级Agent安全部署 |
+
 ### 05-19 周二
 
 | # | 分类 | 工具 | 简介 |
@@ -17,16 +27,6 @@
 | 3 | 🔒 | [Claude攻击墨西哥政府](https://news.ycombinator.com/item?id=48188824) | 单枪匹马用Claude攻破政府系统，150GB数据泄露，首个AI辅助国家级攻击？ |
 | 4 | 📉 | [AI订阅定时炸弹](https://news.ycombinator.com/item?id=48145197) | Token计费让企业AI成本不可预测，月花几十万ROI说不清 |
 | 5 | 🌐 | [美国社会反抗AI](https://news.ycombinator.com/item?id=48184702) | 从Schmidt被嘘到各州立法——社会层面对AI的信任危机在扩大 |
-
-### 05-18 周一
-
-| # | 分类 | 工具 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🛠️ | [Semble](https://github.com/MinishLab/semble) | Agent专用代码搜索，Token比grep少98%，直接输出语义上下文块 |
-| 2 | 🧠 | [DeepSeek V4 Flash Steering](https://www.seangoedecke.com/steering-vectors/) | DeepSeek V4 Flash对steering vector响应灵敏，低成本行为控制 |
-| 3 | 📰 | [Git未准备好AI编码](https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480) | Git线性diff模型与AI批量生成输出不匹配，冲突率暴增 |
-| 4 | 🛠️ | [AI Engineering Coach](https://github.com/microsoft/AI-Engineering-Coach) | 微软开源AI编程Strava，追踪Copilot/Claude/Codex用量 |
-| 5 | 🧩 | [Sx](https://github.com/sleuth-io/sx) | AI技能和MCP的包管理器，一行命令装Agent能力 |
 
 ---
 

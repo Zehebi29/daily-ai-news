@@ -15,4 +15,6 @@
 | WhichLLM | 按硬件自动跑基准测试推荐最佳本地LLM | [🔗](https://github.com/Andyyyy64/whichllm) |
 | Semble | Agent专用代码搜索，Token消耗比grep少98%，直接输出语义块 | [🔗](https://github.com/MinishLab/semble) |
 | AI Engineering Coach | 微软开源，追踪Copilot/Claude/Codex用量的AI编程Strava | [🔗](https://github.com/microsoft/AI-Engineering-Coach) |
-| Git未准备好AI编码 | Git线性diff模型跟AI批量生成输出不匹配，冲突率暴增引发讨论 | [🔗](https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480) |
+|| Git未准备好AI编码 | Git线性diff模型跟AI批量生成输出不匹配，冲突率暴增引发讨论 | [🔗](https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480) |
+|| Forge | 8B小模型Agent可靠性53%→99%，开源guardrails框架 | [🔗](https://github.com/antoinezambelli/forge) |
+|| Android CLI 1.0 | Agent通过CLI直接开发Android应用，打通最后一公里 | [🔗](https://android-developers.googleblog.com/2026/05/android-cli-stable-1-0-agent-development.html) |
