@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 05-21 周四
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🌐 | [OpenAI 解决 80 年几何猜想](https://news.ycombinator.com/item?id=48212493) | AI 首次独立证明离散几何猜想，科学里程碑 |
+| 2 | 💰 | [Anthropic 首次宣布盈利](https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/) | 月付 xAI $12.5 亿算力费仍能盈利，拐点信号 |
+| 3 | 💰 | [NVIDIA 找到 $2000 亿新市场](https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/) | 黄仁勋宣布 + 财报破纪录，持 $430 亿 AI 初创 |
+| 4 | 🎨 | [Stability AI 6 分钟歌曲](https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/) | 新音频模型生成完整 6 分钟歌曲，拉高赛道门槛 |
+| 5 | 💰 | [Mistral 收购 Emmi AI](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai) | 欧洲 AI 整合，Mistral 进军工业仿真领域 |
+
 ### 05-20 周三
 
 | # | 分类 | 标题 | 简介 |
@@ -17,16 +27,6 @@
 | 3 | 🧠 | [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) | Google IO 全线押注 Agent，Search 被重新定义 |
 | 4 | 🛠️ | [Android CLI 1.0](https://android-developers.googleblog.com/2026/05/android-cli-stable-1-0-agent-development.html) | Agent 通过 CLI 直接开发 Android 应用 |
 | 5 | 🤖 | [Claude Managed Agents](https://claude.com/blog/claude-managed-agents-updates) | 自托管沙箱+MCP 隧道，企业级 Agent 安全部署 |
-
-### 05-19 周二
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🏛️ | [Musk诉OpenAI案败诉](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/) | 陪审团裁定马斯克败诉，OpenAI 转营利被法院认可 |
-| 2 | 💰 | [Anthropic收购Stainless](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare) | 买下对手也在用的 API SDK 公司，卡位开发者生态 |
-| 3 | 🔒 | [Claude攻击墨西哥政府](https://news.ycombinator.com/item?id=48188824) | 单枪匹马用 Claude 攻破政府系统，150GB 数据泄露 |
-| 4 | 💰 | [AI订阅定时炸弹](https://news.ycombinator.com/item?id=48145197) | Token 计费让企业 AI 成本不可预测 |
-| 5 | 🌐 | [美国社会反抗AI](https://news.ycombinator.com/item?id=48184702) | 从 Schmidt 被嘘到各州立法——信任危机在扩大 |
 
 ---
 
@@ -61,6 +61,7 @@
 
 | 日期 | 文件 |
 |:----:|:----:|
+| 05-21 | [→](daily/2026-05-21.md) |
 | 05-20 | [→](daily/2026-05-20.md) |
 | 05-19 | [→](daily/2026-05-19.md) |
 | 05-18 | [→](daily/2026-05-18.md) |

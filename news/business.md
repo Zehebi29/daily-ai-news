@@ -14,3 +14,6 @@
 | 05-19 | Anthropic 收购对手也在用的 API SDK 公司 Stainless | [🔗](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare) |
 | 05-19 | AI 订阅定时炸弹：Token 计费让企业成本不可预测 | [🔗](https://news.ycombinator.com/item?id=48145197) |
 | 05-20 | Karpathy 加入 Anthropic，AI 人才争夺战升级 | [🔗](https://twitter.com/karpathy/status/2056753169888334312) |
+| 05-21 | Anthropic 首次宣布盈利 + 月付 xAI $12.5亿算力费 | [🔗](https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/) |
+| 05-21 | 黄仁勋：NVIDIA 找到 $2000 亿新市场，持 $430 亿 AI 初创股票 | [🔗](https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/) |
+| 05-21 | Mistral 收购奥地利物理 AI 公司 Emmi，布局工业仿真 | [🔗](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai) |
