@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| Google AI Studio Vibe Coding | 一句话Prompt生成完整原生Android App（Jetpack Compose） | [🔗](https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio) |
 | Android CLI 1.0 | Agent 通过 CLI 直接开发 Android 应用 | [🔗](https://android-developers.googleblog.com/2026/05/android-cli-stable-1-0-agent-development.html) |
 | AI Engineering Coach | 微软开源，追踪 Copilot / Claude / Codex 用量的 AI 编程 Strava | [🔗](https://github.com/microsoft/AI-Engineering-Coach) |
 | Semble | Agent 专用代码搜索，Token 消耗比 grep 少 98% | [🔗](https://github.com/MinishLab/semble) |

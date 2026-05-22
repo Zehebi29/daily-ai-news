@@ -12,3 +12,4 @@
 | 05-17 | 安大略审计发现：医生用的 AI 笔记机大面积编造病历内容 | [🔗](https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/) |
 | 05-18 | Git 还没准备好应对 AI 编码海啸——冲突率暴增 | [🔗](https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480) |
 | 05-21 | OpenAI 模型解决 80 年离散几何猜想，AI 首次独立证明数学定理 | [🔗](https://news.ycombinator.com/item?id=48212493) |
+| 05-22 | TechCrunch推荐6款AI搜索引擎替代Google（Perplexity/Kagi/Stract等） | [🔗](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/) |

@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 05-22 周五
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🤖 | [Runtime](https://www.runtm.com/) | 团队共享沙箱编码Agent，协作透明可追溯 |
+| 2 | 🛠️ | [Google AI Studio ](https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio) | 一句话Prompt生成完整原生Android App |
+| 3 | 🎨 | [Polyend Endless吉他踏板](https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal) | AI吉他效果器，自然语言描述自动生成效果链 |
+| 4 | 🤖 | [Claw Patrol](https://deno.com/blog/clawpatrol) | Deno开源Agent安全防火墙，行为监控+白名单 |
+| 5 | 🌐 | [6款AI搜索引擎替代Google](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/) | TechCrunch推荐Perplexity、Kagi、Stract等 |
+
 ### 05-21 周四
 
 | # | 分类 | 标题 | 简介 |
@@ -42,7 +52,7 @@
 | 🧠 大模型 | LLM、多模态模型、本地推理引擎 | [→](tools/llm.md) |
 | 🛠️ 开发工具 | SDK、CLI、API、编码工具、搜索工具 | [→](tools/devtools.md) |
 | 🧩 Skill/MCP | Agent Skill、MCP Server | [→](tools/skills.md) |
-| 🎨 图像/视频 | 图像生成、视频生成、媒体工具 | [→](tools/image.md) |
+| 🎨 图像/视频/音频 | 图像生成、视频生成、音乐/音频工具 | [→](tools/image.md) |
 
 ### 📰 新闻 / 事件
 
@@ -61,6 +71,7 @@
 
 | 日期 | 文件 |
 |:----:|:----:|
+| 05-22 | [→](daily/2026-05-22.md) |
 | 05-21 | [→](daily/2026-05-21.md) |
 | 05-20 | [→](daily/2026-05-20.md) |
 | 05-19 | [→](daily/2026-05-19.md) |

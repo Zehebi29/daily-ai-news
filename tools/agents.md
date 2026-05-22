@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| Runtime | YC P26，团队共享沙箱编码Agent，协作透明可追溯 | [🔗](https://www.runtm.com/) |
+| Claw Patrol | Deno开源Agent安全防火墙，行为监控+白名单策略 | [🔗](https://deno.com/blog/clawpatrol) |
 | Claude Managed Agents | 自托管沙箱 + MCP 隧道，企业级 Agent 安全部署 | [🔗](https://claude.com/blog/claude-managed-agents-updates) |
 | Forge | 8B 小模型 Agent 可靠性 53% → 99%，开源 guardrails 框架 | [🔗](https://github.com/antoinezambelli/forge) |
 | Claude for Small Business | 集成 QuickBooks / PayPal / HubSpot，降低小企业 AI 使用门槛 | [🔗](https://www.anthropic.com/news/claude-for-small-business) |
