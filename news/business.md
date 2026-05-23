@@ -16,4 +16,6 @@
 | 05-20 | Karpathy 加入 Anthropic，AI 人才争夺战升级 | [🔗](https://twitter.com/karpathy/status/2056753169888334312) |
 | 05-21 | Anthropic 首次宣布盈利 + 月付 xAI $12.5亿算力费 | [🔗](https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/) |
 | 05-21 | 黄仁勋：NVIDIA 找到 $2000 亿新市场，持 $430 亿 AI 初创股票 | [🔗](https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/) |
-| 05-21 | Mistral 收购奥地利物理 AI 公司 Emmi，布局工业仿真 | [🔗](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai) |
+| 05-22 | Mistral 收购奥地利物理 AI 公司 Emmi，布局工业仿真 | [🔗](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai) |
+| 05-23 | OpenAI 秘密递交 IPO 申请，估值或达 2000 亿美元，与 SpaceX 同周 IPO | [🔗](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html) |
+| 05-23 | DeepSeek V4 Pro 75% 折扣永久化，价格为 GPT-5.5 的 1/15 | [🔗](https://api-docs.deepseek.com/quick_start/pricing) |

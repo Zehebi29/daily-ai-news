@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 05-23 周六
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 💰 | [OpenAI 秘密递交 IPO 申请](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html) | 估值直奔2000亿美元，与SpaceX同周IPO |
+| 2 | 🌐 | [内存短缺导致消费电子涨价](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone) | AI训练抢光DRAM/HBM，千元智能机时代终结 |
+| 3 | 🧠 | [DeepSeek V4 Pro 折扣永久化](https://api-docs.deepseek.com/quick_start/pricing) | 75%折扣变永久，价格为GPT-5.5的1/15 |
+| 4 | 🛠️ | [Models.dev](https://github.com/anomalyco/models.dev) | 开源AI模型规格数据库，300+模型社区协作 |
+| 5 | 🌐 | [别直接把AI输出甩我脸上](https://dontquotetheai.com/) | 滥用AI引发职场信任危机 |
+
 ### 05-22 周五
 
 | # | 分类 | 标题 | 简介 |
@@ -71,6 +81,7 @@
 
 | 日期 | 文件 |
 |:----:|:----:|
+| 05-23 | [→](daily/2026-05-23.md) |
 | 05-22 | [→](daily/2026-05-22.md) |
 | 05-21 | [→](daily/2026-05-21.md) |
 | 05-20 | [→](daily/2026-05-20.md) |

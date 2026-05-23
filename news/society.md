@@ -11,5 +11,6 @@
 | 05-16 | ChatGPT 要连你的银行账户：OpenAI 发布个人理财功能 | [🔗](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/) |
 | 05-17 | 安大略审计发现：医生用的 AI 笔记机大面积编造病历内容 | [🔗](https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/) |
 | 05-18 | Git 还没准备好应对 AI 编码海啸——冲突率暴增 | [🔗](https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480) |
-| 05-21 | OpenAI 模型解决 80 年离散几何猜想，AI 首次独立证明数学定理 | [🔗](https://news.ycombinator.com/item?id=48212493) |
 | 05-22 | TechCrunch推荐6款AI搜索引擎替代Google（Perplexity/Kagi/Stract等） | [🔗](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/) |
+| 05-23 | 内存短缺导致消费电子全线涨价，AI 训练抢光 DRAM/HBM 产能 | [🔗](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone) |
+| 05-23 | 别直接把 AI 输出甩我脸上——滥用 AI 正在引发职场信任危机 | [🔗](https://dontquotetheai.com/) |
