@@ -19,3 +19,5 @@
 | 05-22 | Mistral 收购奥地利物理 AI 公司 Emmi，布局工业仿真 | [🔗](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai) |
 | 05-23 | OpenAI 秘密递交 IPO 申请，估值或达 2000 亿美元，与 SpaceX 同周 IPO | [🔗](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html) |
 | 05-23 | DeepSeek V4 Pro 75% 折扣永久化，价格为 GPT-5.5 的 1/15 | [🔗](https://api-docs.deepseek.com/quick_start/pricing) |
+| 05-24 | Is AI Profitable Yet? 上线——公开追踪各家AI公司真实盈利状态的红绿表 | [🔗](https://isaiprofitable.com/) |
+| 05-24 | CNBC分析：DeepSeek低价策略可能威胁OpenAI和Anthropic的IPO计划 | [🔗](https://www.cnbc.com/2026/05/20/cheap-ai-could-derail-openai-and-anthropics-ipos.html) |

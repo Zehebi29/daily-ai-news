@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 05-24 周日
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🌐 | [沃兹尼亚克：你们有AI——真正的智能](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5) | AI双关获全场掌声，学生对AI态度两极分化 |
+| 2 | 💰 | [低价AI可能威胁OpenAI和Anthropic的IPO](https://www.cnbc.com/2026/05/20/cheap-ai-could-derail-openai-and-anthropics-ipos.html) | DeepSeek永久降价75%动摇高端模型估值 |
+| 3 | 🌐 | [Google AI眼镜评测「几乎到位了」](https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/) | 集成Gemini实时翻译识别，续航仍为短板 |
+| 4 | 💰 | [Is AI Profitable Yet？](https://isaiprofitable.com/) | 红绿表公开追踪各家AI公司真实盈利状态 |
+| 5 | 🌐 | [Anthropic：科幻小说教会了AI干坏事](https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/) | 训练数据含大量反乌托邦科幻引争议 |
+
 ### 05-23 周六
 
 | # | 分类 | 标题 | 简介 |
@@ -17,36 +27,6 @@
 | 3 | 🧠 | [DeepSeek V4 Pro 折扣永久化](https://api-docs.deepseek.com/quick_start/pricing) | 75%折扣变永久，价格为GPT-5.5的1/15 |
 | 4 | 🛠️ | [Models.dev](https://github.com/anomalyco/models.dev) | 开源AI模型规格数据库，300+模型社区协作 |
 | 5 | 🌐 | [别直接把AI输出甩我脸上](https://dontquotetheai.com/) | 滥用AI引发职场信任危机 |
-
-### 05-22 周五
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🤖 | [Runtime](https://www.runtm.com/) | 团队共享沙箱编码Agent，协作透明可追溯 |
-| 2 | 🛠️ | [Google AI Studio ](https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio) | 一句话Prompt生成完整原生Android App |
-| 3 | 🎨 | [Polyend Endless吉他踏板](https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal) | AI吉他效果器，自然语言描述自动生成效果链 |
-| 4 | 🤖 | [Claw Patrol](https://deno.com/blog/clawpatrol) | Deno开源Agent安全防火墙，行为监控+白名单 |
-| 5 | 🌐 | [6款AI搜索引擎替代Google](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/) | TechCrunch推荐Perplexity、Kagi、Stract等 |
-
-### 05-21 周四
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🌐 | [OpenAI 解决 80 年几何猜想](https://news.ycombinator.com/item?id=48212493) | AI 首次独立证明离散几何猜想，科学里程碑 |
-| 2 | 💰 | [Anthropic 首次宣布盈利](https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/) | 月付 xAI $12.5 亿算力费仍能盈利，拐点信号 |
-| 3 | 💰 | [NVIDIA 找到 $2000 亿新市场](https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/) | 黄仁勋宣布 + 财报破纪录，持 $430 亿 AI 初创 |
-| 4 | 🎨 | [Stability AI 6 分钟歌曲](https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/) | 新音频模型生成完整 6 分钟歌曲，拉高赛道门槛 |
-| 5 | 💰 | [Mistral 收购 Emmi AI](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai) | 欧洲 AI 整合，Mistral 进军工业仿真领域 |
-
-### 05-20 周三
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 💰 | [Karpathy加入Anthropic](https://twitter.com/karpathy/status/2056753169888334312) | OpenAI 联合创始人转投 Anthropic，AI 人才争夺战升级 |
-| 2 | 🤖 | [Forge](https://github.com/antoinezambelli/forge) | 8B 小模型 Agent 可靠性 53%→99%，开源 guardrails 框架 |
-| 3 | 🧠 | [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) | Google IO 全线押注 Agent，Search 被重新定义 |
-| 4 | 🛠️ | [Android CLI 1.0](https://android-developers.googleblog.com/2026/05/android-cli-stable-1-0-agent-development.html) | Agent 通过 CLI 直接开发 Android 应用 |
-| 5 | 🤖 | [Claude Managed Agents](https://claude.com/blog/claude-managed-agents-updates) | 自托管沙箱+MCP 隧道，企业级 Agent 安全部署 |
 
 ---
 
@@ -81,6 +61,7 @@
 
 | 日期 | 文件 |
 |:----:|:----:|
+| 05-24 | [→](daily/2026-05-24.md) |
 | 05-23 | [→](daily/2026-05-23.md) |
 | 05-22 | [→](daily/2026-05-22.md) |
 | 05-21 | [→](daily/2026-05-21.md) |
@@ -95,7 +76,6 @@
 | 05-12 | [→](daily/2026-05-12.md) |
 | 05-11 | [→](daily/2026-05-11.md) |
 | 05-10 | [→](daily/2026-05-10.md) |
-| 05-09 | [→](daily/2026-05-09.md) |
 
 ---
 

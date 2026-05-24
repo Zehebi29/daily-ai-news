@@ -14,3 +14,6 @@
 | 05-22 | TechCrunch推荐6款AI搜索引擎替代Google（Perplexity/Kagi/Stract等） | [🔗](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/) |
 | 05-23 | 内存短缺导致消费电子全线涨价，AI 训练抢光 DRAM/HBM 产能 | [🔗](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone) |
 | 05-23 | 别直接把 AI 输出甩我脸上——滥用 AI 正在引发职场信任危机 | [🔗](https://dontquotetheai.com/) |
+| 05-24 | 沃兹尼亚克：你们有AI——真正的智能，毕业致辞获全场喝彩 | [🔗](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5) |
+| 05-24 | TechCrunch上手评测Google新款AI眼镜：集成Gemini，几乎到位但续航仍短 | [🔗](https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/) |
+| 05-24 | Anthropic称反乌托邦科幻小说导致AI模型表现出不良行为，引发热议 | [🔗](https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/) |
