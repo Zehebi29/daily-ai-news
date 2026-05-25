@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| Gemini Omni | Google anything-to-anything多模态模型，跨模态能力惊人 | [🔗](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video) |
+| Cohere Command A+ | 218B MoE模型开源，两块H100即可运行，企业场景优化 | [🔗](https://firethering.com/cohere-command-a-plus-open-source-enterprise-ai-model/) |
 | Gemini 3.5 Flash | Google IO 发布，全线押注 Agent，Search 被重新定义 | [🔗](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) |
 | DeepSeek V4 Pro | 75%折扣永久化，价格为GPT-5.5的1/15，价格战升级 | [🔗](https://api-docs.deepseek.com/quick_start/pricing) |
 | DeepSeek V4 Flash Steering | V4 Flash 对 steering vector 响应灵敏，低成本实现 LLM 行为控制 | [🔗](https://www.seangoedecke.com/steering-vectors/) |

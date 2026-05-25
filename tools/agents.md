@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| DeepSeek Reasonix | DeepSeek终端原生AI编码Agent，高缓存命中率低成本 | [🔗](https://esengine.github.io/DeepSeek-Reasonix/) |
 | Runtime | YC P26，团队共享沙箱编码Agent，协作透明可追溯 | [🔗](https://www.runtm.com/) |
 | Claw Patrol | Deno开源Agent安全防火墙，行为监控+白名单策略 | [🔗](https://deno.com/blog/clawpatrol) |
 | Claude Managed Agents | 自托管沙箱 + MCP 隧道，企业级 Agent 安全部署 | [🔗](https://claude.com/blog/claude-managed-agents-updates) |
