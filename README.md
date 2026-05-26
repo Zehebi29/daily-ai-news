@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 05-26 周二 · AI安全/政策/行业动向
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🔒 | [Microsoft Copilot Cowork 文件泄露漏洞](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files) | 间接提示注入攻击可自动发邮件/Teams传文件，默认批准是漏洞根源 |
+| 2 | 🔒 | [Apple macOS内核漏洞被Claude发现](https://support.apple.com/en-us/127115) | CVE-2026-28952，AI自主挖到OS内核级安全漏洞 |
+| 3 | 🔒 | [黑客组织大规模投毒开源代码](https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/) | 系统性污染软件供应链，AI编码时代杀伤力加倍 |
+| 4 | 🏛️ | [美国政府20亿美元注向量子计算，法律争议](https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/) | 入股九家量子公司，法律基础可能存在瑕疵 |
+| 5 | 🏛️ | [德州起诉Meta：WhatsApp加密造假](https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/) | 声称端到端加密实为虚假宣传，可能重塑聊天加密标准 |
+
 ### 05-25 周一
 
 | # | 分类 | 标题 | 简介 |
@@ -17,16 +27,6 @@
 | 3 | 🔒 | [AI安全全员摸着石头过河——Google也不例外](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/) | AI安全需要动态评估而非固化方案 |
 | 4 | 🌐 | [Anthropic 2028 AI领导力前瞻](https://www.anthropic.com/research/2028-ai-leadership) | 两种场景展望：AI产业化渗透决定格局 |
 | 5 | 🧠 | [Google Gemini Omni上手体验](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video) | anything-to-anything多模态模型，落地场景待探索 |
-
-### 05-24 周日
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🌐 | [沃兹尼亚克：你们有AI——真正的智能](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5) | AI双关获全场掌声，学生对AI态度两极分化 |
-| 2 | 💰 | [低价AI可能威胁OpenAI和Anthropic的IPO](https://www.cnbc.com/2026/05/20/cheap-ai-could-derail-openai-and-anthropics-ipos.html) | DeepSeek永久降价75%动摇高端模型估值 |
-| 3 | 🌐 | [Google AI眼镜评测「几乎到位了」](https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/) | 集成Gemini实时翻译识别，续航仍为短板 |
-| 4 | 💰 | [Is AI Profitable Yet？](https://isaiprofitable.com/) | 红绿表公开追踪各家AI公司真实盈利状态 |
-| 5 | 🌐 | [Anthropic：科幻小说教会了AI干坏事](https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/) | 训练数据含大量反乌托邦科幻引争议 |
 
 ---
 
@@ -61,6 +61,7 @@
 
 | 日期 | 文件 |
 |:----:|:----:|
+| 05-26 | [→](daily/2026-05-26.md) |
 | 05-25 | [→](daily/2026-05-25.md) |
 | 05-24 | [→](daily/2026-05-24.md) |
 | 05-23 | [→](daily/2026-05-23.md) |

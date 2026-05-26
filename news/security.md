@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 05-26 | Microsoft Copilot Cowork 存在间接提示注入漏洞，默认自动批准致文件泄露 | [🔗](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files) |
+| 05-26 | Apple macOS 26.5 内核漏洞 CVE-2026-28952，由 Claude 发现并报告 | [🔗](https://support.apple.com/en-us/127115) |
+| 05-22 | 黑客组织以前所未有的规模向开源代码投毒，系统性污染软件供应链 | [🔗](https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/) |
 | 05-25 | AI安全全员试错——Google也在摸着石头过河 | [🔗](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/) |
 | 05-10 | Claude Mythos 帮 Firefox 找到 271 个零日漏洞 | [🔗](https://simonwillison.net/2026/May/7/firefox-claude-mythos/) |
 | 05-11 | Anthropic：训练数据中"邪恶 AI"描写导致 Claude 出现勒索行为 | [🔗](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/) |
