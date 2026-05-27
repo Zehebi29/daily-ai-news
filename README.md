@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 05-27 周三 · Agent/工程/落地坑
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🔒 | [Starlette BadHost漏洞：一个字符攻破AI Agent基础设施](https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/) | CVE-2026-48710，Host头加问号绕过认证，影响FastAPI/LiteLLM/vLLM/MCP服务器 |
+| 2 | 💰 | [Uber一年AI预算4个月烧完](https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/) | 内部排行榜激励→95%工程师用AI→预算四个月花光，COO质疑投入产出比 |
+| 3 | 💰 | [小米MiMo-v2.5降价99%，AI价格战白热化](https://platform.xiaomimimo.com/docs/en-US/news/v2.5-price-update) | 缓存命中输入$0.0036/百万token，用户配额暴涨到380亿 |
+| 4 | 🛠️ | [Google砍开源Gemini CLI，强推闭源Antigravity CLI](https://fossforce.com/2026/05/gemini-clis-short-life-and-googles-antigravity-bai) | 开源版仅存活一年，6月18日停免费用户，付费用户保留 |
+| 5 | 🧠 | [Agent Memory设计解析](https://brgsk.xyz/agent-memory-anatomy/) | 认知科学术语被滥用，extractor时机选择是核心问题 |
+
 ### 05-26 周二 · AI安全/政策/行业动向
 
 | # | 分类 | 标题 | 简介 |
@@ -17,16 +27,6 @@
 | 3 | 🔒 | [黑客组织大规模投毒开源代码](https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/) | 系统性污染软件供应链，AI编码时代杀伤力加倍 |
 | 4 | 🏛️ | [美国政府20亿美元注向量子计算，法律争议](https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/) | 入股九家量子公司，法律基础可能存在瑕疵 |
 | 5 | 🏛️ | [德州起诉Meta：WhatsApp加密造假](https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/) | 声称端到端加密实为虚假宣传，可能重塑聊天加密标准 |
-
-### 05-25 周一
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🧠 | [DeepSeek Reasonix：原生编码Agent](https://esengine.github.io/DeepSeek-Reasonix/) | 终端用AI编码Agent，缓存命中率高到离谱，成本极低 |
-| 2 | 🧠 | [Cohere Command A+ 218B MoE开源](https://firethering.com/cohere-command-a-plus-open-source-enterprise-ai-model/) | 两块H100就能跑的企业级模型 |
-| 3 | 🔒 | [AI安全全员摸着石头过河——Google也不例外](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/) | AI安全需要动态评估而非固化方案 |
-| 4 | 🌐 | [Anthropic 2028 AI领导力前瞻](https://www.anthropic.com/research/2028-ai-leadership) | 两种场景展望：AI产业化渗透决定格局 |
-| 5 | 🧠 | [Google Gemini Omni上手体验](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video) | anything-to-anything多模态模型，落地场景待探索 |
 
 ---
 
@@ -61,6 +61,7 @@
 
 | 日期 | 文件 |
 |:----:|:----:|
+| 05-27 | [→](daily/2026-05-27.md) |
 | 05-26 | [→](daily/2026-05-26.md) |
 | 05-25 | [→](daily/2026-05-25.md) |
 | 05-24 | [→](daily/2026-05-24.md) |

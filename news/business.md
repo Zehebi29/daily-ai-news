@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 05-27 | Uber 2026年AI编码预算四个月烧完，内部排行榜激励致95%工程师月用AI，COO质疑投入产出比 | [🔗](https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/) |
+| 05-27 | 小米 MiMo-v2.5 系列 API 永久降价最高 99%，缓存命中输入 $0.0036/百万token | [🔗](https://platform.xiaomimimo.com/docs/en-US/news/v2.5-price-update) |
 | 05-09 | Sierra：AI Agent 公司，估值 150 亿美元 | [🔗](https://siliconangle.com) |
 | 05-11 | Nvidia 今年已承诺 400 亿美元 AI 股权交易 | [🔗](https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/) |
 | 05-11 | DeepSeek V4 Pro 限时降价 75%，打价格战（至 5/31） | [🔗](https://api-docs.deepseek.com/quick_start/pricing) |

@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| Google Antigravity CLI | Google I/O 发布，替代开源 Gemini CLI 的闭源版，6月18日停免费用户 | [🔗](https://fossforce.com/2026/05/gemini-clis-short-life-and-googles-antigravity-bai) |
 | Models.dev | 开源AI模型规格/定价/能力数据库，300+模型社区协作维护 | [🔗](https://github.com/anomalyco/models.dev) |
 | Google AI Studio Vibe Coding | 一句话Prompt生成完整原生Android App（Jetpack Compose） | [🔗](https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio) |
 | Android CLI 1.0 | Agent 通过 CLI 直接开发 Android 应用 | [🔗](https://android-developers.googleblog.com/2026/05/android-cli-stable-1-0-agent-development.html) |

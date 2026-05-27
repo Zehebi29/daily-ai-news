@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 05-27 | Agent Memory 设计解析：认知科学术语被滥用，extractor 时机选择是核心问题 | [🔗](https://brgsk.xyz/agent-memory-anatomy/) |
 | 05-25 | Anthropic 2028 AI领导力前瞻：两种场景展望全球化 | [🔗](https://www.anthropic.com/research/2028-ai-leadership) |
 | 05-13 | James Shore：AI 写代码快不等于维护成本低，长期更贵 | [🔗](https://www.jamesshore.com/v2/blog/2026/the-ai-sdlc) |
 | 05-14 | Sam Altman 庭审被指"一贯说谎"，诚信受质疑 | [🔗](https://techcrunch.com/2026/05/14/sam-altman-testifies-in-musk-lawsuit-facing-accusations-of-chronically-lying/) |
