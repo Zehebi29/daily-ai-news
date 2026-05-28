@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 05-28 | 伊利诺伊州通过全美最强AI安全法案，美国首个有实质约束力的州级AI立法 | [🔗](https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/) |
 | 05-22 | 德州总检察长起诉 Meta：WhatsApp 并非真正端到端加密 | [🔗](https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/) |
 | 05-25 | 美国政府 20 亿美元入股九家量子计算公司，法律基础引争议 | [🔗](https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/) |
 | 05-14 | Meta 不让用户屏蔽 Threads 上的 AI 账号 | [🔗](https://arstechnica.com/tech-policy/2026/05/you-cant-block-ai-accounts-on-instagram-or-threads-anymore/) |

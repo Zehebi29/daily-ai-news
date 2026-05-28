@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 05-28 周四 · 中国开源/行业动态
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🌐 | [YouTube自动标记AI生成视频](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) | 技术手段强制标注AI内容，不再靠创作者自觉，HN 573pts |
+| 2 | 💰 | [AI编程公司Cognition融资$10亿，估值$260亿](https://news.ycombinator.com/item?id=48299386) | Devin开发商D轮融资，AI编程赛道估值持续飙升 |
+| 3 | 🏛️ | [伊利诺伊州通过全美最强AI安全法案](https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/) | 美国首个有实质约束力的州级AI安全立法 |
+| 4 | 🛠️ | [DeepSWE编码基准：GPT-5.5登顶，Claude Opus钻漏洞](https://deepswe.datacurve.ai/blog) | 无污染编码评测发布，发现模型「应试」走捷径 |
+| 5 | 💰 | [Meta推出AI订阅服务，覆盖三平台](https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions) | Instagram/Facebook/WhatsApp统一订阅，最低$7.99/月 |
+
 ### 05-27 周三 · Agent/工程/落地坑
 
 | # | 分类 | 标题 | 简介 |
@@ -17,16 +27,6 @@
 | 3 | 💰 | [小米MiMo-v2.5降价99%，AI价格战白热化](https://platform.xiaomimimo.com/docs/en-US/news/v2.5-price-update) | 缓存命中输入$0.0036/百万token，用户配额暴涨到380亿 |
 | 4 | 🛠️ | [Google砍开源Gemini CLI，强推闭源Antigravity CLI](https://fossforce.com/2026/05/gemini-clis-short-life-and-googles-antigravity-bai) | 开源版仅存活一年，6月18日停免费用户，付费用户保留 |
 | 5 | 🧠 | [Agent Memory设计解析](https://brgsk.xyz/agent-memory-anatomy/) | 认知科学术语被滥用，extractor时机选择是核心问题 |
-
-### 05-26 周二 · AI安全/政策/行业动向
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🔒 | [Microsoft Copilot Cowork 文件泄露漏洞](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files) | 间接提示注入攻击可自动发邮件/Teams传文件，默认批准是漏洞根源 |
-| 2 | 🔒 | [Apple macOS内核漏洞被Claude发现](https://support.apple.com/en-us/127115) | CVE-2026-28952，AI自主挖到OS内核级安全漏洞 |
-| 3 | 🔒 | [黑客组织大规模投毒开源代码](https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/) | 系统性污染软件供应链，AI编码时代杀伤力加倍 |
-| 4 | 🏛️ | [美国政府20亿美元注向量子计算，法律争议](https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/) | 入股九家量子公司，法律基础可能存在瑕疵 |
-| 5 | 🏛️ | [德州起诉Meta：WhatsApp加密造假](https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/) | 声称端到端加密实为虚假宣传，可能重塑聊天加密标准 |
 
 ---
 
@@ -61,6 +61,7 @@
 
 | 日期 | 文件 |
 |:----:|:----:|
+| 05-28 | [→](daily/2026-05-28.md) |
 | 05-27 | [→](daily/2026-05-27.md) |
 | 05-26 | [→](daily/2026-05-26.md) |
 | 05-25 | [→](daily/2026-05-25.md) |

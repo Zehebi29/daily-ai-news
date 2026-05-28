@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 05-28 | AI编程公司Cognition融资$10亿估值$260亿，Devin开发商D轮融资 | [🔗](https://news.ycombinator.com/item?id=48299386) |
+| 05-28 | Meta推出AI订阅服务覆盖Instagram/Facebook/WhatsApp，最低$7.99/月 | [🔗](https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions) |
 | 05-27 | Uber 2026年AI编码预算四个月烧完，内部排行榜激励致95%工程师月用AI，COO质疑投入产出比 | [🔗](https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/) |
 | 05-27 | 小米 MiMo-v2.5 系列 API 永久降价最高 99%，缓存命中输入 $0.0036/百万token | [🔗](https://platform.xiaomimimo.com/docs/en-US/news/v2.5-price-update) |
 | 05-09 | Sierra：AI Agent 公司，估值 150 亿美元 | [🔗](https://siliconangle.com) |

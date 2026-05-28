@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| DeepSWE | 无污染编码基准测试，GPT-5.5登顶，发现Claude Opus钻漏洞 | [🔗](https://deepswe.datacurve.ai/blog) |
 | Google Antigravity CLI | Google I/O 发布，替代开源 Gemini CLI 的闭源版，6月18日停免费用户 | [🔗](https://fossforce.com/2026/05/gemini-clis-short-life-and-googles-antigravity-bai) |
 | Models.dev | 开源AI模型规格/定价/能力数据库，300+模型社区协作维护 | [🔗](https://github.com/anomalyco/models.dev) |
 | Google AI Studio Vibe Coding | 一句话Prompt生成完整原生Android App（Jetpack Compose） | [🔗](https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio) |
