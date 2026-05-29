@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 05-29 | Robinhood开放AI Agent炒股，第一个主流券商接入AI交易能力 | [🔗](https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading) |
 | 05-28 | AI编程公司Cognition融资$10亿估值$260亿，Devin开发商D轮融资 | [🔗](https://news.ycombinator.com/item?id=48299386) |
 | 05-28 | Meta推出AI订阅服务覆盖Instagram/Facebook/WhatsApp，最低$7.99/月 | [🔗](https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions) |
 | 05-27 | Uber 2026年AI编码预算四个月烧完，内部排行榜激励致95%工程师月用AI，COO质疑投入产出比 | [🔗](https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/) |

@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| Claude Opus 4.8 | effort三档控制+2.5倍fast mode+dynamic workflows，价格不变 | [🔗](https://www.anthropic.com/news/claude-opus-4-8) |
 | Gemini Omni | Google anything-to-anything多模态模型，跨模态能力惊人 | [🔗](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video) |
 | Cohere Command A+ | 218B MoE模型开源，两块H100即可运行，企业场景优化 | [🔗](https://firethering.com/cohere-command-a-plus-open-source-enterprise-ai-model/) |
 | Gemini 3.5 Flash | Google IO 发布，全线押注 Agent，Search 被重新定义 | [🔗](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) |

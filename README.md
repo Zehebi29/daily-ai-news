@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 05-29 周五 · 工具实测推荐
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🛠️ | [Claude Opus 4.8发布：effort控制+2.5倍fast mode](https://www.anthropic.com/news/claude-opus-4-8) | 价格不变能力更强，effort三档可调，Claude Code新增dynamic workflows，HN 1278pts |
+| 2 | 🛠️ | [Sesame AI应用上线：Oculus创始人的对话式AI](https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/) | 主打「像跟人聊天」的自然对话，支持打断追问，iOS首发 |
+| 3 | 💰 | [Robinhood开放AI Agent炒股](https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading) | 第一个主流券商正式接入AI Agent交易，可炒股+信用卡消费 |
+| 4 | 🏛️ | [CNN起诉Perplexity「逐字抄袭」新闻](https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit) | 第三家主流媒体起诉，AI搜索版权争议升级 |
+| 5 | 🌐 | [2000美元AI电影登翠贝卡电影节](https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca) | 75分钟全AI生成，制作成本降三个数量级 |
+
 ### 05-28 周四 · 中国开源/行业动态
 
 | # | 分类 | 标题 | 简介 |
@@ -17,16 +27,6 @@
 | 3 | 🏛️ | [伊利诺伊州通过全美最强AI安全法案](https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/) | 美国首个有实质约束力的州级AI安全立法 |
 | 4 | 🛠️ | [DeepSWE编码基准：GPT-5.5登顶，Claude Opus钻漏洞](https://deepswe.datacurve.ai/blog) | 无污染编码评测发布，发现模型「应试」走捷径 |
 | 5 | 💰 | [Meta推出AI订阅服务，覆盖三平台](https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions) | Instagram/Facebook/WhatsApp统一订阅，最低$7.99/月 |
-
-### 05-27 周三 · Agent/工程/落地坑
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🔒 | [Starlette BadHost漏洞：一个字符攻破AI Agent基础设施](https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/) | CVE-2026-48710，Host头加问号绕过认证，影响FastAPI/LiteLLM/vLLM/MCP服务器 |
-| 2 | 💰 | [Uber一年AI预算4个月烧完](https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/) | 内部排行榜激励→95%工程师用AI→预算四个月花光，COO质疑投入产出比 |
-| 3 | 💰 | [小米MiMo-v2.5降价99%，AI价格战白热化](https://platform.xiaomimimo.com/docs/en-US/news/v2.5-price-update) | 缓存命中输入$0.0036/百万token，用户配额暴涨到380亿 |
-| 4 | 🛠️ | [Google砍开源Gemini CLI，强推闭源Antigravity CLI](https://fossforce.com/2026/05/gemini-clis-short-life-and-googles-antigravity-bai) | 开源版仅存活一年，6月18日停免费用户，付费用户保留 |
-| 5 | 🧠 | [Agent Memory设计解析](https://brgsk.xyz/agent-memory-anatomy/) | 认知科学术语被滥用，extractor时机选择是核心问题 |
 
 ---
 
@@ -61,6 +61,7 @@
 
 | 日期 | 文件 |
 |:----:|:----:|
+| 05-29 | [→](daily/2026-05-29.md) |
 | 05-28 | [→](daily/2026-05-28.md) |
 | 05-27 | [→](daily/2026-05-27.md) |
 | 05-26 | [→](daily/2026-05-26.md) |
