@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 05-30 | MCP协议已死？AI工具互操作标准遭质疑：复杂度高、安全漏洞，HN 104pts 83cmt | [🔗](https://www.quandri.io/engineering-blog/mcp-is-dead) |
+| 05-30 | CAPTCHA仍能识别AI：解题行为模式与人类差异明显，HN 66pts 55cmt | [🔗](https://research.roundtable.ai/captchas-detect-ai/) |
+| 05-29 | 程序员拒绝在没有AI的环境下写代码，研究者警告长期依赖可能导致基本功退化 | [🔗](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/) |
 | 05-29 | 2000美元AI电影登翠贝卡电影节，75分钟全AI生成，成本降三个数量级 | [🔗](https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca) |
 | 05-28 | YouTube自动标记AI生成视频：技术手段强制标注AI内容，不再靠创作者自觉 | [🔗](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) |
 | 05-27 | Agent Memory 设计解析：认知科学术语被滥用，extractor 时机选择是核心问题 | [🔗](https://brgsk.xyz/agent-memory-anatomy/) |

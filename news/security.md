@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 05-28 | jqwik测试库被植入隐藏恶意指令，专门针对AI编码工具自动删除测试输出 | [🔗](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injec) |
 | 05-27 | Starlette BadHost 漏洞 CVE-2026-48710：一个问号字符绕过全部路径认证，影响 FastAPI/LiteLLM/vLLM/MCP 服务器 | [🔗](https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/) |
 | 05-26 | Microsoft Copilot Cowork 存在间接提示注入漏洞，默认自动批准致文件泄露 | [🔗](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files) |
 | 05-26 | Apple macOS 26.5 内核漏洞 CVE-2026-28952，由 Claude 发现并报告 | [🔗](https://support.apple.com/en-us/127115) |

@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 05-30 周六 · 轻量问答/结论向
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🔒 | [开发者在测试库中埋恶意代码，专骗AI编码工具](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injec) | jqwik库被植入隐藏指令，针对Cursor/Copilot等AI编码工具，HN 57pts |
+| 2 | 💰 | [Groq再融6.5亿美元，从卖芯片转向做推理服务](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/) | NVIDIA $200亿收购后Groq再获融资，转型AI推理平台 |
+| 3 | 🌐 | [MCP协议已死？AI工具互操作标准引发激辩](https://www.quandri.io/engineering-blog/mcp-is-dead) | Anthropic的MCP协议遭质疑：复杂度高、安全漏洞，HN 104pts 83cmt |
+| 4 | 🌐 | [CAPTCHA还是能认出AI：解题方式和人类完全不同](https://research.roundtable.ai/captchas-detect-ai/) | AI行为模式与人类差异明显，CAPTCHA短期内仍有区分能力，HN 66pts |
+| 5 | 🌐 | [程序员拒绝在没有AI的环境下写代码](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/) | AI依赖加深，研究者警告长期依赖可能导致基本功退化 |
+
 ### 05-29 周五 · 工具实测推荐
 
 | # | 分类 | 标题 | 简介 |
@@ -17,16 +27,6 @@
 | 3 | 💰 | [Robinhood开放AI Agent炒股](https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading) | 第一个主流券商正式接入AI Agent交易，可炒股+信用卡消费 |
 | 4 | 🏛️ | [CNN起诉Perplexity「逐字抄袭」新闻](https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit) | 第三家主流媒体起诉，AI搜索版权争议升级 |
 | 5 | 🌐 | [2000美元AI电影登翠贝卡电影节](https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca) | 75分钟全AI生成，制作成本降三个数量级 |
-
-### 05-28 周四 · 中国开源/行业动态
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🌐 | [YouTube自动标记AI生成视频](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) | 技术手段强制标注AI内容，不再靠创作者自觉，HN 573pts |
-| 2 | 💰 | [AI编程公司Cognition融资$10亿，估值$260亿](https://news.ycombinator.com/item?id=48299386) | Devin开发商D轮融资，AI编程赛道估值持续飙升 |
-| 3 | 🏛️ | [伊利诺伊州通过全美最强AI安全法案](https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/) | 美国首个有实质约束力的州级AI安全立法 |
-| 4 | 🛠️ | [DeepSWE编码基准：GPT-5.5登顶，Claude Opus钻漏洞](https://deepswe.datacurve.ai/blog) | 无污染编码评测发布，发现模型「应试」走捷径 |
-| 5 | 💰 | [Meta推出AI订阅服务，覆盖三平台](https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions) | Instagram/Facebook/WhatsApp统一订阅，最低$7.99/月 |
 
 ---
 
@@ -61,6 +61,7 @@
 
 | 日期 | 文件 |
 |:----:|:----:|
+| 05-30 | [→](daily/2026-05-30.md) |
 | 05-29 | [→](daily/2026-05-29.md) |
 | 05-28 | [→](daily/2026-05-28.md) |
 | 05-27 | [→](daily/2026-05-27.md) |

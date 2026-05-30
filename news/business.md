@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 05-29 | Groq再融$6.5亿，从硬件芯片转向AI推理服务平台 | [🔗](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/) |
 | 05-29 | Robinhood开放AI Agent炒股，第一个主流券商接入AI交易能力 | [🔗](https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading) |
 | 05-28 | AI编程公司Cognition融资$10亿估值$260亿，Devin开发商D轮融资 | [🔗](https://news.ycombinator.com/item?id=48299386) |
 | 05-28 | Meta推出AI订阅服务覆盖Instagram/Facebook/WhatsApp，最低$7.99/月 | [🔗](https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions) |
