@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 05-31 | 免费上门打扫换全屋3D数据：Shift公司用清洁服务采集训练数据，HN 184pts | [🔗](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) |
+| 05-31 | 苹果正把Google万亿参数Gemini蒸馏到iPhone，新Siri升级，WWDC前释放信号 | [🔗](https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/) |
+| 05-31 | Meta开发AI吊坠可穿戴设备，基于收购的Limitless，定位办公场景 | [🔗](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/) |
 | 05-30 | MCP协议已死？AI工具互操作标准遭质疑：复杂度高、安全漏洞，HN 104pts 83cmt | [🔗](https://www.quandri.io/engineering-blog/mcp-is-dead) |
 | 05-30 | CAPTCHA仍能识别AI：解题行为模式与人类差异明显，HN 66pts 55cmt | [🔗](https://research.roundtable.ai/captchas-detect-ai/) |
 | 05-29 | 程序员拒绝在没有AI的环境下写代码，研究者警告长期依赖可能导致基本功退化 | [🔗](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/) |

@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 05-31 周日 · 下周预告/趋势前瞻
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🌐 | [免费上门打扫卫生，条件是扫描你家所有物品](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) | Shift公司免费打扫换全屋3D点云数据训练机器人，HN 184pts |
+| 2 | 🌐 | [苹果正把Google万亿参数Gemini塞进iPhone](https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/) | 蒸馏Gemini到端侧，新Siri升级，WWDC前释放信号 |
+| 3 | 🌐 | [Meta要做AI吊坠，可穿戴设备卷土重来](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/) | 基于收购的Limitless开发，定位办公场景可穿戴 |
+| 4 | 💰 | [一家公司一个月在Claude上烧了5亿美元](https://techstartups.com/2026/05/28/company-accidentally-spent-500-million-on-claude-ai-in-one-month-after-forgetting-usage-limits/) | 忘设使用上限，AI成本管理粗放的典型案例 |
+| 5 | 💰 | [Nvidia砸1500亿美元要把台湾变成AI震中](https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/) | 先进制造靠亚洲，美国AI本土化遇阻 |
+
 ### 05-30 周六 · 轻量问答/结论向
 
 | # | 分类 | 标题 | 简介 |
@@ -61,6 +71,7 @@
 
 | 日期 | 文件 |
 |:----:|:----:|
+| 05-31 | [→](daily/2026-05-31.md) |
 | 05-30 | [→](daily/2026-05-30.md) |
 | 05-29 | [→](daily/2026-05-29.md) |
 | 05-28 | [→](daily/2026-05-28.md) |
