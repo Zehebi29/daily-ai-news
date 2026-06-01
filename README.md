@@ -7,6 +7,15 @@
 ---
 
 ## 📅 最近更新
+### 06-01 周一 · 模型发布/开源项目周报
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🛠️ | [Mistral办峰会，亮出全栈AI底牌](https://koenvangilst.nl/lab/mistral-ai-now-summit) | 从模型公司转型全栈AI，巴黎40MW数据中心，主权AI+本地部署，HN 463pts |
+| 2 | 🛠️ | [StepFun发布198B多模态大模型Step 3.7 Flash](https://huggingface.co/stepfun-ai/Step-3.7-Flash) | 198B MoE视觉语言模型，SimpleVQA第一79.2分，面向Agent场景 |
+| 3 | 🛠️ | [ARM开源AI安全代码审查工具Metis](https://github.com/arm/metis) | AI驱动代码安全审查，集成CI/CD自动扫描漏洞 |
+| 4 | 🌐 | [IBM和Red Hat砸50亿美元保卫开源安全](https://newsroom.ibm.com/2026-05-28-ibm-and-red-hat-commit-5-billion-to-redefine-the-future-of-open-source-in-the-ai-era) | Project Lightwell，50亿美元+2万工程师，AI自动发现修复开源漏洞 |
+| 5 | 🎨 | [DEMON：本地GPU实时生成音乐的开源引擎](https://daydreamlive.github.io/DEMON/) | 扩散模型实时音乐生成，支持LoRA热切换+LLM Agent控制 |
 
 ### 05-31 周日 · 下周预告/趋势前瞻
 
@@ -71,13 +80,13 @@
 
 | 日期 | 文件 |
 |:----:|:----:|
+| 06-01 | [→](daily/2026-06-01.md) |
 | 05-31 | [→](daily/2026-05-31.md) |
 | 05-30 | [→](daily/2026-05-30.md) |
 | 05-29 | [→](daily/2026-05-29.md) |
 | 05-28 | [→](daily/2026-05-28.md) |
 | 05-27 | [→](daily/2026-05-27.md) |
 | 05-26 | [→](daily/2026-05-26.md) |
-| 05-25 | [→](daily/2026-05-25.md) |
 | 05-24 | [→](daily/2026-05-24.md) |
 | 05-23 | [→](daily/2026-05-23.md) |
 | 05-22 | [→](daily/2026-05-22.md) |
