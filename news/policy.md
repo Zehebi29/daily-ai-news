@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-02 | 佛罗里达州起诉OpenAI和Sam Altman，首次由州政府起诉AI公司CEO个人 | [🔗](https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/) |
 | 05-29 | CNN起诉Perplexity「逐字抄袭」新闻，第三家主流媒体起诉AI搜索 | [🔗](https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit) |
 | 05-28 | 伊利诺伊州通过全美最强AI安全法案，美国首个有实质约束力的州级AI立法 | [🔗](https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/) |
 | 05-22 | 德州总检察长起诉 Meta：WhatsApp 并非真正端到端加密 | [🔗](https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/) |

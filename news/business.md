@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-02 | Alphabet宣布通过增发股票筹集800亿美元投入AI基础设施 | [🔗](https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/) |
+| 06-02 | Anthropic秘密提交IPO申请，AI公司上市潮开启 | [🔗](https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/) |
 | 05-31 | 企业一个月在Claude上烧了5亿美元，忘设使用上限，AI成本管理失控典型案例 | [🔗](https://techstartups.com/2026/05/28/company-accidentally-spent-500-million-on-claude-ai-in-one-month-after-forgetting-usage-limits/) |
 | 05-31 | Nvidia年投$1500亿台湾建AI中心，先进制造靠亚洲，美国AI本土化遇阻 | [🔗](https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/) |
 | 05-29 | Groq再融$6.5亿，从硬件芯片转向AI推理服务平台 | [🔗](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/) |
