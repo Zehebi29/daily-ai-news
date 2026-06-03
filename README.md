@@ -7,6 +7,17 @@
 ---
 
 ## 📅 最近更新
+### 06-03 周三 · Agent/工程/落地坑
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 💰 | [Uber 4个月烧光AI编程预算](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/) | 鼓励用AI四个月烧完全年预算，开始限制员工使用量 |
+| 2 | 🤖 | [微软Build发布Scout自主AI助手](https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/) | 基于OpenClaw的自主Agent，集成M365，HN 87pts |
+| 3 | 🔒 | [Starlette BadHost漏洞让数百万Agent裸奔](https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open) | 一个字符绕过认证，CVE-2026-48710，影响FastAPI/vLLM |
+| 4 | 🛠️ | [OpenAI Codex推出6个白领工作插件](https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/) | 数据分析、销售、投行等6个行业专用插件 |
+| 5 | 💰 | [GitHub Copilot改token计费](https://thenewstack.io/github-copilot-token-billing/) | 告别固定月费，AI Credits积分+$100 Max套餐 |
+
+
 ### 06-02 周二 · AI安全/政策/行业动向
 
 | # | 分类 | 标题 | 简介 |
@@ -33,6 +44,7 @@
 
 | 日期 | 文件 |
 |:----:|:----:|
+| 06-03 | [→](daily/2026-06-03.md) |
 | 06-02 | [→](daily/2026-06-02.md) |
 | 06-01 | [→](daily/2026-06-01.md) |
 | 05-31 | [→](daily/2026-05-31.md) |
