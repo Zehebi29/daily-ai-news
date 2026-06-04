@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-04 | Anthropic工程博客：怎么关住Claude不让它搞破坏，Claude Mythos Preview因风险高被搁置 | [🔗](https://www.anthropic.com/engineering/how-we-contain-claude) |
 | 06-03 | Uber四个月烧光AI编程工具预算，开始限制员工使用Claude Code等工具 | [🔗](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/) |
 | 05-31 | 免费上门打扫换全屋3D数据：Shift公司用清洁服务采集训练数据，HN 184pts | [🔗](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) |
 | 05-31 | 苹果正把Google万亿参数Gemini蒸馏到iPhone，新Siri升级，WWDC前释放信号 | [🔗](https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/) |

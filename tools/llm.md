@@ -2,6 +2,10 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| DeepSeek-V4-Flash (AMD) | Doubleword团队移植到MI300X，vLLM补丁+segfault调试，AMD推理生态仍需追赶 | [🔗](https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/) |
+| Qwen 3.7 Plus | 阿里多模态Agent模型，GUI+CLI统一Agent循环，价格未公布 | [🔗](https://qwen.ai/blog?id=qwen3.7-plus) |
+| MAI-Thinking-1 | 微软首个自研推理模型，Build大会发布，与OpenAI从合作转竞争 | [🔗](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026) |
+| Gemma 4 12B | Google开源12B模型，16GB笔记本可跑，新编码方案+token预测 | [🔗](https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/) |
 | Claude Opus 4.8 | effort三档控制+2.5倍fast mode+dynamic workflows，价格不变 | [🔗](https://www.anthropic.com/news/claude-opus-4-8) |
 | Gemini Omni | Google anything-to-anything多模态模型，跨模态能力惊人 | [🔗](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video) |
 | Cohere Command A+ | 218B MoE模型开源，两块H100即可运行，企业场景优化 | [🔗](https://firethering.com/cohere-command-a-plus-open-source-enterprise-ai-model/) |

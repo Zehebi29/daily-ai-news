@@ -7,6 +7,16 @@
 ---
 
 ## 📅 最近更新
+### 06-04 周四 · 中国开源/行业动态
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🛠️ | [DeepSeek-V4-Flash 在 AMD MI300X 上跑起来了](https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/) | Doubleword团队移植成功，vLLM补丁+segfault调试，AMD软件生态仍需追赶，HN 117pts |
+| 2 | 🛠️ | [Qwen 3.7 Plus 发布：多模态 Agent 智能](https://qwen.ai/blog?id=qwen3.7-plus) | 阿里通义千问，GUI+CLI统一Agent循环，价格和技术细节未公布，HN 41pts |
+| 3 | 🤖 | [微软发布自研推理模型 MAI-Thinking-1](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026) | Build大会发布，Mustafa Suleyman表示要从底层证明自己，跟OpenAI从合作转竞争 |
+| 4 | 🔒 | [Anthropic工程博客：怎么关住Claude](https://www.anthropic.com/engineering/how-we-contain-claude) | Agent权限边界实践，Claude Mythos Preview因风险高被搁置，HN 50pts |
+| 5 | 🛠️ | [Google开源Gemma 4：16GB笔记本就能跑](https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/) | 12B参数新编码方案，性能超同规模模型，开源门槛再降，HN 9pts |
+
 ### 06-03 周三 · Agent/工程/落地坑
 
 | # | 分类 | 标题 | 简介 |
@@ -18,32 +28,13 @@
 | 5 | 💰 | [GitHub Copilot改token计费](https://thenewstack.io/github-copilot-token-billing/) | 告别固定月费，AI Credits积分+$100 Max套餐 |
 
 
-### 06-02 周二 · AI安全/政策/行业动向
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | ⚖️ | [佛罗里达州起诉OpenAI和Sam Altman](https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/) | 首次由州政府起诉AI公司CEO个人，与FSU枪击案有关，HN 185pts |
-| 2 | 💰 | [Alphabet宣布筹集800亿美元砸向AI](https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/) | 增发股票800亿美元投入AI基础设施，需求超供给，HN 118pts |
-| 3 | 💰 | [Anthropic秘密提交IPO申请](https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/) | 从Underdog到企业级AI头号玩家，AI公司IPO潮开启 |
-| 4 | 🔒 | [Meta AI客服被黑，Instagram账号遭劫持](https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked) | 黑客利用Meta AI客服聊天机器人劫持Instagram账号 |
-| 5 | 🔒 | [Red Hat官方NPM包被植入后门](https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/) | 供应链攻击再袭开源生态，Red Hat官方渠道中招 |
-
-### 06-01 周一 · 模型发布/开源项目周报
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🛠️ | [Mistral办峰会，亮出全栈AI底牌](https://koenvangilst.nl/lab/mistral-ai-now-summit) | 从模型公司转型全栈AI，巴黎40MW数据中心，主权AI+本地部署，HN 463pts |
-| 2 | 🛠️ | [StepFun发布198B多模态大模型Step 3.7 Flash](https://huggingface.co/stepfun-ai/Step-3.7-Flash) | 198B MoE视觉语言模型，SimpleVQA第一79.2分，面向Agent场景 |
-| 3 | 🛠️ | [ARM开源AI安全代码审查工具Metis](https://github.com/arm/metis) | AI驱动代码安全审查，集成CI/CD自动扫描漏洞 |
-| 4 | 🌐 | [IBM和Red Hat砸50亿美元保卫开源安全](https://newsroom.ibm.com/2026-05-28-ibm-and-red-hat-commit-5-billion-to-redefine-the-future-of-open-source-in-the-ai-era) | Project Lightwell，50亿美元+2万工程师，AI自动发现修复开源漏洞 |
-| 5 | 🎨 | [DEMON：本地GPU实时生成音乐的开源引擎](https://daydreamlive.github.io/DEMON/) | 扩散模型实时音乐生成，支持LoRA热切换+LLM Agent控制 |
-
 ### 📅 每日存档
 
 每条新闻的完整描述和来源：[daily/](daily/)
 
 | 日期 | 文件 |
 |:----:|:----:|
+| 06-04 | [→](daily/2026-06-04.md) |
 | 06-03 | [→](daily/2026-06-03.md) |
 | 06-02 | [→](daily/2026-06-02.md) |
 | 06-01 | [→](daily/2026-06-01.md) |
@@ -68,6 +59,12 @@
 | 05-12 | [→](daily/2026-05-12.md) |
 | 05-11 | [→](daily/2026-05-11.md) |
 | 05-10 | [→](daily/2026-05-10.md) |
+
+---
+
+🛠️ 工具/项目 → [tools/agents.md](tools/agents.md) · [tools/llm.md](tools/llm.md) · [tools/devtools.md](tools/devtools.md) · [tools/skills.md](tools/skills.md) · [tools/image.md](tools/image.md)
+
+📰 新闻/事件 → [news/security.md](news/security.md) · [news/policy.md](news/policy.md) · [news/business.md](news/business.md) · [news/society.md](news/society.md)
 
 ---
 
