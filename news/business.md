@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-05 | Apple批准Poke成为首个iMessage商业平台AI Agent，开放商业消息生态 | [🔗](https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/) |
 | 06-02 | Alphabet宣布通过增发股票筹集800亿美元投入AI基础设施 | [🔗](https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/) |
 | 06-02 | Anthropic秘密提交IPO申请，AI公司上市潮开启 | [🔗](https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/) |
 | 05-31 | 企业一个月在Claude上烧了5亿美元，忘设使用上限，AI成本管理失控典型案例 | [🔗](https://techstartups.com/2026/05/28/company-accidentally-spent-500-million-on-claude-ai-in-one-month-after-forgetting-usage-limits/) |

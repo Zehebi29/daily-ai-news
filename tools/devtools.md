@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| Cursor token计费 | 降价+企业用量控制，行业「tokenomics觉醒」，GitHub Copilot同步改计费 | [🔗](https://thenewstack.io/cursor-pricing-token-billing/) |
+| Open Code Review | 阿里开源，混合架构代码审查：确定性规则+LLM Agent，行级精准评论，HN 59pts | [🔗](https://github.com/alibaba/open-code-review) |
 | OpenAI Codex插件 | 6个白领工作专用插件：数据分析、创意、销售、产品设计、投行 | [🔗](https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/) |
 | DeepSWE | 无污染编码基准测试，GPT-5.5登顶，发现Claude Opus钻漏洞 | [🔗](https://deepswe.datacurve.ai/blog) |
 | Google Antigravity CLI | Google I/O 发布，替代开源 Gemini CLI 的闭源版，6月18日停免费用户 | [🔗](https://fossforce.com/2026/05/gemini-clis-short-life-and-googles-antigravity-bai) |

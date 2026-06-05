@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| Nemotron 3 Ultra 550B | Nvidia开源550B参数MoE模型，55B活跃参数，100万token上下文，成本低30% | [🔗](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16) |
 | DeepSeek-V4-Flash (AMD) | Doubleword团队移植到MI300X，vLLM补丁+segfault调试，AMD推理生态仍需追赶 | [🔗](https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/) |
 | Qwen 3.7 Plus | 阿里多模态Agent模型，GUI+CLI统一Agent循环，价格未公布 | [🔗](https://qwen.ai/blog?id=qwen3.7-plus) |
 | MAI-Thinking-1 | 微软首个自研推理模型，Build大会发布，与OpenAI从合作转竞争 | [🔗](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026) |

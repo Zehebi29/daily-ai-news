@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-05 | Linux基金会成立Tokenomics Foundation，Google/微软/IBM等推动AI token成本标准化 | [🔗](https://www.linuxfoundation.org/press/linux-foundation-announces-the-intent-to-launch-the-tokenomics-foundation-to-establish-open-standards-for-ai-cost-management) |
 | 06-04 | Anthropic工程博客：怎么关住Claude不让它搞破坏，Claude Mythos Preview因风险高被搁置 | [🔗](https://www.anthropic.com/engineering/how-we-contain-claude) |
 | 06-03 | Uber四个月烧光AI编程工具预算，开始限制员工使用Claude Code等工具 | [🔗](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/) |
 | 05-31 | 免费上门打扫换全屋3D数据：Shift公司用清洁服务采集训练数据，HN 184pts | [🔗](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) |
