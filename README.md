@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 06-06 周六 · 轻量问答/结论向
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 💰 | [Google每月付SpaceX $9.2亿租xAI算力](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html) | 32个月近$300亿，HN热议是否循环融资美化IPO，71pts/94c |
+| 2 | 🏛️ | [韩国要求所有论坛用AI扫描每张图片](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-to) | 指定供应商+一个月deadline，比作SEED事件，229pts/136c |
+| 3 | 🌐 | [微软内部文件：要让用户对Scout AI上瘾](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/) | 404 Media泄露，措辞直接用「addicted」，67pts |
+| 4 | 🏛️ | [纽约州通过数据中心一年建设禁令](https://www.theverge.com/policy/944041/new-york-data-center-moratorium) | 暂停新建数据中心一年，等州长签字 |
+| 5 | 🌐 | [Transformer本身就是简洁的：新理论证明](https://openreview.net/pdf?id=Yxz92UuPLQ) | 论文证明Transformer内在简洁性，HN 99pts |
+
 ### 06-05 周五 · 工具实测推荐
 
 | # | 分类 | 标题 | 简介 |
@@ -18,22 +28,13 @@
 | 4 | 📰 | [Apple批准首个AI Agent上Messages for Business](https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/) | Poke成为首个获批的iMessage商业平台AI Agent |
 | 5 | 📰 | [Linux基金会成立Tokenomics Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-the-intent-to-launch-the-tokenomics-foundation-to-establish-open-standards-for-ai-cost-management) | Google/微软/IBM等推动AI token成本管理开放标准 |
 
-### 06-04 周四 · 中国开源/行业动态
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🛠️ | [DeepSeek-V4-Flash 在 AMD MI300X 上跑起来了](https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/) | Doubleword团队移植成功，vLLM补丁+segfault调试，AMD软件生态仍需追赶，HN 117pts |
-| 2 | 🛠️ | [Qwen 3.7 Plus 发布：多模态 Agent 智能](https://qwen.ai/blog?id=qwen3.7-plus) | 阿里通义千问，GUI+CLI统一Agent循环，价格和技术细节未公布，HN 41pts |
-| 3 | 🤖 | [微软发布自研推理模型 MAI-Thinking-1](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026) | Build大会发布，Mustafa Suleyman表示要从底层证明自己，跟OpenAI从合作转竞争 |
-| 4 | 🔒 | [Anthropic工程博客：怎么关住Claude](https://www.anthropic.com/engineering/how-we-contain-claude) | Agent权限边界实践，Claude Mythos Preview因风险高被搁置，HN 50pts |
-| 5 | 🛠️ | [Google开源Gemma 4：16GB笔记本就能跑](https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/) | 12B参数新编码方案，性能超同规模模型，开源门槛再降，HN 9pts |
-
 ### 📅 每日存档
 
 每条新闻的完整描述和来源：[daily/](daily/)
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-06](daily/2026-06-06.md) | 周六 | 轻量问答/结论向 |
 | [06-05](daily/2026-06-05.md) | 周五 | 工具实测推荐 |
 | [06-04](daily/2026-06-04.md) | 周四 | 中国开源/行业动态 |
 | [06-03](daily/2026-06-03.md) | 周三 | Agent/工程/落地坑 |

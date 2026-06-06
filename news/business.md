@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 2026-06-06 | Google每月付SpaceX $9.2亿租xAI算力，32个月近$300亿，HN热议循环融资 | [🔗](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html) |
 | 06-05 | Apple批准Poke成为首个iMessage商业平台AI Agent，开放商业消息生态 | [🔗](https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/) |
 | 06-02 | Alphabet宣布通过增发股票筹集800亿美元投入AI基础设施 | [🔗](https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/) |
 | 06-02 | Anthropic秘密提交IPO申请，AI公司上市潮开启 | [🔗](https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/) |
