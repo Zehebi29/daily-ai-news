@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 06-07 周日 · 下周预告/趋势前瞻
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🌐 | [WWDC 2026明天开幕：Siri终于要变聪明了](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/) | Siri大改版+Apple Intelligence更新，苹果在手机AI赛道追赶 |
+| 2 | 💰 | [特朗普政府考虑入股OpenAI](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/) | 特朗普称讨论「让美国人民从AI成功中获益」的交易 |
+| 3 | 🔒 | [OpenAI推出Lockdown Mode防Prompt注入](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/) | 防止敏感数据通过Prompt注入泄露，HN 85pts热议 |
+| 4 | 💰 | [Meta新模型一再延期：内部员工吐槽太烂](https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c) | WSJ报道+HN内部人士称质量不行不敢发，62pts |
+| 5 | 🌐 | [AI token账单来了：行业从烧钱转向控成本](https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/) | 话题从「疯狂跑」变成「怎么控制成本」 |
+
 ### 06-06 周六 · 轻量问答/结论向
 
 | # | 分类 | 标题 | 简介 |
@@ -18,22 +28,13 @@
 | 4 | 🏛️ | [纽约州通过数据中心一年建设禁令](https://www.theverge.com/policy/944041/new-york-data-center-moratorium) | 暂停新建数据中心一年，等州长签字 |
 | 5 | 🌐 | [Transformer本身就是简洁的：新理论证明](https://openreview.net/pdf?id=Yxz92UuPLQ) | 论文证明Transformer内在简洁性，HN 99pts |
 
-### 06-05 周五 · 工具实测推荐
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🛠️ | [阿里巴巴开源Open Code Review](https://github.com/alibaba/open-code-review) | 混合架构代码审查：确定性规则+LLM Agent，行级精准评论，HN 59pts |
-| 2 | 🧠 | [Nvidia开源Nemotron 3 Ultra 550B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16) | 550B参数MoE开源，55B活跃参数，100万token上下文，成本低30% |
-| 3 | 🛠️ | [Cursor降价并改token计费](https://thenewstack.io/cursor-pricing-token-billing/) | AI编程工具标杆改定价+企业用量控制，行业「tokenomics觉醒」 |
-| 4 | 📰 | [Apple批准首个AI Agent上Messages for Business](https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/) | Poke成为首个获批的iMessage商业平台AI Agent |
-| 5 | 📰 | [Linux基金会成立Tokenomics Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-the-intent-to-launch-the-tokenomics-foundation-to-establish-open-standards-for-ai-cost-management) | Google/微软/IBM等推动AI token成本管理开放标准 |
-
 ### 📅 每日存档
 
 每条新闻的完整描述和来源：[daily/](daily/)
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-07](daily/2026-06-07.md) | 周日 | 下周预告/趋势前瞻 |
 | [06-06](daily/2026-06-06.md) | 周六 | 轻量问答/结论向 |
 | [06-05](daily/2026-06-05.md) | 周五 | 工具实测推荐 |
 | [06-04](daily/2026-06-04.md) | 周四 | 中国开源/行业动态 |

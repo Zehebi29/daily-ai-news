@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-07 | WWDC 2026明天开幕：Siri大改版+Apple Intelligence更新 | [🔗](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/) |
+| 06-07 | AI token账单来了：行业从「疯狂烧钱」转向「控制成本」 | [🔗](https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/) |
 | 2026-06-06 | 微软内部文件泄露：计划让用户对Scout AI助手「上瘾」 | [🔗](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/) |
 | 2026-06-06 | 论文证明Transformer架构内在简洁性，HN 99pts | [🔗](https://openreview.net/pdf?id=Yxz92UuPLQ) |
 | 06-05 | Linux基金会成立Tokenomics Foundation，Google/微软/IBM等推动AI token成本标准化 | [🔗](https://www.linuxfoundation.org/press/linux-foundation-announces-the-intent-to-launch-the-tokenomics-foundation-to-establish-open-standards-for-ai-cost-management) |
