@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-08 | [AI数据中心年用水2640亿加仑创新高](https://www.barchart.com/story/news/2339834/ai-data-centers-water-consumption-breaks-264-billion-gallons-in-2025-as-devastating-drought-hits-nearly-63-of-us) | 2025年破纪录，美国63%地区干旱，AI发展与水资源矛盾尖锐 | [🔗](https://www.barchart.com/story/news/2339834/ai-data-centers-water-consumption-breaks-264-billion-gallons-in-2025-as-devastating-drought-hits-nearly-63-of-us) |
 | 06-07 | WWDC 2026明天开幕：Siri大改版+Apple Intelligence更新 | [🔗](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/) |
 | 06-07 | AI token账单来了：行业从「疯狂烧钱」转向「控制成本」 | [🔗](https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/) |
 | 2026-06-06 | 微软内部文件泄露：计划让用户对Scout AI助手「上瘾」 | [🔗](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/) |

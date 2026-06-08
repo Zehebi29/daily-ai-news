@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-08 | [华为1000块昇腾910C训练DeepSeek 1.6T模型](https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips) | 深圳政府支持项目，国产芯片集群超大模型训练里程碑 | [🔗](https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips) |
 | 06-07 | 特朗普政府考虑入股OpenAI：讨论「让美国人民从AI成功中获益」的交易 | [🔗](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/) |
 | 06-07 | Meta新模型一再延期，WSJ报道+内部人士吐槽质量不佳 | [🔗](https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c) |
 | 2026-06-06 | Google每月付SpaceX $9.2亿租xAI算力，32个月近$300亿，HN热议循环融资 | [🔗](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html) |

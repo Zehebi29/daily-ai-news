@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 06-08 周一 · 模型发布/开源项目周报
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🧠 | [DeepSeek V4 Pro精度超越GPT-5.5 Pro](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision) | 4项任务38:33胜出，成本仅为GPT的1/20，HN 92pts |
+| 2 | 🎨 | [Ideogram 4.0开源：93亿参数扩散模型](https://ideogram.ai/blog/ideogram-4.0/) | 首个开放权重基础模型，单流DiT从零训练 |
+| 3 | 💰 | [华为1000块昇腾910C训练DeepSeek 1.6T模型](https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips) | 深圳政府支持，国产芯片集群超大模型训练验证 |
+| 4 | 🌐 | [AI数据中心年用水2640亿加仑创新高](https://www.barchart.com/story/news/2339834/ai-data-centers-water-consumption-breaks-264-billion-gallons-in-2025-as-devastating-drought-hits-nearly-63-of-us) | 2025年破纪录，美国63%地区干旱，HN 21pts |
+| 5 | 🛠️ | [Nightwatch：开源AI SRE只读助手](https://github.com/ninoxAI/nightwatch) | 告警聚类+根因分析+修复建议，只读不写安全第一 |
+
 ### 06-07 周日 · 下周预告/趋势前瞻
 
 | # | 分类 | 标题 | 简介 |
@@ -18,22 +28,13 @@
 | 4 | 💰 | [Meta新模型一再延期：内部员工吐槽太烂](https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c) | WSJ报道+HN内部人士称质量不行不敢发，62pts |
 | 5 | 🌐 | [AI token账单来了：行业从烧钱转向控成本](https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/) | 话题从「疯狂跑」变成「怎么控制成本」 |
 
-### 06-06 周六 · 轻量问答/结论向
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 💰 | [Google每月付SpaceX $9.2亿租xAI算力](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html) | 32个月近$300亿，HN热议是否循环融资美化IPO，71pts/94c |
-| 2 | 🏛️ | [韩国要求所有论坛用AI扫描每张图片](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-to) | 指定供应商+一个月deadline，比作SEED事件，229pts/136c |
-| 3 | 🌐 | [微软内部文件：要让用户对Scout AI上瘾](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/) | 404 Media泄露，措辞直接用「addicted」，67pts |
-| 4 | 🏛️ | [纽约州通过数据中心一年建设禁令](https://www.theverge.com/policy/944041/new-york-data-center-moratorium) | 暂停新建数据中心一年，等州长签字 |
-| 5 | 🌐 | [Transformer本身就是简洁的：新理论证明](https://openreview.net/pdf?id=Yxz92UuPLQ) | 论文证明Transformer内在简洁性，HN 99pts |
-
 ### 📅 每日存档
 
 每条新闻的完整描述和来源：[daily/](daily/)
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-08](daily/2026-06-08.md) | 周一 | 模型发布/开源项目周报 |
 | [06-07](daily/2026-06-07.md) | 周日 | 下周预告/趋势前瞻 |
 | [06-06](daily/2026-06-06.md) | 周六 | 轻量问答/结论向 |
 | [06-05](daily/2026-06-05.md) | 周五 | 工具实测推荐 |

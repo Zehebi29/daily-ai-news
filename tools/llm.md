@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| DeepSeek V4 Pro | 精度超越GPT-5.5 Pro，4项任务38:33胜出，成本仅$1 vs $22 | [🔗](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision) |
 | Nemotron 3 Ultra 550B | Nvidia开源550B参数MoE模型，55B活跃参数，100万token上下文，成本低30% | [🔗](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16) |
 | DeepSeek-V4-Flash (AMD) | Doubleword团队移植到MI300X，vLLM补丁+segfault调试，AMD推理生态仍需追赶 | [🔗](https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/) |
 | Qwen 3.7 Plus | 阿里多模态Agent模型，GUI+CLI统一Agent循环，价格未公布 | [🔗](https://qwen.ai/blog?id=qwen3.7-plus) |
