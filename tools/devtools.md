@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| FrontierCode | Cognition AI发布，重新定义AI编程基准：代码质量>正确性 | [🔗](https://cognition.ai/blog/frontier-code) |
 | Nightwatch | 开源只读AI SRE，告警聚类+根因分析+修复建议，不自动执行 | [🔗](https://github.com/ninoxAI/nightwatch) |
 | Cursor token计费 | 降价+企业用量控制，行业「tokenomics觉醒」，GitHub Copilot同步改计费 | [🔗](https://thenewstack.io/cursor-pricing-token-billing/) |
 | Open Code Review | 阿里开源，混合架构代码审查：确定性规则+LLM Agent，行级精准评论，HN 59pts | [🔗](https://github.com/alibaba/open-code-review) |

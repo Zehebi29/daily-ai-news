@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 06-09 周二 · AI安全/政策/行业动向
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 💰 | [OpenAI秘密递交IPO招股书](https://openai.com/index/openai-submits-confidential-s-1/) | 继Anthropic后又一顶级AI公司准备上市，HN 307pts |
+| 2 | 🧠 | [苹果官宣新AI架构全面转向Google Gemini](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/) | Apple Intelligence底层换用Gemini模型，HN 381pts |
+| 3 | 🔒 | [73个恶意包专攻AI Agent：一分析就偷凭证](https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-pac) | 供应链攻击瞄准AI工具链，Claude Code/Cursor中招 |
+| 4 | 🌐 | [Meta偷偷上线AI垃圾信息流被曝光](https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait) | AI生成低质内容刷时长，被追问后悄悄撤掉 |
+| 5 | 🛠️ | [AI编程进入新阶段：能写对不够，还得写好](https://cognition.ai/blog/frontier-code) | Cognition AI发布FrontierCode，重新定义编程基准 |
+
 ### 06-08 周一 · 模型发布/开源项目周报
 
 | # | 分类 | 标题 | 简介 |
@@ -34,6 +44,7 @@
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-09](daily/2026-06-09.md) | 周二 | AI安全/政策/行业动向 |
 | [06-08](daily/2026-06-08.md) | 周一 | 模型发布/开源项目周报 |
 | [06-07](daily/2026-06-07.md) | 周日 | 下周预告/趋势前瞻 |
 | [06-06](daily/2026-06-06.md) | 周六 | 轻量问答/结论向 |

@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-09 | 73个恶意包专攻AI Agent：供应链攻击瞄准AI工具链，Claude Code/Cursor中招 | [🔗](https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-pac) |
 | 06-07 | OpenAI推出Lockdown Mode防Prompt注入泄露敏感数据 | [🔗](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/) |
 | 06-02 | Meta AI客服被黑客利用劫持Instagram账号，已修复 | [🔗](https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked) |
 | 06-02 | Red Hat官方NPM渠道几十个软件包被植入后门代码 | [🔗](https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/) |
