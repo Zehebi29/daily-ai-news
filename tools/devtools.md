@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| Command Center | AI编码质量环境，多Agent并行+代码审查，防止AI slop混入代码库 | [🔗](https://www.cc.dev/) |
+| Argus Red | 微调安全模型做渗透测试，CLI集成代码审计和攻击模拟 | [🔗](https://www.argusred.com/cli) |
 | FrontierCode | Cognition AI发布，重新定义AI编程基准：代码质量>正确性 | [🔗](https://cognition.ai/blog/frontier-code) |
 | Nightwatch | 开源只读AI SRE，告警聚类+根因分析+修复建议，不自动执行 | [🔗](https://github.com/ninoxAI/nightwatch) |
 | Cursor token计费 | 降价+企业用量控制，行业「tokenomics觉醒」，GitHub Copilot同步改计费 | [🔗](https://thenewstack.io/cursor-pricing-token-billing/) |

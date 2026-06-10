@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| Intuned | YC S22，代码优先浏览器自动化，AI生成确定性生产代码 | [🔗](https://intunedhq.com) |
+| Rayline | Claude Code子Agent智能路由，按复杂度分配模型降低成本 | [🔗](https://rayline.ai/) |
+| Lore | Coding Agent跨项目记忆管理，本地优先上下文共享 | [🔗](https://withlore.ai/) |
 | 微软Scout | 基于OpenClaw的自主AI助手，集成Microsoft 365，主动规划执行任务 | [🔗](https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/) |
 | Sesame AI | Oculus创始人对话式AI应用，主打自然交流节奏，iOS首发 | [🔗](https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/) |
 | DeepSeek Reasonix | DeepSeek终端原生AI编码Agent，高缓存命中率低成本 | [🔗](https://esengine.github.io/DeepSeek-Reasonix/) |

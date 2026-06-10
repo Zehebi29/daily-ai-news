@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 06-10 周三 · Agent/工程/落地坑
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🛠️ | [Intuned：YC孵化的浏览器自动化即代码平台](https://intunedhq.com) | 代码优先的浏览器自动化，AI生成确定性生产代码，HN 115pts |
+| 2 | 🛠️ | [Command Center：为代码质量而生的AI编码环境](https://www.cc.dev/) | 多Agent并行+代码审查，防止AI slop混入代码库，HN 60pts |
+| 3 | 💰 | [Rayline：把Claude Code子Agent路由到更便宜的模型](https://rayline.ai/) | 按任务复杂度路由子Agent，降低Token成本，HN 11pts |
+| 4 | 🔒 | [Argus Red：训练了一个会做渗透测试的安全模型](https://www.argusred.com/cli) | 微调模型做渗透测试，突破AI安全拒绝限制，HN 9pts |
+| 5 | 🛠️ | [Lore：给Coding Agent做跨项目记忆管理](https://withlore.ai/) | 本地优先记忆层，跨工具项目共享Agent上下文，HN 6pts |
+
 ### 06-09 周二 · AI安全/政策/行业动向
 
 | # | 分类 | 标题 | 简介 |
@@ -44,6 +54,7 @@
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-10](daily/2026-06-10.md) | 周三 | Agent/工程/落地坑 |
 | [06-09](daily/2026-06-09.md) | 周二 | AI安全/政策/行业动向 |
 | [06-08](daily/2026-06-08.md) | 周一 | 模型发布/开源项目周报 |
 | [06-07](daily/2026-06-07.md) | 周日 | 下周预告/趋势前瞻 |
