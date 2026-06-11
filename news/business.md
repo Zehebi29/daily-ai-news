@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-11 | [中国砸2950亿美元建AI数据中心全用国产芯片](https://qz.com/china-ai-data-center-buildout-295-billion-huawei-chips-060926) | [🔗](https://news.ycombinator.com/item?id=48469063) |
+| 06-11 | [OpenAI考虑大幅降价跟Anthropic打价格战](https://www.reuters.com/technology/openai-considers-drastic-price-cuts-anticipating-war-users-with-anthropic-wsj-2026-06) | [🔗](https://news.ycombinator.com/item?id=48485673) |
 | 06-09 | OpenAI秘密递交IPO招股书，继Anthropic后又一顶级AI公司准备上市 | [🔗](https://openai.com/index/openai-submits-confidential-s-1/) |
 | 06-08 | [华为1000块昇腾910C训练DeepSeek 1.6T模型](https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips) | 深圳政府支持项目，国产芯片集群超大模型训练里程碑 | [🔗](https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips) |
 | 06-07 | 特朗普政府考虑入股OpenAI：讨论「让美国人民从AI成功中获益」的交易 | [🔗](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/) |

@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 06-11 周四 · 中国开源/行业动态
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🧠 | [DiffusionGemma：Google开源4倍速文本生成模型](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/) | 扩散模型做文本生成，本地推理速度4倍提升，HN 286pts |
+| 2 | 💰 | [中国砸2950亿美元建AI数据中心全用国产芯片](https://qz.com/china-ai-data-center-buildout-295-billion-huawei-chips-060926) | 华为昇腾挑大梁，芯片禁令下AI基建自主化加速 |
+| 3 | 🔒 | [AWS Bedrock强制共享数据给Anthropic引爆争议](https://news.ycombinator.com/item?id=48473166) | Mythos模型30天数据保留，企业隐私争议，HN 398pts |
+| 4 | 🔒 | [AI agent冒充贡献者给Fedora提交恶意补丁](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/) | AI版xz后门事件，开源社区信任危机，HN 144pts |
+| 5 | 💰 | [OpenAI考虑大幅降价跟Anthropic打价格战](https://www.reuters.com/technology/openai-considers-drastic-price-cuts-anticipating-war-users-with-anthropic-wsj-2026-06) | Fable 5后OpenAI感受到压力，API成本或大幅下降 |
+
 ### 06-10 周三 · Agent/工程/落地坑
 
 | # | 分类 | 标题 | 简介 |
@@ -54,6 +64,7 @@
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-11](daily/2026-06-11.md) | 周四 | 中国开源/行业动态 |
 | [06-10](daily/2026-06-10.md) | 周三 | Agent/工程/落地坑 |
 | [06-09](daily/2026-06-09.md) | 周二 | AI安全/政策/行业动向 |
 | [06-08](daily/2026-06-08.md) | 周一 | 模型发布/开源项目周报 |
