@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| Extend UI | 开源React文档查看器组件库，PDF/Word/Excel/CSV+标注+签名，HN 241pts | [🔗](https://www.extend.ai/ui) |
+| Deezer AI Music Detector | 跨平台扫描识别AI生成歌曲，保护独立音乐人版税 | [🔗](https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/) |
+| Magenta Real-Time iPhone | Google音乐生成模型移植iPhone，纯Neural Engine推理，实时不发烫 | [🔗](https://github.com/mattmireles/magenta-realtime-2-iphone) |
 | Command Center | AI编码质量环境，多Agent并行+代码审查，防止AI slop混入代码库 | [🔗](https://www.cc.dev/) |
 | Argus Red | 微调安全模型做渗透测试，CLI集成代码审计和攻击模拟 | [🔗](https://www.argusred.com/cli) |
 | FrontierCode | Cognition AI发布，重新定义AI编程基准：代码质量>正确性 | [🔗](https://cognition.ai/blog/frontier-code) |

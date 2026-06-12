@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 06-12 | [Claude Fable 5：隐形护栏引爆争议](https://www.anthropic.com/news/claude-fable-5-mythos-5) | [🔗](https://news.ycombinator.com/item?id=48463808) |
+| 06-12 | [Fable 5编程实测：200任务排中游](https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype) | [🔗](https://news.ycombinator.com/item?id=48492210) |
 | 06-11 | [DiffusionGemma：Google开源4倍速文本生成模型](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/) | [🔗](https://news.ycombinator.com/item?id=48478471) |
 | Apple Gemini架构 | Apple Intelligence底层换用Google Gemini模型，381pts HN热议 | [🔗](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/) |
 | DeepSeek V4 Pro | 精度超越GPT-5.5 Pro，4项任务38:33胜出，成本仅$1 vs $22 | [🔗](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision) |

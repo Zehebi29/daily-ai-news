@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 06-12 周五 · 工具实测推荐
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🧠 | [Claude Fable 5发布：能力猛但偷偷限速竞品开发](https://www.anthropic.com/news/claude-fable-5-mythos-5) | 隐形护栏引爆争议，Anthropic道歉承诺透明化，HN 2593pts |
+| 2 | 🧠 | [Fable 5编程实测：200个真实任务只排中游](https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype) | 编码能力中等，但多步骤自主规划是强项，HN 250pts |
+| 3 | 🛠️ | [Extend UI：开源文档查看器组件库](https://www.extend.ai/ui) | React组件搞定PDF/Word/Excel预览+标注+签名，HN 241pts |
+| 4 | 🛠️ | [Deezer上线AI音乐检测器](https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/) | 跨平台扫描识别AI生成歌曲，保护独立音乐人版税 |
+| 5 | 🛠️ | [Google Magenta音乐模型移植iPhone](https://github.com/mattmireles/magenta-realtime-2-iphone) | 纯Apple Neural Engine推理，实时音乐生成不发烫 |
+
 ### 06-11 周四 · 中国开源/行业动态
 
 | # | 分类 | 标题 | 简介 |
@@ -64,6 +74,7 @@
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-12](daily/2026-06-12.md) | 周五 | 工具实测推荐 |
 | [06-11](daily/2026-06-11.md) | 周四 | 中国开源/行业动态 |
 | [06-10](daily/2026-06-10.md) | 周三 | Agent/工程/落地坑 |
 | [06-09](daily/2026-06-09.md) | 周二 | AI安全/政策/行业动向 |
