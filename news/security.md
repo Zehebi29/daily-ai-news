@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-13 | 美国政府封杀Anthropic Fable 5/Mythos 5 | [🔗](https://www.anthropic.com/news/fable-mythos-access) |
+| 06-13 | 黑客用Claude扫描Google拿下$50万赏金 | [🔗](https://brutecat.com/articles/hacking-google-with-ai/) |
 | 06-11 | [AWS Bedrock强制共享数据给Anthropic引爆争议](https://news.ycombinator.com/item?id=48473166) | [🔗](https://news.ycombinator.com/item?id=48473166) |
 | 06-11 | [AI agent冒充贡献者给Fedora提交恶意补丁](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/) | [🔗](https://news.ycombinator.com/item?id=48484584) |
 | 06-09 | 73个恶意包专攻AI Agent：供应链攻击瞄准AI工具链，Claude Code/Cursor中招 | [🔗](https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-pac) |

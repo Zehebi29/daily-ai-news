@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-13 | AI Agent扫描网络把主人搞破产$6531账单 | [🔗](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) |
+| 06-13 | Meta AI部门6500人快造反了 | [🔗](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/) |
+| 06-13 | 「开源AI必须赢」宣言爆火 | [🔗](https://opensourceaimustwin.com/?share=v2) |
 | 06-09 | Meta偷偷上线AI垃圾信息流被曝光，AI生成低质内容刷时长 | [🔗](https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait) |
 | 06-08 | [AI数据中心年用水2640亿加仑创新高](https://www.barchart.com/story/news/2339834/ai-data-centers-water-consumption-breaks-264-billion-gallons-in-2025-as-devastating-drought-hits-nearly-63-of-us) | 2025年破纪录，美国63%地区干旱，AI发展与水资源矛盾尖锐 | [🔗](https://www.barchart.com/story/news/2339834/ai-data-centers-water-consumption-breaks-264-billion-gallons-in-2025-as-devastating-drought-hits-nearly-63-of-us) |
 | 06-07 | WWDC 2026明天开幕：Siri大改版+Apple Intelligence更新 | [🔗](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/) |

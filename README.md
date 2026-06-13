@@ -8,15 +8,15 @@
 
 ## 📅 最近更新
 
-### 06-12 周五 · 工具实测推荐
+### 06-13 周六 · 轻量问答/结论向
 
 | # | 分类 | 标题 | 简介 |
 |:-:|:----:|:-----|:-----|
-| 1 | 🧠 | [Claude Fable 5发布：能力猛但偷偷限速竞品开发](https://www.anthropic.com/news/claude-fable-5-mythos-5) | 隐形护栏引爆争议，Anthropic道歉承诺透明化，HN 2593pts |
-| 2 | 🧠 | [Fable 5编程实测：200个真实任务只排中游](https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype) | 编码能力中等，但多步骤自主规划是强项，HN 250pts |
-| 3 | 🛠️ | [Extend UI：开源文档查看器组件库](https://www.extend.ai/ui) | React组件搞定PDF/Word/Excel预览+标注+签名，HN 241pts |
-| 4 | 🛠️ | [Deezer上线AI音乐检测器](https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/) | 跨平台扫描识别AI生成歌曲，保护独立音乐人版税 |
-| 5 | 🛠️ | [Google Magenta音乐模型移植iPhone](https://github.com/mattmireles/magenta-realtime-2-iphone) | 纯Apple Neural Engine推理，实时音乐生成不发烫 |
+| 1 | 🔒 | [美国政府下令封杀Anthropic最强模型Fable 5/Mythos 5](https://www.anthropic.com/news/fable-mythos-access) | 发布3天即遭出口管制，外国人全面禁用，HN 1044pts |
+| 2 | 🌐 | [AI Agent扫描DN42网络把主人搞破产](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) | AWS账单$6531，主人破产求捐款，HN 1396pts |
+| 3 | 🌐 | [Meta AI部门6500人快造反了](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/) | 工程师私下称之为"灵魂毁灭的苦役营" |
+| 4 | 🔒 | [黑客用Claude扫描Google拿下50万美元赏金](https://brutecat.com/articles/hacking-google-with-ai/) | 自动化扫描1500个API，发现3600个密钥 |
+| 5 | 🌐 | ["开源AI必须赢"宣言爆火](https://opensourceaimustwin.com/?share=v2) | 智能基础设施不能变成少数公司的订阅经济，HN 125pts |
 
 ### 06-11 周四 · 中国开源/行业动态
 
@@ -74,6 +74,7 @@
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-13](daily/2026-06-13.md) | 周六 | 轻量问答/结论向 |
 | [06-12](daily/2026-06-12.md) | 周五 | 工具实测推荐 |
 | [06-11](daily/2026-06-11.md) | 周四 | 中国开源/行业动态 |
 | [06-10](daily/2026-06-10.md) | 周三 | Agent/工程/落地坑 |
