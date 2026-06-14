@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| [06-14](../daily/2026-06-14.md) | Google起诉中国AI诈骗组织 | [🔗](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/) |
 | 06-13 | 美国政府封杀Anthropic Fable 5/Mythos 5 | [🔗](https://www.anthropic.com/news/fable-mythos-access) |
 | 06-13 | 黑客用Claude扫描Google拿下$50万赏金 | [🔗](https://brutecat.com/articles/hacking-google-with-ai/) |
 | 06-11 | [AWS Bedrock强制共享数据给Anthropic引爆争议](https://news.ycombinator.com/item?id=48473166) | [🔗](https://news.ycombinator.com/item?id=48473166) |

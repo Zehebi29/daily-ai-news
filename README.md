@@ -8,17 +8,17 @@
 
 ## 📅 最近更新
 
-### 06-13 周六 · 轻量问答/结论向
+### 06-14 周日 · 下周预告/趋势前瞻
 
 | # | 分类 | 标题 | 简介 |
 |:-:|:----:|:-----|:-----|
-| 1 | 🔒 | [美国政府下令封杀Anthropic最强模型Fable 5/Mythos 5](https://www.anthropic.com/news/fable-mythos-access) | 发布3天即遭出口管制，外国人全面禁用，HN 1044pts |
-| 2 | 🌐 | [AI Agent扫描DN42网络把主人搞破产](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) | AWS账单$6531，主人破产求捐款，HN 1396pts |
-| 3 | 🌐 | [Meta AI部门6500人快造反了](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/) | 工程师私下称之为"灵魂毁灭的苦役营" |
-| 4 | 🔒 | [黑客用Claude扫描Google拿下50万美元赏金](https://brutecat.com/articles/hacking-google-with-ai/) | 自动化扫描1500个API，发现3600个密钥 |
-| 5 | 🌐 | ["开源AI必须赢"宣言爆火](https://opensourceaimustwin.com/?share=v2) | 智能基础设施不能变成少数公司的订阅经济，HN 125pts |
+| 1 | 🌐 | [KPMG发布AI报告结果满篇AI幻觉](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/) | 用AI写报告夸AI，报告本身就是AI幻觉的活教材 |
+| 2 | 🏛️ | [美国多州总检察长联合调查OpenAI](https://www.reuters.com/business/openai-under-investigation-by-coalition-state-attorneys-general-wsj-reports-2026-06-12/) | 州级执法机构首次联合调查，监管压力升级 |
+| 3 | 💰 | [Meta被迫拆除$20亿Manus收购案](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) | 北京要求撤销，AI跨国交易受地缘政治影响 |
+| 4 | 🔒 | [Google起诉中国AI诈骗组织](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/) | AI生成诈骗短信两周250万条，受害者数十万 |
+| 5 | 💰 | [Mistral传融资€30亿估值€200亿](https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20b-valuation/) | 欧洲AI公司有史以来最大融资传闻 |
 
-### 06-11 周四 · 中国开源/行业动态
+### 06-13 周六 · 轻量问答/结论向
 
 | # | 分类 | 标题 | 简介 |
 |:-:|:----:|:-----|:-----|
@@ -74,6 +74,7 @@
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-14](daily/2026-06-14.md) | 周日 | 下周预告/趋势前瞻 |
 | [06-13](daily/2026-06-13.md) | 周六 | 轻量问答/结论向 |
 | [06-12](daily/2026-06-12.md) | 周五 | 工具实测推荐 |
 | [06-11](daily/2026-06-11.md) | 周四 | 中国开源/行业动态 |

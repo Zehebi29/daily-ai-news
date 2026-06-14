@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| [06-14](../daily/2026-06-14.md) | Mistral传融资€30亿估值€200亿 | [🔗](https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20b-valuation/) |
+| [06-14](../daily/2026-06-14.md) | Meta被迫拆除$20亿Manus收购案 | [🔗](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) |
 | 06-11 | [中国砸2950亿美元建AI数据中心全用国产芯片](https://qz.com/china-ai-data-center-buildout-295-billion-huawei-chips-060926) | [🔗](https://news.ycombinator.com/item?id=48469063) |
 | 06-11 | [OpenAI考虑大幅降价跟Anthropic打价格战](https://www.reuters.com/technology/openai-considers-drastic-price-cuts-anticipating-war-users-with-anthropic-wsj-2026-06) | [🔗](https://news.ycombinator.com/item?id=48485673) |
 | 06-09 | OpenAI秘密递交IPO招股书，继Anthropic后又一顶级AI公司准备上市 | [🔗](https://openai.com/index/openai-submits-confidential-s-1/) |

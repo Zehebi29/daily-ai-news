@@ -2,6 +2,7 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| [06-14](../daily/2026-06-14.md) | 美国多州总检察长联合调查OpenAI | [🔗](https://www.reuters.com/business/openai-under-investigation-by-coalition-state-attorneys-general-wsj-reports-2026-06-12/) |
 | 06-13 | 美国政府出口管制封杀Anthropic最强模型 | [🔗](https://www.anthropic.com/news/fable-mythos-access) |
 | 2026-06-06 | 韩国要求所有论坛用AI扫描每张图片，指定供应商+一个月deadline，比作SEED事件 | [🔗](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-to) |
 | 2026-06-06 | 纽约州通过数据中心一年建设禁令，暂停新建数据中心等州长签字 | [🔗](https://www.theverge.com/policy/944041/new-york-data-center-moratorium) |

@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| [06-14](../daily/2026-06-14.md) | KPMG发布AI报告结果满篇AI幻觉 | [🔗](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/) |
 | 06-13 | AI Agent扫描网络把主人搞破产$6531账单 | [🔗](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) |
 | 06-13 | Meta AI部门6500人快造反了 | [🔗](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/) |
 | 06-13 | 「开源AI必须赢」宣言爆火 | [🔗](https://opensourceaimustwin.com/?share=v2) |
