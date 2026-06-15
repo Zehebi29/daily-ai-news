@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 06-15 | [智谱GLM-5.2：100万上下文完全开源](https://twitter.com/jietang/status/2065784751345287314) | [🔗](https://news.ycombinator.com/item?id=48518684) |
+| 06-15 | [Rio3.5：里约市政府微调模型打败Qwen3.7](https://twitter.com/zenmagnets/status/2065796012820848699) | [🔗](https://news.ycombinator.com/item?id=48527634) |
 | 06-12 | [Claude Fable 5：隐形护栏引爆争议](https://www.anthropic.com/news/claude-fable-5-mythos-5) | [🔗](https://news.ycombinator.com/item?id=48463808) |
 | 06-12 | [Fable 5编程实测：200任务排中游](https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype) | [🔗](https://news.ycombinator.com/item?id=48492210) |
 | 06-11 | [DiffusionGemma：Google开源4倍速文本生成模型](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/) | [🔗](https://news.ycombinator.com/item?id=48478471) |
