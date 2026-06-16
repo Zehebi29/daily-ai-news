@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-16 | Salesforce斥资$36亿收购AI客服公司Fin | [🔗](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/) |
+| 06-16 | GitHub被AI编码榨干，微软紧急接入AWS扩容 | [🔗](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch) |
 | [06-14](../daily/2026-06-14.md) | Mistral传融资€30亿估值€200亿 | [🔗](https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20b-valuation/) |
 | [06-14](../daily/2026-06-14.md) | Meta被迫拆除$20亿Manus收购案 | [🔗](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) |
 | 06-11 | [中国砸2950亿美元建AI数据中心全用国产芯片](https://qz.com/china-ai-data-center-buildout-295-billion-huawei-chips-060926) | [🔗](https://news.ycombinator.com/item?id=48469063) |

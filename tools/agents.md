@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 06-16 | NewCore：AI Agent身份管理平台，$6600万融资 | [🔗](https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/) |
 | 06-15 | [小米MiMo Code：长任务编码Agent开源](https://mimo.xiaomi.com/blog/mimo-code-long-horizon) | [🔗](https://mimo.xiaomi.com/blog/mimo-code-long-horizon) |
 | Intuned | YC S22，代码优先浏览器自动化，AI生成确定性生产代码 | [🔗](https://intunedhq.com) |
 | Rayline | Claude Code子Agent智能路由，按复杂度分配模型降低成本 | [🔗](https://rayline.ai/) |

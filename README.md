@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 06-16 周二 · AI安全/政策/行业动向
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🏛️ | [Anthropic禁令大反转：不是越狱是「修代码」提示](https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/) | 50+安全专家联名反对，欧洲借机推AI主权 |
+| 2 | 💰 | [Salesforce斥资$36亿收购AI客服公司Fin](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/) | 今年AI应用最大收购，整合进Agentforce |
+| 3 | 🌐 | [AI裁员潮：打工人和AI新贵的矛盾一触即发](https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/) | 科技裁员vs AI财富分化，「火药桶」文章 |
+| 4 | 💰 | [GitHub被AI编码榨干，微软紧急接入AWS扩容](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch) | Azure容量不够找竞争对手借，算力瓶颈真实 |
+| 5 | 🤖 | [NewCore融$6600万：AI Agent也要有「工牌」](https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/) | Agent身份管理，企业大规模采用Agent的前提 |
+
 ### 06-15 周一 · 模型发布/开源项目周报
 
 | # | 分类 | 标题 | 简介 |
@@ -84,6 +94,7 @@
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-16](daily/2026-06-16.md) | 周二 | AI安全/政策/行业动向 |
 | [06-15](daily/2026-06-15.md) | 周一 | 模型发布/开源项目周报 |
 | [06-14](daily/2026-06-14.md) | 周日 | 下周预告/趋势前瞻 |
 | [06-13](daily/2026-06-13.md) | 周六 | 轻量问答/结论向 |
