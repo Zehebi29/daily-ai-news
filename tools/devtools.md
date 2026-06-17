@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 06-17 | Databricks LTAP架构为AI Agent重建数据库 | [🔗](https://thenewstack.io/databricks-is-rebuilding-the-data-stack-for-ai-agents/) |
 | Extend UI | 开源React文档查看器组件库，PDF/Word/Excel/CSV+标注+签名，HN 241pts | [🔗](https://www.extend.ai/ui) |
 | Deezer AI Music Detector | 跨平台扫描识别AI生成歌曲，保护独立音乐人版税 | [🔗](https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/) |
 | Magenta Real-Time iPhone | Google音乐生成模型移植iPhone，纯Neural Engine推理，实时不发烫 | [🔗](https://github.com/mattmireles/magenta-realtime-2-iphone) |

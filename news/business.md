@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-17 | Anthropic紧急暂停Claude Agent SDK独立计费 | [🔗](https://thenewstack.io/anthropic-pauses-claude-agent-sdk-subscription-change/) |
+| 06-17 | SpaceX $600亿收购Cursor：AI编程工具史上最大收购 | [🔗](https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days) |
 | 06-16 | Salesforce斥资$36亿收购AI客服公司Fin | [🔗](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/) |
 | 06-16 | GitHub被AI编码榨干，微软紧急接入AWS扩容 | [🔗](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch) |
 | [06-14](../daily/2026-06-14.md) | Mistral传融资€30亿估值€200亿 | [🔗](https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20b-valuation/) |

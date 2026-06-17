@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-17 | AI代码审查瓶颈：PR排队时间是人工代码的5.3倍 | [🔗](https://blog.codacy.com/ai-breaking-code-review-how-engineering-teams-survive-pr-bottleneck) |
 | 06-16 | AI裁员潮：打工人和AI新贵的矛盾一触即发 | [🔗](https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/) |
 | [06-14](../daily/2026-06-14.md) | KPMG发布AI报告结果满篇AI幻觉 | [🔗](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/) |
 | 06-13 | AI Agent扫描网络把主人搞破产$6531账单 | [🔗](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) |

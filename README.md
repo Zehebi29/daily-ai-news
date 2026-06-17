@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 06-17 周三 · Agent/工程/落地坑
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 💰 | [SpaceX $600亿收购Cursor：AI编程工具史上最大收购](https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days) | 刚上市就砸600亿，Musk要在企业AI编程追赶OpenAI和Anthropic |
+| 2 | 🔒 | [Copilot SearchLeak漏洞可窃取用户2FA验证码](https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-) | 提示词注入泄露两步验证码，LLM安全防线再次暴露 |
+| 3 | 💰 | [Anthropic紧急暂停Claude Agent SDK独立计费](https://thenewstack.io/anthropic-pauses-claude-agent-sdk-subscription-change/) | 原定6/15生效当天叫停，Agent账单敏感度超预期 |
+| 4 | 🛠️ | [Databricks发布LTAP架构为AI Agent重建数据库](https://thenewstack.io/databricks-is-rebuilding-the-data-stack-for-ai-agents/) | AI Agent而非人类是数据库主要用户，基础设施开始为Agent重写 |
+| 5 | 🌐 | [AI代码审查瓶颈：PR排队时间是人工代码的5.3倍](https://blog.codacy.com/ai-breaking-code-review-how-engineering-teams-survive-pr-bottleneck) | AI产出翻倍但审查瓶颈把增速吃回去了，典型落地坑 |
+
 ### 06-16 周二 · AI安全/政策/行业动向
 
 | # | 分类 | 标题 | 简介 |
@@ -27,16 +37,6 @@
 | 3 | 🧠 | [里约市政府训练的模型打败Qwen3.7](https://twitter.com/zenmagnets/status/2065796012820848699) | 基于Qwen 3.5 397B微调，开源AI民主化，HN 134pts |
 | 4 | 🛠️ | [RTX 5080+3090双卡跑Qwen3.6：每秒80token](https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/) | 39GB显存，本地跑模型进入实用阶段，HN 281pts |
 | 5 | 🔒 | [Arch Linux AUR遭恶意软件攻击：1500多个包被感染](https://news.ycombinator.com/item?id=48516379) | 开源供应链安全警钟，HN 314pts |
-
-### 06-14 周日 · 下周预告/趋势前瞻
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🌐 | [KPMG发布AI报告结果满篇AI幻觉](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/) | 用AI写报告夸AI，报告本身就是AI幻觉的活教材 |
-| 2 | 🏛️ | [美国多州总检察长联合调查OpenAI](https://www.reuters.com/business/openai-under-investigation-by-coalition-state-attorneys-general-wsj-reports-2026-06-12/) | 州级执法机构首次联合调查，监管压力升级 |
-| 3 | 💰 | [Meta被迫拆除$20亿Manus收购案](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) | 北京要求撤销，AI跨国交易受地缘政治影响 |
-| 4 | 🔒 | [Google起诉中国AI诈骗组织](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/) | AI生成诈骗短信两周250万条，受害者数十万 |
-| 5 | 💰 | [Mistral传融资€30亿估值€200亿](https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20b-valuation/) | 欧洲AI公司有史以来最大融资传闻 |
 
 ### 06-13 周六 · 轻量问答/结论向
 
@@ -94,6 +94,7 @@
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-17](daily/2026-06-17.md) | 周三 | Agent/工程/落地坑 |
 | [06-16](daily/2026-06-16.md) | 周二 | AI安全/政策/行业动向 |
 | [06-15](daily/2026-06-15.md) | 周一 | 模型发布/开源项目周报 |
 | [06-14](daily/2026-06-14.md) | 周日 | 下周预告/趋势前瞻 |
@@ -110,7 +111,6 @@
 | [06-03](daily/2026-06-03.md) | 周三 | Agent/工程/落地坑 |
 | [06-02](daily/2026-06-02.md) | 周二 | AI安全/政策/行业动向 |
 | [06-01](daily/2026-06-01.md) | 周一 | 模型发布/开源项目周报 |
-| [05-31](daily/2026-05-31.md) | 周日 | 下周预告/趋势前瞻 |
 
 ---
 
