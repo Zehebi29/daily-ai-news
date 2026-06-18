@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 06-18 周四 · 中国开源/行业动态
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🏛️ | [美国政府未将DeepSeek列入黑名单](https://finance.yahoo.com/news/exclusive-us-holds-off-blacklisting-000212827.html) | 100+公司有安全风险但未封，Anthropic指控非法提取Claude能力，HN 378pts |
+| 2 | 🏛️ | [G7峰会：AI主权关乎国家生存](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/) | 马克龙和莫迪警告美国可随时切断AI供应，Anthropic断服前车之鉴 |
+| 3 | 🌐 | [60%美国消费者反感品牌用AI营销](https://wpvip.com/future-of-the-web-2026/) | AI营销疲劳已开始，四分之三觉得互联网没人味儿，HN 1012pts |
+| 4 | 🔒 | [大规模数据泄露波及Oracle、FedEx、北约承包商](https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/) | Fortinet也中招，自动化工具扫描已知漏洞批量下手 |
+| 5 | 🛠️ | [Vercel开源Agent框架Eve正式发布](https://vercel.com/blog/introducing-eve) | Agent当目录管理，持久执行+沙箱隔离，最完整Agent基础设施 |
+
 ### 06-17 周三 · Agent/工程/落地坑
 
 | # | 分类 | 标题 | 简介 |
@@ -17,16 +27,6 @@
 | 3 | 💰 | [Anthropic紧急暂停Claude Agent SDK独立计费](https://thenewstack.io/anthropic-pauses-claude-agent-sdk-subscription-change/) | 原定6/15生效当天叫停，Agent账单敏感度超预期 |
 | 4 | 🛠️ | [Databricks发布LTAP架构为AI Agent重建数据库](https://thenewstack.io/databricks-is-rebuilding-the-data-stack-for-ai-agents/) | AI Agent而非人类是数据库主要用户，基础设施开始为Agent重写 |
 | 5 | 🌐 | [AI代码审查瓶颈：PR排队时间是人工代码的5.3倍](https://blog.codacy.com/ai-breaking-code-review-how-engineering-teams-survive-pr-bottleneck) | AI产出翻倍但审查瓶颈把增速吃回去了，典型落地坑 |
-
-### 06-16 周二 · AI安全/政策/行业动向
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🏛️ | [Anthropic禁令大反转：不是越狱是「修代码」提示](https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/) | 50+安全专家联名反对，欧洲借机推AI主权 |
-| 2 | 💰 | [Salesforce斥资$36亿收购AI客服公司Fin](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/) | 今年AI应用最大收购，整合进Agentforce |
-| 3 | 🌐 | [AI裁员潮：打工人和AI新贵的矛盾一触即发](https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/) | 科技裁员vs AI财富分化，「火药桶」文章 |
-| 4 | 💰 | [GitHub被AI编码榨干，微软紧急接入AWS扩容](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch) | Azure容量不够找竞争对手借，算力瓶颈真实 |
-| 5 | 🤖 | [NewCore融$6600万：AI Agent也要有「工牌」](https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/) | Agent身份管理，企业大规模采用Agent的前提 |
 
 ### 06-15 周一 · 模型发布/开源项目周报
 
@@ -94,6 +94,7 @@
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-18](daily/2026-06-18.md) | 周四 | 中国开源/行业动态 |
 | [06-17](daily/2026-06-17.md) | 周三 | Agent/工程/落地坑 |
 | [06-16](daily/2026-06-16.md) | 周二 | AI安全/政策/行业动向 |
 | [06-15](daily/2026-06-15.md) | 周一 | 模型发布/开源项目周报 |

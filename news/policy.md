@@ -2,6 +2,8 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-18 | G7峰会AI主权警告：马克龙和莫迪称美国可随时切断AI供应 | [🔗](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/) |
+| 06-18 | 美国政府未将DeepSeek列入黑名单：100+公司有安全风险但未封 | [🔗](https://finance.yahoo.com/news/exclusive-us-holds-off-blacklisting-000212827.html) |
 | 06-16 | Anthropic禁令大反转：不是越狱是「修代码」提示 | [🔗](https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/) |
 | [06-14](../daily/2026-06-14.md) | 美国多州总检察长联合调查OpenAI | [🔗](https://www.reuters.com/business/openai-under-investigation-by-coalition-state-attorneys-general-wsj-reports-2026-06-12/) |
 | 06-13 | 美国政府出口管制封杀Anthropic最强模型 | [🔗](https://www.anthropic.com/news/fable-mythos-access) |

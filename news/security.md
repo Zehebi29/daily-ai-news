@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-18 | 大规模数据泄露波及Oracle、FedEx、北约承包商、Fortinet | [🔗](https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/) |
 | 06-17 | Copilot SearchLeak漏洞可窃取用户2FA验证码 | [🔗](https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-) |
 | 06-15 | Arch Linux AUR遭恶意软件攻击：1500多个包被感染，开源供应链安全警钟 | [🔗](https://news.ycombinator.com/item?id=48516379) |
 | [06-14](../daily/2026-06-14.md) | Google起诉中国AI诈骗组织 | [🔗](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/) |

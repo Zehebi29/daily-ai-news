@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-18 | 60%美国消费者反感品牌用AI营销，AI营销疲劳已开始 | [🔗](https://wpvip.com/future-of-the-web-2026/) |
 | 06-17 | AI代码审查瓶颈：PR排队时间是人工代码的5.3倍 | [🔗](https://blog.codacy.com/ai-breaking-code-review-how-engineering-teams-survive-pr-bottleneck) |
 | 06-16 | AI裁员潮：打工人和AI新贵的矛盾一触即发 | [🔗](https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/) |
 | [06-14](../daily/2026-06-14.md) | KPMG发布AI报告结果满篇AI幻觉 | [🔗](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/) |
