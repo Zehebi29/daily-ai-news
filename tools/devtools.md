@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| [Adam CAD](https://github.com/Adam-CAD/CADAM) | 开源文字生成3D CAD工具，YC W25，4472⭐ | [🔗](https://github.com/Adam-CAD/CADAM) |
+| [TesterArmy](https://tester.army) | AI Agent自动测试Web和移动App，YC P26 | [🔗](https://tester.army) |
+| [Datasette Apps](https://simonwillison.net/2026/Jun/18/datasette-apps/) | 数据库上托管HTML应用，iframe沙箱隔离 | [🔗](https://simonwillison.net/2026/Jun/18/datasette-apps/) |
 | 06-17 | Databricks LTAP架构为AI Agent重建数据库 | [🔗](https://thenewstack.io/databricks-is-rebuilding-the-data-stack-for-ai-agents/) |
 | Extend UI | 开源React文档查看器组件库，PDF/Word/Excel/CSV+标注+签名，HN 241pts | [🔗](https://www.extend.ai/ui) |
 | Deezer AI Music Detector | 跨平台扫描识别AI生成歌曲，保护独立音乐人版税 | [🔗](https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/) |

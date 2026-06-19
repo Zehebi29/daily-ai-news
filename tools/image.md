@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| [Adobe AI助手](https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator) | Photoshop/Premiere接入AI助手，Firefly AI Studio升级 | [🔗](https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator) |
 | Ideogram 4.0 开源 | 首个开放权重93亿参数扩散模型，单流DiT从零训练，支持本地部署微调 | [🔗](https://ideogram.ai/blog/ideogram-4.0/) |
 | Polyend Endless | AI吉他效果器踏板，自然语言描述自动生成效果链 | [🔗](https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal) |
 | SANA-WM | NVIDIA 开源 2.6B 世界模型，单卡生成 1 分钟 720p 视频 | [🔗](https://nvlabs.github.io/Sana/WM/) |

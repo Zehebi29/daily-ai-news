@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| [Midjourney跨界医疗AI](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-ge-healthcare) | 与GE Healthcare合作，扩散模型用于医疗超声扫描 | [🔗](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-ge-healthcare) |
 | 06-18 | 60%美国消费者反感品牌用AI营销，AI营销疲劳已开始 | [🔗](https://wpvip.com/future-of-the-web-2026/) |
 | 06-17 | AI代码审查瓶颈：PR排队时间是人工代码的5.3倍 | [🔗](https://blog.codacy.com/ai-breaking-code-review-how-engineering-teams-survive-pr-bottleneck) |
 | 06-16 | AI裁员潮：打工人和AI新贵的矛盾一触即发 | [🔗](https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/) |
