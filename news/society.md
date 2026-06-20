@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-20 | GitHub正在崩坏？Cursor/GitLab/Zed共识：AI时代需重建代码托管 | [🔗](https://thenewstack.io/cursor-origin-github-disruption/) |
+| 06-20 | TikTok近60%推荐内容是AI垃圾，Kapwing报告揭示平台治理危机 | [🔗](https://www.kapwing.com/resources/the-tiktok-ai-slop-report/) |
 | [Midjourney跨界医疗AI](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-ge-healthcare) | 与GE Healthcare合作，扩散模型用于医疗超声扫描 | [🔗](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-ge-healthcare) |
 | 06-18 | 60%美国消费者反感品牌用AI营销，AI营销疲劳已开始 | [🔗](https://wpvip.com/future-of-the-web-2026/) |
 | 06-17 | AI代码审查瓶颈：PR排队时间是人工代码的5.3倍 | [🔗](https://blog.codacy.com/ai-breaking-code-review-how-engineering-teams-survive-pr-bottleneck) |

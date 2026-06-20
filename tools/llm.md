@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| DeepSeek Vision | Chat网页端上线图片理解功能，此前仅API可用 | [🔗](https://chat.deepseek.com/) |
 | 06-15 | [智谱GLM-5.2：100万上下文完全开源](https://twitter.com/jietang/status/2065784751345287314) | [🔗](https://news.ycombinator.com/item?id=48518684) |
 | 06-15 | [Rio3.5：里约市政府微调模型打败Qwen3.7](https://twitter.com/zenmagnets/status/2065796012820848699) | [🔗](https://news.ycombinator.com/item?id=48527634) |
 | 06-12 | [Claude Fable 5：隐形护栏引爆争议](https://www.anthropic.com/news/claude-fable-5-mythos-5) | [🔗](https://news.ycombinator.com/item?id=48463808) |

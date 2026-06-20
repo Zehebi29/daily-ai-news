@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-20 | 推理公司Baseten估值$130亿融$15亿，推理淘金热持续 | [🔗](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/) |
 | 06-17 | Anthropic紧急暂停Claude Agent SDK独立计费 | [🔗](https://thenewstack.io/anthropic-pauses-claude-agent-sdk-subscription-change/) |
 | 06-17 | SpaceX $600亿收购Cursor：AI编程工具史上最大收购 | [🔗](https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days) |
 | 06-16 | Salesforce斥资$36亿收购AI客服公司Fin | [🔗](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/) |

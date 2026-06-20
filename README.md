@@ -8,16 +8,17 @@
 
 ## 📅 最近更新
 
-### 06-19 周五 · 工具实测推荐
+### 06-20 周六 · 轻量问答/结论向
 
 | # | 分类 | 标题 | 简介 |
 |:-:|:----:|:-----|:-----|
-| 1 | 🛠️ | [Adam CAD：开源文字生成3D CAD模型](https://github.com/Adam-CAD/CADAM) | YC W25孵化，4472 GitHub stars，OpenSCAD跑在浏览器里，HN 206pts |
-| 2 | 🛠️ | [TesterArmy：AI Agent自动测试Web和移动App](https://tester.army) | YC P26孵化，无需写脚本，自动感知UI变化，HN 106pts |
-| 3 | 🎨 | [Adobe Photoshop和Premiere全面接入AI助手](https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator) | Firefly AI Studio升级，prompt-based editing趋势不可逆 |
-| 4 | 🧠 | [Midjourney跨界医疗AI：从猫图到全身超声扫描](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-ge-healthcare) | 与GE Healthcare合作，扩散模型用于医疗影像 |
-| 5 | 🛠️ | [Datasette Apps：让数据库秒变Web应用](https://simonwillison.net/2026/Jun/18/datasette-apps/) | Simon Willison新作，iframe沙箱隔离，HN 31pts |
+| 1 | 🧠 | [DeepSeek上线图片理解功能](https://chat.deepseek.com/) | Chat网页端可直接上传图片分析，此前仅API可用，HN 488pts |
+| 2 | 🌐 | [TikTok近60%推荐内容是AI垃圾](https://www.kapwing.com/resources/the-tiktok-ai-slop-report/) | Kapwing报告：新用户推荐60%是AI生成，YouTube仅三分之一 |
+| 3 | 💰 | [推理公司Baseten估值$130亿融$15亿](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/) | 几个月内连融两轮，TechCrunch称「inference gold rush」 |
+| 4 | 🛠️ | [GitHub正在崩坏？Cursor等巨头要重建代码托管](https://thenewstack.io/cursor-origin-github-disruption/) | Cursor/GitLab/Zed共识：GitHub为人类设计，AI时代需重建 |
+| 5 | 🔒 | [ASML顶级光刻机疑流入中国](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/) | 美国称最先进光刻机可能流入中国，ASML否认，Bloomberg/Reuters报道 |
 
+### 06-19 周五 · 工具实测推荐
 ### 06-18 周四 · 中国开源/行业动态
 
 | # | 分类 | 标题 | 简介 |
@@ -34,6 +35,7 @@
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-20](daily/2026-06-20.md) | 周六 | 轻量问答/结论向 |
 | [06-19](daily/2026-06-19.md) | 周五 | 工具实测推荐 |
 | [06-18](daily/2026-06-18.md) | 周四 | 中国开源/行业动态 |
 | [06-17](daily/2026-06-17.md) | 周三 | Agent/工程/落地坑 |

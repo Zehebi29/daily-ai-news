@@ -2,6 +2,7 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-20 | ASML顶级光刻机疑流入中国，美国紧急交涉，ASML否认 | [🔗](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/) |
 | 06-18 | G7峰会AI主权警告：马克龙和莫迪称美国可随时切断AI供应 | [🔗](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/) |
 | 06-18 | 美国政府未将DeepSeek列入黑名单：100+公司有安全风险但未封 | [🔗](https://finance.yahoo.com/news/exclusive-us-holds-off-blacklisting-000212827.html) |
 | 06-16 | Anthropic禁令大反转：不是越狱是「修代码」提示 | [🔗](https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/) |
