@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 06-21 周日 · 下周预告/趋势前瞻
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 💰 | [DeepMind人才大逃亡：Shazeer去OpenAI、Jumper去Anthropic](https://news.ycombinator.com/item?id=48578913) | Transformer共同发明人+诺贝尔奖得主同周跳槽，Google花27亿买回两年又跑 |
+| 2 | 🧠 | [Claude操控机器人比人类快20倍](https://www.anthropic.com/research/project-fetch-phase-two) | Opus 4.7无人协助碾压人类团队，从搞不定到20倍速仅一年 |
+| 3 | 🏛️ | [特朗普改口：不再视Anthropic为威胁](https://news.ycombinator.com/item?id=48612877) | G7会议后态度180度转变，Fable 5或解禁 |
+| 4 | 🏛️ | [英国砸7500万英镑搞AI警务PoliceAI](https://news.ycombinator.com/item?id=48612806) | AI审查邮件翻译数据已破案，HN评论称「1984加少数派报告」 |
+| 5 | 💰 | [印度首富安巴尼要让AI渗透5亿用户每次通话](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/) | Reliance将AI融入电信，亚洲AI大规模部署加速 |
+
 ### 06-20 周六 · 轻量问答/结论向
 
 | # | 分类 | 标题 | 简介 |
@@ -18,23 +28,13 @@
 | 4 | 🛠️ | [GitHub正在崩坏？Cursor等巨头要重建代码托管](https://thenewstack.io/cursor-origin-github-disruption/) | Cursor/GitLab/Zed共识：GitHub为人类设计，AI时代需重建 |
 | 5 | 🔒 | [ASML顶级光刻机疑流入中国](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/) | 美国称最先进光刻机可能流入中国，ASML否认，Bloomberg/Reuters报道 |
 
-### 06-19 周五 · 工具实测推荐
-### 06-18 周四 · 中国开源/行业动态
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🏛️ | [美国政府未将DeepSeek列入黑名单](https://finance.yahoo.com/news/exclusive-us-holds-off-blacklisting-000212827.html) | 100+公司有安全风险但未封，Anthropic指控非法提取Claude能力，HN 378pts |
-| 2 | 🏛️ | [G7峰会：AI主权关乎国家生存](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/) | 马克龙和莫迪警告美国可随时切断AI供应，Anthropic断服前车之鉴 |
-| 3 | 🌐 | [60%美国消费者反感品牌用AI营销](https://wpvip.com/future-of-the-web-2026/) | AI营销疲劳已开始，四分之三觉得互联网没人味儿，HN 1012pts |
-| 4 | 🔒 | [大规模数据泄露波及Oracle、FedEx、北约承包商](https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/) | Fortinet也中招，自动化工具扫描已知漏洞批量下手 |
-| 5 | 🛠️ | [Vercel开源Agent框架Eve正式发布](https://vercel.com/blog/introducing-eve) | Agent当目录管理，持久执行+沙箱隔离，最完整Agent基础设施 |
-
 ### 📅 每日存档
 
 每条新闻的完整描述和来源：[daily/](daily/)
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-21](daily/2026-06-21.md) | 周日 | 下周预告/趋势前瞻 |
 | [06-20](daily/2026-06-20.md) | 周六 | 轻量问答/结论向 |
 | [06-19](daily/2026-06-19.md) | 周五 | 工具实测推荐 |
 | [06-18](daily/2026-06-18.md) | 周四 | 中国开源/行业动态 |

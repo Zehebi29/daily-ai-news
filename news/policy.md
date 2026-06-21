@@ -2,6 +2,8 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-21 | 特朗普改口不再视Anthropic为威胁，G7会议后态度转变，Fable 5或解禁 | [🔗](https://news.ycombinator.com/item?id=48612877) |
+| 06-21 | 英国砸7500万英镑搞AI警务PoliceAI，AI审查邮件翻译数据已破案 | [🔗](https://news.ycombinator.com/item?id=48612806) |
 | 06-20 | ASML顶级光刻机疑流入中国，美国紧急交涉，ASML否认 | [🔗](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/) |
 | 06-18 | G7峰会AI主权警告：马克龙和莫迪称美国可随时切断AI供应 | [🔗](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/) |
 | 06-18 | 美国政府未将DeepSeek列入黑名单：100+公司有安全风险但未封 | [🔗](https://finance.yahoo.com/news/exclusive-us-holds-off-blacklisting-000212827.html) |
