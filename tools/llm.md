@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 06-22 | Apertus：瑞士开源基础模型(8B/70B)，EPFL+ETH Zurich，1000+语言 | [🔗](https://apertvs.ai/) |
 | DeepSeek Vision | Chat网页端上线图片理解功能，此前仅API可用 | [🔗](https://chat.deepseek.com/) |
 | 06-15 | [智谱GLM-5.2：100万上下文完全开源](https://twitter.com/jietang/status/2065784751345287314) | [🔗](https://news.ycombinator.com/item?id=48518684) |
 | 06-15 | [Rio3.5：里约市政府微调模型打败Qwen3.7](https://twitter.com/zenmagnets/status/2065796012820848699) | [🔗](https://news.ycombinator.com/item?id=48527634) |

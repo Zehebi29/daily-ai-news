@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-22 | Claude身份验证倒逼用户转开源，开源与闭源差距在缩小 | [🔗](https://www.marble.onl/posts/cancel_claude.html/) |
 | 06-21 | Claude操控机器人比人类快20倍，Opus 4.7无人协助碾压人类团队 | [🔗](https://www.anthropic.com/research/project-fetch-phase-two) |
 | 06-20 | GitHub正在崩坏？Cursor/GitLab/Zed共识：AI时代需重建代码托管 | [🔗](https://thenewstack.io/cursor-origin-github-disruption/) |
 | 06-20 | TikTok近60%推荐内容是AI垃圾，Kapwing报告揭示平台治理危机 | [🔗](https://www.kapwing.com/resources/the-tiktok-ai-slop-report/) |

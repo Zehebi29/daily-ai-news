@@ -2,6 +2,7 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-22 | Meta员工联名抵制MCI项目采集电脑数据训练AI | [🔗](https://mcipetition.com/) |
 | 06-21 | 特朗普改口不再视Anthropic为威胁，G7会议后态度转变，Fable 5或解禁 | [🔗](https://news.ycombinator.com/item?id=48612877) |
 | 06-21 | 英国砸7500万英镑搞AI警务PoliceAI，AI审查邮件翻译数据已破案 | [🔗](https://news.ycombinator.com/item?id=48612806) |
 | 06-20 | ASML顶级光刻机疑流入中国，美国紧急交涉，ASML否认 | [🔗](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/) |

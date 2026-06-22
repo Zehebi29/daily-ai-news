@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 06-22 周一 · 模型发布/开源项目周报
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🧠 | [瑞士开源基础模型Apertus发布](https://apertvs.ai/) | EPFL+ETH Zurich联合出品，8B/70B全开放，1000+语言，EU AI Act合规 |
+| 2 | 🔒 | [ArgusRed：专门做渗透测试的AI模型](https://www.argusred.com/cli/) | Post-train模型做渗透测试，审计+攻击双模式，打破AI安全拒绝壁垒 |
+| 3 | 🛠️ | [Recall：Claude Code的本地项目记忆](https://github.com/raiyanyahya/recall/) | 开源工具给Claude Code加持久化记忆，完全本地离线运行 |
+| 4 | 🌐 | [从闭源转开源模型，代价没那么大](https://www.marble.onl/posts/cancel_claude.html/) | Claude身份验证倒逼用户转开源，开源与闭源差距在缩小 |
+| 5 | 🌐 | [Meta员工联名抵制公司采集电脑数据训练AI](https://mcipetition.com/) | MCI项目采集员工鼠标/键盘/屏幕数据，高管可opt-out普通员工不行 |
+
 ### 06-21 周日 · 下周预告/趋势前瞻
 
 | # | 分类 | 标题 | 简介 |
@@ -18,22 +28,13 @@
 | 4 | 🏛️ | [英国砸7500万英镑搞AI警务PoliceAI](https://news.ycombinator.com/item?id=48612806) | AI审查邮件翻译数据已破案，HN评论称「1984加少数派报告」 |
 | 5 | 💰 | [印度首富安巴尼要让AI渗透5亿用户每次通话](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/) | Reliance将AI融入电信，亚洲AI大规模部署加速 |
 
-### 06-20 周六 · 轻量问答/结论向
-
-| # | 分类 | 标题 | 简介 |
-|:-:|:----:|:-----|:-----|
-| 1 | 🧠 | [DeepSeek上线图片理解功能](https://chat.deepseek.com/) | Chat网页端可直接上传图片分析，此前仅API可用，HN 488pts |
-| 2 | 🌐 | [TikTok近60%推荐内容是AI垃圾](https://www.kapwing.com/resources/the-tiktok-ai-slop-report/) | Kapwing报告：新用户推荐60%是AI生成，YouTube仅三分之一 |
-| 3 | 💰 | [推理公司Baseten估值$130亿融$15亿](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/) | 几个月内连融两轮，TechCrunch称「inference gold rush」 |
-| 4 | 🛠️ | [GitHub正在崩坏？Cursor等巨头要重建代码托管](https://thenewstack.io/cursor-origin-github-disruption/) | Cursor/GitLab/Zed共识：GitHub为人类设计，AI时代需重建 |
-| 5 | 🔒 | [ASML顶级光刻机疑流入中国](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/) | 美国称最先进光刻机可能流入中国，ASML否认，Bloomberg/Reuters报道 |
-
 ### 📅 每日存档
 
 每条新闻的完整描述和来源：[daily/](daily/)
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-22](daily/2026-06-22.md) | 周一 | 模型发布/开源项目周报 |
 | [06-21](daily/2026-06-21.md) | 周日 | 下周预告/趋势前瞻 |
 | [06-20](daily/2026-06-20.md) | 周六 | 轻量问答/结论向 |
 | [06-19](daily/2026-06-19.md) | 周五 | 工具实测推荐 |

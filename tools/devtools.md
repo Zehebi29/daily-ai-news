@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 06-22 | ArgusRed：post-train渗透测试模型，审计+攻击双模式CLI | [🔗](https://www.argusred.com/cli/) |
+| 06-22 | Recall：Claude Code本地项目记忆，完全离线 | [🔗](https://github.com/raiyanyahya/recall/) |
 | [Adam CAD](https://github.com/Adam-CAD/CADAM) | 开源文字生成3D CAD工具，YC W25，4472⭐ | [🔗](https://github.com/Adam-CAD/CADAM) |
 | [TesterArmy](https://tester.army) | AI Agent自动测试Web和移动App，YC P26 | [🔗](https://tester.army) |
 | [Datasette Apps](https://simonwillison.net/2026/Jun/18/datasette-apps/) | 数据库上托管HTML应用，iframe沙箱隔离 | [🔗](https://simonwillison.net/2026/Jun/18/datasette-apps/) |
