@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 06-23 周二 · AI安全/政策/行业动向
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🔒 | [Meta监控员工键盘被内部泄露，紧急暂停](https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6) | MCI项目AI记录键盘屏幕数据，内部泄露后暂停 |
+| 2 | 💰 | [SpaceX签下63亿美元AI算力大单](https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/) | 开源AI实验室Reflection月付$1.5亿租Colossus 2 |
+| 3 | 💰 | [Oracle裁员2万1千人，AI替代是主因](https://www.reuters.com/business/world-at-work/oracle-workforce-shrinks-by-about-13-2026-06-22/) | 一边裁员一边建数据中心，AI替代成裁员首因 |
+| 4 | 🏛️ | [堪萨斯市要在公交车上装人脸识别](https://apnews.com/article/kansas-city-facial-recognition-ai-cameras-privacy-87847f57c94b6c2a9e22a7b3a222e703) | 公交AI人脸识别因技术和预算延期，隐私争议大 |
+| 5 | 🔒 | [五眼联盟发AI安全警告](https://www.cisa.gov/news-events/news/five-eyes-cyber-security-agencies-statement) | AI正重塑网络安全威胁格局，情报机构要求企业立即行动 |
+
 ### 06-22 周一 · 模型发布/开源项目周报
 
 | # | 分类 | 标题 | 简介 |
@@ -34,6 +44,7 @@
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-23](daily/2026-06-23.md) | 周二 | AI安全/政策/行业动向 |
 | [06-22](daily/2026-06-22.md) | 周一 | 模型发布/开源项目周报 |
 | [06-21](daily/2026-06-21.md) | 周日 | 下周预告/趋势前瞻 |
 | [06-20](daily/2026-06-20.md) | 周六 | 轻量问答/结论向 |

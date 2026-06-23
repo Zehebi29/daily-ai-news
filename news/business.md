@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-23 | Oracle裁员2.1万人，AI替代岗位成主因 | [🔗](https://www.reuters.com/business/world-at-work/oracle-workforce-shrinks-by-about-13-2026-06-22/) |
+| 06-23 | SpaceX签$63亿AI算力合同，开源AI实验室Reflection受益 | [🔗](https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/) |
 | 06-21 | DeepMind人才大逃亡：Shazeer去OpenAI、Jumper去Anthropic，Google花27亿买回两年又跑 | [🔗](https://news.ycombinator.com/item?id=48578913) |
 | 06-21 | 印度首富安巴尼要让AI渗透5亿用户每次通话，Reliance将AI融入电信服务 | [🔗](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/) |
 | 06-20 | 推理公司Baseten估值$130亿融$15亿，推理淘金热持续 | [🔗](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/) |

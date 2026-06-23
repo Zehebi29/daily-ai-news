@@ -2,6 +2,7 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-23 | 堪萨斯市公交安装AI人脸识别引发隐私争议 | [🔗](https://apnews.com/article/kansas-city-facial-recognition-ai-cameras-privacy-87847f57c94b6c2a9e22a7b3a222e703) |
 | 06-22 | Meta员工联名抵制MCI项目采集电脑数据训练AI | [🔗](https://mcipetition.com/) |
 | 06-21 | 特朗普改口不再视Anthropic为威胁，G7会议后态度转变，Fable 5或解禁 | [🔗](https://news.ycombinator.com/item?id=48612877) |
 | 06-21 | 英国砸7500万英镑搞AI警务PoliceAI，AI审查邮件翻译数据已破案 | [🔗](https://news.ycombinator.com/item?id=48612806) |

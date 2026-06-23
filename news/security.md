@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-23 | 五眼联盟联合AI安全警告：AI重塑网络威胁格局 | [🔗](https://www.cisa.gov/news-events/news/five-eyes-cyber-security-agencies-statement) |
+| 06-23 | Meta员工键盘监控数据内部泄露，项目暂停 | [🔗](https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6) |
 | 06-18 | 大规模数据泄露波及Oracle、FedEx、北约承包商、Fortinet | [🔗](https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/) |
 | 06-17 | Copilot SearchLeak漏洞可窃取用户2FA验证码 | [🔗](https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-) |
 | 06-15 | Arch Linux AUR遭恶意软件攻击：1500多个包被感染，开源供应链安全警钟 | [🔗](https://news.ycombinator.com/item?id=48516379) |
