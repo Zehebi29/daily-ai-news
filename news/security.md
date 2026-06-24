@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-24 | Agentjacking：公开Sentry密钥劫持Claude Code/Cursor/Codex的MCP服务器 | [🔗](https://thenewstack.io/agentjacking-sentry-mcp-attack/) |
 | 06-23 | 五眼联盟联合AI安全警告：AI重塑网络威胁格局 | [🔗](https://www.cisa.gov/news-events/news/five-eyes-cyber-security-agencies-statement) |
 | 06-23 | Meta员工键盘监控数据内部泄露，项目暂停 | [🔗](https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6) |
 | 06-18 | 大规模数据泄露波及Oracle、FedEx、北约承包商、Fortinet | [🔗](https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/) |

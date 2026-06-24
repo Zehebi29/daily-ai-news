@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-24 | K8s团队信自动化发代码但不让AI碰CPU，信任边界明确 | [🔗](https://thenewstack.io/kubernetes-teams-trust-automation/) |
+| 06-24 | GitLab调查：64%开发者验证不理解的AI代码，审查时间涨35% | [🔗](https://thenewstack.io/gitlab-ai-code-governance/) |
 | 06-22 | Claude身份验证倒逼用户转开源，开源与闭源差距在缩小 | [🔗](https://www.marble.onl/posts/cancel_claude.html/) |
 | 06-21 | Claude操控机器人比人类快20倍，Opus 4.7无人协助碾压人类团队 | [🔗](https://www.anthropic.com/research/project-fetch-phase-two) |
 | 06-20 | GitHub正在崩坏？Cursor/GitLab/Zed共识：AI时代需重建代码托管 | [🔗](https://thenewstack.io/cursor-origin-github-disruption/) |

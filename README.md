@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 06-24 周三 · Agent/工程/落地坑
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🛠️ | [Claude Code「深度思考」输出不是真的思考过程](https://news.ycombinator.com/item?id=48630535) | Extended Thinking输出是Anthropic预处理的摘要，319pts引发信任讨论 |
+| 2 | 🤖 | [Martin Fowler：构建可靠Agent系统的三层架构](https://martinfowler.com/articles/reliable-llm-bayer.html) | LLM做推理，harness做管控，tools做执行，可靠性来自harness |
+| 3 | 🔒 | [一个公开Sentry密钥就能劫持Claude Code和Cursor](https://thenewstack.io/agentjacking-sentry-mcp-attack/) | Agentjacking攻击：公开密钥可劫持MCP服务器注入恶意指令 |
+| 4 | 🌐 | [GitLab调查：64%开发者在验证不理解的AI代码](https://thenewstack.io/gitlab-ai-code-governance/) | 78%用AI产出快2.1倍，但审查时间涨35%，「验证债务」浮现 |
+| 5 | 🌐 | [K8s团队信自动化发代码，但坚决不让AI碰CPU](https://thenewstack.io/kubernetes-teams-trust-automation/) | 信任边界：发代码OK调资源不行，AI基础设施层信任建设仍在早期 |
+
 ### 06-23 周二 · AI安全/政策/行业动向
 
 | # | 分类 | 标题 | 简介 |
@@ -44,6 +54,7 @@
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-24](daily/2026-06-24.md) | 周三 | Agent/工程/落地坑 |
 | [06-23](daily/2026-06-23.md) | 周二 | AI安全/政策/行业动向 |
 | [06-22](daily/2026-06-22.md) | 周一 | 模型发布/开源项目周报 |
 | [06-21](daily/2026-06-21.md) | 周日 | 下周预告/趋势前瞻 |
