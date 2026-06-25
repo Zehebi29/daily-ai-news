@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 06-25 | [OpenAI发布自研推理芯片Jalapeño](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) | [🔗](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) |
+| 06-25 | [Mistral OCR 4：SOTA文档AI，170语言+边界框+私有部署](https://mistral.ai/news/ocr-4/) | [🔗](https://mistral.ai/news/ocr-4/) |
+| 06-25 | [GLM-5.2：中国开源编码模型让硅谷刮目相看](https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6) | [🔗](https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6) |
 | 06-22 | Apertus：瑞士开源基础模型(8B/70B)，EPFL+ETH Zurich，1000+语言 | [🔗](https://apertvs.ai/) |
 | DeepSeek Vision | Chat网页端上线图片理解功能，此前仅API可用 | [🔗](https://chat.deepseek.com/) |
 | 06-15 | [智谱GLM-5.2：100万上下文完全开源](https://twitter.com/jietang/status/2065784751345287314) | [🔗](https://news.ycombinator.com/item?id=48518684) |

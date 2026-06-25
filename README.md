@@ -8,6 +8,16 @@
 
 ## 📅 最近更新
 
+### 06-25 周四 · 中国开源/行业动态
+
+| # | 分类 | 标题 | 简介 |
+|:-:|:----:|:-----|:-----|
+| 1 | 🧠 | [OpenAI发布自研推理芯片Jalapeño](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) | 首款自研芯片由博通代工，专为推理优化，降低对英伟达依赖 |
+| 2 | 🛠️ | [Mistral发布OCR 4：170种语言文档识别](https://mistral.ai/news/ocr-4/) | SOTA文档AI，支持边界框定位+私有化部署，企业级场景友好 |
+| 3 | 💰 | [Reid Hoffman怒批xAI是「彻底的灾难」](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/) | LinkedIn创始人公开批评马斯克AI战略，称SpaceX不是AI公司 |
+| 4 | 💰 | [Cerebras上市后首份财报股价暴跌](https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html) | 毛利率预期引发恐慌，叠加限售股解禁压力 |
+| 5 | 🌐 | [中国开源模型GLM-5.2让硅谷刮目相看](https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6) | 智谱开源模型专注长代码任务，编程能力获硅谷关注 |
+
 ### 06-24 周三 · Agent/工程/落地坑
 
 | # | 分类 | 标题 | 简介 |
@@ -54,6 +64,7 @@
 
 | 日期 | 星期 | 主题 |
 |:----:|:----:|:-----|
+| [06-25](daily/2026-06-25.md) | 周四 | 中国开源/行业动态 |
 | [06-24](daily/2026-06-24.md) | 周三 | Agent/工程/落地坑 |
 | [06-23](daily/2026-06-23.md) | 周二 | AI安全/政策/行业动向 |
 | [06-22](daily/2026-06-22.md) | 周一 | 模型发布/开源项目周报 |

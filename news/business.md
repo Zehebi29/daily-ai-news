@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-25 | Reid Hoffman怒批xAI是「彻底的灾难」，称SpaceX不是AI公司 | [🔗](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/) |
+| 06-25 | Cerebras上市后首份财报股价暴跌，毛利率预期引发恐慌 | [🔗](https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html) |
 | 06-23 | Oracle裁员2.1万人，AI替代岗位成主因 | [🔗](https://www.reuters.com/business/world-at-work/oracle-workforce-shrinks-by-about-13-2026-06-22/) |
 | 06-23 | SpaceX签$63亿AI算力合同，开源AI实验室Reflection受益 | [🔗](https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/) |
 | 06-21 | DeepMind人才大逃亡：Shazeer去OpenAI、Jumper去Anthropic，Google花27亿买回两年又跑 | [🔗](https://news.ycombinator.com/item?id=48578913) |
