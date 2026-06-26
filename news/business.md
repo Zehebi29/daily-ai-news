@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06月26日 Notion砍掉邮箱应用，全力押注AI  | Notion关闭邮箱应用，押注AI Agent | [🔗](https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-ap) |
 | 06-25 | Reid Hoffman怒批xAI是「彻底的灾难」，称SpaceX不是AI公司 | [🔗](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/) |
 | 06-25 | Cerebras上市后首份财报股价暴跌，毛利率预期引发恐慌 | [🔗](https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html) |
 | 06-23 | Oracle裁员2.1万人，AI替代岗位成主因 | [🔗](https://www.reuters.com/business/world-at-work/oracle-workforce-shrinks-by-about-13-2026-06-22/) |

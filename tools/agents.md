@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 06月26日 AWS Agent工具包：20+技能但可 | AWS发布20+技能Agent工具包 | [🔗](https://thenewstack.io/aws-agent-toolkit-rules-file/) |
+| 06月26日 DeepSeek Flash让浏览器Ag | 通过代码生成降低浏览器Agent成本 | [🔗](https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent) |
 | 06-24 | Martin Fowler：构建可靠Agent系统三层架构，LLM+harness+tools | [🔗](https://martinfowler.com/articles/reliable-llm-bayer.html) |
 | 06-18 | Vercel Eve：开源Agent框架，Agent当目录管理，持久执行+沙箱隔离 | [🔗](https://vercel.com/blog/introducing-eve) |
 | 06-16 | NewCore：AI Agent身份管理平台，$6600万融资 | [🔗](https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/) |
