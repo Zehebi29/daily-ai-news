@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 2026-06-27 | Gemini 3.5 Flash — 内置原生computer use，可看屏幕、点按钮、填表单 | [🔗](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/) |
 | 06月26日 AWS Agent工具包：20+技能但可 | AWS发布20+技能Agent工具包 | [🔗](https://thenewstack.io/aws-agent-toolkit-rules-file/) |
 | 06月26日 DeepSeek Flash让浏览器Ag | 通过代码生成降低浏览器Agent成本 | [🔗](https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent) |
 | 06-24 | Martin Fowler：构建可靠Agent系统三层架构，LLM+harness+tools | [🔗](https://martinfowler.com/articles/reliable-llm-bayer.html) |

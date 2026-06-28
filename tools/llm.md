@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 2026-06-28 | GPT-5.6 Sol — OpenAI下一代模型预览，特朗普政府要求推迟部署 | [🔗](https://openai.com/index/previewing-gpt-5-6-sol/) |
+| 2026-06-28 | DSpark — DeepSeek开源投机解码框架，加速LLM推理 | [🔗](https://github.com/deepseek-ai/DeepSpec) |
+| 2026-06-27 | Gemini 3.5 Flash — Google新增内置电脑操控能力 | [🔗](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/) |
 | 06-25 | [OpenAI发布自研推理芯片Jalapeño](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) | [🔗](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) |
 | 06-25 | [Mistral OCR 4：SOTA文档AI，170语言+边界框+私有部署](https://mistral.ai/news/ocr-4/) | [🔗](https://mistral.ai/news/ocr-4/) |
 | 06-25 | [GLM-5.2：中国开源编码模型让硅谷刮目相看](https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6) | [🔗](https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6) |

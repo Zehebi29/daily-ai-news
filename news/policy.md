@@ -2,6 +2,7 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 2026-06-28 | 特朗普政府要求OpenAI推迟GPT-5.6部署，同时解禁Anthropic Mythos 5供100+美国公司使用 | [🔗](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-should/) |
 | 06-23 | 堪萨斯市公交安装AI人脸识别引发隐私争议 | [🔗](https://apnews.com/article/kansas-city-facial-recognition-ai-cameras-privacy-87847f57c94b6c2a9e22a7b3a222e703) |
 | 06-22 | Meta员工联名抵制MCI项目采集电脑数据训练AI | [🔗](https://mcipetition.com/) |
 | 06-21 | 特朗普改口不再视Anthropic为威胁，G7会议后态度转变，Fable 5或解禁 | [🔗](https://news.ycombinator.com/item?id=48612877) |

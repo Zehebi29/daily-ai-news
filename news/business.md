@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 2026-06-28 | 亚洲AI公司趁Anthropic出口禁令发布Mythos类模型 | [🔗](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-o/) |
+| 2026-06-28 | Apple Vision Pro高管跳槽OpenAI，OpenAI挖角Uber印度负责人 | [🔗](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) |
+| 2026-06-28 | OpenAI到SpaceX纷纷自研芯片，挑战英伟达垄断 | [🔗](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat) |
 | 06月26日 Notion砍掉邮箱应用，全力押注AI  | Notion关闭邮箱应用，押注AI Agent | [🔗](https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-ap) |
 | 06-25 | Reid Hoffman怒批xAI是「彻底的灾难」，称SpaceX不是AI公司 | [🔗](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/) |
 | 06-25 | Cerebras上市后首份财报股价暴跌，毛利率预期引发恐慌 | [🔗](https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html) |
