@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| [Workweave Router](https://github.com/workweave/router) | 智能模型路由——Claude Code/Codex/Cursor自动选最合适的模型 | [🔗](https://github.com/workweave/router) |
+| [NanoEuler](https://github.com/JustVugg/nanoeuler) | 纯C/CUDA从零实现GPT-2，理解Transformer底层原理 | [🔗](https://github.com/JustVugg/nanoeuler) |
 | 06-22 | ArgusRed：post-train渗透测试模型，审计+攻击双模式CLI | [🔗](https://www.argusred.com/cli/) |
 | 06-22 | Recall：Claude Code本地项目记忆，完全离线 | [🔗](https://github.com/raiyanyahya/recall/) |
 | [Adam CAD](https://github.com/Adam-CAD/CADAM) | 开源文字生成3D CAD工具，YC W25，4472⭐ | [🔗](https://github.com/Adam-CAD/CADAM) |

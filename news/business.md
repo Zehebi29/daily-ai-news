@@ -2,7 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
-| 2026-06-28 | 亚洲AI公司趁Anthropic出口禁令发布Mythos类模型 | [🔗](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-o/) |
+| 06-29 | 福特重新雇用老工程师，承认AI编程没那么神——AI代码质量不行 | [🔗](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/) |
+| 06-29 | Google限制Meta使用Gemini模型，AI算力紧张开始限流 | [🔗](https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html) |
+| 2026-06-28 | 亚洲AI公司趁Anthropic出口禁令发布Mythos类模型
 | 2026-06-28 | Apple Vision Pro高管跳槽OpenAI，OpenAI挖角Uber印度负责人 | [🔗](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) |
 | 2026-06-28 | OpenAI到SpaceX纷纷自研芯片，挑战英伟达垄断 | [🔗](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat) |
 | 06月26日 Notion砍掉邮箱应用，全力押注AI  | Notion关闭邮箱应用，押注AI Agent | [🔗](https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-ap) |

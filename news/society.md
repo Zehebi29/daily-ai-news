@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-29 | LLM镜像测试：AI自我认知争议——模仿还是真正的自我意识？ | [🔗](https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test) |
 | 06月26日 通用LLM在医疗基准测试中击败专业AI工 | 通用LLM在医疗测试中击败专业AI | [🔗](https://www.nature.com/articles/s41591-026-04431-5) |
 | 06-24 | K8s团队信自动化发代码但不让AI碰CPU，信任边界明确 | [🔗](https://thenewstack.io/kubernetes-teams-trust-automation/) |
 | 06-24 | GitLab调查：64%开发者验证不理解的AI代码，审查时间涨35% | [🔗](https://thenewstack.io/gitlab-ai-code-governance/) |
