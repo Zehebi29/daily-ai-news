@@ -2,7 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
-| 06-29 | 福特重新雇用老工程师，承认AI编程没那么神——AI代码质量不行 | [🔗](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/) |
+|| 06-30 | 南韩砸$1万亿应对「RAMageddon」显存危机+押注人形机器人，全球最大AI硬件投资 | [🔗](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/) |
+|| 06-29 | 福特重新雇用老工程师，承认AI编程没那么神——AI代码质量不行 | [🔗](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/) |
 | 06-29 | Google限制Meta使用Gemini模型，AI算力紧张开始限流 | [🔗](https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html) |
 | 2026-06-28 | 亚洲AI公司趁Anthropic出口禁令发布Mythos类模型
 | 2026-06-28 | Apple Vision Pro高管跳槽OpenAI，OpenAI挖角Uber印度负责人 | [🔗](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) |

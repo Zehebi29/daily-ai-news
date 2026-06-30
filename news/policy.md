@@ -2,6 +2,9 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 06-30 | Anthropic与加州州长签首例政府AI合作协议，加州政府半价用Claude | [🔗](https://news.ycombinator.com/item?id=48723859) |
+| 06-30 | TIDAL封杀AI音乐，停掉AI生成内容的变现和收益，最严音乐平台政策 | [🔗](https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/) |
+| 06-30 | Palantir和英伟达推政府AI主权方案：隔离网络跑开源模型 | [🔗](https://thenewstack.io/palantir-nvidia-sovereign-ai/) |
 | 2026-06-28 | 特朗普政府要求OpenAI推迟GPT-5.6部署，同时解禁Anthropic Mythos 5供100+美国公司使用 | [🔗](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-should/) |
 | 06-23 | 堪萨斯市公交安装AI人脸识别引发隐私争议 | [🔗](https://apnews.com/article/kansas-city-facial-recognition-ai-cameras-privacy-87847f57c94b6c2a9e22a7b3a222e703) |
 | 06-22 | Meta员工联名抵制MCI项目采集电脑数据训练AI | [🔗](https://mcipetition.com/) |
