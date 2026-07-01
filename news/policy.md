@@ -2,6 +2,7 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-01 | 美国商务部解除Anthropic Fable 5和Mythos 5出口管制，明天恢复访问，HN 232pts | [🔗](https://thenewstack.io/anthropic-fable-ban-lifted/) |
 | 06-30 | Anthropic与加州州长签首例政府AI合作协议，加州政府半价用Claude | [🔗](https://news.ycombinator.com/item?id=48723859) |
 | 06-30 | TIDAL封杀AI音乐，停掉AI生成内容的变现和收益，最严音乐平台政策 | [🔗](https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/) |
 | 06-30 | Palantir和英伟达推政府AI主权方案：隔离网络跑开源模型 | [🔗](https://thenewstack.io/palantir-nvidia-sovereign-ai/) |

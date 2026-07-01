@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-01 | AWS推出Agent专属云端桌面环境，Agent能操作无API的遗留系统 | [🔗](https://thenewstack.io/aws-workspaces-desktops-for-agents/) |
+| 07-01 | Doordash开源Agentic Orchestrator TUI，管理长时间运行的编码Agent | [🔗](https://github.com/doordash-oss/agentic-orchestrator) |
+| 07-01 | Harness Autonomous Worker Agents，企业安全框架内运行CI/CD Agent | [🔗](https://thenewstack.io/harness-autonomous-worker-agents/) |
 | 2026-06-27 | Gemini 3.5 Flash — 内置原生computer use，可看屏幕、点按钮、填表单 | [🔗](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/) |
 | 06月26日 AWS Agent工具包：20+技能但可 | AWS发布20+技能Agent工具包 | [🔗](https://thenewstack.io/aws-agent-toolkit-rules-file/) |
 | 06月26日 DeepSeek Flash让浏览器Ag | 通过代码生成降低浏览器Agent成本 | [🔗](https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent) |

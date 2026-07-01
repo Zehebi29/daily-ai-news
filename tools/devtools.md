@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-01 | Claude Code悄悄提价5倍，同订阅下可用token降至17% | [🔗](https://www.vincentschmalbach.com/claude-code-quietly-looks-5x-more-expensive/) |
 | [Workweave Router](https://github.com/workweave/router) | 智能模型路由——Claude Code/Codex/Cursor自动选最合适的模型 | [🔗](https://github.com/workweave/router) |
 | [NanoEuler](https://github.com/JustVugg/nanoeuler) | 纯C/CUDA从零实现GPT-2，理解Transformer底层原理 | [🔗](https://github.com/JustVugg/nanoeuler) |
 | 06-22 | ArgusRed：post-train渗透测试模型，审计+攻击双模式CLI | [🔗](https://www.argusred.com/cli/) |
