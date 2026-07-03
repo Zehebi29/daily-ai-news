@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-03 | valmis — 开源生产级AI Agent部署平台，隔离容器运行、不暴露API密钥 | [🔗](https://github.com/valmishq/valmis) |
 | 07-02 | ZCode：智谱AI为GLM-5.2打造的编码工具Harness，对标Claude Code，开源免费 | [🔗](https://zcode.z.ai/en) |
 | 07-01 | AWS推出Agent专属云端桌面环境，Agent能操作无API的遗留系统 | [🔗](https://thenewstack.io/aws-workspaces-desktops-for-agents/) |
 | 07-01 | Doordash开源Agentic Orchestrator TUI，管理长时间运行的编码Agent | [🔗](https://github.com/doordash-oss/agentic-orchestrator) |

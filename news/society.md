@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-03 | The Verge评测：Google新智能音箱硬件出色但Gemini AI体验尚未准备好 | [🔗](https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home) |
 | 06-30 | 检察官用ChatGPT日志当证据，山火案陪审团10:2无法定罪 | [🔗](https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-ar) |
 | 06-29 | LLM镜像测试：AI自我认知争议——模仿还是真正的自我意识？ | [🔗](https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test) |
 | 06月26日 通用LLM在医疗基准测试中击败专业AI工 | 通用LLM在医疗测试中击败专业AI | [🔗](https://www.nature.com/articles/s41591-026-04431-5) |
