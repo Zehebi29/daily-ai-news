@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-04 | HN热帖讨论LLM编程各种用法——写TODO文件驱动Claude到JSX模板管理上下文 | [🔗](https://news.ycombinator.com/item?id=48771515) |
 | 07-03 | The Verge评测：Google新智能音箱硬件出色但Gemini AI体验尚未准备好 | [🔗](https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home) |
 | 06-30 | 检察官用ChatGPT日志当证据，山火案陪审团10:2无法定罪 | [🔗](https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-ar) |
 | 06-29 | LLM镜像测试：AI自我认知争议——模仿还是真正的自我意识？ | [🔗](https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test) |

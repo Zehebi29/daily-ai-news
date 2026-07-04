@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-04 | Leanstral 1.5 — Mistral 119B MoE模型，内置Lean数学证明自动验证 | [🔗](https://mistral.ai/news/leanstral-1-5/) |
 | 2026-06-28 | GPT-5.6 Sol — OpenAI下一代模型预览，特朗普政府要求推迟部署 | [🔗](https://openai.com/index/previewing-gpt-5-6-sol/) |
 | 2026-06-28 | DSpark — DeepSeek开源投机解码框架，加速LLM推理 | [🔗](https://github.com/deepseek-ai/DeepSpec) |
 | 2026-06-27 | Gemini 3.5 Flash — Google新增内置电脑操控能力 | [🔗](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/) |

@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-04 | Anthropic宣布进入药物研发领域，用Claude加速新药发现 | [🔗](https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development) |
 | 07-02 | Palantir总裁Alex Karp炮轰Token计费：OpenAI/Anthropic方向错了，应转开源模型+效率优化 | [🔗](https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html) |
 | 07-02 | Meta内部AI费用逼近数十亿美元开始限流，员工每天token用量被严格控制，AI成本失控信号 | [🔗](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/) |
 || 06-30 | 南韩砸$1万亿应对「RAMageddon」显存危机+押注人形机器人，全球最大AI硬件投资 | [🔗](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/) |
