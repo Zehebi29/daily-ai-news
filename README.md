@@ -4,9 +4,8 @@
 
 | 日期 | 更新内容 | 链接 |
 |:----:|:---------|:----:|
-| 07月03日 | CursorBench编码横评·Google Home+Gemini实测·ctx搜Agent历史·valmis部署平台·BlastRadar风险扫描 | [→](daily/2026-07-03.md) |
-| 07月02日 | ZCode智谱编码工具·Godot封杀AI代码·Kimi登陆Copilot·Meta限流AI | [→](daily/2026-07-02.md) |
-| 07月01日 | Claude Code涨价5倍·AWS给Agent发桌面·Fable 5解禁 | [→](daily/2026-07-01.md) |
+| 07月05日 | 【趋势前瞻】OpenAI给美国政府5%股权·NVIDIA算力换股权·GPT-5.5 Codex翻车·Better Models Worse Tools·Claude Code缓存泄露 | [→](daily/2026-07-05.md) |
+| 07月04日 | Mistral Leanstral 1.5·Mythos CVE飙升·LLM编程讨论·Safari MCP·Anthropic制药 | [→](daily/2026-07-04.md) |
 
 ## 分类索引
 
@@ -34,4 +33,4 @@
 查看 [daily/](daily/) 目录获取所有历史资讯。
 
 ---
-*更新时间: 2026-07-04*
+*更新时间: 2026-07-05*

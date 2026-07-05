@@ -2,6 +2,8 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-05 | OpenAI与美国政府谈判给5%股权，史上首次AI公司与国家深度绑定，134pts | [🔗](https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman) |
+| 07-05 | 弗吉尼亚州通过全美最严地理位置数据销售禁令，945pts HN热议 | [🔗](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) |
 | 07-02 | Godot游戏引擎封杀AI代码贡献，理由「重度AI用户不理解自己的代码」HN 531pts热议 | [🔗](https://news.ycombinator.com/item?id=48743472) |
 | 07-01 | 美国商务部解除Anthropic Fable 5和Mythos 5出口管制，明天恢复访问，HN 232pts | [🔗](https://thenewstack.io/anthropic-fable-ban-lifted/) |
 | 06-30 | Anthropic与加州州长签首例政府AI合作协议，加州政府半价用Claude | [🔗](https://news.ycombinator.com/item?id=48723859) |

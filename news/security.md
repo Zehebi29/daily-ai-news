@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-05 | Claude Code曝会话缓存泄露漏洞，不同工作区用户数据可能串，277分登顶HN | [🔗](https://github.com/anthropics/claude-code/issues/74066) |
+| 07-05 | 新研究揭示AI浏览器安全漏洞，可被攻击者诱导产生幻觉返回错误信息 | [🔗](https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream/) |
 | 07-04 | Mythos发布后CVE激增3.5倍：Epoch AI发现Claude Mythos Preview上线后高危漏洞披露量飙升 | [🔗](https://epoch.ai/data-insights/cve-severity-spike) |
 | 06-24 | Agentjacking：公开Sentry密钥劫持Claude Code/Cursor/Codex的MCP服务器 | [🔗](https://thenewstack.io/agentjacking-sentry-mcp-attack/) |
 | 06-23 | 五眼联盟联合AI安全警告：AI重塑网络威胁格局 | [🔗](https://www.cisa.gov/news-events/news/five-eyes-cyber-security-agencies-statement) |

@@ -2,6 +2,10 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-05 | NVIDIA推算力换股权模式，创业公司用未来收入分成换算力，从芯片商变AI风投 | [🔗](https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html) |
+| 07-05 | Anthropic与三星讨论自研AI芯片，降低对NVIDIA依赖 | [🔗](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with/) |
+| 07-04 | Zuckerberg告诉员工AI Agent进展不如预期，内部坦诚进展缓慢 | [🔗](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-hav/) |
+| 07-04 | 阿里禁止员工使用Claude Code，中国科技巨头收紧AI工具管控 | [🔗](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-c/) |
 | 07-04 | Anthropic宣布进入药物研发领域，用Claude加速新药发现 | [🔗](https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development) |
 | 07-02 | Palantir总裁Alex Karp炮轰Token计费：OpenAI/Anthropic方向错了，应转开源模型+效率优化 | [🔗](https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html) |
 | 07-02 | Meta内部AI费用逼近数十亿美元开始限流，员工每天token用量被严格控制，AI成本失控信号 | [🔗](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/) |
