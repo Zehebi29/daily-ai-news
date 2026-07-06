@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-06 | Dartmouth大学实验：AI一对一辅导效应量0.71-1.30，远超传统教学，今年教育AI最强论文 | [🔗](https://news.ycombinator.com/item?id=48796817) |
 | 07-05 | Flask作者Armin Ronacher「Better Models, Worse Tools」：AI模型在变强但开发工具链在退步，102pts | [🔗](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/) |
 | 07-05 | AI已经摧毁了初级程序员市场，招聘市场萎缩，85pts HN热帖 | [🔗](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/) |
 | 07-04 | OpenAI GPT-5.5 Codex思维token聚类反噬性能，165pts讨论 | [🔗](https://github.com/openai/codex/issues/30364) |

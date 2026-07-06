@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-06 | GPT-5.6 Sol Ultra入驻Codex，OpenAI最新推理模型集成到编程Agent中 | [🔗](https://news.ycombinator.com/item?id=48799614) |
+| 07-03 | Amazon Mechanical Turk停止新用户注册，二十年的AI数据标注平台关闭新入口 | [🔗](https://news.ycombinator.com/item?id=48772317) |
 | 07-05 | NVIDIA推算力换股权模式，创业公司用未来收入分成换算力，从芯片商变AI风投 | [🔗](https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html) |
 | 07-05 | Anthropic与三星讨论自研AI芯片，降低对NVIDIA依赖 | [🔗](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with/) |
 | 07-04 | Zuckerberg告诉员工AI Agent进展不如预期，内部坦诚进展缓慢 | [🔗](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-hav/) |

@@ -4,11 +4,10 @@
 
 | 日期 | 更新内容 | 链接 |
 |:----:|:---------|:----:|
+| 07月06日 | GPT-5.6 Sol Ultra入驻Codex·AI家教效果超预期·Mouse精准编辑·SigMap省97% token·MTurk停止新注册 | [→](daily/2026-07-06.md) |
 | 07月05日 | 【趋势前瞻】OpenAI给美国政府5%股权·NVIDIA算力换股权·GPT-5.5 Codex翻车·Better Models Worse Tools·Claude Code缓存泄露 | [→](daily/2026-07-05.md) |
-| 07月04日 | Mistral Leanstral 1.5·Mythos CVE飙升·LLM编程讨论·Safari MCP·Anthropic制药 | [→](daily/2026-07-04.md) |
 
 ## 分类索引
-
 ### 🛠️ 工具/项目
 
 | 分类 | 文件 | 说明 |
