@@ -2,6 +2,10 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 日期 | 事件 | 简介 | 链接 |
+|:----:|:----|:-----|:----:|
+| 07-07 | JadePuffer勒索软件用AI Agent自动化攻击 | 首个使用AI Agent自动化攻击链的勒索软件，通过Langflow漏洞入侵 | [🔗](https://news.ycombinator.com/item?id=48810780) |
+| 07-07 | MakerChecker开源AI Agent安全扫描器 | 开源工具检查Agent危险能力、越狱风险，支持人机审批 | [🔗](https://github.com/makerchecker/MakerChecker) |
 | 07-05 | Claude Code曝会话缓存泄露漏洞，不同工作区用户数据可能串，277分登顶HN | [🔗](https://github.com/anthropics/claude-code/issues/74066) |
 | 07-05 | 新研究揭示AI浏览器安全漏洞，可被攻击者诱导产生幻觉返回错误信息 | [🔗](https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream/) |
 | 07-04 | Mythos发布后CVE激增3.5倍：Epoch AI发现Claude Mythos Preview上线后高危漏洞披露量飙升 | [🔗](https://epoch.ai/data-insights/cve-severity-spike) |

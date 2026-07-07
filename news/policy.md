@@ -2,6 +2,10 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 日期 | 事件 | 简介 | 链接 |
+|:----:|:----|:-----|:----:|
+| 07-07 | 英国FCA警告AI金融「军备竞赛」 | 英国金融监管局称AI在金融服务领域应用远超监管能力 | [🔗](https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/) |
+| 07-06 | 字节阿里关闭拟人AI Agent·中国7月15新规 | 北京新规要求拟人化AI交互需明确标识，字节阿里紧急调整 | [🔗](https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom) |
 | 07-05 | OpenAI与美国政府谈判给5%股权，史上首次AI公司与国家深度绑定，134pts | [🔗](https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman) |
 | 07-05 | 弗吉尼亚州通过全美最严地理位置数据销售禁令，945pts HN热议 | [🔗](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) |
 | 07-02 | Godot游戏引擎封杀AI代码贡献，理由「重度AI用户不理解自己的代码」HN 531pts热议 | [🔗](https://news.ycombinator.com/item?id=48743472) |

@@ -4,8 +4,8 @@
 
 | 日期 | 更新内容 | 链接 |
 |:----:|:---------|:----:|
+| 07月07日 | JadePuffer勒索软件用AI Agent自动化攻击·英国FCA警告AI金融「军备竞赛」·字节阿里关闭拟人AI Agent·银行云厂商敲响AI泡沫警钟·MakerChecker开源AI Agent安全扫描器 | [→](daily/2026-07-07.md) |
 | 07月06日 | GPT-5.6 Sol Ultra入驻Codex·AI家教效果超预期·Mouse精准编辑·SigMap省97% token·MTurk停止新注册 | [→](daily/2026-07-06.md) |
-| 07月05日 | 【趋势前瞻】OpenAI给美国政府5%股权·NVIDIA算力换股权·GPT-5.5 Codex翻车·Better Models Worse Tools·Claude Code缓存泄露 | [→](daily/2026-07-05.md) |
 
 ## 分类索引
 ### 🛠️ 工具/项目
@@ -32,4 +32,4 @@
 查看 [daily/](daily/) 目录获取所有历史资讯。
 
 ---
-*更新时间: 2026-07-05*
+*更新时间: 2026-07-07*

@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 日期 | 事件 | 简介 | 链接 |
+|:----:|:----|:-----|:----:|
+| 07-07 | 银行和云厂商敲响AI泡沫警钟 | Oracle月跌40%+，BIS警告AI可能摧毁经济，内部人士也开始担忧 | [🔗](https://news.ycombinator.com/item?id=48810702) |
 | 07-06 | GPT-5.6 Sol Ultra入驻Codex，OpenAI最新推理模型集成到编程Agent中 | [🔗](https://news.ycombinator.com/item?id=48799614) |
 | 07-03 | Amazon Mechanical Turk停止新用户注册，二十年的AI数据标注平台关闭新入口 | [🔗](https://news.ycombinator.com/item?id=48772317) |
 | 07-05 | NVIDIA推算力换股权模式，创业公司用未来收入分成换算力，从芯片商变AI风投 | [🔗](https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html) |
