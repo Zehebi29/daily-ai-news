@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-08 | Fortress — 隐身Chromium浏览器，AI Agent反检测指纹防屏蔽，破解Cloudflare等防护 | [🔗](https://github.com/tiliondev/fortress) |
 | 07-06 | Mouse — AI编码Agent精准编辑工具，文件编辑准确率+56%，成本-58%，速度3.6x | [🔗](https://hic-ai.com) |
 | 07-06 | SigMap — AI编程token消耗省97%，签名和证据映射，CI可审计 | [🔗](https://sigmap.io/) |
 | 07-03 | CursorBench 3.1 — AI编码能力评测基准，横向对比8大模型在真实开发场景中的表现 | [🔗](https://cursor.com/evals) |

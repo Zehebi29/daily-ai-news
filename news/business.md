@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-08 | Coinbase运营1200个AI Agent，多模型路由账单砍半，企业Agent工程从堆模型转向精打细算 | [🔗](https://thenewstack.io/multi-model-ai-infrastructure/) |
+| 07-08 | Slopfix公司收费$1万/周帮客户删AI生成垃圾代码，10万行AI意大利面代码删库比重构便宜 | [🔗](https://odra.dev/slopfix/) |
 | 日期 | 事件 | 简介 | 链接 |
 |:----:|:----|:-----|:----:|
 | 07-07 | 银行和云厂商敲响AI泡沫警钟 | Oracle月跌40%+，BIS警告AI可能摧毁经济，内部人士也开始担忧 | [🔗](https://news.ycombinator.com/item?id=48810702) |
