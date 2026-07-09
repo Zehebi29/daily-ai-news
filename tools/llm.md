@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-09 | Grok 4.5 — SpaceX AI发布，Opus级别，Cursorbench超越GPT-5.5成本仅一半，首个通用场景优化Grok | [🔗](https://cursor.com/blog/grok-4-5) |
+| 07-07 | GLM 5.2 — 智谱开源模型，首个在Agent任务中与Opus/GPT媲美，推理成本仅其15-20% | [🔗](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) |
+| 07-07 | Anthropic全局工作空间 — Claude内部信息整合机制类似人脑工作记忆，可解释性重大突破 | [🔗](https://www.anthropic.com/research/global-workspace) |
 | 07-04 | Leanstral 1.5 — Mistral 119B MoE模型，内置Lean数学证明自动验证 | [🔗](https://mistral.ai/news/leanstral-1-5/) |
 | 2026-06-28 | GPT-5.6 Sol — OpenAI下一代模型预览，特朗普政府要求推迟部署 | [🔗](https://openai.com/index/previewing-gpt-5-6-sol/) |
 | 2026-06-28 | DSpark — DeepSeek开源投机解码框架，加速LLM推理 | [🔗](https://github.com/deepseek-ai/DeepSpec) |

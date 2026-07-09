@@ -4,9 +4,8 @@
 
 | 日期 | 更新内容 | 链接 |
 |:----:|:---------|:----:|
+| 07月09日 | Grok 4.5发布·GLM 5.2 AI利润崩塌·Mistral Robostral单摄像头导航·Anthropic全局工作空间·Prime Intellect $130M建Agent | [→](daily/2026-07-09.md) |
 | 07月08日 | $1万/周删AI垃圾代码·YC CEO日写3.7万行AI代码(扒了)·验证循环让DeepSeek编码4x·Coinbase 1200 Agent账单砍半·Fortress隐身穿甲 | [→](daily/2026-07-08.md) |
-| 07月07日 | JadePuffer勒索软件用AI Agent自动化攻击·英国FCA警告AI金融「军备竞赛」·字节阿里关闭拟人AI Agent·银行云厂商敲响AI泡沫警钟·MakerChecker开源AI Agent安全扫描器 | [→](daily/2026-07-07.md) |
-| 07月06日 | GPT-5.6 Sol Ultra入驻Codex·AI家教效果超预期·Mouse精准编辑·SigMap省97% token·MTurk停止新注册 | [→](daily/2026-07-06.md) |
 
 ## 分类索引
 ### 🛠️ 工具/项目
@@ -33,4 +32,4 @@
 查看 [daily/](daily/) 目录获取所有历史资讯。
 
 ---
-*更新时间: 2026-07-08*
+*更新时间: 2026-07-09*

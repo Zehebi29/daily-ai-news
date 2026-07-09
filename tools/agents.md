@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-08 | Mistral Robostral Navigate — 8B参数机器人导航模型，单RGB摄像头达76.6%导航准确率，无需激光雷达 | [🔗](https://mistral.ai/news/robostral-navigate/) |
+| 07-08 | Rowboat — 开源本地优先Claude Desktop替代品，AI coworker with memory | [🔗](https://github.com/rowboatlabs/rowboat) |
+| 07-08 | Prime Intellect — $130M融资，帮企业自建AI Agent系统，不依赖OpenAI/Anthropic | [🔗](https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/) |
 | 07-03 | valmis — 开源生产级AI Agent部署平台，隔离容器运行、不暴露API密钥 | [🔗](https://github.com/valmishq/valmis) |
 | 07-02 | ZCode：智谱AI为GLM-5.2打造的编码工具Harness，对标Claude Code，开源免费 | [🔗](https://zcode.z.ai/en) |
 | 07-01 | AWS推出Agent专属云端桌面环境，Agent能操作无API的遗留系统 | [🔗](https://thenewstack.io/aws-workspaces-desktops-for-agents/) |
