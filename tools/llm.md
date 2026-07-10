@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-10 | Claude Wrapped — Anthropic推出Claude使用报告，展示对话习惯、活跃时段、Prompt效率对比 | [🔗](https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-us) |
 | 07-09 | Grok 4.5 — SpaceX AI发布，Opus级别，Cursorbench超越GPT-5.5成本仅一半，首个通用场景优化Grok | [🔗](https://cursor.com/blog/grok-4-5) |
 | 07-07 | GLM 5.2 — 智谱开源模型，首个在Agent任务中与Opus/GPT媲美，推理成本仅其15-20% | [🔗](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) |
 | 07-07 | Anthropic全局工作空间 — Claude内部信息整合机制类似人脑工作记忆，可解释性重大突破 | [🔗](https://www.anthropic.com/research/global-workspace) |

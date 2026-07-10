@@ -2,6 +2,10 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+|07-09 | Fidji Simo卸任OpenAI AGI负责人，因健康原因辞去no.2职务 | [🔗](https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor) |
+
+|07-09 | OpenAI关闭AI浏览器Atlas，但AI浏览器野心仍在增长 | [🔗](https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down) |
+
 | 07-08 | Prime Intellect完成$130M A轮融资，帮企业自建AI Agent系统，2024年成立YC背景 | [🔗](https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/) |
 | 07-08 | Coinbase运营1200个AI Agent，多模型路由账单砍半，企业Agent工程从堆模型转向精打细算 | [🔗](https://thenewstack.io/multi-model-ai-infrastructure/) |
 | 07-08 | Slopfix公司收费$1万/周帮客户删AI生成垃圾代码，10万行AI意大利面代码删库比重构便宜 | [🔗](https://odra.dev/slopfix/) |

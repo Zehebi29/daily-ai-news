@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-10 | 企业AI基准测试被指已失效—观点文章指出今日AI基准脱离实际应用场景 | [🔗](https://thenewstack.io/enterprise-ai-benchmarks-are-broken/) |
 | 07-08 | YC CEO Garry Tan日写3.7万行AI代码被开发者扒皮，一个页面169次请求6.4MB，AI编码数量≠质量 | [🔗](https://news.ycombinator.com/item?id=48815117) |
 | 07-08 | 验证循环让DeepSeek编码Agent能力涨4倍追平Claude Opus，成本仅1/7，简单验证比换模型更划算 | [🔗](https://ironbee.medium.com/what-a-verification-loop-adds-to-a-coding-agent-a-first-look-5049017e636e) |
 | 07-06 | Dartmouth大学实验：AI一对一辅导效应量0.71-1.30，远超传统教学，今年教育AI最强论文 | [🔗](https://news.ycombinator.com/item?id=48796817) |

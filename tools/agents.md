@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-10 | Flint — 微软开源的AI Agent可视化语言，自然语言描述工作流→交互式图表（流程图/时序图/泳道图），HN 340pts | [🔗](https://microsoft.github.io/flint-chart/) |
+| 07-10 | Web-to-Agent逆向工具 — 把任意网页前端逆向成Agent可调用的函数接口，适合无API遗留系统，HN 28pts | [🔗](https://news.ycombinator.com/item?id=48847834) |
 | 07-08 | Mistral Robostral Navigate — 8B参数机器人导航模型，单RGB摄像头达76.6%导航准确率，无需激光雷达 | [🔗](https://mistral.ai/news/robostral-navigate/) |
 | 07-08 | Rowboat — 开源本地优先Claude Desktop替代品，AI coworker with memory | [🔗](https://github.com/rowboatlabs/rowboat) |
 | 07-08 | Prime Intellect — $130M融资，帮企业自建AI Agent系统，不依赖OpenAI/Anthropic | [🔗](https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/) |

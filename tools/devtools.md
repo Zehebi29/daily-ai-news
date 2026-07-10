@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-10 | JetBrains AI治理层 — 统一管理Claude Code/Codex/Gemini编码Agent的企业级治理平台，代码风格/安全红线集中管控 | [🔗](https://thenewstack.io/jetbrains-ai-team-governance/) |
 | 07-08 | Fortress — 隐身Chromium浏览器，AI Agent反检测指纹防屏蔽，破解Cloudflare等防护 | [🔗](https://github.com/tiliondev/fortress) |
 | 07-06 | Mouse — AI编码Agent精准编辑工具，文件编辑准确率+56%，成本-58%，速度3.6x | [🔗](https://hic-ai.com) |
 | 07-06 | SigMap — AI编程token消耗省97%，签名和证据映射，CI可审计 | [🔗](https://sigmap.io/) |
