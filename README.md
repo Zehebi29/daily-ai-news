@@ -4,8 +4,8 @@
 
 | 日期 | 更新内容 | 链接 |
 |:----:|:---------|:----:|
+| 07月11日 | Apple起诉OpenAI·ChatGPT Work超级应用·12模型编程对比·Gemini 2.5 Flash挽留·AI阅读助手 | [→](daily/2026-07-11.md) |
 | 07月10日 | 微软Flint可视化语言·FL Studio 2026 AI助理·Claude Wrapped·JetBrains Agent治理层·网页逆向Agent工具 | [→](daily/2026-07-10.md) |
-| 07月09日 | Grok 4.5发布·GLM 5.2 AI利润崩塌·Mistral Robostral单摄像头导航·Anthropic全局工作空间·Prime Intellect $130M建Agent | [→](daily/2026-07-09.md) |
 
 ## 分类索引
 ### 🛠️ 工具/项目
@@ -32,4 +32,4 @@
 查看 [daily/](daily/) 目录获取所有历史资讯。
 
 ---
-*更新时间: 2026-07-10*
+*更新时间: 2026-07-11*

@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-11 | Apple起诉OpenAI，指控前员工窃取AI芯片和穿戴设备商业机密，628分HN | [🔗](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) |
+| 07-11 | OpenAI发布ChatGPT Work超级应用，集成代码编辑、文件处理、跨平台协同，348分HN | [🔗](https://news.ycombinator.com/item?id=48849059) |
 |07-09 | Fidji Simo卸任OpenAI AGI负责人，因健康原因辞去no.2职务 | [🔗](https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor) |
 
 |07-09 | OpenAI关闭AI浏览器Atlas，但AI浏览器野心仍在增长 | [🔗](https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down) |
