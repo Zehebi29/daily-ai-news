@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-12 | GPU循环融资揭秘 — Nvidia/CoreWeave/Nebius循环融资揭示算力泡沫风险，174分HN深度分析 | [🔗](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom) |
+| 07-12 | DeepSeek自研AI芯片 — 杭州AI公司DeepSeek设计自研芯片，减少对NVIDIA依赖 | [🔗](https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon) |
+| 07-12 | 三大AI巨头24小时内同时降价 — OpenAI、xAI、Meta同日宣布降价，AI价格战白热化 | [🔗](https://thenewstack.io/openai-spacexai-meta-price-war/) |
 | 07-11 | Apple起诉OpenAI，指控前员工窃取AI芯片和穿戴设备商业机密，628分HN | [🔗](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) |
 | 07-11 | OpenAI发布ChatGPT Work超级应用，集成代码编辑、文件处理、跨平台协同，348分HN | [🔗](https://news.ycombinator.com/item?id=48849059) |
 |07-09 | Fidji Simo卸任OpenAI AGI负责人，因健康原因辞去no.2职务 | [🔗](https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor) |

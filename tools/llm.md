@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-12 | Meta Muse Spark 1.1 — Meta首个付费AI模型，408分HN热榜，专注编码Agent市场 | [🔗](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/) |
 | 07-11 | 12模型编程对比评测 — GPT-5.6/Grok 4.5/Claude等写同样4个App逐行对比代码质量，138分HN | [🔗](https://www.tryai.dev/blog/gpt-5.6-build-off-12-models) |
 | 07-11 | ChatGPT Work — OpenAI超级应用，集成代码/文件/跨平台工作，348分HN | [🔗](https://news.ycombinator.com/item?id=48849059) |
 | 07-10 | Claude Wrapped — Anthropic推出Claude使用报告，展示对话习惯、活跃时段、Prompt效率对比 | [🔗](https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-us) |

@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-12 | HN热帖「Stop Telling Me to Ask an LLM」— 167分讨论开发者对AI万能论产生疲劳，预期管理成焦点 | [🔗](https://news.ycombinator.com/item?id=48900994) |
 | 07-11 | 开发者集体挽留Gemini 2.5 Flash — 社区114分联名，Google计划停用该最受欢迎的模型 | [🔗](https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246) |
 | 07-11 | Ello分享5岁儿童实时AI阅读助手开发经验，真实踩坑记录，HN 139分热议 | [🔗](https://www.ello.com/blog/teaching-a-child-in-1000-ms) |
 | 07-10 | 企业AI基准测试被指已失效—观点文章指出今日AI基准脱离实际应用场景 | [🔗](https://thenewstack.io/enterprise-ai-benchmarks-are-broken/) |

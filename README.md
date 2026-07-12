@@ -4,8 +4,8 @@
 
 | 日期 | 更新内容 | 链接 |
 |:----:|:---------|:----:|
+| 07月12日 | GPU循环融资·DeepSeek自研芯片·三巨头同时降价·Muse Spark 1.1·开发者反感AI万能论 | [→](daily/2026-07-12.md) |
 | 07月11日 | Apple起诉OpenAI·ChatGPT Work超级应用·12模型编程对比·Gemini 2.5 Flash挽留·AI阅读助手 | [→](daily/2026-07-11.md) |
-| 07月10日 | 微软Flint可视化语言·FL Studio 2026 AI助理·Claude Wrapped·JetBrains Agent治理层·网页逆向Agent工具 | [→](daily/2026-07-10.md) |
 
 ## 分类索引
 ### 🛠️ 工具/项目
@@ -32,4 +32,4 @@
 查看 [daily/](daily/) 目录获取所有历史资讯。
 
 ---
-*更新时间: 2026-07-11*
+*更新时间: 2026-07-12*
