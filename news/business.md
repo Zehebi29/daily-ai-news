@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-13 | OpenAI推家庭计划 — ChatGPT深入家庭场景（作业辅导/旅行规划/日程管理），AI从办公桌走向客厅 | [🔗](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households) |
 | 07-12 | GPU循环融资揭秘 — Nvidia/CoreWeave/Nebius循环融资揭示算力泡沫风险，174分HN深度分析 | [🔗](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom) |
 | 07-12 | DeepSeek自研AI芯片 — 杭州AI公司DeepSeek设计自研芯片，减少对NVIDIA依赖 | [🔗](https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon) |
 | 07-12 | 三大AI巨头24小时内同时降价 — OpenAI、xAI、Meta同日宣布降价，AI价格战白热化 | [🔗](https://thenewstack.io/openai-spacexai-meta-price-war/) |

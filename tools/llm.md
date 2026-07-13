@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-13 | GPT-5.6 Sol/Terra/Luna — OpenAI发布新一代模型家族（旗舰Sol/均衡Terra/轻量Luna），微软Copilot 365首选模型，235分HN | [🔗](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/) |
+| 07-13 | Tencent Hy3 — 腾讯开源295B MoE模型，性能匹敌万亿参数SOTA，权重完全开放 | [🔗](https://huggingface.co/tencent/Hy3) |
+| 07-13 | Soofi — 欧洲主权LLM，两月训练完成，权重和技术报告公开发布，证明AI自主化可行 | [🔗](https://huggingface.co/spaces/Soofi-Project/Pretraining-Tech-Report) |
 | 07-12 | Meta Muse Spark 1.1 — Meta首个付费AI模型，408分HN热榜，专注编码Agent市场 | [🔗](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/) |
 | 07-11 | 12模型编程对比评测 — GPT-5.6/Grok 4.5/Claude等写同样4个App逐行对比代码质量，138分HN | [🔗](https://www.tryai.dev/blog/gpt-5.6-build-off-12-models) |
 | 07-11 | ChatGPT Work — OpenAI超级应用，集成代码/文件/跨平台工作，348分HN | [🔗](https://news.ycombinator.com/item?id=48849059) |
