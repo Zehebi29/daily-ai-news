@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-14 | Nous Research $15亿估值 — Hermes Agent开发商获Robot Ventures和USV投资，AI Agent基础设施赛道火热 | [🔗](https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/) |
+| 07-14 | Apple M7 Ultra芯片曝光 — 支持1.5TB统一内存，AI性能对标NVIDIA Blackwell，Apple Car遗产变AI王牌 | [🔗](https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai) |
+| 07-14 | 纳德拉警告AI「双重收费」 — 微软CEO称企业付订阅费的同时泄露核心数据，建议自托管开源模型 | [🔗](https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/) |
 | 07-13 | OpenAI推家庭计划 — ChatGPT深入家庭场景（作业辅导/旅行规划/日程管理），AI从办公桌走向客厅 | [🔗](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households) |
 | 07-12 | GPU循环融资揭秘 — Nvidia/CoreWeave/Nebius循环融资揭示算力泡沫风险，174分HN深度分析 | [🔗](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom) |
 | 07-12 | DeepSeek自研AI芯片 — 杭州AI公司DeepSeek设计自研芯片，减少对NVIDIA依赖 | [🔗](https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon) |

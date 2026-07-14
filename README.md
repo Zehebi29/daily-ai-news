@@ -4,8 +4,8 @@
 
 | 日期 | 更新内容 | 链接 |
 |:----:|:---------|:----:|
+| 07月14日 | 纳德拉AI双重收费警告·Fable 5再延期+Honeycomb·苹果M7 Ultra 1.5TB·Zig怒喷Bun Claude Rust·Nous Research $15亿估值 | [→](daily/2026-07-14.md) |
 | 07月13日 | GPT-5.6 Sol/Terra/Luna发布·腾讯Hy3开源295B MoE·Soofi欧洲主权LLM·Adaptive Recall持久记忆·OpenAI家庭计划 | [→](daily/2026-07-13.md) |
-| 07月12日 | GPU循环融资·DeepSeek自研芯片·三巨头同时降价·Muse Spark 1.1·开发者反感AI万能论 | [→](daily/2026-07-12.md) |
 
 ## 分类索引
 ### 🛠️ 工具/项目
@@ -32,4 +32,4 @@
 查看 [daily/](daily/) 目录获取所有历史资讯。
 
 ---
-*更新时间: 2026-07-13*
+*更新时间: 2026-07-14*

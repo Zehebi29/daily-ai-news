@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-14 | Zig创始人怒喷AI重写 — Bun用Claude Code花$165K和11天Rust重写核心，Kelley称未经审核的AI代码是垃圾，10pts HN | [🔗](https://www.theregister.com/devops/2026/07/14/zig-creator-calls-buns-claude-rust-rewrite-unreviewed-slop/5270743) |
+| 07-14 | Anthropic第五次延期Fable 5 — 免费使用延至7月19日，Cursor编辑器惊现神秘「Honeycomb」模型疑似Opus 5，Anthropic拒绝回应 | [🔗](https://thenewstack.io/fable-5-honeycomb-opus/) |
 | 07-12 | HN热帖「Stop Telling Me to Ask an LLM」— 167分讨论开发者对AI万能论产生疲劳，预期管理成焦点 | [🔗](https://news.ycombinator.com/item?id=48900994) |
 | 07-11 | 开发者集体挽留Gemini 2.5 Flash — 社区114分联名，Google计划停用该最受欢迎的模型 | [🔗](https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246) |
 | 07-11 | Ello分享5岁儿童实时AI阅读助手开发经验，真实踩坑记录，HN 139分热议 | [🔗](https://www.ello.com/blog/teaching-a-child-in-1000-ms) |
