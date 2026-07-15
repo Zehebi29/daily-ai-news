@@ -4,8 +4,8 @@
 
 | 日期 | 更新内容 | 链接 |
 |:----:|:---------|:----:|
-| 07月14日 | 纳德拉AI双重收费警告·Fable 5再延期+Honeycomb·苹果M7 Ultra 1.5TB·Zig怒喷Bun Claude Rust·Nous Research $15亿估值 | [→](daily/2026-07-14.md) |
-| 07月13日 | GPT-5.6 Sol/Terra/Luna发布·腾讯Hy3开源295B MoE·Soofi欧洲主权LLM·Adaptive Recall持久记忆·OpenAI家庭计划 | [→](daily/2026-07-13.md) |
+| 07月15日 | Claude Code vs OpenCode token开销·Codex子Agent加密·Juggler开源GUI编码Agent·MCP治理争议·Agent让merge gate失灵 | [→](daily/2026-07-15.md) |
+|| 07月14日 | 纳德拉AI双重收费警告·Fable 5再延期+Honeycomb·苹果M7 Ultra 1.5TB·Zig怒喷Bun Claude Rust·Nous Research $15亿估值 | [→](daily/2026-07-14.md) |
 
 ## 分类索引
 ### 🛠️ 工具/项目
@@ -32,4 +32,4 @@
 查看 [daily/](daily/) 目录获取所有历史资讯。
 
 ---
-*更新时间: 2026-07-14*
+*更新时间: 2026-07-15*

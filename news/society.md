@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-15 | Agent涌入让merge gate形同虚设 — AI Agent以空前速度灌代码，传统merge gate扛不住，需端到端验证前移到merge前，TNS深度分析 | [🔗](https://thenewstack.io/merge-gate-coding-agents/) |
+| 07-15 | MCP争议本质不是复杂度是治理 — 批评者嫌MCP太复杂，但企业Agent需要协议层统一结构治理和安全控制，TNS观点文章 | [🔗](https://thenewstack.io/mcp-enterprise-agent-governance/) |
+| 07-15 | Claude Code vs OpenCode token开销对比 — Claude Code启动33k tokens vs OpenCode 7k，差距5倍来自MCP schema+指令+子Agent多轮，HN 694pts热议 | [🔗](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) |
 | 07-14 | Zig创始人怒喷AI重写 — Bun用Claude Code花$165K和11天Rust重写核心，Kelley称未经审核的AI代码是垃圾，10pts HN | [🔗](https://www.theregister.com/devops/2026/07/14/zig-creator-calls-buns-claude-rust-rewrite-unreviewed-slop/5270743) |
 | 07-14 | Anthropic第五次延期Fable 5 — 免费使用延至7月19日，Cursor编辑器惊现神秘「Honeycomb」模型疑似Opus 5，Anthropic拒绝回应 | [🔗](https://thenewstack.io/fable-5-honeycomb-opus/) |
 | 07-12 | HN热帖「Stop Telling Me to Ask an LLM」— 167分讨论开发者对AI万能论产生疲劳，预期管理成焦点 | [🔗](https://news.ycombinator.com/item?id=48900994) |

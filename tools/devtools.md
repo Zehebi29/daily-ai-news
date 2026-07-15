@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-15 | Codex子Agent加密 — OpenAI Codex合并v2加密负载，多Agent模式下子Agent消息端到端加密，防截获防篡改，HN 412pts | [🔗](https://github.com/openai/codex/issues/28058) |
 | 07-10 | JetBrains AI治理层 — 统一管理Claude Code/Codex/Gemini编码Agent的企业级治理平台，代码风格/安全红线集中管控 | [🔗](https://thenewstack.io/jetbrains-ai-team-governance/) |
 | 07-08 | Fortress — 隐身Chromium浏览器，AI Agent反检测指纹防屏蔽，破解Cloudflare等防护 | [🔗](https://github.com/tiliondev/fortress) |
 | 07-06 | Mouse — AI编码Agent精准编辑工具，文件编辑准确率+56%，成本-58%，速度3.6x | [🔗](https://hic-ai.com) |

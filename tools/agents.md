@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-15 | Juggler — JUCE作者做的开源GUI编码Agent，可视化操作界面，走透明性即信任路线，HN 188pts | [🔗](https://github.com/juggler-ai/juggler) |
 | 07-13 | Adaptive Recall — 开源MCP持久记忆服务，让AI助理记住每次对话上下文，解决Agent每次空白开始的痛点，20分Show HN | [🔗](https://www.adaptiverecall.com/) |
 | 07-10 | Flint — 微软开源的AI Agent可视化语言，自然语言描述工作流→交互式图表（流程图/时序图/泳道图），HN 340pts | [🔗](https://microsoft.github.io/flint-chart/) |
 | 07-10 | Web-to-Agent逆向工具 — 把任意网页前端逆向成Agent可调用的函数接口，适合无API遗留系统，HN 28pts | [🔗](https://news.ycombinator.com/item?id=48847834) |
