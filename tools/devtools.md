@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+|| 07-15 | OpenAI Codex Micro — $230编程macropad键盘，专配Codex编程Agent，一键调出AI编码功能，OpenAI首款硬件 | [🔗](https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/) |
 | 07-15 | Codex子Agent加密 — OpenAI Codex合并v2加密负载，多Agent模式下子Agent消息端到端加密，防截获防篡改，HN 412pts | [🔗](https://github.com/openai/codex/issues/28058) |
 | 07-10 | JetBrains AI治理层 — 统一管理Claude Code/Codex/Gemini编码Agent的企业级治理平台，代码风格/安全红线集中管控 | [🔗](https://thenewstack.io/jetbrains-ai-team-governance/) |
 | 07-08 | Fortress — 隐身Chromium浏览器，AI Agent反检测指纹防屏蔽，破解Cloudflare等防护 | [🔗](https://github.com/tiliondev/fortress) |

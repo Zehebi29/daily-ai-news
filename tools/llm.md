@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+|| 07-15 | Inkling — Thinking Machines开源975B参数多模态MoE模型，可控推理深度，Tinker平台可微调。HN 746pts美国版DeepSeek时刻 | [🔗](https://thinkingmachines.ai/news/introducing-inkling/) |
 | 07-13 | GPT-5.6 Sol/Terra/Luna — OpenAI发布新一代模型家族（旗舰Sol/均衡Terra/轻量Luna），微软Copilot 365首选模型，235分HN | [🔗](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/) |
 | 07-13 | Tencent Hy3 — 腾讯开源295B MoE模型，性能匹敌万亿参数SOTA，权重完全开放 | [🔗](https://huggingface.co/tencent/Hy3) |
 | 07-13 | Soofi — 欧洲主权LLM，两月训练完成，权重和技术报告公开发布，证明AI自主化可行 | [🔗](https://huggingface.co/spaces/Soofi-Project/Pretraining-Tech-Report) |
