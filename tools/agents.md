@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-17 | LM Studio Bionic — 给本地开源模型配Agent层，自动规划任务/调用工具/多模型切换，本地离线运行零API成本，HN 175pts | [🔗](https://lmstudio.ai/blog/introducing-lm-studio-bionic) |
+| 07-17 | Claude+1Password — Claude直接调用1Password凭证自动登录填表单，全程加密不透传主密码，Agent登录痛点解决方案 | [🔗](https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration) |
 || 07-15 | Vint Cerf AI Agent身份标准 — TCP/IP之父推动AI Agent身份识别标准（IETF），让Agent有可验证的数字身份，可能是Agent时代的TCP/IP | [🔗](https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/) |
 | 07-15 | Juggler — JUCE作者做的开源GUI编码Agent，可视化操作界面，走透明性即信任路线，HN 188pts | [🔗](https://github.com/juggler-ai/juggler) |
 | 07-13 | Adaptive Recall — 开源MCP持久记忆服务，让AI助理记住每次对话上下文，解决Agent每次空白开始的痛点，20分Show HN | [🔗](https://www.adaptiverecall.com/) |

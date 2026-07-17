@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-17 | GPT-Red — OpenAI开源自动化提示注入测试工具，RL训练自动尝试各种攻击方式，已加固GPT-5.6且不增加误拒率 | [🔗](https://thenewstack.io/gpt-red-prompt-injection-testing/) |
+| 07-17 | DoorDash CLI (dd-cli) — 终端里搜餐厅/加购物车/下单点外卖，开发者可让AI Agent帮忙叫饭，限量测试 | [🔗](https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/) |
+| 07-17 | Timeline Scan — AI读取照片背手写字迹+邮戳+画面线索，自动判断老照片真实拍摄日期，整理家庭相册利器 | [🔗](https://timelinescan.com/) |
 || 07-15 | OpenAI Codex Micro — $230编程macropad键盘，专配Codex编程Agent，一键调出AI编码功能，OpenAI首款硬件 | [🔗](https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/) |
 | 07-15 | Codex子Agent加密 — OpenAI Codex合并v2加密负载，多Agent模式下子Agent消息端到端加密，防截获防篡改，HN 412pts | [🔗](https://github.com/openai/codex/issues/28058) |
 | 07-10 | JetBrains AI治理层 — 统一管理Claude Code/Codex/Gemini编码Agent的企业级治理平台，代码风格/安全红线集中管控 | [🔗](https://thenewstack.io/jetbrains-ai-team-governance/) |
