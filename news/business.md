@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+|| 07-18 | 至少105个YC创始人在OpenAI/Anthropic工作 — 人才迁徙图谱显示AI巨头吸走顶级创业者，302pts HN | [🔗](https://joinedanthropic.com) |
+|| 07-18 | 开源AI全球现状调查出炉 — stateofopensource.ai发布全球开源AI生态报告，382pts HN热榜 | [🔗](https://stateofopensource.ai/) |
 || 07-15 | Apple Intelligence入华搭载阿里Qwen — Apple Intelligence获批在中国落地，阿里通义千问成为Apple在华独家AI模型供应商，苹果中国市场AI布局突破 | [🔗](https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/) |
 || 07-15 | 微软培训销售团队贬低OpenAI/Anthropic — 微软培训销售团队向企业客户推自研AI模型，称比OpenAI/Anthropic更高效更便宜，从合作走向全面对抗 | [🔗](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/) |
 | 07-14 | Nous Research $15亿估值 — Hermes Agent开发商获Robot Ventures和USV投资，AI Agent基础设施赛道火热 | [🔗](https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/) |

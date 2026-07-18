@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+|| 07-18 | 人人都被AI搞毛了——除了强推AI的人 — The New Republic评论：硅谷精英和普通人对AI认知鸿沟扩大，62pts HN | [🔗](https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us) |
+|| 07-18 | 程序员AI暴躁吐槽爆火 — 「Grumpy Screed About AI in SE」作者称AI代码淹没软件工程，47pts HN两极讨论 | [🔗](https://sam.sutch.net/posts/a-grumpy-ai-screed) |
+|| 07-18 |「AI让我失去了自我认同」HN热帖 — Ask HN帖子引发AI存在主义危机讨论，11pts数十条走心回复 | [🔗](https://news.ycombinator.com/item?id=48943622) |
 | 07-15 | Agent涌入让merge gate形同虚设 — AI Agent以空前速度灌代码，传统merge gate扛不住，需端到端验证前移到merge前，TNS深度分析 | [🔗](https://thenewstack.io/merge-gate-coding-agents/) |
 | 07-15 | MCP争议本质不是复杂度是治理 — 批评者嫌MCP太复杂，但企业Agent需要协议层统一结构治理和安全控制，TNS观点文章 | [🔗](https://thenewstack.io/mcp-enterprise-agent-governance/) |
 | 07-15 | Claude Code vs OpenCode token开销对比 — Claude Code启动33k tokens vs OpenCode 7k，差距5倍来自MCP schema+指令+子Agent多轮，HN 694pts热议 | [🔗](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) |

@@ -4,6 +4,7 @@
 
 | 日期 | 更新内容 | 链接 |
 |:----:|:---------|:----:|
+| 07月18日 | 人人都被AI搞毛了·开源AI现状报告·暴躁AI吐槽·105个YC创始人在OpenAI·AI让人失去自我认同 | [→](daily/2026-07-18.md) |
 | 07月17日 | LM Studio Bionic本地Agent·Claude接管1Password·GPT-Red安全测试·DoorDash CLI点外卖·Timeline Scan照片日期 | [→](daily/2026-07-17.md) |
 | 07月16日 | Thinking Machines 975B开源·Apple Intelligence入华+Qwen·Vint Cerf Agent身份证·Codex键盘·微软贬低OpenAI | [→](daily/2026-07-16.md) |
 
@@ -32,4 +33,4 @@
 查看 [daily/](daily/) 目录获取所有历史资讯。
 
 ---
-*更新时间: 2026-07-17*
+*更新时间: 2026-07-18*
