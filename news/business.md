@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-19 | OpenAI Codex月活破千万，使用限额反复重置 | [🔗](https://codex-resets.com/) |
 || 07-18 | 至少105个YC创始人在OpenAI/Anthropic工作 — 人才迁徙图谱显示AI巨头吸走顶级创业者，302pts HN | [🔗](https://joinedanthropic.com) |
 || 07-18 | 开源AI全球现状调查出炉 — stateofopensource.ai发布全球开源AI生态报告，382pts HN热榜 | [🔗](https://stateofopensource.ai/) |
 || 07-15 | Apple Intelligence入华搭载阿里Qwen — Apple Intelligence获批在中国落地，阿里通义千问成为Apple在华独家AI模型供应商，苹果中国市场AI布局突破 | [🔗](https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/) |

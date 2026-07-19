@@ -2,6 +2,7 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-17 | DeepMind Hassabis呼吁年底前建立全球AI监管机构 | [🔗](https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind) |
 | 日期 | 事件 | 简介 | 链接 |
 |:----:|:----|:-----|:----:|
 | 07-09 | Google将标注AI生成的广告，广告行业透明度新规 | [🔗](https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label) |
