@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-20 | Anthropic用Claude Code做大规模代码迁移，开源迁移工具，社区反馈全自动仍需人工兜底 | [🔗](https://claude.com/blog/ai-code-migration) |
 || 07-18 | 人人都被AI搞毛了——除了强推AI的人 — The New Republic评论：硅谷精英和普通人对AI认知鸿沟扩大，62pts HN | [🔗](https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us) |
 || 07-18 | 程序员AI暴躁吐槽爆火 — 「Grumpy Screed About AI in SE」作者称AI代码淹没软件工程，47pts HN两极讨论 | [🔗](https://sam.sutch.net/posts/a-grumpy-ai-screed) |
 || 07-18 |「AI让我失去了自我认同」HN热帖 — Ask HN帖子引发AI存在主义危机讨论，11pts数十条走心回复 | [🔗](https://news.ycombinator.com/item?id=48943622) |

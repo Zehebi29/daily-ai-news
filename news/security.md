@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-20 | HuggingFace安全事件：开放模型被用于越狱操作，Guardrails与开放精神的矛盾引发热议 | [🔗](https://huggingface.co/blog/security-incident-july-2026) |
 | 日期 | 事件 | 简介 | 链接 |
 |:----:|:----|:-----|:----:|
 | 07-07 | JadePuffer勒索软件用AI Agent自动化攻击 | 首个使用AI Agent自动化攻击链的勒索软件，通过Langflow漏洞入侵 | [🔗](https://news.ycombinator.com/item?id=48810780) |

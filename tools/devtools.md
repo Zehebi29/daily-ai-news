@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-20 | Deepsec — Vercel开源AI安全检测框架，用coding Agent自动扫描代码漏洞，DevSecOps安全审计自动化 | [🔗](https://github.com/vercel-labs/deepsec) |
 | 07-17 | GPT-Red — OpenAI开源自动化提示注入测试工具，RL训练自动尝试各种攻击方式，已加固GPT-5.6且不增加误拒率 | [🔗](https://thenewstack.io/gpt-red-prompt-injection-testing/) |
 | 07-17 | DoorDash CLI (dd-cli) — 终端里搜餐厅/加购物车/下单点外卖，开发者可让AI Agent帮忙叫饭，限量测试 | [🔗](https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/) |
 | 07-17 | Timeline Scan — AI读取照片背手写字迹+邮戳+画面线索，自动判断老照片真实拍摄日期，整理家庭相册利器 | [🔗](https://timelinescan.com/) |
