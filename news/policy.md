@@ -5,6 +5,10 @@
 | 07-17 | DeepMind Hassabis呼吁年底前建立全球AI监管机构 | [🔗](https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind) |
 | 日期 | 事件 | 简介 | 链接 |
 |:----:|:----|:-----|:----:|
+| 07-21 | 特朗普AI标准与创新中心主任闪电辞职，职位成旋转门，AI政策摇摆 | [🔗](https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/) |
+| 07-21 | OpenAI呼吁美国禁止开源大模型，称中国模型威胁安全，实为商业保护 | [🔗](https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/) |
+| 07-21 | 索尼起诉AI音乐平台Udio侵权3万首歌，AIGC版权争议升级 | [🔗](https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright) |
+| 07-21 | YouTube更新政策明确定义AI垃圾内容，限制变现和下架 | [🔗](https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/) |
 | 07-09 | Google将标注AI生成的广告，广告行业透明度新规 | [🔗](https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label) |
 | 07-07 | 英国FCA警告AI金融「军备竞赛」 | 英国金融监管局称AI在金融服务领域应用远超监管能力 | [🔗](https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/) |
 | 07-06 | 字节阿里关闭拟人AI Agent·中国7月15新规 | 北京新规要求拟人化AI交互需明确标识，字节阿里紧急调整 | [🔗](https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom) |
