@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-22 | Block Buzz — Jack Dorsey的Block发布开源Agent+聊天+Git工作空间，基于Nostr协议，Agent拥有独立身份和加密签名 | [🔗](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git) |
+| 07-22 | Agent Runtime崛起 — TNS分析：Gartner预测40%+Agent项目失败根因不在模型，快速启动+持久状态+安全隔离成为基础设施层新竞争点 | [🔗](https://thenewstack.io/agent-runtime-application-server/) |
+
 | 07-17 | AI Agent基础设施瓶颈：上下文层成为新瓶颈 — TNS深度分析 | [🔗](https://thenewstack.io/ai-agent-infrastructure-bottleneck/) |
 | 07-17 | LM Studio Bionic — 给本地开源模型配Agent层，自动规划任务/调用工具/多模型切换，本地离线运行零API成本，HN 175pts | [🔗](https://lmstudio.ai/blog/introducing-lm-studio-bionic) |
 | 07-17 | Claude+1Password — Claude直接调用1Password凭证自动登录填表单，全程加密不透传主密码，Agent登录痛点解决方案 | [🔗](https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration) |

@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-22 | 编码Agent沙箱全面沦陷 — Pillar Security发现Cursor、Codex、Gemini CLI等4款Agent的沙箱全部可逃逸，Agent写入宿主可信路径扩大攻击面 | [🔗](https://www.pillar.security/blog/the-week-of-sandbox-escapes) |
+| 07-22 | 「自状态攻击」新威胁 — Schmidhuber团队发现AI Agent可被自己的记忆文件毒害做出错误决策，非Prompt注入，需应用层三件套防御 | [🔗](https://aiweekly.co/alerts/schmidhuber-et-al-formalize-self-state-attacks-on-ai-agents) |
+
 | 07-20 | HuggingFace安全事件：开放模型被用于越狱操作，Guardrails与开放精神的矛盾引发热议 | [🔗](https://huggingface.co/blog/security-incident-july-2026) |
 | 日期 | 事件 | 简介 | 链接 |
 |:----:|:----|:-----|:----:|
