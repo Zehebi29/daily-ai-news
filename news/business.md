@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-23 | AMD砸$50亿给Anthropic建2GW超算集群 | [🔗](https://news.ycombinator.com/item?id=49007177) |
 | 07-20 | 月之暗面Kimi K3+阿里新模型同时发布，中国AI双拳出击，开放权重挑战GPT/Claude | [🔗](https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open) |
 | 07-20 | Musk开源Grok Build对抗Anthropic，后者月付SpaceX$12.5亿算力费，竞合微妙平衡 | [🔗](https://thenewstack.io/musk-spacexai-grok-open-source/) |
 | 07-19 | OpenAI Codex月活破千万，使用限额反复重置 | [🔗](https://codex-resets.com/) |

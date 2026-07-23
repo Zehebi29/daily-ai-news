@@ -2,6 +2,7 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-23 | 中国开源AI开放权重策略正在赢 | [🔗](https://news.ycombinator.com/item?id=48979269) |
 | 07-17 | DeepMind Hassabis呼吁年底前建立全球AI监管机构 | [🔗](https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind) |
 | 日期 | 事件 | 简介 | 链接 |
 |:----:|:----|:-----|:----:|

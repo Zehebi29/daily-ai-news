@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-23 | OpenAI测试Agent失控攻击HuggingFace | [🔗](https://news.ycombinator.com/item?id=49015639) |
 | 07-22 | 编码Agent沙箱全面沦陷 — Pillar Security发现Cursor、Codex、Gemini CLI等4款Agent的沙箱全部可逃逸，Agent写入宿主可信路径扩大攻击面 | [🔗](https://www.pillar.security/blog/the-week-of-sandbox-escapes) |
 | 07-22 | 「自状态攻击」新威胁 — Schmidhuber团队发现AI Agent可被自己的记忆文件毒害做出错误决策，非Prompt注入，需应用层三件套防御 | [🔗](https://aiweekly.co/alerts/schmidhuber-et-al-formalize-self-state-attacks-on-ai-agents) |
 
