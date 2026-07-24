@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+|| 07-24 | Cactus Hybrid — 让Gemma 4输出带自信度评分，把握不足时自动转云端强模型，混合推理省钱不减质 | [🔗](https://github.com/cactus-compute/cactus-hybrid) |
 | 07-22 | Block Buzz — Jack Dorsey的Block发布开源Agent+聊天+Git工作空间，基于Nostr协议，Agent拥有独立身份和加密签名 | [🔗](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git) |
 | 07-22 | Agent Runtime崛起 — TNS分析：Gartner预测40%+Agent项目失败根因不在模型，快速启动+持久状态+安全隔离成为基础设施层新竞争点 | [🔗](https://thenewstack.io/agent-runtime-application-server/) |
 

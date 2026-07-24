@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+|| 07-24 | Palmier Pro — 开源macOS AI视频编辑器，Swift+Metal本地推理，语音指令剪辑/跟踪/调色，不用云端API | [🔗](https://github.com/palmier-io/palmier-pro) |
+|| 07-24 | Remux — 开源iPhone版tmux工作区，触控手势深度优化，左右滑切窗/双指缩放/长按菜单，远程运维够用 | [🔗](https://github.com/h3nock/remux) |
+|| 07-24 | OneCLI — 开源凭证网关，给AI Agent安全访问服务而不暴露密钥，内置保险库支持OAuth/API Key/SSH | [🔗](https://github.com/onecli/onecli) |
 | 07-22 | Fractal — 开源递归Agent循环框架，给定顶层目标自动拆解成子任务分配执行并汇总，无需手写编排逻辑 | [🔗](https://github.com/plasma-ai/fractal) |
 
 | 07-20 | Deepsec — Vercel开源AI安全检测框架，用coding Agent自动扫描代码漏洞，DevSecOps安全审计自动化 | [🔗](https://github.com/vercel-labs/deepsec) |

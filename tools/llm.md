@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+|| 07-24 | Echo — 开源推理模型，Fable级效果1/3成本，推理架构优化砍掉注意力冗余计算，权重已开放 | [🔗](https://news.ycombinator.com/item?id=49026810) |
 | 07-20 | Qwen 3.8 — 2.4T参数超大规模模型，即将开源权重，号称仅次于Fable 5，HN 806pts | [🔗](https://news.ycombinator.com/item?id=48966120) |
 | 07-16 | Kimi K3 — 全球首个开放权重3T参数模型，Front End Code Arena登顶超越Fable 5 | [🔗](https://www.kimi.com/blog/kimi-k3) |
 || 07-15 | Inkling — Thinking Machines开源975B参数多模态MoE模型，可控推理深度，Tinker平台可微调。HN 746pts美国版DeepSeek时刻 | [🔗](https://thinkingmachines.ai/news/introducing-inkling/) |
