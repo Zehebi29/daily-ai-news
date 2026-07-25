@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-25 | Flux 3 — 黑森林实验室发布多模态世界模型，一个模型同时学图像/视频/音频和动作预测。同时推出Flux 3 X Mimic子模型做视频动作生成 | [🔗](https://bfl.ai/blog/flux-3) |
 | [Adobe AI助手](https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator) | Photoshop/Premiere接入AI助手，Firefly AI Studio升级 | [🔗](https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator) |
 | Ideogram 4.0 开源 | 首个开放权重93亿参数扩散模型，单流DiT从零训练，支持本地部署微调 | [🔗](https://ideogram.ai/blog/ideogram-4.0/) |
 | Polyend Endless | AI吉他效果器踏板，自然语言描述自动生成效果链 | [🔗](https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal) |

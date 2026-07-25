@@ -2,7 +2,10 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
-| 07-23 | 美国人反对AI数据中心建在自家后院 | [🔗](https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/) |
+|| 07-25 | 「AI编码越强软件越烂」HN热帖 — 作者认为AI编码效率暴增但稳定性下滑，没人真正理解代码在干什么，堆出来的是纸牌屋，573pts | [🔗](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/) |
+|| 07-25 | AI公司隐藏巨额外债 — Futurism调查：数万亿美元数据中心投资不在资产负债表上，繁荣背后是债务，680pts | [🔗](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet) |
+|| 07-25 | Guardian质疑OpenAI「黑客Agent」是营销 — 每次OpenAI渲染AI多危险，投资者听到的其实是AI多强大，438pts | [🔗](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker) |
+|| 07-23 | 美国人反对AI数据中心建在自家后院 | [🔗](https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/) |
 | 07-23 | 陶哲轩用ChatGPT破解Jacobian猜想反例 | [🔗](https://news.ycombinator.com/item?id=49010345) |
 | 07-20 | Anthropic用Claude Code做大规模代码迁移，开源迁移工具，社区反馈全自动仍需人工兜底 | [🔗](https://claude.com/blog/ai-code-migration) |
 || 07-18 | 人人都被AI搞毛了——除了强推AI的人 — The New Republic评论：硅谷精英和普通人对AI认知鸿沟扩大，62pts HN | [🔗](https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us) |
