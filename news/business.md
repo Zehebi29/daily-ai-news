@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+|| 07-26 | Monday.com加入AI裁员潮，今年至少20家科技公司把裁员归功于AI替代 | [🔗](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) |
+|| 07-26 | Reid Hoffman和Mark Pincus创立新AI实验室Prentis，在谈$100M融资 | [🔗](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/) |
+|| 07-26 | DeepSeek突然暂停融资，内部投资人会议录音泄露，CEO坦言中国AI算力跟美国差2-3年，Transcript传GitHub炸了，94pts | [🔗](https://news.ycombinator.com/item?id=49047296) |
 | 07-23 | AMD砸$50亿给Anthropic建2GW超算集群 | [🔗](https://news.ycombinator.com/item?id=49007177) |
 | 07-20 | 月之暗面Kimi K3+阿里新模型同时发布，中国AI双拳出击，开放权重挑战GPT/Claude | [🔗](https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open) |
 | 07-20 | Musk开源Grok Build对抗Anthropic，后者月付SpaceX$12.5亿算力费，竞合微妙平衡 | [🔗](https://thenewstack.io/musk-spacexai-grok-open-source/) |

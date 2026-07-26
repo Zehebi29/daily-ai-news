@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+||| 07-26 | Open-weight AI的K8s时刻 — 开放权重AI进入基础设施标准化阶段，云厂商建Agent沙箱和模型路由，但安全漏洞扎堆，324pts | [🔗](https://news.ycombinator.com/item?id=49048034) |
 || 07-25 | Claude Opus 5 — Anthropic最强Agent模型发布，主打长时稳定性和编程能力提升，HN 1349pts | [🔗](https://www.anthropic.com/news/claude-opus-5) |
 || 07-24 | Echo — 开源推理模型，Fable级效果1/3成本，推理架构优化砍掉注意力冗余计算，权重已开放 | [🔗](https://news.ycombinator.com/item?id=49026810) |
 | 07-20 | Qwen 3.8 — 2.4T参数超大规模模型，即将开源权重，号称仅次于Fable 5，HN 806pts | [🔗](https://news.ycombinator.com/item?id=48966120) |
