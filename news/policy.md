@@ -2,6 +2,7 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-27 | Debian社区投票决定LLM使用方式 — Debian针对LLM生成代码是否进入发行版发起投票，三种方案：禁止/严格标注/完全开放，影响整个开源AI态度，208pts | [🔗](https://www.debian.org/vote/2026/vote_002) |
 || 07-26 | UK AI Safety Institute对Kimi K3发正式安全评估，测网络攻击能力，中国开源模型首次被英美政府级评估，TC称「AI共产主义」冲击华尔街，124pts | [🔗](https://news.ycombinator.com/item?id=49044492) |
 || 07-26 | Nvidia微软Meta等25家公司联合上书反对过度监管开放权重模型，Jensen Huang首条X帖子游说华盛顿，Anthropic/OpenAI拒绝签字，AI路线分歧公开化，647pts | [🔗](https://news.ycombinator.com/item?id=49035303) |
 | 07-23 | 中国开源AI开放权重策略正在赢 | [🔗](https://news.ycombinator.com/item?id=48979269) |

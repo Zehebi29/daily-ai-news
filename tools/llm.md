@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-27 | Claude 5上下文工程新规 — Anthropic发布Claude 5代上下文工程最佳实践，从「堆上下文」转向结构化层级化提示，443pts | [🔗](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) |
+| 07-27 | esp32-ai — $8 ESP32-S3上跑28.9M参数LLM，Per-Layer Embeddings方案，完全本地离线推理9.5tok/s，271pts | [🔗](https://github.com/slvDev/esp32-ai) |
 ||| 07-26 | Open-weight AI的K8s时刻 — 开放权重AI进入基础设施标准化阶段，云厂商建Agent沙箱和模型路由，但安全漏洞扎堆，324pts | [🔗](https://news.ycombinator.com/item?id=49048034) |
 || 07-25 | Claude Opus 5 — Anthropic最强Agent模型发布，主打长时稳定性和编程能力提升，HN 1349pts | [🔗](https://www.anthropic.com/news/claude-opus-5) |
 || 07-24 | Echo — 开源推理模型，Fable级效果1/3成本，推理架构优化砍掉注意力冗余计算，权重已开放 | [🔗](https://news.ycombinator.com/item?id=49026810) |
