@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+|| 07-28 | AI公司狂买稀有图书数字化后销毁原书 — 多家AI公司大量收购稀有学术书籍，扫描后直接销毁原书，图书管理员和学者组织反对，742pts | [🔗](https://news.ycombinator.com/item?id=49068738) |
 || 07-26 | 美国图书馆开始办「Avoiding AI」Workshop报名爆满，公众对AI倦怠情绪蔓延 | [🔗](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/) |
 || 07-25 | 「AI编码越强软件越烂」HN热帖 — 作者认为AI编码效率暴增但稳定性下滑，没人真正理解代码在干什么，堆出来的是纸牌屋，573pts | [🔗](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/) |
 || 07-25 | AI公司隐藏巨额外债 — Futurism调查：数万亿美元数据中心投资不在资产负债表上，繁荣背后是债务，680pts | [🔗](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet) |
