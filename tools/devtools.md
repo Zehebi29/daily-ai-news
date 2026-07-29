@@ -2,7 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
-| 07-27 | AMD机器可读ISA — AMD发布机器可读GPU指令集，AI模型可直接编写ROCm GPU内核，PyTorch Monarch同日登陆AMD，拆NVIDIA护城河，79+21pts | [🔗](https://news.ycombinator.com/item?id=49051720) |
+|| 07-29 | Codex Security — OpenAI开源AI编码安全扫描CLI，自动找代码漏洞，支持插件机制可集成CI流水线，HN 371pts | [🔗](https://github.com/openai/codex-security) |
+|| 07-27 | AMD机器可读ISA — AMD发布机器可读GPU指令集，AI模型可直接编写ROCm GPU内核，PyTorch Monarch同日登陆AMD，拆NVIDIA护城河，79+21pts | [🔗](https://news.ycombinator.com/item?id=49051720) |
 | 07-27 | Cloudflare AI流量管理 — Cloudflare推出AI流量精细化管理，可区分搜索/Agent/训练爬虫，保护广告页面，188pts | [🔗](https://blog.cloudflare.com/content-independence-day-ai-options/) |
 || 07-24 | Palmier Pro — 开源macOS AI视频编辑器，Swift+Metal本地推理，语音指令剪辑/跟踪/调色，不用云端API | [🔗](https://github.com/palmier-io/palmier-pro) |
 || 07-24 | Remux — 开源iPhone版tmux工作区，触控手势深度优化，左右滑切窗/双指缩放/长按菜单，远程运维够用 | [🔗](https://github.com/h3nock/remux) |

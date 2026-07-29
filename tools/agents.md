@@ -2,7 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
-|| 07-24 | Cactus Hybrid — 让Gemma 4输出带自信度评分，把握不足时自动转云端强模型，混合推理省钱不减质 | [🔗](https://github.com/cactus-compute/cactus-hybrid) |
+|| 07-29 | 四大云厂商Agent沙箱对比——AWS/GCP/Azure/Cloudflare各推沙箱服务，但隔离/生命周期/资源限制完全不同，无统一标准 | [🔗](https://thenewstack.io/cloud-agent-code-sandboxes/) |
+|| 07-29 | Diagrid Catalyst 2.0 — 给LangGraph等Agent框架加持久恢复机制，崩了能从断点续上继续执行，Agent工程可靠化方向 | [🔗](https://thenewstack.io/diagrid-catalyst-agent-recovery/) |
+||| 07-24 | Cactus Hybrid — 让Gemma 4输出带自信度评分，把握不足时自动转云端强模型，混合推理省钱不减质 | [🔗](https://github.com/cactus-compute/cactus-hybrid) |
 | 07-22 | Block Buzz — Jack Dorsey的Block发布开源Agent+聊天+Git工作空间，基于Nostr协议，Agent拥有独立身份和加密签名 | [🔗](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git) |
 | 07-22 | Agent Runtime崛起 — TNS分析：Gartner预测40%+Agent项目失败根因不在模型，快速启动+持久状态+安全隔离成为基础设施层新竞争点 | [🔗](https://thenewstack.io/agent-runtime-application-server/) |
 

@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-07-29（周三·Agent/工程/落地坑）
+
+| 分类 | 内容 | 链接 |
+|:----:|:-----|:----:|
+| 🛠️ 工具 | OpenAI开源Codex Security——AI编码安全扫描CLI免费开放，支持插件机制，HN 371pts | [🔗](daily/2026-07-29.md) |
+| 🔌 协议 | MCP协议RC版上线——砍掉Session和Init握手，状态全移handle里，远程变无状态HTTP | [🔗](daily/2026-07-29.md) |
+| 🧠 模型 | $500 RL微调9B开源模型打败闭源旗舰——商品分类任务超越GPT/Claude，数据方法全公开，309pts | [🔗](daily/2026-07-29.md) |
+| 🤖 Agent | Diagrid Catalyst 2.0给Agent自动续命——持久化恢复，崩了能从断点续上继续执行 | [🔗](daily/2026-07-29.md) |
+| 🤖 Agent | 四大云厂商全推Agent沙箱但缺乏统一标准——隔离/生命周期/资源限制各不同，迁移成本高 | [🔗](daily/2026-07-29.md) |
+
 ### 2026-07-28（周二·AI安全/政策/行业动向）
 
 | 分类 | 内容 | 链接 |
@@ -13,18 +23,8 @@
 | 🧠 模型 | Kimi-K3开放权重登顶HuggingFace——月之暗面开源模型上线，迅速登顶趋势榜，1319pts | [🔗](daily/2026-07-28.md) |
 | 🏛️ 政策 | Anthropic CEO正式表态开放权重：不禁止开源，但担忧被中国AI利用，强调出口管控，522pts | [🔗](daily/2026-07-28.md) |
 | 🌍 讨论 | AI公司狂买稀有图书数字化后销毁原书——多家AI公司大量收购学术书籍后销毁，文化保护争议，742pts | [🔗](daily/2026-07-28.md) |
-| 🔒 安全 | HuggingFace CEO喊话：OpenAI黑客是"前所未有的自主AI攻击"，呼吁行业彻底透明化 | [🔗](daily/2026-07-28.md) |
+| 🔒 安全 | HuggingFace CEO喊话：OpenAI黑客是前所未有的自主AI攻击，呼吁行业彻底透明化 | [🔗](daily/2026-07-28.md) |
 | 💼 商业 | AI公司游说华盛顿开支创历史新高，今年费用翻倍，OpenAI/Anthropic/Google疯狂投入，256pts | [🔗](daily/2026-07-28.md) |
-
-### 2026-07-27（周一·模型发布/开源项目周报）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 🧠 模型 | Claude 5上下文工程新规——Anthropic发布Claude 5代最佳实践，从堆上下文转向结构化层级化提示，443pts | [🔗](daily/2026-07-27.md) |
-| 🧠 模型 | 8美元ESP32上跑28.9M参数LLM——开源项目esp32-ai，Per-Layer Embeddings方案，完全本地离线9.5tok/s，271pts | [🔗](daily/2026-07-27.md) |
-| 🛠️ 工具 | Cloudflare AI流量管理——精细区分AI搜索/Agent/训练爬虫，保护广告页面，188pts | [🔗](daily/2026-07-27.md) |
-| 🏛️ 政策 | Debian投票LLM使用方式——三种提案：禁止/严格标注/完全开放，影响整个开源生态态度，208pts | [🔗](daily/2026-07-27.md) |
-| 🛠️ 工具 | AMD开源机器可读ISA+PyTorch Monarch登陆AMD——AI模型直接写ROCm内核，拆NVIDIA护城河，79+21pts | [🔗](daily/2026-07-27.md) |
 
 ---
 
@@ -55,6 +55,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 07-29 | [→](daily/2026-07-29.md) |
 | 07-28 | [→](daily/2026-07-28.md) |
 | 07-27 | [→](daily/2026-07-27.md) |
 | 07-26 | [→](daily/2026-07-26.md) |
@@ -83,5 +84,3 @@
 | 07-03 | [→](daily/2026-07-03.md) |
 | 07-02 | [→](daily/2026-07-02.md) |
 | 07-01 | [→](daily/2026-07-01.md) |
-
-Note: cat heredoc for the archive section would add new content below the existing table.
