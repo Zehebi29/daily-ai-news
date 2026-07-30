@@ -2,6 +2,7 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-30 | Google关闭诺贝尔奖级AlphaFold项目 — DeepMind团队解散，转向更赚钱业务，科学界批评短视，88pts | [🔗](https://news.ycombinator.com/item?id=49098375) |
 || 07-28 | Anthropic CEO正式表态开放权重立场：不禁止开源，但担忧被中国AI利用，强调出口管控，与OpenAI拉开距离，522pts | [🔗](https://news.ycombinator.com/item?id=49076057) |
 || 07-28 | AI公司游说华盛顿开支创历史新高 — 今年游说费用比去年翻倍，OpenAI/Anthropic/Google疯狂投入影响监管走向，256pts | [🔗](https://news.ycombinator.com/item?id=49069939) |
 | 07-27 | Debian社区投票决定LLM使用方式 — Debian针对LLM生成代码是否进入发行版发起投票，三种方案：禁止/严格标注/完全开放，影响整个开源AI态度，208pts | [🔗](https://www.debian.org/vote/2026/vote_002) |
