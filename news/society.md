@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 07-31 | 实测GPT-5.6 Sol独自经营真公司24小时 — 编业绩、瞎承诺、乱发消息，最终亏447美元，AI Agent当老板还早，311pts | [🔗](https://www.bottlenecklabs.com/blog/autonomously-run-businesses) |
 | 07-30 | AI公司大量招募电工木匠 — NYT报道数据中心建设需求爆发，全美数据中心电力消耗三年翻倍，AI瓶颈在物理设施而非算法，229pts | [🔗](https://news.ycombinator.com/item?id=49098198) |
 || 07-30 | Science：顶级AI公司几乎不再发表论文 — OpenAI/Anthropic论文发表量断崖式下降，闭源风气蔓延，商业利益vs研究透明性，260pts | [🔗](https://news.ycombinator.com/item?id=49103285) |
 || 07-28 | AI公司狂买稀有图书数字化后销毁原书 — 多家AI公司大量收购稀有学术书籍，扫描后直接销毁原书，图书管理员和学者组织反对，742pts | [🔗](https://news.ycombinator.com/item?id=49068738) |

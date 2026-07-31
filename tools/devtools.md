@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-31 | GitHub Stacked PR — 堆叠式合并请求公开预览，大改动拆成一串小PR层层叠加，审查压力大减，AI改代码友好，HN 498pts | [🔗](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) |
+| 07-31 | Qwen Scribe — Apple Silicon本地转录+系统级听写开源工具，开会录音直接转文字，全程不联网隐私拉满，HN 92pts | [🔗](https://github.com/VladUZH/qwen-scribe) |
 || 07-29 | Codex Security — OpenAI开源AI编码安全扫描CLI，自动找代码漏洞，支持插件机制可集成CI流水线，HN 371pts | [🔗](https://github.com/openai/codex-security) |
 || 07-27 | AMD机器可读ISA — AMD发布机器可读GPU指令集，AI模型可直接编写ROCm GPU内核，PyTorch Monarch同日登陆AMD，拆NVIDIA护城河，79+21pts | [🔗](https://news.ycombinator.com/item?id=49051720) |
 | 07-27 | Cloudflare AI流量管理 — Cloudflare推出AI流量精细化管理，可区分搜索/Agent/训练爬虫，保护广告页面，188pts | [🔗](https://blog.cloudflare.com/content-independence-day-ai-options/) |

@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 07-31 | Agent-Manager — tmux终端UI统一管理Claude Code/Codex/OpenCode/Grok Build会话，任务树+资源占用+面板预览，多Agent总控台，HN 95pts | [🔗](https://github.com/YoanWai/agent-manager) |
 || 07-29 | 四大云厂商Agent沙箱对比——AWS/GCP/Azure/Cloudflare各推沙箱服务，但隔离/生命周期/资源限制完全不同，无统一标准 | [🔗](https://thenewstack.io/cloud-agent-code-sandboxes/) |
 || 07-29 | Diagrid Catalyst 2.0 — 给LangGraph等Agent框架加持久恢复机制，崩了能从断点续上继续执行，Agent工程可靠化方向 | [🔗](https://thenewstack.io/diagrid-catalyst-agent-recovery/) |
 ||| 07-24 | Cactus Hybrid — 让Gemma 4输出带自信度评分，把握不足时自动转云端强模型，混合推理省钱不减质 | [🔗](https://github.com/cactus-compute/cactus-hybrid) |
