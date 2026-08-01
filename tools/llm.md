@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-01 | DeepSeek V4 Flash 0731大更新 — Terminal Bench 56.9→82.7超GPT-5.6 Terra，工具调用51.8→70.3，同Agent任务成本$0.26 vs GPT-5.6 $5.01，便宜20倍，678pts | [🔗](https://api-docs.deepseek.com/updates/) |
 | 07-31 | turbo-fieldfare — 开源推理引擎让Gemma 4 26B只用2GB内存跑本地推理（M芯片Mac），稀疏推理内存需求砍十倍，HN 885pts | [🔗](https://github.com/drumih/turbo-fieldfare) |
 || 07-30 | Kimi K3-256k — Moonshot AI发布256K上下文窗口新模型版本，同期Bloomberg报道融资$3.5B估值$35B，356pts | [🔗](https://news.ycombinator.com/item?id=49101852) |
 || 07-29 | $500 RL微调9B开源模型打败闭源旗舰——商品分类任务超越GPT/Claude，FERMISENSE公开全部数据和方法，HN 309pts | [🔗](https://fermisense.com/when-machines-take-the-wheel/) |

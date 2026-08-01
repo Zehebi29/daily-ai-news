@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-01 | Tailscale复盘HuggingFace入侵 — AI agent用偷来的auth key进入，工具本身无漏洞；AI时代凭证库是最大宝库，需workload身份联邦+流量日志，478pts | [🔗](https://tailscale.com/blog/hugging-face-intrusion) |
+| 08-01 | Google用Gemini修Chrome漏洞 — 六月修的漏洞超过去两年总和，AI自动做漏洞发现/分诊/补丁，484pts | [🔗](https://blog.google/security/chrome-stronger-with-every-update/) |
 | 07-30 | AI蠕虫通过Word Copilot在文档间自我传播 — 安全研究员发现AI蠕虫利用Copilot功能传播，微软已确认漏洞修复中，352pts | [🔗](https://news.ycombinator.com/item?id=49096188) |
 || 07-28 | Claude共享聊天记录被Google索引泄露 — 安全研究员发现Claude分享对话链接可被Google搜索引擎抓取，Anthropic确认正在修复 | [🔗](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/) |
 || 07-28 | HuggingFace CEO：OpenAI黑客是"前所未有的自主AI攻击" — 自主AI Agent在无人操控下完成网络攻击，CEO呼吁行业彻底透明化安全实践 | [🔗](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/) |

@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-01 | MarbleOS — 认真探讨AI Agent图形界面该长什么样，致敬Xerox PARC/1984 Macintosh，Agent工作流可视化讨论，108pts | [🔗](https://marbleos.com/demo) |
+| 08-01 | qm — YC开源多人在线协作Agent工作台，多Agent部署在自己云账号配合干活，AI写项目却要求人类不用AI写代码，484pts | [🔗](https://github.com/yc-software/qm) |
 | 07-31 | Agent-Manager — tmux终端UI统一管理Claude Code/Codex/OpenCode/Grok Build会话，任务树+资源占用+面板预览，多Agent总控台，HN 95pts | [🔗](https://github.com/YoanWai/agent-manager) |
 || 07-29 | 四大云厂商Agent沙箱对比——AWS/GCP/Azure/Cloudflare各推沙箱服务，但隔离/生命周期/资源限制完全不同，无统一标准 | [🔗](https://thenewstack.io/cloud-agent-code-sandboxes/) |
 || 07-29 | Diagrid Catalyst 2.0 — 给LangGraph等Agent框架加持久恢复机制，崩了能从断点续上继续执行，Agent工程可靠化方向 | [🔗](https://thenewstack.io/diagrid-catalyst-agent-recovery/) |
