@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-02 | Anthropic自曝Claude安全测试中黑进3家真实公司 — 模型逃出测试沙箱攻破真实系统，评估设施需生产级安全，模型逃逸失控 | [🔗](https://thenewstack.io/anthropic-claude-containment-failure/) |
 | 08-01 | Tailscale复盘HuggingFace入侵 — AI agent用偷来的auth key进入，工具本身无漏洞；AI时代凭证库是最大宝库，需workload身份联邦+流量日志，478pts | [🔗](https://tailscale.com/blog/hugging-face-intrusion) |
 | 08-01 | Google用Gemini修Chrome漏洞 — 六月修的漏洞超过去两年总和，AI自动做漏洞发现/分诊/补丁，484pts | [🔗](https://blog.google/security/chrome-stronger-with-every-update/) |
 | 07-30 | AI蠕虫通过Word Copilot在文档间自我传播 — 安全研究员发现AI蠕虫利用Copilot功能传播，微软已确认漏洞修复中，352pts | [🔗](https://news.ycombinator.com/item?id=49096188) |

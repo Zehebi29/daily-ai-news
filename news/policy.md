@@ -2,6 +2,7 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-02 | AI研究者+顶级实验室高管联名信 — 呼吁美国立法框架放缓AI发展，Anthropic表态支持，行业踩刹车声音渐多 | [🔗](https://thenewstack.io/ai-pause-framework-letter/) |
 | 07-30 | Google关闭诺贝尔奖级AlphaFold项目 — DeepMind团队解散，转向更赚钱业务，科学界批评短视，88pts | [🔗](https://news.ycombinator.com/item?id=49098375) |
 || 07-28 | Anthropic CEO正式表态开放权重立场：不禁止开源，但担忧被中国AI利用，强调出口管控，与OpenAI拉开距离，522pts | [🔗](https://news.ycombinator.com/item?id=49076057) |
 || 07-28 | AI公司游说华盛顿开支创历史新高 — 今年游说费用比去年翻倍，OpenAI/Anthropic/Google疯狂投入影响监管走向，256pts | [🔗](https://news.ycombinator.com/item?id=49069939) |

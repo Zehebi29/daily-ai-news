@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-02 | 前OpenAI研究员AI对冲基金SA七月暴跌67% — 杠杆重仓AI股被迫清仓公开持仓，仍持Anthropic股份，AI资本高杠杆敲响警钟，155pts | [🔗](https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/) |
 | 07-30 | Moonshot AI融$3.5B估值$35B — Bloomberg报道，中国AI最大单轮融资之一，同期发布Kimi K3-256k，HN 10pts | [🔗](https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-fu) |
 || 07-26 | Monday.com加入AI裁员潮，今年至少20家科技公司把裁员归功于AI替代 | [🔗](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) |
 || 07-26 | Reid Hoffman和Mark Pincus创立新AI实验室Prentis，在谈$100M融资 | [🔗](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/) |
