@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-03 | Seedance 2.5 — 字节跳动视频生成模型，主打一条过/一镜到底，广告级质感直逼真实广告片，不开源引争议，426pts | [🔗](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) |
 | 07-25 | Flux 3 — 黑森林实验室发布多模态世界模型，一个模型同时学图像/视频/音频和动作预测。同时推出Flux 3 X Mimic子模型做视频动作生成 | [🔗](https://bfl.ai/blog/flux-3) |
 | [Adobe AI助手](https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator) | Photoshop/Premiere接入AI助手，Firefly AI Studio升级 | [🔗](https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator) |
 | Ideogram 4.0 开源 | 首个开放权重93亿参数扩散模型，单流DiT从零训练，支持本地部署微调 | [🔗](https://ideogram.ai/blog/ideogram-4.0/) |

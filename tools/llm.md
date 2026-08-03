@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-03 | OpenAI 10项数学进展 — 模型在数学和理论计算机科学搞定10项进展，配合数学家把证明在Lean里形式化，但透明度受质疑，453pts | [🔗](https://openai.com/index/ten-advances-in-mathematics/) |
+| 08-03 | Karpathy鹈鹕实验 — 给Opus 5《指环王》第一段+百万token预算（约$10）测创造力上限，Karpathy称简单SVG测试已过时，465pts | [🔗](https://news.ycombinator.com/item?id=49140998) |
+| 08-03 | Gemini Robotics 2 — Google DeepMind全身智能机器人模型，手脚躯干感知全联动，更自然完成物理任务，616pts | [🔗](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) |
 | 08-01 | DeepSeek V4 Flash 0731大更新 — Terminal Bench 56.9→82.7超GPT-5.6 Terra，工具调用51.8→70.3，同Agent任务成本$0.26 vs GPT-5.6 $5.01，便宜20倍，678pts | [🔗](https://api-docs.deepseek.com/updates/) |
 | 07-31 | turbo-fieldfare — 开源推理引擎让Gemma 4 26B只用2GB内存跑本地推理（M芯片Mac），稀疏推理内存需求砍十倍，HN 885pts | [🔗](https://github.com/drumih/turbo-fieldfare) |
 || 07-30 | Kimi K3-256k — Moonshot AI发布256K上下文窗口新模型版本，同期Bloomberg报道融资$3.5B估值$35B，356pts | [🔗](https://news.ycombinator.com/item?id=49101852) |
