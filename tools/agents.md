@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-05 | Cloudflare Astro triage bot — 用AI Agent清空五年issue积压，自动分类回复处理，最难决策仍留给人 | [🔗](https://thenewstack.io/cloudflare-astro-triage-bot/) |
+| 08-05 | Nvidia NOOA — 开源Agent框架，一个Python类搞定Agent，透明化便于测试调试但审查安全边界是新课题 | [🔗](https://thenewstack.io/nvidia-nooa-agent-framework/) |
 | 08-01 | MarbleOS — 认真探讨AI Agent图形界面该长什么样，致敬Xerox PARC/1984 Macintosh，Agent工作流可视化讨论，108pts | [🔗](https://marbleos.com/demo) |
 | 08-01 | qm — YC开源多人在线协作Agent工作台，多Agent部署在自己云账号配合干活，AI写项目却要求人类不用AI写代码，484pts | [🔗](https://github.com/yc-software/qm) |
 | 07-31 | Agent-Manager — tmux终端UI统一管理Claude Code/Codex/OpenCode/Grok Build会话，任务树+资源占用+面板预览，多Agent总控台，HN 95pts | [🔗](https://github.com/YoanWai/agent-manager) |

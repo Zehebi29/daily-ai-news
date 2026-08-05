@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-05 | Mistral Shieldstral — 3B开源多模态安全审核分类器，性能超7倍大模型，开放权重可本地部署，327pts | [🔗](https://mistral.ai/news/shieldstral/) |
+| 08-05 | Qwen3.8-Max正式发布 — 阿里编码+协作双强模型，发布即登顶编程榜，被调侃「穿着开源外衣的API商业模式」，1098pts | [🔗](https://qwen.ai/blog?id=qwen3.8) |
 | 08-03 | OpenAI 10项数学进展 — 模型在数学和理论计算机科学搞定10项进展，配合数学家把证明在Lean里形式化，但透明度受质疑，453pts | [🔗](https://openai.com/index/ten-advances-in-mathematics/) |
 | 08-03 | Karpathy鹈鹕实验 — 给Opus 5《指环王》第一段+百万token预算（约$10）测创造力上限，Karpathy称简单SVG测试已过时，465pts | [🔗](https://news.ycombinator.com/item?id=49140998) |
 | 08-03 | Gemini Robotics 2 — Google DeepMind全身智能机器人模型，手脚躯干感知全联动，更自然完成物理任务，616pts | [🔗](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) |
