@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-08-06（周四·中国开源/行业动态）
+
+| 分类 | 内容 | 链接 |
+|:----:|:-----|:----:|
+| 💼 商业 | DeepMind人事大地震 — Hassabis转董事长，Jeff Dean带3人创业Discovery Loop（AI自动化科研），508+624pts | [🔗](daily/2026-08-06.md) |
+| 🧠 模型 | 阿里Qwen Image 3.0 Pro开源 — 复杂排版一次生成，10px小字清晰，4.5K token输入，191pts | [🔗](daily/2026-08-06.md) |
+| 🤖 Agent | Cloudflare OS开源 — Agent时代办公操作系统，人人都能搭应用自动化工作流，482pts | [🔗](daily/2026-08-06.md) |
+| 💼 商业 | Anthropic自研AI芯片 — 组建芯片设计团队与模型协同设计，巨头抢产业链上游 | [🔗](daily/2026-08-06.md) |
+| 🤖 Agent | Meta Muse Code+Spark 1.2 — 终端常驻编码Agent，仓库级执行，开源底座对标Claude Code，194pts | [🔗](daily/2026-08-06.md) |
+
 ### 2026-08-05（周三·Agent/工程/落地坑）
 
 | 分类 | 内容 | 链接 |

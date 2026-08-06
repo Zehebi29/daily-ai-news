@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-06 | Qwen Image 3.0 Pro — 阿里开源图像模型，复杂版面（报纸/故事板/菜单/试卷）一次生成，10px小字清晰，4.5K token输入，191pts | [🔗](https://www.qwencloud.com/models/qwen-image-3.0-pro) |
 | 08-03 | Seedance 2.5 — 字节跳动视频生成模型，主打一条过/一镜到底，广告级质感直逼真实广告片，不开源引争议，426pts | [🔗](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) |
 | 07-25 | Flux 3 — 黑森林实验室发布多模态世界模型，一个模型同时学图像/视频/音频和动作预测。同时推出Flux 3 X Mimic子模型做视频动作生成 | [🔗](https://bfl.ai/blog/flux-3) |
 | [Adobe AI助手](https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator) | Photoshop/Premiere接入AI助手，Firefly AI Studio升级 | [🔗](https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator) |

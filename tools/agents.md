@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-06 | Cloudflare OS — 开源Agent工作平台，基于公司数据/流程构建，人人可搭应用自动化工作，Agent权限边界清晰，482pts | [🔗](https://blog.cloudflare.com/cloudflare-os/) |
+| 08-06 | Meta Muse Code — 终端常驻编码Agent，多个Agent同时干活，仓库级执行+内置验证，Spark 1.2开源底座可自部署，对标Claude Code/Codex，194pts | [🔗](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2) |
 | 08-05 | Cloudflare Astro triage bot — 用AI Agent清空五年issue积压，自动分类回复处理，最难决策仍留给人 | [🔗](https://thenewstack.io/cloudflare-astro-triage-bot/) |
 | 08-05 | Nvidia NOOA — 开源Agent框架，一个Python类搞定Agent，透明化便于测试调试但审查安全边界是新课题 | [🔗](https://thenewstack.io/nvidia-nooa-agent-framework/) |
 | 08-01 | MarbleOS — 认真探讨AI Agent图形界面该长什么样，致敬Xerox PARC/1984 Macintosh，Agent工作流可视化讨论，108pts | [🔗](https://marbleos.com/demo) |
