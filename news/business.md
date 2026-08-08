@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-08 | AMD收购AI芯片初创Taalas — 把模型蚀刻进硅片做专用推理芯片，演示每秒1.7万token，推理军备竞赛进下半场，892pts | [🔗](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) |
 | 08-05 | Anthropic组建芯片设计团队自研AI芯片 — 与模型协同设计让Claude跑得更快更省，AI巨头抢产业链上游 | [🔗](https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/) |
 | 08-06 | DeepMind人事大地震 — Hassabis从CEO转董事长，Jeff Dean带3名顶级工程师离职创业Discovery Loop（AI自动化科学实验），508+624pts | [🔗](https://news.ycombinator.com/item?id=49184755) |
 | 08-02 | 前OpenAI研究员AI对冲基金SA七月暴跌67% — 杠杆重仓AI股被迫清仓公开持仓，仍持Anthropic股份，AI资本高杠杆敲响警钟，155pts | [🔗](https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/) |

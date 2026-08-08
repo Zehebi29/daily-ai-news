@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-08 | NOEMA《为什么科技圈人人都这么丧》— 知识工作者发现工作大多无意义，AI或让我们看到一整类职业集体失信的结果，458pts | [🔗](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) |
+| 08-08 | AI写代码像煎牛排 — 入门几乎无门槛但做好仍需手艺，判断力未被取代；老板只要能用，手艺价值被压缩，398pts | [🔗](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/) |
 | 08-05 | Lilian Weng Harness工程长文 — Agent自我改进关键不在模型而在harness工程层，追溯到1965「智能爆炸」概念，305pts | [🔗](https://lilianweng.github.io/posts/2026-07-04-harness/) |
 | 08-03 | Google Earth AI上线一天就被砍 — AI生成卫星图功能因可批量造假卫星照片遭质疑，上线次日即下架，The Verge/404media报道 | [🔗](https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images) |
 | 08-02 | Billboard热歌被质疑AI生成 — Rubberz爬到Hot 100第58名被疑整首歌AI生成；大唱片公司提案人类创作才能上榜，LinkedIn加AI slop按钮 | [🔗](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop) |

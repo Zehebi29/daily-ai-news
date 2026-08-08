@@ -2,6 +2,7 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-08 | Oracle禁止AI生成代码进OpenJDK — 理由安全/知识产权风险，允许私下用LLM调试；自己内部却大量用AI写代码，双标争议，402pts | [🔗](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) |
 | 08-02 | AI研究者+顶级实验室高管联名信 — 呼吁美国立法框架放缓AI发展，Anthropic表态支持，行业踩刹车声音渐多 | [🔗](https://thenewstack.io/ai-pause-framework-letter/) |
 | 07-30 | Google关闭诺贝尔奖级AlphaFold项目 — DeepMind团队解散，转向更赚钱业务，科学界批评短视，88pts | [🔗](https://news.ycombinator.com/item?id=49098375) |
 || 07-28 | Anthropic CEO正式表态开放权重立场：不禁止开源，但担忧被中国AI利用，强调出口管控，与OpenAI拉开距离，522pts | [🔗](https://news.ycombinator.com/item?id=49076057) |
