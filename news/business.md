@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-09 | 2027内存产能被AI订光 — 三星/海力士/美光三家2027年产能全部售罄给AI公司，内存涨价短期无解，RAMageddon延续，492pts | [🔗](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out) |
 | 08-08 | AMD收购AI芯片初创Taalas — 把模型蚀刻进硅片做专用推理芯片，演示每秒1.7万token，推理军备竞赛进下半场，892pts | [🔗](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) |
 | 08-05 | Anthropic组建芯片设计团队自研AI芯片 — 与模型协同设计让Claude跑得更快更省，AI巨头抢产业链上游 | [🔗](https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/) |
 | 08-06 | DeepMind人事大地震 — Hassabis从CEO转董事长，Jeff Dean带3名顶级工程师离职创业Discovery Loop（AI自动化科学实验），508+624pts | [🔗](https://news.ycombinator.com/item?id=49184755) |

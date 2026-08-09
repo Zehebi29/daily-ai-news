@@ -2,6 +2,8 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-09 | 美国能源部Genesis开放模型计划 — 政府亲自下场做开源AI模型，AI基础设施国家化，国家力量与闭源巨头抢话语权 | [🔗](https://genesisopenmodels.anl.gov/) |
+| 08-09 | 新墨西哥州法院判Meta赔$567m — 补偿平台对青少年心理健康伤害，累计$942m；法院认定Meta明知伤害还掩盖，天价罚单或只是开始，793pts | [🔗](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta) |
 | 08-08 | Oracle禁止AI生成代码进OpenJDK — 理由安全/知识产权风险，允许私下用LLM调试；自己内部却大量用AI写代码，双标争议，402pts | [🔗](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) |
 | 08-02 | AI研究者+顶级实验室高管联名信 — 呼吁美国立法框架放缓AI发展，Anthropic表态支持，行业踩刹车声音渐多 | [🔗](https://thenewstack.io/ai-pause-framework-letter/) |
 | 07-30 | Google关闭诺贝尔奖级AlphaFold项目 — DeepMind团队解散，转向更赚钱业务，科学界批评短视，88pts | [🔗](https://news.ycombinator.com/item?id=49098375) |

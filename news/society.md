@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-09 | Nix开源核心团队集体解散 — 不是没项目了是人没了，长期争议+高压维护致核心成员退出，志愿者模式敲警钟，386pts | [🔗](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413) |
 | 08-08 | NOEMA《为什么科技圈人人都这么丧》— 知识工作者发现工作大多无意义，AI或让我们看到一整类职业集体失信的结果，458pts | [🔗](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) |
 | 08-08 | AI写代码像煎牛排 — 入门几乎无门槛但做好仍需手艺，判断力未被取代；老板只要能用，手艺价值被压缩，398pts | [🔗](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/) |
 | 08-05 | Lilian Weng Harness工程长文 — Agent自我改进关键不在模型而在harness工程层，追溯到1965「智能爆炸」概念，305pts | [🔗](https://lilianweng.github.io/posts/2026-07-04-harness/) |
