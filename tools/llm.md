@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-10 | OpenAI Astra暂缓发布 — 内部测试网络安全能力触及前所未有红线，担心被用于攻击性用途，宁可晚点发也不冒险 | [🔗](https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns) |
 | 08-09 | DeepMind WeatherNext — 飓风预测突破，多给一天预警时间，模型已开源；AI在防灾减灾真实落地 | [🔗](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) |
 | 08-05 | Mistral Shieldstral — 3B开源多模态安全审核分类器，性能超7倍大模型，开放权重可本地部署，327pts | [🔗](https://mistral.ai/news/shieldstral/) |
 | 08-05 | Qwen3.8-Max正式发布 — 阿里编码+协作双强模型，发布即登顶编程榜，被调侃「穿着开源外衣的API商业模式」，1098pts | [🔗](https://qwen.ai/blog?id=qwen3.8) |

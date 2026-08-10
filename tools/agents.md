@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-10 | Kitesurf — Cloudflare的Agent专用浏览器，跑在Workers上无状态可扩展，把浏览器变成AI基础设施，HN 217pts | [🔗](https://blog.cloudflare.com/kitesurf/) |
+| 08-10 | Claude Code Auto模式默认 — 8月14日起大部分套餐默认auto权限模式，每步不再人工点允许，省事但出错率上来 | [🔗](https://simonwillison.net/2026/Aug/8/auto-mode/) |
 | 08-06 | Cloudflare OS — 开源Agent工作平台，基于公司数据/流程构建，人人可搭应用自动化工作，Agent权限边界清晰，482pts | [🔗](https://blog.cloudflare.com/cloudflare-os/) |
 | 08-06 | Meta Muse Code — 终端常驻编码Agent，多个Agent同时干活，仓库级执行+内置验证，Spark 1.2开源底座可自部署，对标Claude Code/Codex，194pts | [🔗](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2) |
 | 08-05 | Cloudflare Astro triage bot — 用AI Agent清空五年issue积压，自动分类回复处理，最难决策仍留给人 | [🔗](https://thenewstack.io/cloudflare-astro-triage-bot/) |

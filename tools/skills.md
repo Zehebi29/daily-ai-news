@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-10 | Agent Plugins标准 — OpenAI/AWS/Cursor/GitHub/微软背书Vercel的统一Agent技能打包格式（skills+MCP servers），跨生态兼容 | [🔗](https://thenewstack.io/agent-plugins-open-standard/) |
 || 07-29 | MCP协议RC版上线——砍掉Session和初始化握手，状态全移到handle，远程更接近无状态HTTP，Agent基础设施最大更新 | [🔗](https://thenewstack.io/mcp-release-candidate-rewrite/) |
 || 07-10 | FL Studio 2026 AI — 内置AI聊天机器人作为录音助理工程师，自然语言描述音效→自动调参数加效果链 | [🔗](https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot) |
 |
