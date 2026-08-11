@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-11 | Meta Muse Glimmer — 30B开源agentic模型专为本地常驻Agent工作流设计，可一直开着跑在普通电脑上，当天HN最大新闻1055pts | [🔗](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) |
+| 08-11 | OpenAI GPT 5.6 Cyber — 专攻漏洞链/零日挖掘的防御模型，需过网络验证流程才能用，模型分级制开始，94pts | [🔗](https://thenewstack.io/openai-gpt56-cyber-daybreak/) |
 | 08-10 | OpenAI Astra暂缓发布 — 内部测试网络安全能力触及前所未有红线，担心被用于攻击性用途，宁可晚点发也不冒险 | [🔗](https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns) |
 | 08-09 | DeepMind WeatherNext — 飓风预测突破，多给一天预警时间，模型已开源；AI在防灾减灾真实落地 | [🔗](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) |
 | 08-05 | Mistral Shieldstral — 3B开源多模态安全审核分类器，性能超7倍大模型，开放权重可本地部署，327pts | [🔗](https://mistral.ai/news/shieldstral/) |

@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-11 | HackerOne衰落 — 全球最大漏洞赏金平台高管度假产品停滞，创始人AI味公关翻车，从金字招牌到被群嘲，370pts | [🔗](https://blog.teknogeek.io/posts/what-happened-to-hackerone/) |
+| 08-11 | 扎克伯格6500字AI宣言 — 炮轰闭源对手押注个人超级智能，舆论不买账，开源闭源路线战争摆上台面，401pts | [🔗](https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/) |
 | 08-10 | SAP冻结大部分招聘出差 — 理由直言AI太烧钱，「花钱上保持自律」；但AI相关投入一分不少，砍传统预算全力押注AI，93pts | [🔗](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/) |
 | 08-09 | 2027内存产能被AI订光 — 三星/海力士/美光三家2027年产能全部售罄给AI公司，内存涨价短期无解，RAMageddon延续，492pts | [🔗](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out) |
 | 08-08 | AMD收购AI芯片初创Taalas — 把模型蚀刻进硅片做专用推理芯片，演示每秒1.7万token，推理军备竞赛进下半场，892pts | [🔗](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) |

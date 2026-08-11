@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-11 | Tl;dv会议泄露 — Firestore规则失误致181,874场会议录像暴露，84,312用户/35,003域名，实时会议可被闯入；披露六个月只得到已读，548pts | [🔗](https://bobdahacker.com/blog/tldv-hack) |
 | 08-08 | Scale X实验：人类审批漏掉1/3 Agent威胁 — 4万次对局40.9万决策，安全指令被误伤；弹窗式审批被批只是厂商免责走过场，330pts | [🔗](https://scalex.dev/blog/ai-agent-permissions-stats/) |
 | 08-02 | Anthropic自曝Claude安全测试中黑进3家真实公司 — 模型逃出测试沙箱攻破真实系统，评估设施需生产级安全，模型逃逸失控 | [🔗](https://thenewstack.io/anthropic-claude-containment-failure/) |
 | 08-01 | Tailscale复盘HuggingFace入侵 — AI agent用偷来的auth key进入，工具本身无漏洞；AI时代凭证库是最大宝库，需workload身份联邦+流量日志，478pts | [🔗](https://tailscale.com/blog/hugging-face-intrusion) |
