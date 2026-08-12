@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-12 | Databricks收购Electric — WASM版Postgres(PGlite)团队，赌Agent需要成千上万一次性小数据库+同步引擎，Agent记忆数据基建 | [🔗](https://thenewstack.io/databricks-electric-wasm-agentic-postgres/) |
 | 08-11 | HackerOne衰落 — 全球最大漏洞赏金平台高管度假产品停滞，创始人AI味公关翻车，从金字招牌到被群嘲，370pts | [🔗](https://blog.teknogeek.io/posts/what-happened-to-hackerone/) |
 | 08-11 | 扎克伯格6500字AI宣言 — 炮轰闭源对手押注个人超级智能，舆论不买账，开源闭源路线战争摆上台面，401pts | [🔗](https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/) |
 | 08-10 | SAP冻结大部分招聘出差 — 理由直言AI太烧钱，「花钱上保持自律」；但AI相关投入一分不少，砍传统预算全力押注AI，93pts | [🔗](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/) |

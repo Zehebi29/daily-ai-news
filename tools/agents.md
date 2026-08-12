@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-12 | Docker Sandboxes — 给Claude Code/Codex/Gemini/Kiro编程Agent的微虚拟机一次性沙箱，用完即弃防乱改宿主，HN 678pts但强制登录被吐槽 | [🔗](https://www.docker.com/products/docker-sandboxes/) |
 | 08-10 | Kitesurf — Cloudflare的Agent专用浏览器，跑在Workers上无状态可扩展，把浏览器变成AI基础设施，HN 217pts | [🔗](https://blog.cloudflare.com/kitesurf/) |
 | 08-10 | Claude Code Auto模式默认 — 8月14日起大部分套餐默认auto权限模式，每步不再人工点允许，省事但出错率上来 | [🔗](https://simonwillison.net/2026/Aug/8/auto-mode/) |
 | 08-06 | Cloudflare OS — 开源Agent工作平台，基于公司数据/流程构建，人人可搭应用自动化工作，Agent权限边界清晰，482pts | [🔗](https://blog.cloudflare.com/cloudflare-os/) |

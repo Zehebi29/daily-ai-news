@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-12 | ChatGPT/Codex桌面版Linux — OpenAI官方ChatGPT桌面应用上Linux，ChatGPT Work+Codex+原生包+内置浏览器 | [🔗](https://thenewstack.io/openais-chatgpt-desktop-linux/) |
 | 07-31 | GitHub Stacked PR — 堆叠式合并请求公开预览，大改动拆成一串小PR层层叠加，审查压力大减，AI改代码友好，HN 498pts | [🔗](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) |
 | 07-31 | Qwen Scribe — Apple Silicon本地转录+系统级听写开源工具，开会录音直接转文字，全程不联网隐私拉满，HN 92pts | [🔗](https://github.com/VladUZH/qwen-scribe) |
 || 07-29 | Codex Security — OpenAI开源AI编码安全扫描CLI，自动找代码漏洞，支持插件机制可集成CI流水线，HN 371pts | [🔗](https://github.com/openai/codex-security) |

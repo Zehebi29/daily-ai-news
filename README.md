@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-08-12（周三·Agent/工程/落地坑）
+
+| 分类 | 内容 | 链接 |
+|:----:|:-----|:----:|
+| 🔒 安全 | AI加密思维链被偷 — 加密CoT痕迹可跨会话/用户/模型重放，越狱弱模型还原隐藏推理，加密≠防偷，524pts | [🔗](daily/2026-08-12.md) |
+| 🤖 Agent | Docker Sandboxes — 给Claude Code/Codex/Gemini/Kiro编程Agent的微虚拟机一次性沙箱，防乱改宿主，678pts但强制登录被吐槽 | [🔗](daily/2026-08-12.md) |
+| 🌍 社会 | Google：Go最适合AI辅助编程 — AI把工程从写代码变审代码，严格编译器+统一工具链保证AI代码可靠，298pts | [🔗](daily/2026-08-12.md) |
+| 💼 商业 | Databricks收购Electric — WASM版Postgres(PGlite)团队，赌Agent需要成千上万一次性小数据库+同步引擎 | [🔗](daily/2026-08-12.md) |
+| 🛠️ 工具 | ChatGPT/Codex桌面版上Linux — ChatGPT Work+Codex+原生包+内置浏览器，开发者生态补齐 | [🔗](daily/2026-08-12.md) |
+
 ### 2026-08-11（周二·AI安全/政策/行业动向）
 
 | 分类 | 内容 | 链接 |
@@ -57,16 +67,6 @@
 | 💼 商业 | Anthropic自研AI芯片 — 组建芯片设计团队与模型协同设计，巨头抢产业链上游 | [🔗](daily/2026-08-06.md) |
 | 🤖 Agent | Meta Muse Code+Spark 1.2 — 终端常驻编码Agent，仓库级执行，开源底座对标Claude Code，194pts | [🔗](daily/2026-08-06.md) |
 
-### 2026-08-05（周三·Agent/工程/落地坑）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 🧠 模型 | Qwen3.8-Max正式发布 — 编码+协作双强登顶编程榜，开源争议发酵，1098pts | [🔗](daily/2026-08-05.md) |
-| 🤖 Agent | Nvidia开源NOOA — 一个Python类搞定Agent，透明化带来审查新课题 | [🔗](daily/2026-08-05.md) |
-| 🤖 Agent | Cloudflare用AI Agent清空五年Issue积压 — triage机器人自动处理，最难仍留给人 | [🔗](daily/2026-08-05.md) |
-| 🧠 模型 | Mistral Shieldstral — 3B开源审核模型吊打7倍大模型，可本地部署 | [🔗](daily/2026-08-05.md) |
-| 🌍 社会 | Lilian Weng长文 — Agent自我改进的关键在Harness工程层 | [🔗](daily/2026-08-05.md) |
-
 ### 🛠️ 工具/项目
 
 | 分类 | 说明 | 文件 |
@@ -92,6 +92,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+|| 08-12 | [→](daily/2026-08-12.md) |
 || 08-11 | [→](daily/2026-08-11.md) |
 || 08-10 | [→](daily/2026-08-10.md) |
 || 08-08 | [→](daily/2026-08-08.md) |
