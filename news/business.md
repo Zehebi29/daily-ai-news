@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-13 | Lovable估值$13.3B再融$400M — 年化收入破$500M，AI应用层吸金王；Cognition也传出$40B估值融资谈判 | [🔗](https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/) |
+| 08-13 | OpenAI老将COO Brad Lightcap离职创业 — 「换个角度继续推进使命」，此前伦理主管刚走，高管出走潮延续 | [🔗](https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/) |
 | 08-12 | Databricks收购Electric — WASM版Postgres(PGlite)团队，赌Agent需要成千上万一次性小数据库+同步引擎，Agent记忆数据基建 | [🔗](https://thenewstack.io/databricks-electric-wasm-agentic-postgres/) |
 | 08-11 | HackerOne衰落 — 全球最大漏洞赏金平台高管度假产品停滞，创始人AI味公关翻车，从金字招牌到被群嘲，370pts | [🔗](https://blog.teknogeek.io/posts/what-happened-to-hackerone/) |
 | 08-11 | 扎克伯格6500字AI宣言 — 炮轰闭源对手押注个人超级智能，舆论不买账，开源闭源路线战争摆上台面，401pts | [🔗](https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/) |

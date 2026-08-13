@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-13 | Grok 4.6 — xAI发布，专攻长时运行Agent+复杂交互视觉，Fable级性能更快更便宜，Cursor已接入，429pts | [🔗](https://x.ai/news/grok-4-6) |
+| 08-13 | Qwen3.8-2.4T开源权重 — 2.4T总参数MoE(95B激活)，Simon Willison称史上最大开源权重发布，ModelScope+HF同步上架，519pts | [🔗](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) |
+| 08-13 | DeepSeek V4 Pro 0813 — 百万token上下文/38万输出上限，输入$0.435+输出$0.87每百万token，能力接近Opus 4.8但便宜一大截，HN 780pts | [🔗](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) |
 | 08-11 | Meta Muse Glimmer — 30B开源agentic模型专为本地常驻Agent工作流设计，可一直开着跑在普通电脑上，当天HN最大新闻1055pts | [🔗](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) |
 | 08-11 | OpenAI GPT 5.6 Cyber — 专攻漏洞链/零日挖掘的防御模型，需过网络验证流程才能用，模型分级制开始，94pts | [🔗](https://thenewstack.io/openai-gpt56-cyber-daybreak/) |
 | 08-10 | OpenAI Astra暂缓发布 — 内部测试网络安全能力触及前所未有红线，担心被用于攻击性用途，宁可晚点发也不冒险 | [🔗](https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns) |
