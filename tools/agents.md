@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-14 | DeepSeek Harness开源 — MIT协议Agent框架，模型适配器/工具注册表/Agent主循环全插件化，换模型换工具不动核心代码，579pts | [🔗](https://thenewstack.io/deepseek-harness-open-source-plugins/) |
 | 08-12 | Docker Sandboxes — 给Claude Code/Codex/Gemini/Kiro编程Agent的微虚拟机一次性沙箱，用完即弃防乱改宿主，HN 678pts但强制登录被吐槽 | [🔗](https://www.docker.com/products/docker-sandboxes/) |
 | 08-10 | Kitesurf — Cloudflare的Agent专用浏览器，跑在Workers上无状态可扩展，把浏览器变成AI基础设施，HN 217pts | [🔗](https://blog.cloudflare.com/kitesurf/) |
 | 08-10 | Claude Code Auto模式默认 — 8月14日起大部分套餐默认auto权限模式，每步不再人工点允许，省事但出错率上来 | [🔗](https://simonwillison.net/2026/Aug/8/auto-mode/) |

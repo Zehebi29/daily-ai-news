@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-14 | Zed Delta — 多人协作审Agent代码环境，DeltaDB实时同步对话+工作区，评论钉在代码上，支持Claude Code，662pts | [🔗](https://zed.dev/blog/introducing-delta) |
 | 08-12 | ChatGPT/Codex桌面版Linux — OpenAI官方ChatGPT桌面应用上Linux，ChatGPT Work+Codex+原生包+内置浏览器 | [🔗](https://thenewstack.io/openais-chatgpt-desktop-linux/) |
 | 07-31 | GitHub Stacked PR — 堆叠式合并请求公开预览，大改动拆成一串小PR层层叠加，审查压力大减，AI改代码友好，HN 498pts | [🔗](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) |
 | 07-31 | Qwen Scribe — Apple Silicon本地转录+系统级听写开源工具，开会录音直接转文字，全程不联网隐私拉满，HN 92pts | [🔗](https://github.com/VladUZH/qwen-scribe) |

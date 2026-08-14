@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-14 | Gemini 3.7 Flash — 编码/Agent大涨，FrontierCode 34.4→43.6，DeepSWE 49→65.3%，促销价$0.75/$3.75明年1月翻倍，656pts | [🔗](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) |
+| 08-14 | GPT-5.6 Sol Ultrafast — Cerebras驱动，比Fable 5快11倍/比Opus 4.8快5倍，2500道博士题11h vs 78h，463pts | [🔗](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) |
 | 08-13 | Grok 4.6 — xAI发布，专攻长时运行Agent+复杂交互视觉，Fable级性能更快更便宜，Cursor已接入，429pts | [🔗](https://x.ai/news/grok-4-6) |
 | 08-13 | Qwen3.8-2.4T开源权重 — 2.4T总参数MoE(95B激活)，Simon Willison称史上最大开源权重发布，ModelScope+HF同步上架，519pts | [🔗](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) |
 | 08-13 | DeepSeek V4 Pro 0813 — 百万token上下文/38万输出上限，输入$0.435+输出$0.87每百万token，能力接近Opus 4.8但便宜一大截，HN 780pts | [🔗](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) |
