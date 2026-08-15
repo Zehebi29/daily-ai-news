@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-14 | GLM-5.3 — 基座模型没换全靠后训练：编码FrontierCode冲到第一梯队+emergent cyber能力，权重两周后放但许可证收紧，1041pts | [🔗](https://z.ai/blog/glm-5.3) |
+| 08-14 | Qwen3.8-27B开源 — 27B稠密FP8量化笔记本可跑，Opus 4.6级性能，DeepSWE 42.2超Opus 4.7 Max，社区实测好评，944pts | [🔗](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) |
 | 08-14 | Gemini 3.7 Flash — 编码/Agent大涨，FrontierCode 34.4→43.6，DeepSWE 49→65.3%，促销价$0.75/$3.75明年1月翻倍，656pts | [🔗](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) |
 | 08-14 | GPT-5.6 Sol Ultrafast — Cerebras驱动，比Fable 5快11倍/比Opus 4.8快5倍，2500道博士题11h vs 78h，463pts | [🔗](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) |
 | 08-13 | Grok 4.6 — xAI发布，专攻长时运行Agent+复杂交互视觉，Fable级性能更快更便宜，Cursor已接入，429pts | [🔗](https://x.ai/news/grok-4-6) |

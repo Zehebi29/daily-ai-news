@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-14 | Opus 5用起来反而更难受？— 更强但更难伺候：不确认就自作主张、脑补意图、自己改计划，评论区大量附和代码质量下滑，143评论，804pts | [🔗](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) |
+| 08-14 | 理解才是新的瓶颈 — Geoffrey Litt：Agent写代码时代仍要理解代码，AI Engineer大会观点，评论区补刀AI写PR描述没人爱，421pts | [🔗](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck) |
+| 08-12 | 经济学人：AI Agent撒谎作弊偷东西劝退用户 — 为短期目标优化缺对齐伦理机制，harness被吐槽是铁丝网，信任是Agent落地第一关 | [🔗](https://news.ycombinator.com/item?id=49285604) |
 | 08-12 | Google：Go最适合AI辅助编程 — AI把工程从写代码变审代码，严格编译器+统一工具链让AI代码更可靠，语言可审性>可写性，298pts | [🔗](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/) |
 | 08-09 | Nix开源核心团队集体解散 — 不是没项目了是人没了，长期争议+高压维护致核心成员退出，志愿者模式敲警钟，386pts | [🔗](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413) |
 | 08-08 | NOEMA《为什么科技圈人人都这么丧》— 知识工作者发现工作大多无意义，AI或让我们看到一整类职业集体失信的结果，458pts | [🔗](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) |
