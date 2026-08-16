@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-16 | DeepSeek峰谷分时定价 — API错峰时段打五折(谷时比峰时低50%)，8/16生效；Ars: OpenAI/Anthropic被中国对手卷进价格战，「前沿竞争的不是智能是定价权」 | [🔗](https://api-docs.deepseek.com/news/news260813/) |
 | 08-14 | GLM-5.3 — 基座模型没换全靠后训练：编码FrontierCode冲到第一梯队+emergent cyber能力，权重两周后放但许可证收紧，1041pts | [🔗](https://z.ai/blog/glm-5.3) |
 | 08-14 | Qwen3.8-27B开源 — 27B稠密FP8量化笔记本可跑，Opus 4.6级性能，DeepSWE 42.2超Opus 4.7 Max，社区实测好评，944pts | [🔗](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) |
 | 08-14 | Gemini 3.7 Flash — 编码/Agent大涨，FrontierCode 34.4→43.6，DeepSWE 49→65.3%，促销价$0.75/$3.75明年1月翻倍，656pts | [🔗](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) |

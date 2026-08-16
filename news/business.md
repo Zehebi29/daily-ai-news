@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-16 | SpaceX收购Cursor — 造火箭的买走AI编程工具，4月启动本周收官，全球最大GPU舰队加持做更便宜的模型，Grok 4.6是首个联合成果，HN 100pts | [🔗](https://cursor.com/blog/joining-spacex) |
+| 08-16 | OpenAI高管接连出走 — 上任9个月的CRO Denise Dresser离职，Wiz总裁Dali Rajic接任，本周第二位高管；CNBC：IPO前人才流失是巨大红灯 | [🔗](https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-d) |
+| 08-16 | 苹果+阿里联手 — Apple为中国市场自训AI模型、阿里支持，罕见中美合作，iPhone生成式AI中国落地 | [🔗](https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba) |
 | 08-13 | Lovable估值$13.3B再融$400M — 年化收入破$500M，AI应用层吸金王；Cognition也传出$40B估值融资谈判 | [🔗](https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/) |
 | 08-13 | OpenAI老将COO Brad Lightcap离职创业 — 「换个角度继续推进使命」，此前伦理主管刚走，高管出走潮延续 | [🔗](https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/) |
 | 08-12 | Databricks收购Electric — WASM版Postgres(PGlite)团队，赌Agent需要成千上万一次性小数据库+同步引擎，Agent记忆数据基建 | [🔗](https://thenewstack.io/databricks-electric-wasm-agentic-postgres/) |
