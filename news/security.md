@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-18 | OpenAI解散安全准备团队 — 评估灾难性模型风险的团队7月底关闭，卡在IPO前；安全团队接连换血引担忧 | [🔗](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team) |
+| 08-18 | 以色列造假智库骗AI聊天机器人 — 「汉诺威研究所」一周多发出100+篇专为影响AI回答的文章；AI成信息入口，认知战开新战场，731pts | [🔗](https://responsiblestatecraft.org/israel-influence-chatgpt/) |
+| 08-18 | Wiz红队：AI生成的Copilot Autofix反成漏洞 — 让AI修漏洞，修复代码藏单引号注入缺陷，红队借此攻进Snowflake内部Jira；AI写码快但审查不能省，396pts | [🔗](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) |
 | 08-12 | AI加密思维链被偷 — OpenAI/Anthropic/Google的加密CoT痕迹可跨会话/用户/模型重放，越狱弱模型还原隐藏推理，加密≠防偷，524pts | [🔗](https://stolen-thoughts.com/) |
 | 08-11 | Tl;dv会议泄露 — Firestore规则失误致181,874场会议录像暴露，84,312用户/35,003域名，实时会议可被闯入；披露六个月只得到已读，548pts | [🔗](https://bobdahacker.com/blog/tldv-hack) |
 | 08-08 | Scale X实验：人类审批漏掉1/3 Agent威胁 — 4万次对局40.9万决策，安全指令被误伤；弹窗式审批被批只是厂商免责走过场，330pts | [🔗](https://scalex.dev/blog/ai-agent-permissions-stats/) |
