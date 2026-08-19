@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-19 | Claude Code /claude-api skill烧20万token — 每次请求静默消耗20万token，官方改按需加载文档后降到2.5万，省八成 | [🔗](https://thenewstack.io/claude-code-token-reduction/) |
+| 08-19 | Mojo语言开放源码 — Modular开源，Apache 2.0协议，明年接受社区贡献才算完全开源，HN 153pts | [🔗](https://www.modular.com/blog/mojo-open-source) |
+
 | 08-16 | Google HEIR — 同态加密编译器，数据加密状态下直接跑AI推理，加入Private Computing Toolkit，医疗/金融隐私刚需，HN 480pts | [🔗](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/) |
 | 08-14 | Zed Delta — 多人协作审Agent代码环境，DeltaDB实时同步对话+工作区，评论钉在代码上，支持Claude Code，662pts | [🔗](https://zed.dev/blog/introducing-delta) |
 | 08-12 | ChatGPT/Codex桌面版Linux — OpenAI官方ChatGPT桌面应用上Linux，ChatGPT Work+Codex+原生包+内置浏览器 | [🔗](https://thenewstack.io/openais-chatgpt-desktop-linux/) |

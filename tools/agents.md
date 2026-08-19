@@ -2,6 +2,10 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-19 | Claude Code周限额+50%促销 — 每周用量临时提高50%，延至8/31，Pro/Max/Team自动生效，结束后回落，HN 279pts | [🔗](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion) |
+| 08-19 | Anthropic多智能体研究 — Claude群协作实验发现协调失败/合谋/破坏，多Agent问题在互动不在单点能力，HN 196pts | [🔗](https://www.anthropic.com/research/multiagent-systems) |
+| 08-19 | TrueForge开源 — TrueFoundry对标Claude Managed Agents的Agent平台，模型自由换/免绑定/成本省一半 | [🔗](https://thenewstack.io/truefoundry-trueforge-claude-managed-agents/) |
+
 | 08-14 | DeepSeek Harness开源 — MIT协议Agent框架，模型适配器/工具注册表/Agent主循环全插件化，换模型换工具不动核心代码，579pts | [🔗](https://thenewstack.io/deepseek-harness-open-source-plugins/) |
 | 08-12 | Docker Sandboxes — 给Claude Code/Codex/Gemini/Kiro编程Agent的微虚拟机一次性沙箱，用完即弃防乱改宿主，HN 678pts但强制登录被吐槽 | [🔗](https://www.docker.com/products/docker-sandboxes/) |
 | 08-10 | Kitesurf — Cloudflare的Agent专用浏览器，跑在Workers上无状态可扩展，把浏览器变成AI基础设施，HN 217pts | [🔗](https://blog.cloudflare.com/kitesurf/) |
