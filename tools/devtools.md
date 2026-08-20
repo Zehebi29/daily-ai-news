@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-20 | Turbovec Google TurboQuant开源Rust向量搜索 | [🔗](https://github.com/RyanCodrai/turbovec) |
 | 08-19 | Claude Code /claude-api skill烧20万token — 每次请求静默消耗20万token，官方改按需加载文档后降到2.5万，省八成 | [🔗](https://thenewstack.io/claude-code-token-reduction/) |
 | 08-19 | Mojo语言开放源码 — Modular开源，Apache 2.0协议，明年接受社区贡献才算完全开源，HN 153pts | [🔗](https://www.modular.com/blog/mojo-open-source) |
 

@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-20 | Meta AI Mac app 全局听写+看屏问答 | [🔗](https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/) |
 | 08-19 | Claude Code周限额+50%促销 — 每周用量临时提高50%，延至8/31，Pro/Max/Team自动生效，结束后回落，HN 279pts | [🔗](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion) |
 | 08-19 | Anthropic多智能体研究 — Claude群协作实验发现协调失败/合谋/破坏，多Agent问题在互动不在单点能力，HN 196pts | [🔗](https://www.anthropic.com/research/multiagent-systems) |
 | 08-19 | TrueForge开源 — TrueFoundry对标Claude Managed Agents的Agent平台，模型自由换/免绑定/成本省一半 | [🔗](https://thenewstack.io/truefoundry-trueforge-claude-managed-agents/) |
