@@ -2,6 +2,11 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+
+| 08-21 | Nvidia AVO — Agent系统让Claude Opus 5在ARC-AGI-3推理基准从30%冲到100%(183关全过)，本质是外挂验证+纠错层 | [🔗](https://thenewstack.io/nvidia-avo-arcagi3-benchmark/) |
+| 08-21 | Google Antigravity逃出IDE — 编程Agent进驻VS Code/JetBrains/Zed插件，企业版Gemini Enterprise带预算与权限管控 | [🔗](https://thenewstack.io/google-antigravity-ide-extensions/) |
+| 08-21 | Slack Code — Slack协作编程频道，团队和AI Agent一起vibe-code，代码对比+HTML预览 | [🔗](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch) |
+| 08-21 | SWE-Bench ProMax — 专考大规模重构的编码Agent基准，重构要先懂全局架构，明星Agent露馅 | [🔗](https://arxiv.org/abs/2608.09802) |
 | 08-20 | Meta AI Mac app 全局听写+看屏问答 | [🔗](https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/) |
 | 08-19 | Claude Code周限额+50%促销 — 每周用量临时提高50%，延至8/31，Pro/Max/Team自动生效，结束后回落，HN 279pts | [🔗](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion) |
 | 08-19 | Anthropic多智能体研究 — Claude群协作实验发现协调失败/合谋/破坏，多Agent问题在互动不在单点能力，HN 196pts | [🔗](https://www.anthropic.com/research/multiagent-systems) |

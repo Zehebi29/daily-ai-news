@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+
+| 08-21 | DeepSeek V4 Flash Vision Exp — 视觉实验版上线：看图/读截图/分析图表，图片压到800×800按token计费，此前V4 Flash常幻觉假装能看图，HN 219pts | [🔗](https://api-docs.deepseek.com/guides/vision/) |
 | 08-20 | Cerebras CS-4 晶圆芯片推理比GPU快30倍 | [🔗](https://www.cerebras.ai/cs4) |
 | 08-20 | Unsloth Dynamic 3.0 Qwen3.8-27B量化精度+10% | [🔗](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) |
 | 08-16 | DeepSeek峰谷分时定价 — API错峰时段打五折(谷时比峰时低50%)，8/16生效；Ars: OpenAI/Anthropic被中国对手卷进价格战，「前沿竞争的不是智能是定价权」 | [🔗](https://api-docs.deepseek.com/news/news260813/) |
