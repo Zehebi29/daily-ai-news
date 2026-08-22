@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-22 | 同等智能一年便宜30倍 — 按能力档位追踪推理成本：降幅加速，跌到100x时触发杰文斯悖论越便宜用得越多，HN 123pts | [🔗](https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/) |
 | 08-18 | Anthropic年化营收冲$65B — 两个月新增$18B年化营收(470→650亿)，IPO传闻升温，增速比OpenAI还猛 | [🔗](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/) |
 | 08-18 | Stripe以70亿美元收购OpenRouter — AI路由层网关，CEO自称「AI界的Stripe」；70亿>Lyft市值，AI基础设施中间商估值起飞，463pts | [🔗](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/) |
 | 08-16 | SpaceX收购Cursor — 造火箭的买走AI编程工具，4月启动本周收官，全球最大GPU舰队加持做更便宜的模型，Grok 4.6是首个联合成果，HN 100pts | [🔗](https://cursor.com/blog/joining-spacex) |

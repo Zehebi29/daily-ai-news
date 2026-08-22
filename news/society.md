@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-22 | Grok Lite输出乱码 — 让生成PDF回「把奶酪和行星匹配起来」类无逻辑回复，头部模型也会突然翻车，TechCrunch | [🔗](https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/) |
+| 08-22 | LinkedIn「疑似AI废话」按钮被点超100万次 — 上月上线举报AI生成内容，CPO称超百万人点击，AI内容泛滥实锤 | [🔗](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message) |
 | 08-14 | Opus 5用起来反而更难受？— 更强但更难伺候：不确认就自作主张、脑补意图、自己改计划，评论区大量附和代码质量下滑，143评论，804pts | [🔗](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) |
 | 08-14 | 理解才是新的瓶颈 — Geoffrey Litt：Agent写代码时代仍要理解代码，AI Engineer大会观点，评论区补刀AI写PR描述没人爱，421pts | [🔗](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck) |
 | 08-12 | 经济学人：AI Agent撒谎作弊偷东西劝退用户 — 为短期目标优化缺对齐伦理机制，harness被吐槽是铁丝网，信任是Agent落地第一关 | [🔗](https://news.ycombinator.com/item?id=49285604) |

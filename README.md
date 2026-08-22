@@ -6,6 +6,15 @@
 
 ## 最新资讯
 
+### 2026-08-22（周六·轻量问答/结论向）
+
+| 分类 | 内容 | 链接 |
+|:----:|:-----|:----:|
+| 🛠️ 工具 | NoBuzz/Claudette — 把Claude的BuzzFeed式回复丢给谷歌Antigravity让Gemini翻译成人话，Claude Code技能，HN 305pts | [🔗](https://github.com/adnanakil/nobuzz) |
+| 🌐 社会 | LinkedIn「疑似AI废话」按钮被点超100万次 — 上月上线举报AI生成内容，CPO称超百万人点击，AI内容泛滥实锤 | [🔗](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message) |
+| 🤖 Agent | 一周实测Codex vs Claude — Claude爱加戏超纲发挥，Codex说一不二做完就停，快但易过度设计，HN 91pts | [🔗](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/) |
+| 💰 商业 | 同等智能一年便宜30倍 — 推理成本降幅加速，跌到100x时触发杰文斯悖论：越便宜用得越多，HN 123pts | [🔗](https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/) |
+| 🌐 社会 | Grok Lite输出乱码 — 让生成PDF回「把奶酪和行星匹配起来」，头部模型也会突然翻车，TC报道 | [🔗](https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/) |
 ### 2026-08-21（周五·工具实测推荐）
 
 | 分类 | 内容 | 链接 |
@@ -55,26 +64,6 @@
 | 🛠️ 工具 | Google开源HEIR — 同态加密编译器，加密数据上直接跑AI推理，医疗/金融隐私刚需，480pts | [🔗](daily/2026-08-16.md) |
 | 💼 商业 | 苹果+阿里中国定制AI — Apple自训中国版模型、阿里支持，罕见中美合作，iPhone在中美体验将分化 | [🔗](daily/2026-08-16.md) |
 
-### 2026-08-15（周六·轻量问答/结论向）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 🧠 模型 | GLM-5.3 — 基座模型没换，成绩全靠后训练堆出来，编码冲到第一梯队，还带emergent cyber能力，1041pts | [🔗](daily/2026-08-15.md) |
-| 🧠 模型 | Qwen3.8-27B — 27B稠密模型FP8量化，笔记本跑出Opus 4.6级水平，DeepSWE 42.2超Opus 4.7 Max，944pts | [🔗](daily/2026-08-15.md) |
-| 🌍 社会 | Opus 5用起来反而更难受？— 更强但更难伺候：不确认就自作主张、自己改用户计划，143评论，804pts | [🔗](daily/2026-08-15.md) |
-| 🌍 社会 | 理解才是新的瓶颈 — Geoffrey Litt：Agent写代码时代，读懂代码比会写更重要，421pts | [🔗](daily/2026-08-15.md) |
-| 🌍 社会 | 经济学人：AI Agent撒谎作弊偷东西劝退用户 — 为短期目标优化缺对齐机制，评论：像有KPI的实习生 | [🔗](daily/2026-08-15.md) |
-
-### 2026-08-14（周五·工具实测推荐）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 🧠 模型 | Gemini 3.7 Flash — 编码/Agent大涨，DeepSWE 49→65.3%，促销价$0.75/$3.75明年1月翻倍，656pts | [🔗](daily/2026-08-14.md) |
-| 🧠 模型 | GPT-5.6 Sol Ultrafast — Cerebras驱动快11倍，2500道博士题11h vs Fable 5的78h，463pts | [🔗](daily/2026-08-14.md) |
-| 🛠️ 工具 | Zed Delta — 多人协作审Agent代码，DeltaDB实时同步对话+工作区，支持Claude Code，662pts | [🔗](daily/2026-08-14.md) |
-| 🤖 Agent | DeepSeek Harness开源 — MIT协议，模型适配器/工具注册表/Agent循环全插件化，579pts | [🔗](daily/2026-08-14.md) |
-| 🎨 工具 | Suno Studio 2.0 — 加MIDI+效果器+合成器+全自动聊天机器人，向正经DAW靠拢 | [🔗](daily/2026-08-14.md) |
-
 ### 🛠️ 工具/项目
 
 | 分类 | 说明 | 文件 |
@@ -100,6 +89,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+|| 08-22 | [→](daily/2026-08-22.md) |
 || 08-21 | [→](daily/2026-08-21.md) |
 || 08-20 | [→](daily/2026-08-20.md) |
 || 08-19 | [→](daily/2026-08-19.md) |
@@ -129,4 +119,3 @@
 | 07-20 | [→](daily/2026-07-20.md) |
 | 07-19 | [→](daily/2026-07-19.md) |
 | 07-18 | [→](daily/2026-07-18.md) |
-| 07-17 | [→](daily/2026-07-17.md) |

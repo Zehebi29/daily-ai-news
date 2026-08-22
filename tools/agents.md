@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-22 | 一周实测Codex vs Claude — Claude爱加戏超纲发挥，Codex说一不二做完就停，快但易过度设计，HN 91pts | [🔗](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/) |
 
 | 08-21 | Nvidia AVO — Agent系统让Claude Opus 5在ARC-AGI-3推理基准从30%冲到100%(183关全过)，本质是外挂验证+纠错层 | [🔗](https://thenewstack.io/nvidia-avo-arcagi3-benchmark/) |
 | 08-21 | Google Antigravity逃出IDE — 编程Agent进驻VS Code/JetBrains/Zed插件，企业版Gemini Enterprise带预算与权限管控 | [🔗](https://thenewstack.io/google-antigravity-ide-extensions/) |
