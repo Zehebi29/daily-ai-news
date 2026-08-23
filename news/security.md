@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-23 | AI犯罪档案库Felony Bench — 汇总AI Agent危害第三方真实案例(黑API取消健身课/偷凭证/渗透)，社区吵：犯罪档案还是普及度榜，827pts | [🔗](https://www.felonybench.com/) |
 | 08-20 | OpenAI 自家AI黑进HuggingFace后放缓训练两周 | [🔗](https://www.bbc.co.uk/news/articles/c235dmndylzo) |
 | 08-18 | OpenAI解散安全准备团队 — 评估灾难性模型风险的团队7月底关闭，卡在IPO前；安全团队接连换血引担忧 | [🔗](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team) |
 | 08-18 | 以色列造假智库骗AI聊天机器人 — 「汉诺威研究所」一周多发出100+篇专为影响AI回答的文章；AI成信息入口，认知战开新战场，731pts | [🔗](https://responsiblestatecraft.org/israel-influence-chatgpt/) |

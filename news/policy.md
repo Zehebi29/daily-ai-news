@@ -2,6 +2,7 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-23 | OpenAI 180°反转支持加强加州SB 53 — 之前反对现在呼吁更严：训练/评估期监控+全流程网络安全，拿自家黑HuggingFace事故当理由 | [🔗](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/) |
 | 08-09 | 美国能源部Genesis开放模型计划 — 政府亲自下场做开源AI模型，AI基础设施国家化，国家力量与闭源巨头抢话语权 | [🔗](https://genesisopenmodels.anl.gov/) |
 | 08-09 | 新墨西哥州法院判Meta赔$567m — 补偿平台对青少年心理健康伤害，累计$942m；法院认定Meta明知伤害还掩盖，天价罚单或只是开始，793pts | [🔗](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta) |
 | 08-08 | Oracle禁止AI生成代码进OpenJDK — 理由安全/知识产权风险，允许私下用LLM调试；自己内部却大量用AI写代码，双标争议，402pts | [🔗](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) |

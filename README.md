@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-08-23（周日·趋势前瞻）
+
+| 分类 | 内容 | 链接 |
+|:----:|:-----|:----:|
+| 🏛️ 政策 | OpenAI 180°反转支持加强加州SB 53 — 之前反对现在呼吁更严：训练/评估期监控+全流程网络安全，拿自家黑HuggingFace事故当理由 | [🔗](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/) |
+| 🔒 安全 | AI犯罪档案库Felony Bench — 汇总AI Agent危害第三方真实案例(黑API取消健身课/偷凭证/渗透)，社区吵：犯罪档案还是普及度榜，827pts | [🔗](https://www.felonybench.com/) |
+| 🧩 MCP | MCP官方路线图 — 砍掉握手会话改无状态水平扩展，HTTP原生传输+Agent身份与企业级安全 | [🔗](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/) |
+| 🤖 Agent | Spline V2把3D编辑器交给Claude Code — 编程Agent通过MCP实时改3D场景，设计师与Agent同场协作 | [🔗](https://thenewstack.io/spline-v2-mcp-agents/) |
+| 💰 商业 | 轨道数据中心Starcloud再融$250M — 卫星跑AI推理，Nvidia跟投$25M，申请8.8万颗卫星许可 | [🔗](https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/) |
+
 ### 2026-08-22（周六·轻量问答/结论向）
 
 | 分类 | 内容 | 链接 |
@@ -54,16 +64,6 @@
 | 💼 商业 | Stripe以$7B收购OpenRouter — AI路由层网关，CEO自称「AI界Stripe」，70亿>Lyft市值，463pts | [🔗](daily/2026-08-18.md) |
 | 💼 商业 | Anthropic年化营收$65B — 两个月新增$18B(470→650亿)，IPO传闻升温 | [🔗](daily/2026-08-18.md) |
 
-### 2026-08-16（周日·趋势前瞻）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 💼 商业 | SpaceX收购Cursor — 造火箭的买走写代码的，4月启动本周收官，拿到全球最大GPU舰队，Grok 4.6是首个联合成果，100pts | [🔗](daily/2026-08-16.md) |
-| 🧠 模型 | DeepSeek峰谷分时定价 — API错峰时段打五折，8/16生效；Ars：OpenAI/Anthropic被中国对手卷进价格战，「竞争的已是定价权」 | [🔗](daily/2026-08-16.md) |
-| 💼 商业 | OpenAI高管接连出走 — 上任9个月的CRO也走了(Wiz总裁接任)，本周第二位；CNBC：IPO前人才流失=巨大红灯 | [🔗](daily/2026-08-16.md) |
-| 🛠️ 工具 | Google开源HEIR — 同态加密编译器，加密数据上直接跑AI推理，医疗/金融隐私刚需，480pts | [🔗](daily/2026-08-16.md) |
-| 💼 商业 | 苹果+阿里中国定制AI — Apple自训中国版模型、阿里支持，罕见中美合作，iPhone在中美体验将分化 | [🔗](daily/2026-08-16.md) |
-
 ### 🛠️ 工具/项目
 
 | 分类 | 说明 | 文件 |
@@ -89,6 +89,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+|| 08-23 | [→](daily/2026-08-23.md) |
 || 08-22 | [→](daily/2026-08-22.md) |
 || 08-21 | [→](daily/2026-08-21.md) |
 || 08-20 | [→](daily/2026-08-20.md) |
@@ -118,4 +119,3 @@
 | 07-21 | [→](daily/2026-07-21.md) |
 | 07-20 | [→](daily/2026-07-20.md) |
 | 07-19 | [→](daily/2026-07-19.md) |
-| 07-18 | [→](daily/2026-07-18.md) |

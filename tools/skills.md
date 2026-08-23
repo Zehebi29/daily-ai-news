@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-23 | MCP官方路线图 — 砍掉握手会话改无状态水平扩展，HTTP原生传输+Agent身份与企业级安全，228pts | [🔗](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/) |
 | 08-22 | NoBuzz/Claudette — 把Claude的BuzzFeed式回复丢给谷歌Antigravity让Gemini翻译成正常人话，Claude Code技能，HN 305pts | [🔗](https://github.com/adnanakil/nobuzz) |
 | 08-10 | Agent Plugins标准 — OpenAI/AWS/Cursor/GitHub/微软背书Vercel的统一Agent技能打包格式（skills+MCP servers），跨生态兼容 | [🔗](https://thenewstack.io/agent-plugins-open-standard/) |
 || 07-29 | MCP协议RC版上线——砍掉Session和初始化握手，状态全移到handle，远程更接近无状态HTTP，Agent基础设施最大更新 | [🔗](https://thenewstack.io/mcp-release-candidate-rewrite/) |

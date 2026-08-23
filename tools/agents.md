@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-23 | Spline V2把3D编辑器交给Claude Code — 编程Agent通过MCP实时改3D场景，设计师与Agent同场协作，Agent从写代码到做产品 | [🔗](https://thenewstack.io/spline-v2-mcp-agents/) |
 | 08-22 | 一周实测Codex vs Claude — Claude爱加戏超纲发挥，Codex说一不二做完就停，快但易过度设计，HN 91pts | [🔗](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/) |
 
 | 08-21 | Nvidia AVO — Agent系统让Claude Opus 5在ARC-AGI-3推理基准从30%冲到100%(183关全过)，本质是外挂验证+纠错层 | [🔗](https://thenewstack.io/nvidia-avo-arcagi3-benchmark/) |
