@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-24 | AI实验室起名内卷 — ElevenLabs→TwelveLabs→ThirteenLabs一路排到两位数，评论区抢注67Labs，产品同质化焦虑，438pts | [🔗](https://quantumi.sh/public/labs.html) |
 | 08-22 | Grok Lite输出乱码 — 让生成PDF回「把奶酪和行星匹配起来」类无逻辑回复，头部模型也会突然翻车，TechCrunch | [🔗](https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/) |
 | 08-22 | LinkedIn「疑似AI废话」按钮被点超100万次 — 上月上线举报AI生成内容，CPO称超百万人点击，AI内容泛滥实锤 | [🔗](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message) |
 | 08-14 | Opus 5用起来反而更难受？— 更强但更难伺候：不确认就自作主张、脑补意图、自己改计划，评论区大量附和代码质量下滑，143评论，804pts | [🔗](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) |

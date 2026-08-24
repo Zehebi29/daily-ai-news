@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-24 | 本地LLM为何感觉笨 — Level1Techs实验：量化精度/聊天模板/采样参数都是坑，GGUF丢模板信息静默回退chatml，417pts | [🔗](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) |
+| 08-24 | 神秘模型Ox Alpha — 没人知道谁做的免费模型，Multi-Agent Arena比肩GPT-5.6 Sol，OpenCode免费一周，社区猜国产实验室匿名发布 | [🔗](https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8) |
 
 | 08-21 | DeepSeek V4 Flash Vision Exp — 视觉实验版上线：看图/读截图/分析图表，图片压到800×800按token计费，此前V4 Flash常幻觉假装能看图，HN 219pts | [🔗](https://api-docs.deepseek.com/guides/vision/) |
 | 08-20 | Cerebras CS-4 晶圆芯片推理比GPU快30倍 | [🔗](https://www.cerebras.ai/cs4) |

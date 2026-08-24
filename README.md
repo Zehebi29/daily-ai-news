@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-08-24（周一·模型发布/开源项目周报）
+
+| 分类 | 内容 | 链接 |
+|:----:|:-----|:----:|
+| 🧠 模型 | 神秘模型Ox Alpha — 没人知道谁做的免费模型，Multi-Agent Arena表现比肩GPT-5.6 Sol，OpenCode免费一周，社区猜国产实验室匿名发布 | [🔗](https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8) |
+| 🛠️ 工具 | Huzzah — 声明式伪代码替代长提示词写代码，意图可留存可复用，Show HN 379pts | [🔗](https://news.ycombinator.com/item?id=49378768) |
+| 🛠️ 工具 | NanoGPT Speedrun — 18个模型153次自主运行比谁先训完nanoGPT，考的是真实科研能力，127pts | [🔗](https://www.primeintellect.ai/research/nanogpt-speedrun) |
+| 🧠 模型 | 本地LLM为何感觉笨 — Level1Techs系列实验：量化/聊天模板/采样参数才是坑，GGUF丢模板信息静默回退chatml，417pts | [🔗](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) |
+| 🌍 社会 | AI实验室起名内卷 — ElevenLabs→TwelveLabs→ThirteenLabs一路排到两位数，评论区抢注67Labs，438pts | [🔗](https://quantumi.sh/public/labs.html) |
+
 ### 2026-08-23（周日·趋势前瞻）
 
 | 分类 | 内容 | 链接 |
@@ -54,16 +64,6 @@
 | 🛠️ 工具 | Claude Code自带skill烧20万token — /claude-api每次请求静默消耗，改按需加载后降到2.5万 | [🔗](daily/2026-08-19.md) |
 | 🛠️ 工具 | Mojo语言开放源码 — Modular开源Apache 2.0，明年接受社区贡献才算完全开源，153pts | [🔗](daily/2026-08-19.md) |
 
-### 2026-08-18（周二·AI安全/政策/行业动向）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 🔒 安全 | Wiz红队：AI生成的Copilot Autofix反成漏洞 — 修复代码藏注入缺陷，红队借此攻进Snowflake内部Jira，396pts | [🔗](daily/2026-08-18.md) |
-| 🔒 安全 | 以色列造假智库骗AI聊天机器人 — 「汉诺威研究所」一周发100+篇专喂AI的文章，731pts | [🔗](daily/2026-08-18.md) |
-| 🔒 安全 | OpenAI解散安全准备团队 — 评估灾难性风险的团队7月底关闭，卡在IPO前 | [🔗](daily/2026-08-18.md) |
-| 💼 商业 | Stripe以$7B收购OpenRouter — AI路由层网关，CEO自称「AI界Stripe」，70亿>Lyft市值，463pts | [🔗](daily/2026-08-18.md) |
-| 💼 商业 | Anthropic年化营收$65B — 两个月新增$18B(470→650亿)，IPO传闻升温 | [🔗](daily/2026-08-18.md) |
-
 ### 🛠️ 工具/项目
 
 | 分类 | 说明 | 文件 |
@@ -89,6 +89,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+|| 08-24 | [→](daily/2026-08-24.md) |
 || 08-23 | [→](daily/2026-08-23.md) |
 || 08-22 | [→](daily/2026-08-22.md) |
 || 08-21 | [→](daily/2026-08-21.md) |
@@ -118,4 +119,4 @@
 | 07-22 | [→](daily/2026-07-22.md) |
 | 07-21 | [→](daily/2026-07-21.md) |
 | 07-20 | [→](daily/2026-07-20.md) |
-| 07-19 | [→](daily/2026-07-19.md) |
+
