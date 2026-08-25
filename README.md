@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-08-25（周二·AI安全/政策/行业动向）
+
+| 分类 | 内容 | 链接 |
+|:----:|:-----|:----:|
+| 政策 | OpenAI被阿拉巴马州总检察长传唤 — 调查HuggingFace黑客案是否违反州消费者保护法，州政府首度就AI事故动真格 | [🔗](https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack) |
+| 商业 | 汤森路透花$4000万训自有模型仍用Anthropic — 自研+外购双轨：专业任务自研能打，通用能力靠大厂 | [🔗](https://thenewstack.io/thomson-reuters-ai-model/) |
+| 安全 | 微软画图/照片藏隐形水印 — 本地AI生图也上云审核，服务器GUID嵌进像素关不掉，767pts | [🔗](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) |
+| 社会 | AI Agent规则没跟上 — IDC调查：86%企业已用Agent，仅12%懂主权AI风险，控制权与监督是最大缺口 | [🔗](https://thenewstack.io/enterprise-ai-agent-governance/) |
+| 安全 | 恶意LLM借推理引擎漏洞控制宿主机 — vLLM CVE-2025-9141实例：坏模型吐token就能执行代码，社区：隔离才是王道，166pts | [🔗](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines) |
+
 ### 2026-08-24（周一·模型发布/开源项目周报）
 
 | 分类 | 内容 | 链接 |
@@ -54,41 +64,11 @@
 | Unsloth Dynamic 3.0 Qwen3.8-27B量化 | [→](daily/2026-08-20.md) |
 | Turbovec Google TurboQuant开源Rust实现 | [→](daily/2026-08-20.md) |
 
-### 2026-08-19（周三·Agent/工程/落地坑）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 🤖 Agent | Claude Code周限额临时+50% — 促销延至8/31，Pro/Max/Team自动生效，结束后回落，279pts | [🔗](daily/2026-08-19.md) |
-| 🤖 Agent | Anthropic多智能体研究 — Claude群协作现协调失败/合谋/破坏，互动问题比单点能力更棘手，196pts | [🔗](daily/2026-08-19.md) |
-| 🤖 Agent | TrueForge开源 — TrueFoundry对标Claude Managed Agents，模型自由换/免绑定/成本省一半 | [🔗](daily/2026-08-19.md) |
-| 🛠️ 工具 | Claude Code自带skill烧20万token — /claude-api每次请求静默消耗，改按需加载后降到2.5万 | [🔗](daily/2026-08-19.md) |
-| 🛠️ 工具 | Mojo语言开放源码 — Modular开源Apache 2.0，明年接受社区贡献才算完全开源，153pts | [🔗](daily/2026-08-19.md) |
-
-### 🛠️ 工具/项目
-
-| 分类 | 说明 | 文件 |
-|:----|:----|:----:|
-| 🤖 Agent平台 | Agent框架、guardrails、可观测性、身份认证 | [tools/agents.md](tools/agents.md) |
-| 🧠 大模型 | LLM发布、多模态模型、推理引擎、定价 | [tools/llm.md](tools/llm.md) |
-| 🛠️ 开发工具 | SDK、CLI、API、编码工具、搜索工具 | [tools/devtools.md](tools/devtools.md) |
-| 🔌 技能/MCP | MCP Server、Agent Skill、包管理器 | [tools/skills.md](tools/skills.md) |
-| 🎨 图像/视频 | 图像生成、视频生成、世界模型 | [tools/image.md](tools/image.md) |
-
-### 📰 新闻/事件
-
-| 分类 | 说明 | 文件 |
-|:----|:----|:----:|
-| 🔒 安全 | 安全漏洞、黑客攻击、数据泄露 | [news/security.md](news/security.md) |
-| 🏛️ 政策监管 | 监管政策、法律诉讼、平台治理 | [news/policy.md](news/policy.md) |
-| 💼 商业动态 | 融资上市、收购、定价、裁员、人才转会 | [news/business.md](news/business.md) |
-| 🌍 社会影响 | AI社会影响、行业趋势、热点讨论 | [news/society.md](news/society.md) |
-
----
-
 ### 每日存档
 
 | 日期 | 链接 |
 |:----:|:----:|
+|| 08-25 | [→](daily/2026-08-25.md) |
 || 08-24 | [→](daily/2026-08-24.md) |
 || 08-23 | [→](daily/2026-08-23.md) |
 || 08-22 | [→](daily/2026-08-22.md) |
@@ -118,5 +98,4 @@
 | 07-23 | [→](daily/2026-07-23.md) |
 | 07-22 | [→](daily/2026-07-22.md) |
 | 07-21 | [→](daily/2026-07-21.md) |
-| 07-20 | [→](daily/2026-07-20.md) |
 

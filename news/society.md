@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-25 | AI Agent跑得快规则没跟上 — IDC调查：86%企业已用Agent，仅12%懂主权AI风险；控制权与监督是最大缺口 | [🔗](https://thenewstack.io/enterprise-ai-agent-governance/) |
 | 08-24 | AI实验室起名内卷 — ElevenLabs→TwelveLabs→ThirteenLabs一路排到两位数，评论区抢注67Labs，产品同质化焦虑，438pts | [🔗](https://quantumi.sh/public/labs.html) |
 | 08-22 | Grok Lite输出乱码 — 让生成PDF回「把奶酪和行星匹配起来」类无逻辑回复，头部模型也会突然翻车，TechCrunch | [🔗](https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/) |
 | 08-22 | LinkedIn「疑似AI废话」按钮被点超100万次 — 上月上线举报AI生成内容，CPO称超百万人点击，AI内容泛滥实锤 | [🔗](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message) |

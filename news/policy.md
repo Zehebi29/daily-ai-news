@@ -2,6 +2,7 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-25 | OpenAI被阿拉巴马州总检察长传唤 — 调查自家AI黑HuggingFace是否违反州消费者保护法；「AI实验室泄漏证明最坏担忧不是理论上的」，州政府首度就AI事故动真格 | [🔗](https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack) |
 | 08-23 | OpenAI 180°反转支持加强加州SB 53 — 之前反对现在呼吁更严：训练/评估期监控+全流程网络安全，拿自家黑HuggingFace事故当理由 | [🔗](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/) |
 | 08-09 | 美国能源部Genesis开放模型计划 — 政府亲自下场做开源AI模型，AI基础设施国家化，国家力量与闭源巨头抢话语权 | [🔗](https://genesisopenmodels.anl.gov/) |
 | 08-09 | 新墨西哥州法院判Meta赔$567m — 补偿平台对青少年心理健康伤害，累计$942m；法院认定Meta明知伤害还掩盖，天价罚单或只是开始，793pts | [🔗](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta) |

@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-25 | 汤森路透花$4000万训自有法律模型仍用Anthropic — 自研对标OpenAI/Anthropic领域基准，但通用能力继续外购，自研+外购双轨 | [🔗](https://thenewstack.io/thomson-reuters-ai-model/) |
 | 08-23 | 轨道数据中心Starcloud再融$250M — 卫星跑AI推理，Nvidia跟投$25M，申请8.8万颗卫星许可，火箭运力成瓶颈 | [🔗](https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/) |
 | 08-22 | 同等智能一年便宜30倍 — 按能力档位追踪推理成本：降幅加速，跌到100x时触发杰文斯悖论越便宜用得越多，HN 123pts | [🔗](https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/) |
 | 08-18 | Anthropic年化营收冲$65B — 两个月新增$18B年化营收(470→650亿)，IPO传闻升温，增速比OpenAI还猛 | [🔗](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/) |
