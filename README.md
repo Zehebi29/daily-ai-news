@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-08-26（周三·Agent/工程/落地坑）
+
+| 分类 | 内容 | 链接 |
+|:----:|:-----|:----:|
+| 🔩 芯片 | OpenAI Jalapeño首份公开跑分 — 在GPT-OSS 120B/DeepSeek R1/Kimi K2.5上吞吐大涨延迟不拖后腿，SemiAnalysis称比Blackwell强，专治Agent多步延迟叠加，530pts | [🔗](https://thenewstack.io/openai-jalapeno-inference-chip/) |
+| 🧠 模型 | Ox Alpha身份揭晓 — 智谱Z.ai确认是GLM系列新模型并承诺开源权重；社区：LiveBench非顶尖但智能体竞技场可对标Claude，疑小模型靠多轮工具调用硬顶，215pts | [🔗](https://news.ycombinator.com/item?id=49446422) |
+| 🤖 Agent | Shopify CEO放话禁用Claude Code — 只认CLAUDE.md不读AGENTS.md给跨工具团队添「复杂度税」，Anthropic已关闭需求，千人大monorepo配置分裂=行为分裂，377pts | [🔗](https://thenewstack.io/shopify-claude-code-agentsmd/) |
+| 🤖 Agent | 微软Agent Lightning v1.0 — RL训练与生产部署共用一套harness，训练引擎只看LLM请求响应对；6K样本Qwen3.5-9B SWE-bench 41.8%→56.4% | [🔗](https://thenewstack.io/microsoft-agent-lightning-harness/) |
+| 📄 研究 | Agent记忆是架构问题 — 论文：生产Agent翻车主因是上下文管理(历史累积/工具输出膨胀/token逐轮涨)，记忆要按生命周期管不是存储检索，69pts | [🔗](https://arxiv.org/abs/2607.21503) |
+
 ### 2026-08-25（周二·AI安全/政策/行业动向）
 
 | 分类 | 内容 | 链接 |
@@ -54,20 +64,11 @@
 | 🤖 Agent | Google Antigravity逃出IDE — 进驻VS Code/JetBrains/Zed，企业版Gemini Enterprise带预算权限管控 | [🔗](daily/2026-08-21.md) |
 | 🛠️ 工具 | Slack Code协作编程频道 — 团队和AI Agent一起vibe-code，代码对比+HTML预览 | [🔗](daily/2026-08-21.md) |
 | 🛠️ 工具 | SWE-Bench ProMax — 专考大规模重构的编码Agent新基准，重构要先懂全局架构，明星Agent露馅 | [🔗](daily/2026-08-21.md) |
-### 2026-08-20（周四·中国开源/行业动态）
-
-| 话题 | 来源 |
-|------|------|
-| Cerebras CS-4 晶圆芯片推理比GPU快30倍 | [→](daily/2026-08-20.md) |
-| OpenAI 因自家AI黑进HuggingFace放缓训练两周 | [→](daily/2026-08-20.md) |
-| Meta AI Mac app 全局听写+看屏问答 | [→](daily/2026-08-20.md) |
-| Unsloth Dynamic 3.0 Qwen3.8-27B量化 | [→](daily/2026-08-20.md) |
-| Turbovec Google TurboQuant开源Rust实现 | [→](daily/2026-08-20.md) |
-
 ### 每日存档
 
 | 日期 | 链接 |
 |:----:|:----:|
+|| 08-26 | [→](daily/2026-08-26.md) |
 || 08-25 | [→](daily/2026-08-25.md) |
 || 08-24 | [→](daily/2026-08-24.md) |
 || 08-23 | [→](daily/2026-08-23.md) |
@@ -97,5 +98,4 @@
 | 07-24 | [→](daily/2026-07-24.md) |
 | 07-23 | [→](daily/2026-07-23.md) |
 | 07-22 | [→](daily/2026-07-22.md) |
-| 07-21 | [→](daily/2026-07-21.md) |
 
