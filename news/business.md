@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-27 | 亚马逊Mechanical Turk 9月30日关停 | 运行21年的众包标注平台正式落幕 | [🔗](https://www.mturk.com/) |
+| 08-27 | Nvidia 130亿美元收购Hugging Face | 芯片巨头拿下最大AI模型社区，年度级并购 | [🔗](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) |
 | 08-25 | 汤森路透花$4000万训自有法律模型仍用Anthropic — 自研对标OpenAI/Anthropic领域基准，但通用能力继续外购，自研+外购双轨 | [🔗](https://thenewstack.io/thomson-reuters-ai-model/) |
 | 08-23 | 轨道数据中心Starcloud再融$250M — 卫星跑AI推理，Nvidia跟投$25M，申请8.8万颗卫星许可，火箭运力成瓶颈 | [🔗](https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/) |
 | 08-22 | 同等智能一年便宜30倍 — 按能力档位追踪推理成本：降幅加速，跌到100x时触发杰文斯悖论越便宜用得越多，HN 123pts | [🔗](https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/) |

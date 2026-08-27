@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-27 | 比尔盖茨提议机器人税 | 企业用AI替代岗位需交税，提出Human Reserved概念 | [🔗](https://news.ycombinator.com/item?id=49451313) |
 | 08-26 | Shopify CEO放话禁用Claude Code — 只认CLAUDE.md不读AGENTS.md给跨工具团队添「复杂度税」，千人大monorepo配置分裂=Agent行为分裂，Anthropic已关闭需求，377pts | [🔗](https://thenewstack.io/shopify-claude-code-agentsmd/) |
 | 08-25 | AI Agent跑得快规则没跟上 — IDC调查：86%企业已用Agent，仅12%懂主权AI风险；控制权与监督是最大缺口 | [🔗](https://thenewstack.io/enterprise-ai-agent-governance/) |
 | 08-24 | AI实验室起名内卷 — ElevenLabs→TwelveLabs→ThirteenLabs一路排到两位数，评论区抢注67Labs，产品同质化焦虑，438pts | [🔗](https://quantumi.sh/public/labs.html) |

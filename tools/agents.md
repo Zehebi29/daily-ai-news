@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-27 | OpenExecutive | 被裁开发者开源AI CEO，反向嘲讽用AI替代人的管理层 | [🔗](https://github.com/SenteLabsAI/OpenExecutive) |
 | 08-26 | Agent记忆是架构问题 — arXiv论文：生产Agent翻车主因是上下文管理而非推理，历史累积/工具输出膨胀/token逐轮涨；记忆要按生命周期管(记/存/忘/压缩)不是存储检索，69pts | [🔗](https://arxiv.org/abs/2607.21503) |
 | 08-26 | 微软Agent Lightning v1.0 — RL训练与生产共用一套harness，训练引擎只看LLM请求响应对消除train-serve不一致；6K样本Qwen3.5-9B SWE-bench 41.8%→56.4% | [🔗](https://thenewstack.io/microsoft-agent-lightning-harness/) |
 | 08-23 | Spline V2把3D编辑器交给Claude Code — 编程Agent通过MCP实时改3D场景，设计师与Agent同场协作，Agent从写代码到做产品 | [🔗](https://thenewstack.io/spline-v2-mcp-agents/) |
