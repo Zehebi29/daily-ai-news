@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-28 | Tailcat — Tailscale版netcat，走数据面不碰控制面，全开源，654pts | [🔗](https://github.com/tailscale/tailcat) |
+| 08-28 | Microduck开源鸭子机器人 — HF旗下Pollen Robotics 399美元预购，25cm轮滑双足+15电机+LiDAR，仿真训练一键搬真机，711pts | [🔗](https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot) |
 | 08-24 | NanoGPT Speedrun — Prime Intellect让18个模型153次自主运行比谁先训完nanoGPT，考自主科研能力，127pts | [🔗](https://www.primeintellect.ai/research/nanogpt-speedrun) |
 | 08-24 | Huzzah — 声明式伪代码替代长提示词写代码，意图可留存可复用，Show HN 379pts | [🔗](https://news.ycombinator.com/item?id=49378768) |
 | 08-20 | Turbovec Google TurboQuant开源Rust向量搜索 | [🔗](https://github.com/RyanCodrai/turbovec) |

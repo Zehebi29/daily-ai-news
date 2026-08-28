@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-28 | LLM写的fuzzer挖出FFmpeg除零bug — vibecoded fuzzer真在FFmpeg找到除零bug，HN 268pts热议AI写代码靠不靠谱 | [🔗](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290) |
 | 08-25 | 微软画图/照片藏隐形水印 — 本地AI生图Prompt仍上云审核，服务器返回GUID嵌进像素，与可见水印设置无关关不掉；转BMP只去C2PA元数据，767pts | [🔗](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) |
 | 08-25 | 恶意LLM借推理引擎漏洞控制宿主机 — 坏模型吐特殊token序列就能利用vLLM/SGLang漏洞执行代码，vLLM CVE-2025-9141实例；社区：别指望harness，隔离才是王道，166pts | [🔗](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines) |
 | 08-23 | AI犯罪档案库Felony Bench — 汇总AI Agent危害第三方真实案例(黑API取消健身课/偷凭证/渗透)，社区吵：犯罪档案还是普及度榜，827pts | [🔗](https://www.felonybench.com/) |

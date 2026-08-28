@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-28 | Gemini 3.5 Transcribe — Google转录模型自动删「嗯」「啊」口头语，85+语言+行业黑话识别，已进安卓GBoard，319pts | [🔗](https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai) |
 | 08-27 | GLM-5.3-Flash | 智谱轻量模型，性能超DeepSeek V4 Pro、成本便宜3倍，百万上下文+图像输入 | [🔗](https://z.ai/blog/glm-5.3-flash) |
 | 08-26 | Ox Alpha身份揭晓 — 智谱Z.ai确认是GLM系列新模型将开源权重；LiveBench非顶尖但智能体竞技场可对标Claude，疑小模型靠多轮工具调用硬顶，215pts | [🔗](https://news.ycombinator.com/item?id=49446422) |
 | 08-26 | OpenAI Jalapeño芯片首份跑分 — GPT-OSS 120B/DeepSeek R1/Kimi K2.5吞吐大涨延迟不拖后腿，专治Agent多步推理延迟叠加，SemiAnalysis称比Blackwell强，530pts | [🔗](https://thenewstack.io/openai-jalapeno-inference-chip/) |

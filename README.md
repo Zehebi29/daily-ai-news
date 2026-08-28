@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-08-28（周五·工具实测推荐）
+
+| 分类 | 内容 | 链接 |
+|:----:|:-----|:----:|
+| 🤖 硬件 | Microduck开源鸭子机器人 — HF旗下Pollen Robotics 399美元预购，25cm轮滑双足+15电机+LiDAR+抓取喙，仿真训练新把戏一键搬真机，711pts | [🔗](https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot) |
+| 🛠️ 工具 | 同模型token差70倍 — TNS实测Aider/Claude Code/OpenClaw：模型不变成本差70倍，上下文重复发送=重复计费，选harness先算账 | [🔗](https://thenewstack.io/agent-harness-token-costs/) |
+| 🧠 模型 | Gemini 3.5 Transcribe — 转录自动删「嗯」「啊」，85+语言+行业黑话识别，已进安卓GBoard，319pts | [🔗](https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai) |
+| 🛠️ 工具 | Tailcat — Tailscale版netcat，走数据面不碰控制面全开源，654pts | [🔗](https://github.com/tailscale/tailcat) |
+| 🔒 安全 | LLM写的fuzzer挖出FFmpeg除零bug — vibecoded fuzzer真找到bug，社区吵AI写代码靠不靠谱，268pts | [🔗](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290) |
+
 ### 2026-08-27（周四·中国开源/行业动态）
 
 - Nvidia 130亿美元收购 Hugging Face（1385pts）
@@ -54,28 +64,11 @@
 | 🤖 Agent | Spline V2把3D编辑器交给Claude Code — 编程Agent通过MCP实时改3D场景，设计师与Agent同场协作 | [🔗](https://thenewstack.io/spline-v2-mcp-agents/) |
 | 💰 商业 | 轨道数据中心Starcloud再融$250M — 卫星跑AI推理，Nvidia跟投$25M，申请8.8万颗卫星许可 | [🔗](https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/) |
 
-### 2026-08-22（周六·轻量问答/结论向）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 🛠️ 工具 | NoBuzz/Claudette — 把Claude的BuzzFeed式回复丢给谷歌Antigravity让Gemini翻译成人话，Claude Code技能，HN 305pts | [🔗](https://github.com/adnanakil/nobuzz) |
-| 🌐 社会 | LinkedIn「疑似AI废话」按钮被点超100万次 — 上月上线举报AI生成内容，CPO称超百万人点击，AI内容泛滥实锤 | [🔗](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message) |
-| 🤖 Agent | 一周实测Codex vs Claude — Claude爱加戏超纲发挥，Codex说一不二做完就停，快但易过度设计，HN 91pts | [🔗](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/) |
-| 💰 商业 | 同等智能一年便宜30倍 — 推理成本降幅加速，跌到100x时触发杰文斯悖论：越便宜用得越多，HN 123pts | [🔗](https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/) |
-| 🌐 社会 | Grok Lite输出乱码 — 让生成PDF回「把奶酪和行星匹配起来」，头部模型也会突然翻车，TC报道 | [🔗](https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/) |
-### 2026-08-21（周五·工具实测推荐）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 🤖 Agent | NVIDIA AVO — 让Claude Opus 5在ARC-AGI-3推理基准从30%冲到100%(183关全过)，本质是外挂验证+纠错层 | [🔗](daily/2026-08-21.md) |
-| 🧠 模型 | DeepSeek V4 Flash视觉实验版 — 能看图/读截图/分析图表，此前常幻觉假装能看图，图片压到800×800按token计费，219pts | [🔗](daily/2026-08-21.md) |
-| 🤖 Agent | Google Antigravity逃出IDE — 进驻VS Code/JetBrains/Zed，企业版Gemini Enterprise带预算权限管控 | [🔗](daily/2026-08-21.md) |
-| 🛠️ 工具 | Slack Code协作编程频道 — 团队和AI Agent一起vibe-code，代码对比+HTML预览 | [🔗](daily/2026-08-21.md) |
-| 🛠️ 工具 | SWE-Bench ProMax — 专考大规模重构的编码Agent新基准，重构要先懂全局架构，明星Agent露馅 | [🔗](daily/2026-08-21.md) |
 ### 每日存档
 
 | 日期 | 链接 |
 |:----:|:----:|
+|| 08-28 | [→](daily/2026-08-28.md) |
 || 08-27 | [→](daily/2026-08-27.md) |
 || 08-26 | [→](daily/2026-08-26.md) |
 || 08-25 | [→](daily/2026-08-25.md) |
@@ -105,5 +98,4 @@
 | 07-26 | [→](daily/2026-07-26.md) |
 | 07-25 | [→](daily/2026-07-25.md) |
 | 07-24 | [→](daily/2026-07-24.md) |
-| 07-23 | [→](daily/2026-07-23.md) |
 
