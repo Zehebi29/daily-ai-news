@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-29 | Lemmalog — Datalog引擎把Agent记忆当程序状态分析，溯源/撤回/增量求值，LongMemEval/LoCoMo跑出好结果，181pts | [🔗](https://github.com/JordyZomer/lemmalog) |
 | 08-28 | 同模型token差70倍 — TNS实测Aider/Claude Code/OpenClaw：模型不变成本差70倍，上下文重复发送=重复计费，选harness先算账 | [🔗](https://thenewstack.io/agent-harness-token-costs/) |
 | 08-27 | OpenExecutive | 被裁开发者开源AI CEO，反向嘲讽用AI替代人的管理层 | [🔗](https://github.com/SenteLabsAI/OpenExecutive) |
 | 08-26 | Agent记忆是架构问题 — arXiv论文：生产Agent翻车主因是上下文管理而非推理，历史累积/工具输出膨胀/token逐轮涨；记忆要按生命周期管(记/存/忘/压缩)不是存储检索，69pts | [🔗](https://arxiv.org/abs/2607.21503) |

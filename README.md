@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-08-29（周六·轻量问答/结论向）
+
+| 分类 | 内容 | 链接 |
+|:----:|:-----|:----:|
+| 政策 | Anthropic告赢五角大楼 — 加州北区法院：供应链风险黑名单是违宪报复、违反第一修正案；「空喊国安不是报复批评者的空白支票」，580pts | [🔗](https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling) |
+| 观点 | 小模型时代到了 — calv.info热帖780pts：小模型~100tps便宜得离谱，同样任务成本从$1降到$0.10；推理将变水电式基础设施 | [🔗](https://calv.info/small-models-have-arrived) |
+| 社会 | 音乐人当侦探抓AI骗子 — EDM圈集体曝光用Suno批量造歌冒充真人的账号；「AI音乐是诱饵艺术，做的不是艺术是偷」 | [🔗](https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai) |
+| 工具 | Lemmalog — Datalog引擎把Agent记忆当程序状态分析，溯源/撤回/增量求值，LongMemEval/LoCoMo跑出好结果，181pts | [🔗](https://github.com/JordyZomer/lemmalog) |
+| 工具 | LM Studio Auto Review — 给AI命令请法官做安全审查，多数命令免模型调用直接放行；提示注入仍是难点 | [🔗](https://thenewstack.io/bionic-shell-command-safety/) |
+
 ### 2026-08-28（周五·工具实测推荐）
 
 | 分类 | 内容 | 链接 |
@@ -54,20 +64,11 @@
 | 🧠 模型 | 本地LLM为何感觉笨 — Level1Techs系列实验：量化/聊天模板/采样参数才是坑，GGUF丢模板信息静默回退chatml，417pts | [🔗](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) |
 | 🌍 社会 | AI实验室起名内卷 — ElevenLabs→TwelveLabs→ThirteenLabs一路排到两位数，评论区抢注67Labs，438pts | [🔗](https://quantumi.sh/public/labs.html) |
 
-### 2026-08-23（周日·趋势前瞻）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 🏛️ 政策 | OpenAI 180°反转支持加强加州SB 53 — 之前反对现在呼吁更严：训练/评估期监控+全流程网络安全，拿自家黑HuggingFace事故当理由 | [🔗](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/) |
-| 🔒 安全 | AI犯罪档案库Felony Bench — 汇总AI Agent危害第三方真实案例(黑API取消健身课/偷凭证/渗透)，社区吵：犯罪档案还是普及度榜，827pts | [🔗](https://www.felonybench.com/) |
-| 🧩 MCP | MCP官方路线图 — 砍掉握手会话改无状态水平扩展，HTTP原生传输+Agent身份与企业级安全 | [🔗](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/) |
-| 🤖 Agent | Spline V2把3D编辑器交给Claude Code — 编程Agent通过MCP实时改3D场景，设计师与Agent同场协作 | [🔗](https://thenewstack.io/spline-v2-mcp-agents/) |
-| 💰 商业 | 轨道数据中心Starcloud再融$250M — 卫星跑AI推理，Nvidia跟投$25M，申请8.8万颗卫星许可 | [🔗](https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/) |
-
 ### 每日存档
 
 | 日期 | 链接 |
 |:----:|:----:|
+|| 08-29 | [→](daily/2026-08-29.md) |
 || 08-28 | [→](daily/2026-08-28.md) |
 || 08-27 | [→](daily/2026-08-27.md) |
 || 08-26 | [→](daily/2026-08-26.md) |
@@ -97,5 +98,4 @@
 | 07-27 | [→](daily/2026-07-27.md) |
 | 07-26 | [→](daily/2026-07-26.md) |
 | 07-25 | [→](daily/2026-07-25.md) |
-| 07-24 | [→](daily/2026-07-24.md) |
 

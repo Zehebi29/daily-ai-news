@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-29 | 音乐人当侦探抓AI骗子 — AI生成音乐泛滥EDM圈，音乐人集体曝光用Suno批量造歌冒充真人的账号；「AI音乐是诱饵艺术，做的不是艺术是偷」 | [🔗](https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai) |
+| 08-29 | 小模型时代到了 — calv.info热帖780pts：小模型~100tps便宜得离谱，同样任务成本从$1降到$0.10；大模型不是产品本身，推理将变水电式基础设施 | [🔗](https://calv.info/small-models-have-arrived) |
 | 08-27 | 比尔盖茨提议机器人税 | 企业用AI替代岗位需交税，提出Human Reserved概念 | [🔗](https://news.ycombinator.com/item?id=49451313) |
 | 08-26 | Shopify CEO放话禁用Claude Code — 只认CLAUDE.md不读AGENTS.md给跨工具团队添「复杂度税」，千人大monorepo配置分裂=Agent行为分裂，Anthropic已关闭需求，377pts | [🔗](https://thenewstack.io/shopify-claude-code-agentsmd/) |
 | 08-25 | AI Agent跑得快规则没跟上 — IDC调查：86%企业已用Agent，仅12%懂主权AI风险；控制权与监督是最大缺口 | [🔗](https://thenewstack.io/enterprise-ai-agent-governance/) |

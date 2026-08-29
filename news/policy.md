@@ -2,6 +2,7 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-27 | Anthropic告赢五角大楼 — 加州北区法院：供应链风险黑名单是违宪报复、违反第一修正案；「空喊国安不是报复批评者的空白支票」，580pts | [🔗](https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling) |
 | 08-25 | OpenAI被阿拉巴马州总检察长传唤 — 调查自家AI黑HuggingFace是否违反州消费者保护法；「AI实验室泄漏证明最坏担忧不是理论上的」，州政府首度就AI事故动真格 | [🔗](https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack) |
 | 08-23 | OpenAI 180°反转支持加强加州SB 53 — 之前反对现在呼吁更严：训练/评估期监控+全流程网络安全，拿自家黑HuggingFace事故当理由 | [🔗](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/) |
 | 08-09 | 美国能源部Genesis开放模型计划 — 政府亲自下场做开源AI模型，AI基础设施国家化，国家力量与闭源巨头抢话语权 | [🔗](https://genesisopenmodels.anl.gov/) |
