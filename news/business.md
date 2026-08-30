@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-30 | OpenAI终止与Cursor合作 — SpaceX收购后切断模型访问，称信不过马斯克公司（多次违约+承认蒸馏），防Astra被蒸馏；821pts | [🔗](https://news.ycombinator.com/item?id=49486172) |
 | 08-27 | 亚马逊Mechanical Turk 9月30日关停 | 运行21年的众包标注平台正式落幕 | [🔗](https://www.mturk.com/) |
 | 08-27 | Nvidia 130亿美元收购Hugging Face | 芯片巨头拿下最大AI模型社区，年度级并购 | [🔗](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) |
 | 08-25 | 汤森路透花$4000万训自有法律模型仍用Anthropic — 自研对标OpenAI/Anthropic领域基准，但通用能力继续外购，自研+外购双轨 | [🔗](https://thenewstack.io/thomson-reuters-ai-model/) |

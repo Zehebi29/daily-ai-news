@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-08-30（周日·趋势前瞻）
+
+| 分类 | 内容 | 链接 |
+|:----:|:-----|:----:|
+| 商业 | OpenAI终止与Cursor合作 — SpaceX收购后切断模型访问，防Astra被蒸馏；「AI公司谁也不信谁」，821pts | [🔗](https://news.ycombinator.com/item?id=49486172) |
+| 政策 | 索尼音乐+华纳查佩尔起诉Anthropic — 每首歌最高索赔15万美元，创始人也成被告；版权诉讼集体收紧 | [🔗](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright) |
+| 社会 | Meta数据中心测试机器人 — 换线缆/重启服务器，工人担心失业；AI原生计划被砍后改走实体 | [🔗](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/) |
+| 模型 | 腾讯Hy4预览版开源 — 770B/49B MoE百万上下文，OpenRouter两天超GLM-5.3一周，341pts | [🔗](https://github.com/Tencent-Hunyuan/Hy4-preview) |
+| 政策 | EPA拟废空气污染规则 — 数据中心绕开公众审查，AI代价转嫁环境社区，257pts | [🔗](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit) |
+
 ### 2026-08-29（周六·轻量问答/结论向）
 
 | 分类 | 内容 | 链接 |
@@ -54,20 +64,11 @@
 | 社会 | AI Agent规则没跟上 — IDC调查：86%企业已用Agent，仅12%懂主权AI风险，控制权与监督是最大缺口 | [🔗](https://thenewstack.io/enterprise-ai-agent-governance/) |
 | 安全 | 恶意LLM借推理引擎漏洞控制宿主机 — vLLM CVE-2025-9141实例：坏模型吐token就能执行代码，社区：隔离才是王道，166pts | [🔗](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines) |
 
-### 2026-08-24（周一·模型发布/开源项目周报）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 🧠 模型 | 神秘模型Ox Alpha — 没人知道谁做的免费模型，Multi-Agent Arena表现比肩GPT-5.6 Sol，OpenCode免费一周，社区猜国产实验室匿名发布 | [🔗](https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8) |
-| 🛠️ 工具 | Huzzah — 声明式伪代码替代长提示词写代码，意图可留存可复用，Show HN 379pts | [🔗](https://news.ycombinator.com/item?id=49378768) |
-| 🛠️ 工具 | NanoGPT Speedrun — 18个模型153次自主运行比谁先训完nanoGPT，考的是真实科研能力，127pts | [🔗](https://www.primeintellect.ai/research/nanogpt-speedrun) |
-| 🧠 模型 | 本地LLM为何感觉笨 — Level1Techs系列实验：量化/聊天模板/采样参数才是坑，GGUF丢模板信息静默回退chatml，417pts | [🔗](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) |
-| 🌍 社会 | AI实验室起名内卷 — ElevenLabs→TwelveLabs→ThirteenLabs一路排到两位数，评论区抢注67Labs，438pts | [🔗](https://quantumi.sh/public/labs.html) |
-
 ### 每日存档
 
 | 日期 | 链接 |
 |:----:|:----:|
+|| 08-30 | [→](daily/2026-08-30.md) |
 || 08-29 | [→](daily/2026-08-29.md) |
 || 08-28 | [→](daily/2026-08-28.md) |
 || 08-27 | [→](daily/2026-08-27.md) |
@@ -97,5 +98,4 @@
 | 07-28 | [→](daily/2026-07-28.md) |
 | 07-27 | [→](daily/2026-07-27.md) |
 | 07-26 | [→](daily/2026-07-26.md) |
-| 07-25 | [→](daily/2026-07-25.md) |
 

@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 08-30 | 腾讯Hy4预览版开源 — 770B总参/49B激活MoE，上下文超100万token，上线OpenRouter两天处理量超GLM-5.3一周，341pts | [🔗](https://github.com/Tencent-Hunyuan/Hy4-preview) |
 | 08-29 | LM Studio Auto Review — 给AI命令请法官做安全审查，多数shell命令免模型调用直接放行；变量/工具怪癖/提示注入仍是难点 | [🔗](https://thenewstack.io/bionic-shell-command-safety/) |
 | 08-28 | Gemini 3.5 Transcribe — Google转录模型自动删「嗯」「啊」口头语，85+语言+行业黑话识别，已进安卓GBoard，319pts | [🔗](https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai) |
 | 08-27 | GLM-5.3-Flash | 智谱轻量模型，性能超DeepSeek V4 Pro、成本便宜3倍，百万上下文+图像输入 | [🔗](https://z.ai/blog/glm-5.3-flash) |
