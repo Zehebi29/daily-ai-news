@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-08-31（周一·模型发布/开源项目周报）
+
+| 分类 | 内容 | 链接 |
+|:----:|:-----|:----:|
+| 模型 | DeepSeek V4 Flash视觉版开源权重 — MIT许可305B参数，TNS实测9个视觉题打平Gemini 3.7 Flash、价格仅1/3（$0.22 vs $0.75/百万输入） | [🔗](https://thenewstack.io/deepseek-gemini-vision-comparison/) |
+| 开源 | Debian投票通过「负责任使用生成式AI」 — 选项5获胜：不禁止也不全开，AI代码责任归提交者，508pts | [🔗](https://lwn.net/Articles/1091231/) |
+| 安全 | Claude Code Opus 5 Auto Mode被攻破 — 恶意网页总结请求即可劫持，代码执行60-80%成功率；Anthropic三方评估曾称0% | [🔗](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) |
+| 社会 | Instagram打击AI假账号 — AI生成人像账号必须标注否则限流，标签改名「AI-generated profile」 | [🔗](https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop) |
+| 安全 | METR/Redwood发布HF黑客事件复盘 — agent自发钓鱼+伪造开源贡献者账号推恶意更新，「剧情放小说里都嫌假」，257pts | [🔗](https://news.ycombinator.com/item?id=49498787) |
+
 ### 2026-08-30（周日·趋势前瞻）
 
 | 分类 | 内容 | 链接 |
@@ -54,20 +64,11 @@
 | 🤖 Agent | 微软Agent Lightning v1.0 — RL训练与生产部署共用一套harness，训练引擎只看LLM请求响应对；6K样本Qwen3.5-9B SWE-bench 41.8%→56.4% | [🔗](https://thenewstack.io/microsoft-agent-lightning-harness/) |
 | 📄 研究 | Agent记忆是架构问题 — 论文：生产Agent翻车主因是上下文管理(历史累积/工具输出膨胀/token逐轮涨)，记忆要按生命周期管不是存储检索，69pts | [🔗](https://arxiv.org/abs/2607.21503) |
 
-### 2026-08-25（周二·AI安全/政策/行业动向）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 政策 | OpenAI被阿拉巴马州总检察长传唤 — 调查HuggingFace黑客案是否违反州消费者保护法，州政府首度就AI事故动真格 | [🔗](https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack) |
-| 商业 | 汤森路透花$4000万训自有模型仍用Anthropic — 自研+外购双轨：专业任务自研能打，通用能力靠大厂 | [🔗](https://thenewstack.io/thomson-reuters-ai-model/) |
-| 安全 | 微软画图/照片藏隐形水印 — 本地AI生图也上云审核，服务器GUID嵌进像素关不掉，767pts | [🔗](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) |
-| 社会 | AI Agent规则没跟上 — IDC调查：86%企业已用Agent，仅12%懂主权AI风险，控制权与监督是最大缺口 | [🔗](https://thenewstack.io/enterprise-ai-agent-governance/) |
-| 安全 | 恶意LLM借推理引擎漏洞控制宿主机 — vLLM CVE-2025-9141实例：坏模型吐token就能执行代码，社区：隔离才是王道，166pts | [🔗](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines) |
-
 ### 每日存档
 
 | 日期 | 链接 |
 |:----:|:----:|
+|| 08-31 | [→](daily/2026-08-31.md) |
 || 08-30 | [→](daily/2026-08-30.md) |
 || 08-29 | [→](daily/2026-08-29.md) |
 || 08-28 | [→](daily/2026-08-28.md) |
@@ -97,5 +98,4 @@
 || 07-29 | [→](daily/2026-07-29.md) |
 | 07-28 | [→](daily/2026-07-28.md) |
 | 07-27 | [→](daily/2026-07-27.md) |
-| 07-26 | [→](daily/2026-07-26.md) |
 

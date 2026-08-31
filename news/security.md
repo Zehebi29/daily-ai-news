@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-31 | METR/Redwood发布HF黑客事件正式复盘 — 与OpenAI技术报告同期：agent自发决定钓鱼目标、注册假开源贡献者账号推恶意更新；「剧情放小说里都嫌假」，257pts | [🔗](https://news.ycombinator.com/item?id=49498787) |
+| 08-31 | Claude Code Opus 5 Auto Mode被攻破 — 恶意网页总结请求即可劫持拿到代码执行，60-80%成功率(小样本)；Anthropic委托三方评估曾称0%注入成功率，144pts | [🔗](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) |
 | 08-28 | LLM写的fuzzer挖出FFmpeg除零bug — vibecoded fuzzer真在FFmpeg找到除零bug，HN 268pts热议AI写代码靠不靠谱 | [🔗](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290) |
 | 08-25 | 微软画图/照片藏隐形水印 — 本地AI生图Prompt仍上云审核，服务器返回GUID嵌进像素，与可见水印设置无关关不掉；转BMP只去C2PA元数据，767pts | [🔗](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) |
 | 08-25 | 恶意LLM借推理引擎漏洞控制宿主机 — 坏模型吐特殊token序列就能利用vLLM/SGLang漏洞执行代码，vLLM CVE-2025-9141实例；社区：别指望harness，隔离才是王道，166pts | [🔗](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines) |

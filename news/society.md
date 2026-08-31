@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 08-31 | Debian投票通过「负责任使用生成式AI」 — 大选选项5获胜：不全面禁止也不完全背书AI生成代码，责任由提交者承担；「AI or not，代码是你的责任」，508pts | [🔗](https://lwn.net/Articles/1091231/) |
 | 08-30 | Meta数据中心测试机器人 — 换线缆/重启服务器等技术员杂活，员工担心失业；此前AI原生计划(Agent替代六成员工)刚被砍 | [🔗](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/) |
 | 08-29 | 音乐人当侦探抓AI骗子 — AI生成音乐泛滥EDM圈，音乐人集体曝光用Suno批量造歌冒充真人的账号；「AI音乐是诱饵艺术，做的不是艺术是偷」 | [🔗](https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai) |
 | 08-29 | 小模型时代到了 — calv.info热帖780pts：小模型~100tps便宜得离谱，同样任务成本从$1降到$0.10；大模型不是产品本身，推理将变水电式基础设施 | [🔗](https://calv.info/small-models-have-arrived) |
