@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-01（周二·安全/政策/行业动向）
+
+1. **欧盟重提加密后门** — EU ProtectEU 安全战略被指重推加密后门、扩大欧洲刑警组织权力。HN 464pts。[🔗](https://news.ycombinator.com/item?id=49499394)
+2. **五角大楼上线自己的 ChatGPT 和 Grok** — 美军 AI 门户纳入 OpenAI ChatGPT 和 SpaceXAI Grok。[🔗](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/)
+3. **苹果被 AI 需求打了个措手不及** — Mac Mini/Studio 因 AI 需求暴涨缺货，OpenAI 买 1 万多台 Mac。[🔗](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/)
+4. **英伟达砸 35 亿美元押注联发科** — Nvidia 投资 MediaTek $3.5B，对抗大厂自研 AI 芯片。[🔗](https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/)
+5. **小模型新纪录：ARC-AGI 44% 只花 67 美分** — RTX 5090 上 1.5 小时训练，成本 67 美分。[🔗](https://news.ycombinator.com/item?id=49519939)
+
 ### 2026-08-31（周一·模型发布/开源项目周报）
 
 | 分类 | 内容 | 链接 |
@@ -26,48 +34,11 @@
 | 模型 | 腾讯Hy4预览版开源 — 770B/49B MoE百万上下文，OpenRouter两天超GLM-5.3一周，341pts | [🔗](https://github.com/Tencent-Hunyuan/Hy4-preview) |
 | 政策 | EPA拟废空气污染规则 — 数据中心绕开公众审查，AI代价转嫁环境社区，257pts | [🔗](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit) |
 
-### 2026-08-29（周六·轻量问答/结论向）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 政策 | Anthropic告赢五角大楼 — 加州北区法院：供应链风险黑名单是违宪报复、违反第一修正案；「空喊国安不是报复批评者的空白支票」，580pts | [🔗](https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling) |
-| 观点 | 小模型时代到了 — calv.info热帖780pts：小模型~100tps便宜得离谱，同样任务成本从$1降到$0.10；推理将变水电式基础设施 | [🔗](https://calv.info/small-models-have-arrived) |
-| 社会 | 音乐人当侦探抓AI骗子 — EDM圈集体曝光用Suno批量造歌冒充真人的账号；「AI音乐是诱饵艺术，做的不是艺术是偷」 | [🔗](https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai) |
-| 工具 | Lemmalog — Datalog引擎把Agent记忆当程序状态分析，溯源/撤回/增量求值，LongMemEval/LoCoMo跑出好结果，181pts | [🔗](https://github.com/JordyZomer/lemmalog) |
-| 工具 | LM Studio Auto Review — 给AI命令请法官做安全审查，多数命令免模型调用直接放行；提示注入仍是难点 | [🔗](https://thenewstack.io/bionic-shell-command-safety/) |
-
-### 2026-08-28（周五·工具实测推荐）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 🤖 硬件 | Microduck开源鸭子机器人 — HF旗下Pollen Robotics 399美元预购，25cm轮滑双足+15电机+LiDAR+抓取喙，仿真训练新把戏一键搬真机，711pts | [🔗](https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot) |
-| 🛠️ 工具 | 同模型token差70倍 — TNS实测Aider/Claude Code/OpenClaw：模型不变成本差70倍，上下文重复发送=重复计费，选harness先算账 | [🔗](https://thenewstack.io/agent-harness-token-costs/) |
-| 🧠 模型 | Gemini 3.5 Transcribe — 转录自动删「嗯」「啊」，85+语言+行业黑话识别，已进安卓GBoard，319pts | [🔗](https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai) |
-| 🛠️ 工具 | Tailcat — Tailscale版netcat，走数据面不碰控制面全开源，654pts | [🔗](https://github.com/tailscale/tailcat) |
-| 🔒 安全 | LLM写的fuzzer挖出FFmpeg除零bug — vibecoded fuzzer真找到bug，社区吵AI写代码靠不靠谱，268pts | [🔗](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290) |
-
-### 2026-08-27（周四·中国开源/行业动态）
-
-- Nvidia 130亿美元收购 Hugging Face（1385pts）
-- GLM-5.3-Flash 发布，性能超 DeepSeek V4 Pro 便宜3倍（1072pts）
-- 开发者被AI取代反手开源AI CEO（740pts）
-- Mechanical Turk 9月30日关停（424pts）
-- 比尔盖茨提议机器人税+Human Reserved（296pts）
-
-### 2026-08-26（周三·Agent/工程/落地坑）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 🔩 芯片 | OpenAI Jalapeño首份公开跑分 — 在GPT-OSS 120B/DeepSeek R1/Kimi K2.5上吞吐大涨延迟不拖后腿，SemiAnalysis称比Blackwell强，专治Agent多步延迟叠加，530pts | [🔗](https://thenewstack.io/openai-jalapeno-inference-chip/) |
-| 🧠 模型 | Ox Alpha身份揭晓 — 智谱Z.ai确认是GLM系列新模型并承诺开源权重；社区：LiveBench非顶尖但智能体竞技场可对标Claude，疑小模型靠多轮工具调用硬顶，215pts | [🔗](https://news.ycombinator.com/item?id=49446422) |
-| 🤖 Agent | Shopify CEO放话禁用Claude Code — 只认CLAUDE.md不读AGENTS.md给跨工具团队添「复杂度税」，Anthropic已关闭需求，千人大monorepo配置分裂=行为分裂，377pts | [🔗](https://thenewstack.io/shopify-claude-code-agentsmd/) |
-| 🤖 Agent | 微软Agent Lightning v1.0 — RL训练与生产部署共用一套harness，训练引擎只看LLM请求响应对；6K样本Qwen3.5-9B SWE-bench 41.8%→56.4% | [🔗](https://thenewstack.io/microsoft-agent-lightning-harness/) |
-| 📄 研究 | Agent记忆是架构问题 — 论文：生产Agent翻车主因是上下文管理(历史累积/工具输出膨胀/token逐轮涨)，记忆要按生命周期管不是存储检索，69pts | [🔗](https://arxiv.org/abs/2607.21503) |
-
 ### 每日存档
 
 | 日期 | 链接 |
 |:----:|:----:|
+|| 09-01 | [→](daily/2026-09-01.md) |
 || 08-31 | [→](daily/2026-08-31.md) |
 || 08-30 | [→](daily/2026-08-30.md) |
 || 08-29 | [→](daily/2026-08-29.md) |
@@ -97,5 +68,4 @@
 || 07-30 | [→](daily/2026-07-30.md) |
 || 07-29 | [→](daily/2026-07-29.md) |
 | 07-28 | [→](daily/2026-07-28.md) |
-| 07-27 | [→](daily/2026-07-27.md) |
 

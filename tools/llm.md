@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 09-01 | 小模型新纪录：RTX 5090训练1.5小时，ARC-AGI-1拿44%只要67美分 | [🔗](https://news.ycombinator.com/item?id=49519939) |
 | 08-31 | DeepSeek V4 Flash Vision Exp — 视觉版开源权重(MIT/305B)，上月底API视觉能力+今日权重开源；TNS实测9视觉题打平Gemini 3.7 Flash、价格1/3 | [🔗](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) |
 | 08-30 | 腾讯Hy4预览版开源 — 770B总参/49B激活MoE，上下文超100万token，上线OpenRouter两天处理量超GLM-5.3一周，341pts | [🔗](https://github.com/Tencent-Hunyuan/Hy4-preview) |
 | 08-29 | LM Studio Auto Review — 给AI命令请法官做安全审查，多数shell命令免模型调用直接放行；变量/工具怪癖/提示注入仍是难点 | [🔗](https://thenewstack.io/bionic-shell-command-safety/) |

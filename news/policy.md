@@ -2,6 +2,8 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 09-01 | 五角大楼AI门户上线：ChatGPT和Grok入驻服务美军 | [🔗](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/) |
+| 09-01 | 欧盟ProtectEU战略被指重推加密后门，扩大欧洲刑警组织权力（HN 464pts） | [🔗](https://news.ycombinator.com/item?id=49499394) |
 | 08-31 | Instagram打击AI假账号 — AI生成人像账号必须自我标注否则限流(Reels/Explore不推荐给非粉丝)，标签从「AI creator」改名「AI-generated profile」 | [🔗](https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop) |
 | 08-30 | EPA拟废空气污染规则 — 帮数据中心绕开公众审查，「推土机进场前没人知道发生了什么」，257pts | [🔗](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit) |
 | 08-30 | 索尼音乐+华纳查佩尔起诉Anthropic — 称「史上最大最明目张胆的知识产权盗窃之一」，每首歌最高索赔15万美元，创始人也成被告（BitTorrent五百万本盗版书指控） | [🔗](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright) |
