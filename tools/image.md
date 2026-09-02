@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 09-02 | World Labs Atlas — 下一代omni世界模型：从零预训练原生支持文本/图像/视频/3D，一张参考图生成任意相机角度新视角，将驱动Marble，235pts | [🔗](https://www.worldlabs.ai/blog/atlas) |
 | 08-14 | Suno Studio 2.0 — 加MIDI+效果器插件+合成器，向正经DAW靠拢；聊天机器人一句话自动配置效果 | [🔗](https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects) |
 | 08-06 | Qwen Image 3.0 Pro — 阿里开源图像模型，复杂版面（报纸/故事板/菜单/试卷）一次生成，10px小字清晰，4.5K token输入，191pts | [🔗](https://www.qwencloud.com/models/qwen-image-3.0-pro) |
 | 08-03 | Seedance 2.5 — 字节跳动视频生成模型，主打一条过/一镜到底，广告级质感直逼真实广告片，不开源引争议，426pts | [🔗](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) |

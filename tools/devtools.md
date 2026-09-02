@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 09-02 | ChatGPT桌面版(原Codex)打包整个LibreOffice — 1.7GB运行时内置完整办公套件+skills，读写Word/Excel/PPT直接调开源库，442pts | [🔗](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) |
 | 08-28 | Tailcat — Tailscale版netcat，走数据面不碰控制面，全开源，654pts | [🔗](https://github.com/tailscale/tailcat) |
 | 08-28 | Microduck开源鸭子机器人 — HF旗下Pollen Robotics 399美元预购，25cm轮滑双足+15电机+LiDAR，仿真训练一键搬真机，711pts | [🔗](https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot) |
 | 08-24 | NanoGPT Speedrun — Prime Intellect让18个模型153次自主运行比谁先训完nanoGPT，考自主科研能力，127pts | [🔗](https://www.primeintellect.ai/research/nanogpt-speedrun) |

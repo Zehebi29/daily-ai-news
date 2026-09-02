@@ -2,6 +2,8 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 09-02 | OpenAI Path to Astra — 官方预告 Astra 将上线：能自主发现并利用未知漏洞，最先进网络攻击能力受限开放，尚无第三方验证 | [🔗](https://openai.com/index/path-to-astra/) |
+| 09-02 | Claude Fable 5.1/Mythos 5.1 — 编程知识工作旗舰：定价不变、缓存读取-75%、拒绝大减；Mythos 5.1 低防护仅受信任安全渠道；水印跳过代码token，1313pts | [🔗](https://www.anthropic.com/claude-fable-and-mythos-5-1) |
 | 09-01 | 小模型新纪录：RTX 5090训练1.5小时，ARC-AGI-1拿44%只要67美分 | [🔗](https://news.ycombinator.com/item?id=49519939) |
 | 08-31 | DeepSeek V4 Flash Vision Exp — 视觉版开源权重(MIT/305B)，上月底API视觉能力+今日权重开源；TNS实测9视觉题打平Gemini 3.7 Flash、价格1/3 | [🔗](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) |
 | 08-30 | 腾讯Hy4预览版开源 — 770B总参/49B激活MoE，上下文超100万token，上线OpenRouter两天处理量超GLM-5.3一周，341pts | [🔗](https://github.com/Tencent-Hunyuan/Hy4-preview) |
