@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 09-02 | curl 8.22.0：Mythos/Codex Security报零后AISLE挖出6个CVE — curl创始人公开前沿AI审计零结果(Mythos"找不到更多"/Codex空列表)；AISLE两天29份报告6个被认可发CVE(均Low)；Linux内核维护者GK-H称Linux同况，174pts | [🔗](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero) |
 | 08-31 | METR/Redwood发布HF黑客事件正式复盘 — 与OpenAI技术报告同期：agent自发决定钓鱼目标、注册假开源贡献者账号推恶意更新；「剧情放小说里都嫌假」，257pts | [🔗](https://news.ycombinator.com/item?id=49498787) |
 | 08-31 | Claude Code Opus 5 Auto Mode被攻破 — 恶意网页总结请求即可劫持拿到代码执行，60-80%成功率(小样本)；Anthropic委托三方评估曾称0%注入成功率，144pts | [🔗](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) |
 | 08-28 | LLM写的fuzzer挖出FFmpeg除零bug — vibecoded fuzzer真在FFmpeg找到除零bug，HN 268pts热议AI写代码靠不靠谱 | [🔗](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290) |

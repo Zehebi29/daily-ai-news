@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-03（周四·中国开源/行业动态）
+
+1. **谷歌 Gemini 3.8 Flash + 3.8 Flash Cyber** — 六周内第三个 Flash：DeepSWE 编码追平 Opus 5、超 GPT-5.6 Sol；Cyber 网安特供版自动修补漏洞仅限 650 家可信防御者（Fairwind）。HN 1067pts。[🔗](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+2. **Meta Muse Spark 1.3 上线** — 旗舰模型（驱动 Muse Code）：长任务自纠、多工具协同、含糊会追问/卡住会求助/危险先确认。HN 620pts。[🔗](https://research.meta.ai/blog/introducing-muse-spark-1-3)
+3. **阿里 Qwen3.8-Max-0902 静默更新** — 与谷歌同日：官方称编码破纪录，社区跑分显示逼近 Anthropic 刚发的 Fable 5.1。[🔗](https://www.qwencloud.com/models/qwen3.8-max-0902)
+4. **21.5 万个 AI 生成「最佳软件」页污染 Perplexity** — Trellner 审计：7534 条引用近六成来自十万名外小站，三站疑似同伙批量生成。HN 458pts。[🔗](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
+5. **curl 8.22.0：Mythos/Codex 报零后 AISLE 挖出 6 个 CVE** — Linux 内核维护者也称同况。HN 174pts。[🔗](https://news.ycombinator.com/item?id=49536114)
+
 ### 2026-09-02（周三·Agent/工程/落地坑）
 
 1. **Claude Fable 5.1 / Mythos 5.1 发布** — 编程知识工作旗舰小版本：定价不变、缓存读取砍75%、拒绝大减；Mythos 5.1 同源低防护仅受信任安全渠道；水印跳过代码token。HN 1313pts。[🔗](https://www.anthropic.com/claude-fable-and-mythos-5-1)
@@ -46,6 +54,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+|| 09-03 | [→](daily/2026-09-03.md) |
 || 09-02 | [→](daily/2026-09-02.md) |
 || 09-01 | [→](daily/2026-09-01.md) |
 || 08-31 | [→](daily/2026-08-31.md) |
@@ -75,5 +84,4 @@
 || 08-02 | [→](daily/2026-08-02.md) |
 || 07-31 | [→](daily/2026-07-31.md) |
 || 07-30 | [→](daily/2026-07-30.md) |
-|| 07-29 | [→](daily/2026-07-29.md) |
 

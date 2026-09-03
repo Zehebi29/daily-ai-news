@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 09-02 | Trellner审计：21.5万个AI生成「最佳软件」页污染Perplexity推荐 — 380品类7534条引用，59.8%来自Tranco十万名外域名/23.4%查无此站；三站疑似同伙模板批量生成21.5万页；guideflow博客被引194次排第三超Gartner，458pts | [🔗](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/) |
 | 08-31 | Debian投票通过「负责任使用生成式AI」 — 大选选项5获胜：不全面禁止也不完全背书AI生成代码，责任由提交者承担；「AI or not，代码是你的责任」，508pts | [🔗](https://lwn.net/Articles/1091231/) |
 | 08-30 | Meta数据中心测试机器人 — 换线缆/重启服务器等技术员杂活，员工担心失业；此前AI原生计划(Agent替代六成员工)刚被砍 | [🔗](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/) |
 | 08-29 | 音乐人当侦探抓AI骗子 — AI生成音乐泛滥EDM圈，音乐人集体曝光用Suno批量造歌冒充真人的账号；「AI音乐是诱饵艺术，做的不是艺术是偷」 | [🔗](https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai) |

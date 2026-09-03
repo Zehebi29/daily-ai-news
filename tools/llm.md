@@ -2,6 +2,9 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 09-02 | Gemini 3.8 Flash + 3.8 Flash Cyber — 六周内第三个Flash：DeepSWE编码追平Opus 5/超GPT-5.6 Sol，同任务成本高四成；Cyber网安特供版自动修补漏洞仅限650家可信防御者(Fairwind)，1067pts | [🔗](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) |
+| 09-03 | Meta Muse Spark 1.3 — 旗舰模型(驱动Muse Code)升级：长任务自纠+多工具协同，含糊会追问/卡住会求助/危险先确认；max reasoning稍后上线，620pts | [🔗](https://research.meta.ai/blog/introducing-muse-spark-1-3) |
+| 09-02 | Qwen3.8-Max-0902快照 — 阿里旗舰静默更新：官方称编码破纪录、长周期自主开发+多工具协同，社区跑分显示逼近Fable 5.1 | [🔗](https://www.qwencloud.com/models/qwen3.8-max-0902) |
 | 09-02 | OpenAI Path to Astra — 官方预告 Astra 将上线：能自主发现并利用未知漏洞，最先进网络攻击能力受限开放，尚无第三方验证 | [🔗](https://openai.com/index/path-to-astra/) |
 | 09-02 | Claude Fable 5.1/Mythos 5.1 — 编程知识工作旗舰：定价不变、缓存读取-75%、拒绝大减；Mythos 5.1 低防护仅受信任安全渠道；水印跳过代码token，1313pts | [🔗](https://www.anthropic.com/claude-fable-and-mythos-5-1) |
 | 09-01 | 小模型新纪录：RTX 5090训练1.5小时，ARC-AGI-1拿44%只要67美分 | [🔗](https://news.ycombinator.com/item?id=49519939) |
