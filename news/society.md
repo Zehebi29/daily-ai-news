@@ -2,6 +2,8 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 09-04 | AI读68000汇编把1993年Amiga游戏移植到Godot — 巴格达学生在Amiga 500上写的伊拉克首款商业游戏，作者故意测试AI推理(Amiga汇编极少进训练集)，原盘免费上itch.io，317pts | [🔗](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/) |
+| 09-04 | ChatGPT/Claude/Grok昨晚集体宕机 — ChatGPT登录语音图片全崩、Claude基础设施问题、Grok怪孟菲斯数据中心；恰逢OpenAI发布Astra，三家互称无关，Gemini/Copilot幸免，377pts | [🔗](https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down) |
 | 09-02 | Trellner审计：21.5万个AI生成「最佳软件」页污染Perplexity推荐 — 380品类7534条引用，59.8%来自Tranco十万名外域名/23.4%查无此站；三站疑似同伙模板批量生成21.5万页；guideflow博客被引194次排第三超Gartner，458pts | [🔗](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/) |
 | 08-31 | Debian投票通过「负责任使用生成式AI」 — 大选选项5获胜：不全面禁止也不完全背书AI生成代码，责任由提交者承担；「AI or not，代码是你的责任」，508pts | [🔗](https://lwn.net/Articles/1091231/) |
 | 08-30 | Meta数据中心测试机器人 — 换线缆/重启服务器等技术员杂活，员工担心失业；此前AI原生计划(Agent替代六成员工)刚被砍 | [🔗](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/) |

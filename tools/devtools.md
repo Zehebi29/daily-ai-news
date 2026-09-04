@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 09-04 | Audacity 4.0 — 老牌开源音频编辑器：Qt重写界面+新剪辑模型(点选片段/多段同编/S键拆分)、Workspaces布局/主题、Windows官方ASIO、频谱图重做，1112pts | [🔗](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0) |
 | 09-02 | ChatGPT桌面版(原Codex)打包整个LibreOffice — 1.7GB运行时内置完整办公套件+skills，读写Word/Excel/PPT直接调开源库，442pts | [🔗](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) |
 | 08-28 | Tailcat — Tailscale版netcat，走数据面不碰控制面，全开源，654pts | [🔗](https://github.com/tailscale/tailcat) |
 | 08-28 | Microduck开源鸭子机器人 — HF旗下Pollen Robotics 399美元预购，25cm轮滑双足+15电机+LiDAR，仿真训练一键搬真机，711pts | [🔗](https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot) |

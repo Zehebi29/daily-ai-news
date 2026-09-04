@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 09-04 | OpenAI GPT-6 Astra — 官宣进入AGI时代：ARC-AGI-3自报98.6%(定制harness公平约62%仍断层第一)、$10/$50是Sol的2.5倍但token省半、首达关键网安阈值；发布翻车官网404+付费用户被锁+Altman按天补偿，1913pts | [🔗](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release) |
 | 09-02 | Gemini 3.8 Flash + 3.8 Flash Cyber — 六周内第三个Flash：DeepSWE编码追平Opus 5/超GPT-5.6 Sol，同任务成本高四成；Cyber网安特供版自动修补漏洞仅限650家可信防御者(Fairwind)，1067pts | [🔗](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) |
 | 09-03 | Meta Muse Spark 1.3 — 旗舰模型(驱动Muse Code)升级：长任务自纠+多工具协同，含糊会追问/卡住会求助/危险先确认；max reasoning稍后上线，620pts | [🔗](https://research.meta.ai/blog/introducing-muse-spark-1-3) |
 | 09-02 | Qwen3.8-Max-0902快照 — 阿里旗舰静默更新：官方称编码破纪录、长周期自主开发+多工具协同，社区跑分显示逼近Fable 5.1 | [🔗](https://www.qwencloud.com/models/qwen3.8-max-0902) |

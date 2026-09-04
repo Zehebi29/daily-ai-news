@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 09-04 | Nvidia PAIR(Personal AI Router) — 闲置Mac/PC组网给AI agent当本地算力池：走现成Ollama/LM Studio、mDNS发现、单请求整机执行、用户用机自动让位；实测2台RTX 5090五子agent提速1.6倍 | [🔗](https://thenewstack.io/nvidia-pair-local-inference/) |
 | 09-02 | Perplexity Hybrid Compute — Agent敏感步骤自动切Mac本地模型，Privacy Gate本地识别PII由用户决定留本地范围，模型可选Gemma/Qwen/自训练版 | [🔗](https://thenewstack.io/perplexity-hybrid-compute-mac/) |
 | 08-29 | Lemmalog — Datalog引擎把Agent记忆当程序状态分析，溯源/撤回/增量求值，LongMemEval/LoCoMo跑出好结果，181pts | [🔗](https://github.com/JordyZomer/lemmalog) |
 | 08-28 | 同模型token差70倍 — TNS实测Aider/Claude Code/OpenClaw：模型不变成本差70倍，上下文重复发送=重复计费，选harness先算账 | [🔗](https://thenewstack.io/agent-harness-token-costs/) |

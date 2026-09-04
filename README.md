@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-04（周五·工具实测推荐）
+
+1. **OpenAI 发布 GPT-6 Astra，官宣进入「AGI 时代」** — ARC-AGI-3 自报 98.6%（定制 harness，公平约 62% 仍断层第一）、$10/$50 定价号称 token 省半；发布翻车：官网 404 + 付费用户被锁 + Altman 道歉按天补偿。HN 1913pts。[🔗](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)
+2. **ChatGPT/Claude/Grok 昨晚集体宕机** — ChatGPT 登录语音图片全崩、Claude 基础设施问题、Grok 怪孟菲斯数据中心；恰逢 OpenAI 发布 Astra 之日，Gemini/Copilot 幸免。HN 377pts。[🔗](https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down)
+3. **Nvidia 开源 PAIR** — 闲置 Mac/PC 组网给 AI agent 当本地算力池，走现成 Ollama/LM Studio，用机自动让位；实测两台 RTX 5090 五子 agent 提速 1.6 倍。[🔗](https://thenewstack.io/nvidia-pair-local-inference/)
+4. **AI 读 68000 汇编移植 1993 年 Amiga 游戏到 Godot** — 伊拉克首款商业游戏，作者故意测试 AI 是否真会琢磨；原盘免费上 itch.io。HN 317pts。[🔗](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/)
+5. **Audacity 4.0** — Qt 重写界面 + 新剪辑模型、Workspaces/主题、Windows 官方 ASIO，HN 1112pts。[🔗](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
+
 ### 2026-09-03（周四·中国开源/行业动态）
 
 1. **谷歌 Gemini 3.8 Flash + 3.8 Flash Cyber** — 六周内第三个 Flash：DeepSWE 编码追平 Opus 5、超 GPT-5.6 Sol；Cyber 网安特供版自动修补漏洞仅限 650 家可信防御者（Fairwind）。HN 1067pts。[🔗](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
@@ -40,20 +48,11 @@
 | 社会 | Instagram打击AI假账号 — AI生成人像账号必须标注否则限流，标签改名「AI-generated profile」 | [🔗](https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop) |
 | 安全 | METR/Redwood发布HF黑客事件复盘 — agent自发钓鱼+伪造开源贡献者账号推恶意更新，「剧情放小说里都嫌假」，257pts | [🔗](https://news.ycombinator.com/item?id=49498787) |
 
-### 2026-08-30（周日·趋势前瞻）
-
-| 分类 | 内容 | 链接 |
-|:----:|:-----|:----:|
-| 商业 | OpenAI终止与Cursor合作 — SpaceX收购后切断模型访问，防Astra被蒸馏；「AI公司谁也不信谁」，821pts | [🔗](https://news.ycombinator.com/item?id=49486172) |
-| 政策 | 索尼音乐+华纳查佩尔起诉Anthropic — 每首歌最高索赔15万美元，创始人也成被告；版权诉讼集体收紧 | [🔗](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright) |
-| 社会 | Meta数据中心测试机器人 — 换线缆/重启服务器，工人担心失业；AI原生计划被砍后改走实体 | [🔗](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/) |
-| 模型 | 腾讯Hy4预览版开源 — 770B/49B MoE百万上下文，OpenRouter两天超GLM-5.3一周，341pts | [🔗](https://github.com/Tencent-Hunyuan/Hy4-preview) |
-| 政策 | EPA拟废空气污染规则 — 数据中心绕开公众审查，AI代价转嫁环境社区，257pts | [🔗](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit) |
-
 ### 每日存档
 
 | 日期 | 链接 |
 |:----:|:----:|
+|| 09-04 | [→](daily/2026-09-04.md) |
 || 09-03 | [→](daily/2026-09-03.md) |
 || 09-02 | [→](daily/2026-09-02.md) |
 || 09-01 | [→](daily/2026-09-01.md) |
@@ -83,5 +82,4 @@
 || 08-03 | [→](daily/2026-08-03.md) |
 || 08-02 | [→](daily/2026-08-02.md) |
 || 07-31 | [→](daily/2026-07-31.md) |
-|| 07-30 | [→](daily/2026-07-30.md) |
 
