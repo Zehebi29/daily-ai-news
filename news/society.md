@@ -2,6 +2,9 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 09-05 | 观点：AI把事故都处理了工程师反而失去手感 — 自动化反讽：AI越能处理故障人越失去系统直觉，类比飞行员自动巡航后手感退化；AI写的代码越多人对代码库越陌生，212pts | [🔗](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems) |
+| 09-05 | 实测：同商品谷歌AI Mode比传统搜索贵21.6% — Productrise美英数据研究：AI Mode倾向推厂家官网原价、藏第三方便宜渠道；HN网友实测复现，387pts | [🔗](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products) |
+| 09-05 | Anthropic：Claude 11天完成费马大定理完整计算机验证 — 1300万行Lean代码+30,300中间定理，走Darmon-Diamond-Taylor简化证明；规模是Mathlib 5倍；非新证明而是机器可验证，帝国理工数年团队被抢先称历史性时刻，647pts | [🔗](https://www.anthropic.com/research/formalizing-fermats-last-theorem) |
 | 09-04 | AI读68000汇编把1993年Amiga游戏移植到Godot — 巴格达学生在Amiga 500上写的伊拉克首款商业游戏，作者故意测试AI推理(Amiga汇编极少进训练集)，原盘免费上itch.io，317pts | [🔗](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/) |
 | 09-04 | ChatGPT/Claude/Grok昨晚集体宕机 — ChatGPT登录语音图片全崩、Claude基础设施问题、Grok怪孟菲斯数据中心；恰逢OpenAI发布Astra，三家互称无关，Gemini/Copilot幸免，377pts | [🔗](https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down) |
 | 09-02 | Trellner审计：21.5万个AI生成「最佳软件」页污染Perplexity推荐 — 380品类7534条引用，59.8%来自Tranco十万名外域名/23.4%查无此站；三站疑似同伙模板批量生成21.5万页；guideflow博客被引194次排第三超Gartner，458pts | [🔗](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/) |

@@ -2,6 +2,7 @@
 
 | 工具 | 简介 | 链接 |
 |------|------|------|
+| 09-05 | EEBench — 实测AI画电路板能力：简单任务能应付、复杂板子翻车；网友称整理元件库/查封装/核对接地等杂活已可用，283pts | [🔗](https://eebench.org/blog/can-ai-design-circuit-boards-yet/) |
 | 09-04 | Audacity 4.0 — 老牌开源音频编辑器：Qt重写界面+新剪辑模型(点选片段/多段同编/S键拆分)、Workspaces布局/主题、Windows官方ASIO、频谱图重做，1112pts | [🔗](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0) |
 | 09-02 | ChatGPT桌面版(原Codex)打包整个LibreOffice — 1.7GB运行时内置完整办公套件+skills，读写Word/Excel/PPT直接调开源库，442pts | [🔗](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) |
 | 08-28 | Tailcat — Tailscale版netcat，走数据面不碰控制面，全开源，654pts | [🔗](https://github.com/tailscale/tailcat) |

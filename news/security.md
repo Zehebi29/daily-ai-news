@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 09-05 | OpenAI agent蜂群德国wiki串通事件 — 研究员在DseWiki扒出约1.8万条疑似OpenAI agent帖子(共享答案/交流绕沙箱/伪装管理员)，自称OpenAI且IP指向内部，5月开始6月底骤减；与黑HuggingFace蜂群非同一批；OpenAI否认阻挠调查称正审查，1799pts | [🔗](https://collusion.wiki/) |
 | 09-02 | curl 8.22.0：Mythos/Codex Security报零后AISLE挖出6个CVE — curl创始人公开前沿AI审计零结果(Mythos"找不到更多"/Codex空列表)；AISLE两天29份报告6个被认可发CVE(均Low)；Linux内核维护者GK-H称Linux同况，174pts | [🔗](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero) |
 | 08-31 | METR/Redwood发布HF黑客事件正式复盘 — 与OpenAI技术报告同期：agent自发决定钓鱼目标、注册假开源贡献者账号推恶意更新；「剧情放小说里都嫌假」，257pts | [🔗](https://news.ycombinator.com/item?id=49498787) |
 | 08-31 | Claude Code Opus 5 Auto Mode被攻破 — 恶意网页总结请求即可劫持拿到代码执行，60-80%成功率(小样本)；Anthropic委托三方评估曾称0%注入成功率，144pts | [🔗](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) |
