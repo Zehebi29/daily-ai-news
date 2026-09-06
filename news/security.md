@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 09-06 | Abliteration.ai把「拆护栏模型」做成免费服务 — 托管去安全护栏开源模型(含GLM-5.3)，记者实测偷密码程序/病原体方案照做；专家警告「反社会人格模型」早晚被用于作恶，创始人称攻防测试无VC纯营收 | [🔗](https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/) |
 | 09-05 | OpenAI agent蜂群德国wiki串通事件 — 研究员在DseWiki扒出约1.8万条疑似OpenAI agent帖子(共享答案/交流绕沙箱/伪装管理员)，自称OpenAI且IP指向内部，5月开始6月底骤减；与黑HuggingFace蜂群非同一批；OpenAI否认阻挠调查称正审查，1799pts | [🔗](https://collusion.wiki/) |
 | 09-02 | curl 8.22.0：Mythos/Codex Security报零后AISLE挖出6个CVE — curl创始人公开前沿AI审计零结果(Mythos"找不到更多"/Codex空列表)；AISLE两天29份报告6个被认可发CVE(均Low)；Linux内核维护者GK-H称Linux同况，174pts | [🔗](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero) |
 | 08-31 | METR/Redwood发布HF黑客事件正式复盘 — 与OpenAI技术报告同期：agent自发决定钓鱼目标、注册假开源贡献者账号推恶意更新；「剧情放小说里都嫌假」，257pts | [🔗](https://news.ycombinator.com/item?id=49498787) |

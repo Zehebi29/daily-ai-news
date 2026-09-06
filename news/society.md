@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 09-06 | 论文：LLM作为「认知病毒」 — 传染动力学建模AI依赖：不耦合→耦合→持续依赖存在临界点与锁定，跨阈值引发群体认知退化风险；提出「认知免疫」条件(降传播+可逆)，306pts | [🔗](https://arxiv.org/abs/2609.03344) |
 | 09-05 | 观点：AI把事故都处理了工程师反而失去手感 — 自动化反讽：AI越能处理故障人越失去系统直觉，类比飞行员自动巡航后手感退化；AI写的代码越多人对代码库越陌生，212pts | [🔗](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems) |
 | 09-05 | 实测：同商品谷歌AI Mode比传统搜索贵21.6% — Productrise美英数据研究：AI Mode倾向推厂家官网原价、藏第三方便宜渠道；HN网友实测复现，387pts | [🔗](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products) |
 | 09-05 | Anthropic：Claude 11天完成费马大定理完整计算机验证 — 1300万行Lean代码+30,300中间定理，走Darmon-Diamond-Taylor简化证明；规模是Mathlib 5倍；非新证明而是机器可验证，帝国理工数年团队被抢先称历史性时刻，647pts | [🔗](https://www.anthropic.com/research/formalizing-fermats-last-theorem) |

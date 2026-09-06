@@ -2,6 +2,7 @@
 
 | 日期 | 事件 | 链接 |
 |:----:|:-----|:----:|
+| 09-06 | 算力商Crusoe融资$3B估值$30B — Bloomberg报道，Atreides/Valor领投+阿布扎比Mubadala参投；客户Meta/微软/OpenAI；刚签Jane Street $13B五年GPU云合同 | [🔗](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/) |
 | 09-01 | 英伟达砸35亿美元押注联发科，对抗大厂自研AI芯片 | [🔗](https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/) |
 | 09-01 | 苹果被AI需求打懵：Mac Mini/Studio缺货，OpenAI买1万多台Mac当AI算力 | [🔗](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/) |
 | 08-30 | OpenAI终止与Cursor合作 — SpaceX收购后切断模型访问，称信不过马斯克公司（多次违约+承认蒸馏），防Astra被蒸馏；821pts | [🔗](https://news.ycombinator.com/item?id=49486172) |

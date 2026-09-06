@@ -2,6 +2,8 @@
 
  事件 | 链接 |
 |:----:|:-----|:----:|
+| 09-06 | 西雅图时报+Newsday起诉OpenAI和微软 — 指控未授权用新闻训练AI，诉状称生成式AI「咬自己尾巴的蛇」会让新闻业broken beyond repair；继音乐版权案后报业加入围剿 | [🔗](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/) |
+| 09-06 | Claude系统提示词新增歌词拒绝条款 — Fable 5.1消费端提示词：不复制歌词/诗歌/书段落（含逐句粘贴伪原创），旋律音符不放行；Simon Willison：索尼华纳起诉Anthropic数日内加入，绝非巧合 | [🔗](https://simonwillison.net/2026/sep/2/claudes-new-system-prompt/) |
 | 09-01 | 五角大楼AI门户上线：ChatGPT和Grok入驻服务美军 | [🔗](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/) |
 | 09-01 | 欧盟ProtectEU战略被指重推加密后门，扩大欧洲刑警组织权力（HN 464pts） | [🔗](https://news.ycombinator.com/item?id=49499394) |
 | 08-31 | Instagram打击AI假账号 — AI生成人像账号必须自我标注否则限流(Reels/Explore不推荐给非粉丝)，标签从「AI creator」改名「AI-generated profile」 | [🔗](https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop) |

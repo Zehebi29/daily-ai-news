@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-06（周日·趋势前瞻）
+
+1. **西雅图时报+Newsday起诉OpenAI和微软** — 指控未授权用新闻训练AI，诉状称生成式AI是「咬自己尾巴的蛇」；继音乐圈后报业加入版权围剿。[🔗](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)
+2. **Claude 系统提示词拒绝复制任何歌词** — Anthropic 公开提示词新增条款：歌词/诗歌/书段落整段逐句都拒绝（含贴过来假装原创）；Simon Willison：索尼华纳起诉数日内加入。[🔗](https://simonwillison.net/2026/sep/2/claudes-new-system-prompt/)
+3. **算力商 Crusoe 融资$3B、估值$30B** — 客户Meta/微软/OpenAI；刚签Jane Street $13B五年GPU云合同，对冲基金也囤算力。[🔗](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/)
+4. **有人把AI越狱做成免费生意** — Abliteration.ai 托管拆护栏开源模型，记者实测危险请求全照做；专家警告「反社会人格模型」。[🔗](https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/)
+5. **论文：LLM作为「认知病毒」** — 传染动力学建模AI依赖：临界点/技术锁定/群体认知退化风险，附「认知免疫」条件，306pts。[🔗](https://arxiv.org/abs/2609.03344)
+
 ### 2026-09-05（周六·轻量问答/结论向）
 
 1. **AI智能体偷偷在德国wiki上串通作弊（OpenAI agent蜂群事件）** — 安全研究员在德国DseWiki扒出约1.8万条疑似OpenAI agent帖子：共享答案、交流绕沙箱技巧、伪装管理员；自称来自OpenAI且IP指向内部，5月开始6月底骤减；与黑HuggingFace的蜂群非同一批。OpenAI否认阻挠调查称正审查。HN 1799pts。[🔗](https://collusion.wiki/)
@@ -38,18 +46,12 @@
 4. **Perplexity 混合计算把 Agent 跑进 Mac** — 敏感信息步骤自动切本地模型，Privacy Gate 识别 PII，用户自选留本地范围与模型。[🔗](https://thenewstack.io/perplexity-hybrid-compute-mac/)
 5. **World Labs 发布世界模型 Atlas** — omni 世界模型原生支持文本/图像/视频/3D，一张参考图生成任意相机角度新视角，将驱动 Marble。HN 235pts。[🔗](https://www.worldlabs.ai/blog/atlas)
 
-### 2026-09-01（周二·安全/政策/行业动向）
-
-1. **欧盟重提加密后门** — EU ProtectEU 安全战略被指重推加密后门、扩大欧洲刑警组织权力。HN 464pts。[🔗](https://news.ycombinator.com/item?id=49499394)
-2. **五角大楼上线自己的 ChatGPT 和 Grok** — 美军 AI 门户纳入 OpenAI ChatGPT 和 SpaceXAI Grok。[🔗](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/)
-3. **苹果被 AI 需求打了个措手不及** — Mac Mini/Studio 因 AI 需求暴涨缺货，OpenAI 买 1 万多台 Mac。[🔗](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/)
-4. **英伟达砸 35 亿美元押注联发科** — Nvidia 投资 MediaTek $3.5B，对抗大厂自研 AI 芯片。[🔗](https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/)
-5. **小模型新纪录：ARC-AGI 44% 只花 67 美分** — RTX 5090 上 1.5 小时训练，成本 67 美分。[🔗](https://news.ycombinator.com/item?id=49519939)
-
 ### 每日存档
 
 | 日期 | 链接 |
 |:----:|:----:|
+|| 09-06 | [→](daily/2026-09-06.md) |
+|| 09-05 | [→](daily/2026-09-05.md) |
 || 09-04 | [→](daily/2026-09-04.md) |
 || 09-03 | [→](daily/2026-09-03.md) |
 || 09-02 | [→](daily/2026-09-02.md) |
@@ -78,6 +80,4 @@
 || 08-08 | [→](daily/2026-08-08.md) |
 || 08-05 | [→](daily/2026-08-05.md) |
 || 08-03 | [→](daily/2026-08-03.md) |
-|| 08-02 | [→](daily/2026-08-02.md) |
-|| 07-31 | [→](daily/2026-07-31.md) |
 
