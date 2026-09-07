@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-07（周一·模型发布/开源）
+
+1. **OpenAI 凌晨发布重磅长文《An Alien Mind》** — 回忆2023年RLSlow之夜；核心判断：未来几年能力跃迁「只大不小」、或走向递归式自我改进；称没有任何实验室的对齐/监控好到能继续全力扩张，呼吁自愿放缓+政府级国际协调。HN 429分热帖。[🔗](https://openai.com/index/an-alien-mind/) · [HN](https://news.ycombinator.com/item?id=49588080)
+2. **黄仁勋：AGI 已到，祝贺 OpenAI** — 美国周日黄仁勋X发文「From ChatGPT to o1 to Astra in 4 years. AGI has arrived.」，补一句Astra是用Nvidia芯片训练的；呼应Brockman「Welcome to the AGI era」。[🔗](https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9) · [HN](https://news.ycombinator.com/item?id=49594189)
+3. **Trail of Bits 开源 Coop** — Rust CLI 按需起一次性VM，给 Claude Code/Codex 完整工具权限但不碰宿主机；安全实验室下场做 coding agent 沙箱。[🔗](https://github.com/trailofbits/coop) · [HN](https://news.ycombinator.com/item?id=49593842)
+4. **Show HN：Engrim** — 给 Gemini CLI/Claude Code/Codex 的本地 SQLite 记忆引擎，项目级隔离、跨模型不丢上下文，52分。[🔗](https://github.com/timgordontg/engrim) · [HN](https://news.ycombinator.com/item?id=49594008)
+5. **Ars 起底 $3.2B Lake Mariner AI 数据中心问责黑洞** — 六月火灾暴露多层公司结构（TeraWulf/CEO地主/Fluidstack/Google认股权+租金担保/Anthropic大客户），出事无单一责任主体。[🔗](https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/)
+
 ### 2026-09-06（周日·趋势前瞻）
 
 1. **西雅图时报+Newsday起诉OpenAI和微软** — 指控未授权用新闻训练AI，诉状称生成式AI是「咬自己尾巴的蛇」；继音乐圈后报业加入版权围剿。[🔗](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)
@@ -50,7 +58,8 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
-|| 09-06 | [→](daily/2026-09-06.md) |
+| 09-07 | [→](daily/2026-09-07.md) |
+| 09-06 | [→](daily/2026-09-06.md) |
 || 09-05 | [→](daily/2026-09-05.md) |
 || 09-04 | [→](daily/2026-09-04.md) |
 || 09-03 | [→](daily/2026-09-03.md) |
@@ -79,5 +88,4 @@
 || 08-10 | [→](daily/2026-08-10.md) |
 || 08-08 | [→](daily/2026-08-08.md) |
 || 08-05 | [→](daily/2026-08-05.md) |
-|| 08-03 | [→](daily/2026-08-03.md) |
 
