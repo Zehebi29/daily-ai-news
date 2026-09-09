@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-09（周三·Agent/工程落地）
+
+1. **OpenAI 公布 Navier-Stokes 完整证明，NYU 数学家指控其「手段不干净」** — 据 OpenAI 称由未发布的新一代模型完成千禧年难题 Navier-Stokes 证明，一周烧 3000 亿输出 token（按 Astra 现价约 $2250 万）；NYU 教授 Tristan Buckmaster（与 Anthropic 数学家 Levent Alpöge 合作近一年、全程用 Claude/Codex）指控 OpenAI 在他们成果公开前抢先下手、追问模型是否看过其 Codex 草稿未获正面回答、还因竞争关系把 Alpöge 排除出署名。Science 今天发文复盘。[HN 1287pts](https://news.ycombinator.com/item?id=49613262) · [Simon Willison](https://simonwillison.net/2026/Sep/8/on-navier-stokes/) · [TechCrunch](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/) · [Science 复盘(HN)](https://news.ycombinator.com/item?id=49624163)
+2. **Anthropic 研究员辞职公开警告：两家巨头都在「拿命赌博」** — 前 OpenAI/现 Anthropic 的 Jacob Coxon 辞职，称 Anthropic 和 OpenAI 都正冲向能自我改进的超级智能；Anthropic 对齐负责人 Evan Hubinger 公开背书：>10% 概率十年内 AI 杀死全人类、目前无超级智能对齐方案，帖浏览超 1000 万次。[HN 601pts](https://news.ycombinator.com/item?id=49619227) · [Politico](https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/) · [BBC](https://www.bbc.co.uk/news/articles/ckgwy1k42w4o)
+3. **DeepSeek V4.1 Flash：新架构原生多模态，全面超 V4 Pro，明天中午上线** — beta 已开（`deepseek-v4.1-flash-expires-on-0910`），9/10 12:00 北京时间正式上线并调价：非高峰 $0.003/M 缓存命中、$0.15/M 未命中、$0.6/M 输出（高峰翻倍）；V4.1 Pro 前 Pro 流量转 V4.1 Flash 按 Flash 计价。[HN 85pts](https://news.ycombinator.com/item?id=49624603) · [beta(HN)](https://news.ycombinator.com/item?id=49607094)
+4. **Harness 为 AI agent 流量重写 Git 仓库** — 场外 CTO：PR 洪峰从 Copilot 时代 1.5–2x 涨到客户普遍 10x、个别 50x，评审成瓶颈，部分企业提高风险容忍直接放生产；重写 Code Repository + 新版 AI Code Review。[The New Stack](https://thenewstack.io/harness-ai-code-review/)
+5. **Cognition（Devin）融 $2B、估值 $48B** — 距 5 月 $26B 仅 4 个月，ARR run-rate $4.92 亿→$9 亿；估值倍数超当年 Cursor，VC 押注 AI 编程非赢家通吃，但租 Nvidia 集群一年数亿美元、算力天花板仍在。[TechCrunch](https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/)
+
 ### 2026-09-08（周二·AI安全/政策/行业）
 
 1. **长文刷屏：开源前沿模型逼近，修安全漏洞「只剩一年」** — 安全研究员 jyn 的长文今天冲上 HN 热榜（273分/271评）：GLM 5.3-flash 等开源权重模型已被 DeAlignAI 等「去护栏」到 Harmbench 0% 拒绝率，本地门槛降到约 $6k–10k 硬件（9/22 上市的 M5 Mac Studio 256GB 也能跑），危险能力即将人人可得；作者主张趁一年窗口用前沿 LLM + 形式化验证/fuzzing/内存安全语言大规模自动修漏洞，评论区多数人更悲观。[HN](https://news.ycombinator.com/item?id=49605691) · [原文](https://jyn.dev/a-year-to-fix-security/)
@@ -65,6 +73,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-09 | [→](daily/2026-09-09.md) |
 | 09-08 | [→](daily/2026-09-08.md) |
 | 09-07 | [→](daily/2026-09-07.md) |
 | 09-06 | [→](daily/2026-09-06.md) |
@@ -94,5 +103,4 @@
 | 08-12 | [→](daily/2026-08-12.md) |
 | 08-11 | [→](daily/2026-08-11.md) |
 | 08-10 | [→](daily/2026-08-10.md) |
-| 08-08 | [→](daily/2026-08-08.md) |
 
