@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-10（周四·中国开源/行业动态）
+
+1. **DeepSeek V4.1 Flash 正式上线开源：552B、CED 新架构、首款原生多模态 Flash** — 权重已挂 HuggingFace，体量 552B（上代 V4 Flash 284B）；全新 CED 架构把 40 层 Transformer 拆成 20 层因果 encoder + 20 层 decoder，decoder 全局 KV cache 直接从 encoder 末层隐状态投影得到；官方称性能/速度/成本全面超 V4 Pro 且更便宜，技术报告专攻 KV cache 压缩；社区实测 GPQA-diamond 90.9。HN 557pts。[HN](https://news.ycombinator.com/item?id=49639090) · [HF 权重](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)
+2. **美 NSA+CISA+FBI 联合通告点名六家中国 AI 公司「工业级蒸馏」** — AA26-251A 点名 DeepSeek、Moonshot AI、阿里巴巴、MiniMax、StepFun、Z.AI：自 2024 年底起对美国 Claude/GPT/Gemini/Grok 多版本做工业级知识蒸馏，数十亿 token、数百万次请求，称是其 AI 战略「核心而非补充」，借灰产 API 代理规避检测、「很可能在中国政府知情下」进行。[CISA 通告](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a) · [CyberScoop](https://cyberscoop.com/us-accuses-chinese-ai-companies-distillation/)
+3. **独立实验佐证：Qwen3.8 灌 1% GPT-5.5 Pro 推理前缀，答案重合度 +18pp** — 45 题实验：Qwen3.8 A95B 从 16.79%→34.97%（STEM +26.99pp），Kimi K3 只 +4.54pp，DeepSeek V4 Flash 几乎不动；作者判断 Qwen 学自 GPT-5.5 Pro 而非 Opus。HN 227pts。[HN](https://news.ycombinator.com/item?id=49630026) · [Gist](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
+4. **Nvidia + Palantir 微调 30B Nemotron，打赢 18 倍大的模型** — Nvidia 供应链真实决策数据 + Palantir Foundry/AIP/Ontology + cuOpt，30B Nemotron 3.5 Lightning 微调版在一项对比中击败体量 18 倍的大模型；将把这套「主权 AI」打法复制到制造/能源/医疗/汽车/航空航天。[The New Stack](https://thenewstack.io/ai-factories-are-among-the-most-complex-systems-ever-built-nvidia-and-palantir-turn-nvidias-supply-chain-into-a-proving-ground-for-sovereign-ai/)
+5. **IFM 放出 K2 Horizon 六款模型「完全开源」** — 阿联酋 MBZUAI 旗下 IFM（创始人邢波）发布 0.9B/32B/375B 六款，承诺开源训练/评测代码 + 训练数据或构造配方 + 中间 checkpoint；但旗舰 model card 写明部分数据/代码「稍后补齐」，开发者不完全买账。[The New Stack](https://thenewstack.io/k2-horizon-fully-open/)
+
 ### 2026-09-09（周三·Agent/工程落地）
 
 1. **OpenAI 公布 Navier-Stokes 完整证明，NYU 数学家指控其「手段不干净」** — 据 OpenAI 称由未发布的新一代模型完成千禧年难题 Navier-Stokes 证明，一周烧 3000 亿输出 token（按 Astra 现价约 $2250 万）；NYU 教授 Tristan Buckmaster（与 Anthropic 数学家 Levent Alpöge 合作近一年、全程用 Claude/Codex）指控 OpenAI 在他们成果公开前抢先下手、追问模型是否看过其 Codex 草稿未获正面回答、还因竞争关系把 Alpöge 排除出署名。Science 今天发文复盘。[HN 1287pts](https://news.ycombinator.com/item?id=49613262) · [Simon Willison](https://simonwillison.net/2026/Sep/8/on-navier-stokes/) · [TechCrunch](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/) · [Science 复盘(HN)](https://news.ycombinator.com/item?id=49624163)
@@ -61,18 +69,11 @@
 4. **21.5 万个 AI 生成「最佳软件」页污染 Perplexity** — Trellner 审计：7534 条引用近六成来自十万名外小站，三站疑似同伙批量生成。HN 458pts。[🔗](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
 5. **curl 8.22.0：Mythos/Codex 报零后 AISLE 挖出 6 个 CVE** — Linux 内核维护者也称同况。HN 174pts。[🔗](https://news.ycombinator.com/item?id=49536114)
 
-### 2026-09-02（周三·Agent/工程/落地坑）
-
-1. **Claude Fable 5.1 / Mythos 5.1 发布** — 编程知识工作旗舰小版本：定价不变、缓存读取砍75%、拒绝大减；Mythos 5.1 同源低防护仅受信任安全渠道；水印跳过代码token。HN 1313pts。[🔗](https://www.anthropic.com/claude-fable-and-mythos-5-1)
-2. **OpenAI 预告 Astra 即将上线** — Path to Astra 官方博文：Astra 能自主发现并利用未知漏洞，最先进网络攻击能力受限开放，尚无第三方验证。HN 165pts。[🔗](https://openai.com/index/path-to-astra/)
-3. **ChatGPT 桌面版打包整个 LibreOffice** — Simon Willison 发现原 Codex 应用 1.7GB 运行时内置完整 LibreOffice + skills 读写 Office 文档。HN 442pts。[🔗](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)
-4. **Perplexity 混合计算把 Agent 跑进 Mac** — 敏感信息步骤自动切本地模型，Privacy Gate 识别 PII，用户自选留本地范围与模型。[🔗](https://thenewstack.io/perplexity-hybrid-compute-mac/)
-5. **World Labs 发布世界模型 Atlas** — omni 世界模型原生支持文本/图像/视频/3D，一张参考图生成任意相机角度新视角，将驱动 Marble。HN 235pts。[🔗](https://www.worldlabs.ai/blog/atlas)
-
 ### 每日存档
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-10 | [→](daily/2026-09-10.md) |
 | 09-09 | [→](daily/2026-09-09.md) |
 | 09-08 | [→](daily/2026-09-08.md) |
 | 09-07 | [→](daily/2026-09-07.md) |
@@ -102,5 +103,4 @@
 | 08-13 | [→](daily/2026-08-13.md) |
 | 08-12 | [→](daily/2026-08-12.md) |
 | 08-11 | [→](daily/2026-08-11.md) |
-| 08-10 | [→](daily/2026-08-10.md) |
 
