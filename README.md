@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-11（周五·工具实测）
+
+1. **OpenAI 上线 Agents API** — 把 Codex 式 agent 循环做成云端 API，含沙箱与出站网络访问策略（默认放行/可继承模板），HN 282pts。[⬆ 详见下方](#2026-09-11周五工具实测) · [HN](https://news.ycombinator.com/item?id=49649213)
+2. **Cognition SWE-2 发布** — FrontierCode 1.1 50.0%（差 Fable 5.1 一分、便宜 64%），Terminal-Bench 2.1 92.8%；首次把 RL 扩到多万亿参数，基座 2.8T Kimi K3。HN 426pts。[🔗](https://cognition.com/blog/swe-2) · [HN](https://news.ycombinator.com/item?id=49645443)
+3. **实测打脸 RTK 省 token** — Quesma 花 $1500+/1740 次跑 Terminal-Bench 2.1：Fable 5 只降 5%、DeepSeek 反涨 5%（任务等权 +17%），通过率还各降 1-2%。HN 48pts。[🔗](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/) · [HN](https://news.ycombinator.com/item?id=49656471)
+4. **Google €13bn 投芬兰 AI + 22 年核电购电** — 欧洲最大单笔投资：3 座新数据中心 + 买 Loviisa 核电站最多 50% 出力；本周 TikTok 也投 $1bn。[🔗](https://www.bbc.com/news/articles/c8r6y4me2g6o) · [HN 217pts](https://news.ycombinator.com/item?id=49652105)
+5. **Meta Muse 冲美区 App Store 第 2** — 美国 iOS 下载 8.3 万+，但远逊 Threads 首日 430 万；重名还让英国乐队 Muse 丢了社媒账号。HN 183pts。[🔗](https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/) · [HN](https://news.ycombinator.com/item?id=49636345)
+
 ### 2026-09-10（周四·中国开源/行业动态）
 
 1. **DeepSeek V4.1 Flash 正式上线开源：552B、CED 新架构、首款原生多模态 Flash** — 权重已挂 HuggingFace，体量 552B（上代 V4 Flash 284B）；全新 CED 架构把 40 层 Transformer 拆成 20 层因果 encoder + 20 层 decoder，decoder 全局 KV cache 直接从 encoder 末层隐状态投影得到；官方称性能/速度/成本全面超 V4 Pro 且更便宜，技术报告专攻 KV cache 压缩；社区实测 GPQA-diamond 90.9。HN 557pts。[HN](https://news.ycombinator.com/item?id=49639090) · [HF 权重](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)
@@ -73,6 +81,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-11 | [→](daily/2026-09-11.md) |
 | 09-10 | [→](daily/2026-09-10.md) |
 | 09-09 | [→](daily/2026-09-09.md) |
 | 09-08 | [→](daily/2026-09-08.md) |
@@ -102,5 +111,4 @@
 | 08-14 | [→](daily/2026-08-14.md) |
 | 08-13 | [→](daily/2026-08-13.md) |
 | 08-12 | [→](daily/2026-08-12.md) |
-| 08-11 | [→](daily/2026-08-11.md) |
 
