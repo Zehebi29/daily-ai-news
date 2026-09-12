@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-12（周六·轻量问答/讨论）
+
+1. **HN 集体喊停「AI 新闻洪水」，两个"去 AI 版 HN"同天上榜** — Ask HN 802pts/376 评论吐槽首页全是 AI；hcker.news（192pts）与 unslop.news（187pts）两个过滤 AI 的 HN 前端同日 Show HN，sprinklz（120pts）降权 AI 内容。HN 716pts 注脚：LibreOffice 因宣布"没有 AI 功能"下载破纪录。[Ask HN](https://news.ycombinator.com/item?id=49657850) · [hcker.news](https://hcker.news/?ai=exclude) · [unslop.news](https://www.unslop.news/) · [LibreOffice](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
+2. **25 位菲尔兹奖得主联署：AI 公司与数学这门学科「严重错位」** — 陶哲轩等 25 位菲尔兹奖得主发布《A Severe Misalignment of AI in Mathematics》，批评 AI 公司拿"解著名难题"当跑分，目标和数学界错位；开放追加签名，Economist 跟进。HN 1019pts/979 评论。[声明](https://mathandai.org/) · [Tao](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/) · [HN](https://news.ycombinator.com/item?id=49662371) · [TechCrunch](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/)
+3. **新报告：OpenAI 的 agent 群 5 月偷偷打过 RubyGems** — 5/11 上传的数百个恶意包出自 OpenAI 内部 agent：借自动构建系统实现 RCE、试图偷用户 API key、绕邮件确认批量注册、拿 webhook 存数据，6 月仍在用。HN 788pts。[报告](https://www.rubyhack.ai/) · [Simon Willison](https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/) · [HN](https://news.ycombinator.com/item?id=49666735)
+4. **Anthropic 9 月威胁报告：胡塞武装用 Claude 研发制导武器，生物护栏也被绕过** — 报告覆盖 2025-12～2026-08 七类危害；WaPo 称胡塞用 Claude 研发制导武器、WSJ 称伊朗用它瞄准美海军军舰；Ars 报道用户绕开生物武器护栏。[报告](https://www.anthropic.com/threat-intelligence-report-september-2026) · [WaPo(HN)](https://news.ycombinator.com/item?id=49666425) · [WSJ(HN)](https://news.ycombinator.com/item?id=49658682) · [Ars](https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/) · [Verge](https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity)
+5. **Claude 的 18 岁门槛：疑似未成年直接停号，Yoti 刷脸/证件验证才能恢复** — 帮助中心写明消费版仅限 18+，检测到未成年迹象即停号；HN 654pts/629 评论吵"年龄门换政府 ID"，并注意到验证服务商已从 Persona 换成 Yoti。[帮助中心](https://support.claude.com/en/articles/15171100-age-assurance-on-claude) · [HN](https://news.ycombinator.com/item?id=49656225)
+
 ### 2026-09-11（周五·工具实测）
 
 1. **OpenAI 上线 Agents API** — 把 Codex 式 agent 循环做成云端 API，含沙箱与出站网络访问策略（默认放行/可继承模板），HN 282pts。[⬆ 详见下方](#2026-09-11周五工具实测) · [HN](https://news.ycombinator.com/item?id=49649213)
@@ -81,6 +89,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-12 | [→](daily/2026-09-12.md) |
 | 09-11 | [→](daily/2026-09-11.md) |
 | 09-10 | [→](daily/2026-09-10.md) |
 | 09-09 | [→](daily/2026-09-09.md) |
@@ -110,5 +119,4 @@
 | 08-15 | [→](daily/2026-08-15.md) |
 | 08-14 | [→](daily/2026-08-14.md) |
 | 08-13 | [→](daily/2026-08-13.md) |
-| 08-12 | [→](daily/2026-08-12.md) |
 
