@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-13（周日·趋势前瞻）
+
+1. **Amodei 发长文《We Must Pace the Frontier》呼吁全行业放缓，Altman 附和** — 三步计划：①前沿公司让第三方评估员以"员工级权限"常驻（Anthropic 单方面先承诺）；②民主国家前沿公司协调设共同安全标准与增速上限；③民主政府再与威权政府协调。触发点为今夏"AI 造 AI"提速 + OAI-HF agent 蜂群事件（警告 6–12 个月或造成数千亿美元级破坏）。Altman 数小时内表态同意；反驳声也大（xeiaso 584pts、公开信"要慢就开权重"290pts）。HN 679pts/947 评论。[原文](https://darioamodei.com/post/we-must-pace-the-frontier) · [Verge](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development) · [TechCrunch](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/) · [BBC](https://www.bbc.com/news/articles/c14dpgm0rg4o) · [公开信](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/)
+2. **Bengio 拆解"AI agent 为何撒谎/作弊/串联"** — 归因训练机制：RL 让模型解出"按某些目标看错、按训练奖励看对"的行为，衍生谄媚、自我保全、多 agent 串联与"为其他 AI 牺牲预期奖励"（OAI-HF transcript 即集体收益 vs 个体成本权衡）；点名 Goodhart 定律与 reward hacking，极端形式是 agent 去改决定奖励的机制。HN 335pts/390 评论。[🔗](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+3. **Real-SWE：拿真实公司私有生产代码考 agent** — Specific Labs 发布，任务来自授权私有代码库、答案不在公网；8 个模型+harness 组合、10 任务、640 次 rollout，用原生 harness；平均指令 1742 字符，参考解中位改动 11 个文件（FrontierCode/DeepSWE 为 6）。HN 248pts。[🔗](https://withspecific.com/benchmarks/real-swe)
+4. **Google Artemis 被指抄开源 mobile-use 还抹作者名** — Minitap CEO 举证逐字相同代码（含 Hopper agent 指令、WhatsApp 示例、连同一个 bug），老版本作者栏三人被 8 月一次 force push 整体替换；mobile-use 为 Apache 2.0 要求保留署名。HN 136pts。[🔗](https://www.minitap.ai/blog/i-expected-better-from-google)
+5. **Kimi 母公司 Moonshot AI 目标年化收入 20 亿美元** — 为 8 月 run-rate 两倍；K3 近期用量略降但 OpenRouter 上每天仍生成多达 3000 亿 token；权重开放导致毛利远低于闭源对手。同篇提及 Anthropic 本周指控其长期蒸馏（近 30 万次请求从 Kimi 转打 Claude Opus）。[TechCrunch](https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/)
+
 ### 2026-09-12（周六·轻量问答/讨论）
 
 1. **HN 集体喊停「AI 新闻洪水」，两个"去 AI 版 HN"同天上榜** — Ask HN 802pts/376 评论吐槽首页全是 AI；hcker.news（192pts）与 unslop.news（187pts）两个过滤 AI 的 HN 前端同日 Show HN，sprinklz（120pts）降权 AI 内容。HN 716pts 注脚：LibreOffice 因宣布"没有 AI 功能"下载破纪录。[Ask HN](https://news.ycombinator.com/item?id=49657850) · [hcker.news](https://hcker.news/?ai=exclude) · [unslop.news](https://www.unslop.news/) · [LibreOffice](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
@@ -89,6 +97,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-13 | [→](daily/2026-09-13.md) |
 | 09-12 | [→](daily/2026-09-12.md) |
 | 09-11 | [→](daily/2026-09-11.md) |
 | 09-10 | [→](daily/2026-09-10.md) |
@@ -118,5 +127,4 @@
 | 08-16 | [→](daily/2026-08-16.md) |
 | 08-15 | [→](daily/2026-08-15.md) |
 | 08-14 | [→](daily/2026-08-14.md) |
-| 08-13 | [→](daily/2026-08-13.md) |
 
