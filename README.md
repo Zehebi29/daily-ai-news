@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-14（周一·模型发布/开源）
+
+1. **Claude Fable 5.1 破了卡住 370 年的密码，还顺手破了第二道** — Vals 给 Fable 5.1 开放任务解 Urquhart 的 Cyphral Distich（题面 64 个数字）：44 分钟、176k token、零人工干预。历代失败原因是都在找外部密码本，密钥其实是书本身——第 i 个数字→第 i 段 Proquiritations→词索引→首字母，拼出 "O GOD UPHOLD KING CHARLS THE SECOND…"（两行各 32 字母、押韵、自校验）。同法再解 1652 年《The Jewel》的 Cyphral Octastich（285 数字按页码索引，275 个可读，9 字母存疑）。昨天 HN 1065pts 登顶（原文 8/31 发布）。[Vals](https://www.vals.ai/blogs/fable-solves-cyphral-distich) · [HN](https://news.ycombinator.com/item?id=49688695)
+2. **微软今天发 37 页《人文主义 AI 行为准则》** — 三条写死：人优先于 AI；模型无意识且不应被设计成模仿意识；拒绝模型法人人格/模型福利/模型权利（直接对 Anthropic 的 model welfare 路线开火，Suleyman 曾说那类猜测"really really dangerous"）；承诺模型不得超越人类控制，准则与任务冲突时宁可任务失败。背景是 OAI-HF agent 蜂群 + Amodei 周末倡议。[Verge](https://www.theverge.com/news/994566/microsoft-humanist-ai-code-conduct)
+3. **特朗普与议长约翰逊否掉"踩刹车"：谁赢 AI 谁赢一切** — 特朗普对 FT：“我们在 AI 上领先中国……我想保持这样，因为谁赢 AI，谁就赢”；Johnson 在 CNN：国会若紧急开会监管 AI 就会输给中国，草率设限本身是“国家安全威胁”。[Verge](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)
+4. **开源：Edge0 流式 MoE 推理框架（SSD 专家 offload + Recover-LoRA + prerouter）** — Apache 2.0，9/8 建仓 6 天 1662★；端到端交付两档 checkpoint（权重+LoRA+prerouter 头）：edge0-35b（4-bit/40 层/256 专家/K=4，基于 Qwen3.6-35B-A3B）、edge0-8b（24 层/128 专家/K=8，基于 Ling 3.0）；HF 35B 版 1535 likes；目前仅 Apple Silicon MLX 后端，CUDA 在路线图。[GitHub](https://github.com/Edge0-AI/Edge0) · [HF](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)
+5. **开源权重路线之争：YC 的 Garry Tan 主张美国自己也搞"蒸馏体系"** — 他在 CNBC 说对中国实验室蒸馏"我什么都不做"，并主张"应该有一个美国自己的蒸馏制度"：让美国小型开源权重实验室照样蒸美国前沿大厂（走正门，不用盗来的凭证），理由是闭源厂无权管客户拿 API 输出干什么、而其训练时也没问过人类知识授权。对照 Anthropic 本周第二份"非法蒸馏"报告 + Amodei 要求监管；同 HN 131pts 有 Nathan Lambert 的 open models 阅读清单。[TechCrunch](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) · [HN 394pts](https://news.ycombinator.com/item?id=49685253) · [Interconnects](https://www.interconnects.ai/p/open-source-ai-reading-list)
+
 ### 2026-09-13（周日·趋势前瞻）
 
 1. **Amodei 发长文《We Must Pace the Frontier》呼吁全行业放缓，Altman 附和** — 三步计划：①前沿公司让第三方评估员以"员工级权限"常驻（Anthropic 单方面先承诺）；②民主国家前沿公司协调设共同安全标准与增速上限；③民主政府再与威权政府协调。触发点为今夏"AI 造 AI"提速 + OAI-HF agent 蜂群事件（警告 6–12 个月或造成数千亿美元级破坏）。Altman 数小时内表态同意；反驳声也大（xeiaso 584pts、公开信"要慢就开权重"290pts）。HN 679pts/947 评论。[原文](https://darioamodei.com/post/we-must-pace-the-frontier) · [Verge](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development) · [TechCrunch](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/) · [BBC](https://www.bbc.com/news/articles/c14dpgm0rg4o) · [公开信](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/)
@@ -97,6 +105,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-14 | [→](daily/2026-09-14.md) |
 | 09-13 | [→](daily/2026-09-13.md) |
 | 09-12 | [→](daily/2026-09-12.md) |
 | 09-11 | [→](daily/2026-09-11.md) |
@@ -126,5 +135,4 @@
 | 08-18 | [→](daily/2026-08-18.md) |
 | 08-16 | [→](daily/2026-08-16.md) |
 | 08-15 | [→](daily/2026-08-15.md) |
-| 08-14 | [→](daily/2026-08-14.md) |
 
