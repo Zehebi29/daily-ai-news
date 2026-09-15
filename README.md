@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-15（周二·AI安全/政策/行业）
+
+1. **黄仁勋把特朗普电话开免提放给全场：AI 恐慌是 "hoax"，机器人不会接管世界** — All-In Summit 台上黄仁勋接通特朗普并外放，特朗普把此轮风险/放缓恐慌叫 "hoax"、说 "robots will not be taking over"，还称没有数据中心的地方本来"快死了"、现在"很有钱"；黄不反驳，只说"确保美国 AI 竞赛人人都是赢家"。同期 Verge 复盘周末 Amodei/Altman/Hassabis/Musk 的"Pace the Frontier"共识质疑为"安全协议还是卡特尔"，Register 直呼"监管俘获条款"。[Verge](https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit) · [Verge](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel) · [Register](https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067)
+2. **前 FTC 主席 Khan：旧法够用，1934 年判例可追究 AI 公司及其 CEO** — "法律里没有 AI 豁免条款"：未审查即投放按危险/缺陷产品与消费者保护办，"不设手段制止失控 agent"可算不公平欺诈行为；不公平竞争部分引 1934 年 FTC v. R.F. Keppel & Bro（跟进竞争若需"道德上强烈不愿采取的做法"即为不公平）；并点名 Nvidia 收购 Hugging Face 使其基本不会起诉 OpenAI。同日 HN 486pts：Aaron Patterson 复盘 5 月恶意 gem 用 YARD `.yardopts` RCE + 抓 RubyGems 缓存授权 key，证明 bot 是"知道漏洞还利用"。[Register](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325) · [HN 187pts](https://news.ycombinator.com/item?id=49706223) · [tenderlovemaking](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/) · [HN 486pts](https://news.ycombinator.com/item?id=49695876)
+3. **Ars 独家（Mozilla 报告）：买前沿模型≈4 个月领先、5 倍成本** — 廉价开放权重模型把能力差压到一个身位；Epoch AI 数据同向：1 月以来最强开放权重平均落后前沿闭源约 4 个月（≈8 ECI 点）。[Ars](https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/) · [Epoch](https://epoch.ai/data-insights/open-closed-eci-gap)
+4. **Salesforce+Nvidia 发 Koa 推理模型** — Nemotron 开源底座后训练，专攻销售/市场/客服；以前 Agentforce 多步推理只能路由给 Claude/ChatGPT，现可留在自家，更省 token；训练用合成 persona 数据（不含客户真实数据）。官方选底座理由："不知道 Qwen 在什么数据上训的"。[TechCrunch](https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/)
+5. **AIUC 拿 4000 万美元 A 轮，把 SOC 2 模式搬给 AI agent** — 早期 Anthropic 员工 Rune Kvist + METR 前 COO Rajiv Dattani；AIUC-1 标准（250 位安全/风险负责人共建）+ 约 5000 项测试（越狱/幻觉/数据泄漏）出约 100 页报告；客户含 Cursor/Lovable/Harvey/ElevenLabs。[TechCrunch](https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/)
+
 ### 2026-09-14（周一·模型发布/开源）
 
 1. **Claude Fable 5.1 破了卡住 370 年的密码，还顺手破了第二道** — Vals 给 Fable 5.1 开放任务解 Urquhart 的 Cyphral Distich（题面 64 个数字）：44 分钟、176k token、零人工干预。历代失败原因是都在找外部密码本，密钥其实是书本身——第 i 个数字→第 i 段 Proquiritations→词索引→首字母，拼出 "O GOD UPHOLD KING CHARLS THE SECOND…"（两行各 32 字母、押韵、自校验）。同法再解 1652 年《The Jewel》的 Cyphral Octastich（285 数字按页码索引，275 个可读，9 字母存疑）。昨天 HN 1065pts 登顶（原文 8/31 发布）。[Vals](https://www.vals.ai/blogs/fable-solves-cyphral-distich) · [HN](https://news.ycombinator.com/item?id=49688695)
@@ -105,6 +113,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-15 | [→](daily/2026-09-15.md) |
 | 09-14 | [→](daily/2026-09-14.md) |
 | 09-13 | [→](daily/2026-09-13.md) |
 | 09-12 | [→](daily/2026-09-12.md) |
@@ -134,5 +143,4 @@
 | 08-19 | [→](daily/2026-08-19.md) |
 | 08-18 | [→](daily/2026-08-18.md) |
 | 08-16 | [→](daily/2026-08-16.md) |
-| 08-15 | [→](daily/2026-08-15.md) |
 
