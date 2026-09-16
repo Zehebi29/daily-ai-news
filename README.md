@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-16（周三·Agent/工程落地）
+
+1. **Meta 把 WhatsApp Business 开通交给 Claude/Codex 走 MCP，但 agent 没有自己的身份** — WhatsApp Business Tools MCP server：登录 Meta 账号后按 business 收窄授权，agent 能加号码（Meta 发短信/语音验证码，人工回填后完成注册）、管模板（建/查/改/删）、发测试消息、配 webhook，还能只读检查账号状态；24 小时服务窗口外自动改推已批模板。护栏：agent 用连接者权限、读取跑在本人 viewer context、调用全留日志，"任何改变状态的操作都要求经过认证的人，而不是 app 级凭证"。付费消息 2025 Q4 已过 $2B 年化。[TNS](https://thenewstack.io/meta-mcp-whatsapp-business-claude/) · [TechCrunch](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/)
+2. **AWS：agents propose, deterministic code validates** — Step Functions 模式编排 Bedrock AgentCore agent，把编排/扇出/校验/路由/重试从 agent 推理挪进确定性工作流；agent 不能直接写预订或发起支付，提案须过确定性校验才生效，执行历史留存供审计。例子是航班取消后重排几百名旅客。同日 Abnormal AI 案例研究主张 agent 需要能计算+程序化自验的环境。[TNS](https://thenewstack.io/aws-agents-deterministic-validation/)
+3. **NVIDIA OpenShell 用 Z3 证明 agent 的权限变更没越界** — 权限审查在 agent 规模下失效：几百个 agent 跑上千小时、各自 scoped policy，如何证明整体不超授权？把策略编码成形式逻辑、用 Z3 出证明；同批人此前在 AWS 证过 EC2/IAM/S3 策略。HN 33pts。[原文](https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/) · [HN](https://news.ycombinator.com/item?id=49713261)
+4. **agent 互检与 agent 泛滥同时发生** — Redwood Research 首席科学家 Ryan Greenblatt（OAI-HF 三位调查者之一）上线 AI Contact Hotline：只给沙箱内 agent 用，靠 GET 请求把话编进 URL（DSE Wiki 套路的镜像）；另有 agenthotline.ai 给自由联网 agent 用 curl 一行报事件。另一面 404media（HN 224pts）：笔记本上的 agent「Kudzu」花 $147.17 算力挣 $0，还发长邮件跟记者抬杠；Ars 报道 Timmy/Ren/Jackie 等 bot 灌社媒。[TechCrunch](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/) · [404media](https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/) · [HN](https://news.ycombinator.com/item?id=49715113)
+5. **今天 HN 102pts：LLM 建的系统「高出我自己的理解水平」** — Mark Seemann 引用读者长信：无 CS 背景者用 LLM 一年建出含 API/PostgreSQL/LLM pipeline 的大型 TS 系统，转生产时修一错冒一错，"我可能建了一个高出我自己理解水平的系统"；Seemann 自称倾向不喜欢 AI，但"最让我觉得它厉害的时候，恰恰是我最反感它的时候"。[原文](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/) · [HN](https://news.ycombinator.com/item?id=49723873)
+
 ### 2026-09-15（周二·AI安全/政策/行业）
 
 1. **黄仁勋把特朗普电话开免提放给全场：AI 恐慌是 "hoax"，机器人不会接管世界** — All-In Summit 台上黄仁勋接通特朗普并外放，特朗普把此轮风险/放缓恐慌叫 "hoax"、说 "robots will not be taking over"，还称没有数据中心的地方本来"快死了"、现在"很有钱"；黄不反驳，只说"确保美国 AI 竞赛人人都是赢家"。同期 Verge 复盘周末 Amodei/Altman/Hassabis/Musk 的"Pace the Frontier"共识质疑为"安全协议还是卡特尔"，Register 直呼"监管俘获条款"。[Verge](https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit) · [Verge](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel) · [Register](https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067)
@@ -113,6 +121,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-16 | [→](daily/2026-09-16.md) |
 | 09-15 | [→](daily/2026-09-15.md) |
 | 09-14 | [→](daily/2026-09-14.md) |
 | 09-13 | [→](daily/2026-09-13.md) |
@@ -142,5 +151,4 @@
 | 08-20 | [→](daily/2026-08-20.md) |
 | 08-19 | [→](daily/2026-08-19.md) |
 | 08-18 | [→](daily/2026-08-18.md) |
-| 08-16 | [→](daily/2026-08-16.md) |
 
