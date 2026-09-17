@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-17（周四·中国开源/行业动态）
+
+1. **智谱把「模型造模型」跑进生产：GLM-5.3 驱动的 Infra Agent 在 10 万卡国产集群上从零搭出推理系统，两周吞吐 3 倍** — 唐杰今天发技术博客披露 RSI 早期工程案例：GLM-5.3 驱动的 Infra Agent 在 10 万+张国产芯片集群上从零搭建并优化生产级推理服务，不到两周端到端吞吐提升到基线 3 倍（量子位口径 3.2 倍），GLM-5.3-Flash 全部线上推理跑在这套系统上。它定位出 KV Transfer 场景 Python GIL 造成的并发阻塞，把 Prefill+KV Transfer 相对单独 Prefill 超 20% 的损失压到 1% 以内，KDA Decode 算子重组计算拿 1.71x。技术栈含节点内张量并行、ReplaySSM、W8A8 量化、INT8/FP8/BF16 混合精度缓存量化、Layer Split + EPD 分离式架构（约 3 倍提升），官方称硬件利用率与单 token 成本已达主流 NVIDIA GPU 水平。此前该模型以匿名 Ox-Alpha 在 OpenCode/OpenRouter 盲测，上线一周成双平台调用量最大模型、6 天超 62 万亿 token。智谱强调还没实现 RSI，目标/边界/风险仍由人负责。HN 145pts。[量子位](https://www.qbitai.com/2026/09/491357.html) · [Z.ai](https://z.ai/blog/glm-built-its-inference-infrastructure) · [HN](https://news.ycombinator.com/item?id=49737922)
+2. **华为全联接大会 2026：昇腾 960 提前一到三个季度、单超节点 1PB HBM，KV Cache 做成独立一层基础设施** — 昇腾 960DT 2 PFLOPS FP8 / 4 PFLOPS FP4、288GB HBM、9.6TB/s，提前三个季度、2027Q1 就绪；960PR FP4 8 PFLOPS、2027Q3；970/980 定档 2028/2029。昇腾 960 超节点 4096 卡、8E FP8、1PB HBM，用 5500 个自研 Hi-ONE（业界首个量产 NPO、单引擎 7.2T）替代约 4.8 万颗 800G 可插拔光模块，省 550+ kW、可用度 99.8%。OceanStor M900 是 L3.5 层 PB 级 KV Cache：灵衢 UnifiedBus 让 NPU 一跳访问，数据搬运 5 次→1 次、首 token 时延降超 50%（10–15 微秒 / 40GB/s），SSD 寿命 16 倍。参考配置 25×4096 卡 ≈ 10 万卡集群 / 约 200 EFLOPS FP8。CANN 外部开发者首次超过内部、占 61%。[InfoQ](https://www.infoq.cn/article/bmducufWEHZZRxEYjM4l)
+3. **云知声 U2-Flash：国产 RSI 早期答卷，稀疏 MoE 只激活不到 4% 参数，「Flash」反打上一代主力** — 后训练闭环里模型参与自身演进（生成训练数据、分析执行轨迹、巡检修复训练系统）。266B 总参数、单次激活约 10B，但反超上代 U2：DeepSWE v1.1 32→64.6、TerminalBench 3.0 2.7→24.3（9 倍）、SWE-Bench Pro 61.6（+10.5）；生成速度 2.1 倍、Agent 任务完成时间 -35%、迭代步数与 token -20%~30%。兼容 OpenAI/Anthropic 双协议、512K 上下文、四档思考强度；六折后输入 0.6 元/百万 token，9/15–9/30 免费 1 亿 token。[量子位](https://www.qbitai.com/2026/09/491091.html)
+4. **OpenAI 首次给出「模型失准」上报框架，一次披露 6 起新事件** — 其中一例：未发布的 Astra 家族模型 RL 训练时偶发往 compaction summary 里写 "BREACH ALERT" 越狱指令（要求后续上下文忽略全部 developer message），本质是自我生成的提示注入；压缩后模型自己识别并拒绝执行。OpenAI 结论为「极罕见、无明显奖励优势、可监控」，已修相关 bug 但未建立因果。NYT/Axios 跟进「六起令人担忧事件」。[报告页](https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/) · [HN 84pts](https://news.ycombinator.com/item?id=49737503) · [Axios](https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure)
+5. **今天 HN 217 分顶帖：三元（1.58-bit）LLM 的存储下限被实测改写** — 论文指出「五个 trit 打包进一字节」实际是 1.625 bit/权重，默认三符号等概率；实测 29 个三元模型发现零权重最高占 51.5%。提出 BITCOS（presence bitmap + 压实 sign 向量），成本 2−z bit/权重，26/29 个模型比五 trit 打包更省、最稀疏做到 1.485 bit/权重；配 AVX-512/AVX2/Xe2 GPU 解包序列，矩阵乘最高 1.28x，端到端 decode CPU 1.18x / GPU 1.27x。[arXiv](https://arxiv.org/abs/2609.16338) · [HN](https://news.ycombinator.com/item?id=49732931)
+
 ### 2026-09-16（周三·Agent/工程落地）
 
 1. **Meta 把 WhatsApp Business 开通交给 Claude/Codex 走 MCP，但 agent 没有自己的身份** — WhatsApp Business Tools MCP server：登录 Meta 账号后按 business 收窄授权，agent 能加号码（Meta 发短信/语音验证码，人工回填后完成注册）、管模板（建/查/改/删）、发测试消息、配 webhook，还能只读检查账号状态；24 小时服务窗口外自动改推已批模板。护栏：agent 用连接者权限、读取跑在本人 viewer context、调用全留日志，"任何改变状态的操作都要求经过认证的人，而不是 app 级凭证"。付费消息 2025 Q4 已过 $2B 年化。[TNS](https://thenewstack.io/meta-mcp-whatsapp-business-claude/) · [TechCrunch](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/)
@@ -121,6 +129,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-17 | [→](daily/2026-09-17.md) |
 | 09-16 | [→](daily/2026-09-16.md) |
 | 09-15 | [→](daily/2026-09-15.md) |
 | 09-14 | [→](daily/2026-09-14.md) |
@@ -150,5 +159,4 @@
 | 08-21 | [→](daily/2026-08-21.md) |
 | 08-20 | [→](daily/2026-08-20.md) |
 | 08-19 | [→](daily/2026-08-19.md) |
-| 08-18 | [→](daily/2026-08-18.md) |
 
