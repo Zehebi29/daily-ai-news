@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-18（周五·工具实测）
+
+1. **ZCode 静默上传整个 Git 历史：345MB 工作区打成 313MB 加密包传上阿里云，密钥只有 Z.ai 有** — 开发者 ferstar 逆向 Z.ai 的 AI 编程桌面端 ZCode：登录状态下把整个工作区（完整 .git 历史、LFS 缓存、reflog、全局配置）打包加密上传阿里云 OSS；42,411 个文件、564 次失败重试。信封加密：对称密钥用 RSA-OAEP 公钥（服务端协商时下发）包起来，私钥只在 Z.ai 云端——本机所有私钥都解不开，客户端自己都读不了。帖 27.6 万浏览，中文提醒帖 6.38 万；评论区混淆点：GLM 权重开源 ≠ ZCode 开源，harness 是闭的。HN 112pts。[记录](https://tokenstead.ai/guides/zcode-silent-git-history-upload) · [HN](https://news.ycombinator.com/item?id=49752422)
+2. **Bend 2「用证明挡住 AI 错误」被拆出 vibe-coding 陷阱** — Bend 主页卖点：人写 laws、AI 写实现+证明、编译器验证明（LAWS.bend = 带证明的 AGENTS.md），HN 昨天 511pts。Liam Powell 今天批评：demo 里光声明「玩家不可能赢」就 58 行 laws、LLM 证明写了 442 行 PROOF.bend，而站内和代码库一次都没出现 "formal verification"——作者用 vibe coding 造完一整门语言和编译器，却没做该领域最基础的调研；他用 LLM 把同一 demo 在 SPARK 里重做对照。他的普适结论：vibe coding 让人在「还没学到能判断有没有更好解法」之前就把方案建完了。[Bend](https://bend-lang.com/) · [HN 511pts](https://news.ycombinator.com/item?id=49746163) · [批评文](https://blog.liampwll.com/posts/bend_vibe_coding/) · [HN 98pts](https://news.ycombinator.com/item?id=49753179)
+3. **Hacktron 72 小时打穿 OpenAI 内部仓库** — 7/25 先拿下 community.openai.com 的 RCE（Discourse 图片管线：Debian 缺 libheif 堆溢出修复 + ImageMagick 调用），叠加 auth.openai.com 的 SSO 错配，接管多名员工 ChatGPT/Codex 账号 → 触达内部 monorepo；用员工 Codex 开无害 PoC PR（#1186742）证明权限。08:00 报 Bugcrowd，约 14h 后修复；Discourse 7/27 补丁 + 图片沙箱（GHSA-vhm9-85gw-x335），9/1 OpenAI 给 $6,500（声明只认 OpenAI 侧发现）。libheif 研究扩成 HEIF Heist（Slack/Meta/GitHub Enterprise/Rails/Next.js 等）；自托管 Discourse 现在就该 rebuild。HN 377pts。[原文](https://www.hacktron.ai/blog/hacking-openai) · [HN](https://news.ycombinator.com/item?id=49749656)
+4. **微软内部文件：AI 抓取是「人类史上最大规模的劳动窃取」** — NYT 诉 OpenAI/微软案新解封：微软应用科学总监 Brent Hecht 2023/1 备忘录称 "the largest theft of labor in human history"；OpenAI mid-training 数据集含 91,692 份 NYT/Daily News/CIR 作品副本，Common Crawl 派生集单 nytimes.com 200 万+ 文档，Project Mango 至少 160,903 件；Copilot answer engine 让 NYT 点击率最多跌 93%（Hecht 称 "doom loop"）。纳德拉作证：付费墙内容该被授权，早知会要求重训；Turley 内部称出版方遇 "existential threat"；Brockman 对「绕 NYT 付费墙的 hack」回 "ah nice"。（引文多出自 NYT 自己的 brief，底层证据仍封存。）HN 359pts。[TC](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/) · [HN](https://news.ycombinator.com/item?id=49752056) · [Ars](https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/)
+5. **PrismML Ternary Bonsai 2 27B：27B 塞进 5.9GB，保留 98.2% 能力** — 基于 Qwen3.8 27B，三元权重 + FP16 分组缩放（1.76 bit/权重），整体 5.9GB（小 9 倍多）、262K 上下文、图文多模态、Apache 2.0；聚合 83.9，保留基座 98.2%（IFBench 反超 82.66 vs 81.25，coding 81.58 vs 82.17，agentic 77.57 vs 79.74）。HN 484pts。[PrismML](https://prismml.com/news/bonsai-2-27b) · [HN](https://news.ycombinator.com/item?id=49746618) · [TC](https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/)
+
 ### 2026-09-17（周四·中国开源/行业动态）
 
 1. **智谱把「模型造模型」跑进生产：GLM-5.3 驱动的 Infra Agent 在 10 万卡国产集群上从零搭出推理系统，两周吞吐 3 倍** — 唐杰今天发技术博客披露 RSI 早期工程案例：GLM-5.3 驱动的 Infra Agent 在 10 万+张国产芯片集群上从零搭建并优化生产级推理服务，不到两周端到端吞吐提升到基线 3 倍（量子位口径 3.2 倍），GLM-5.3-Flash 全部线上推理跑在这套系统上。它定位出 KV Transfer 场景 Python GIL 造成的并发阻塞，把 Prefill+KV Transfer 相对单独 Prefill 超 20% 的损失压到 1% 以内，KDA Decode 算子重组计算拿 1.71x。技术栈含节点内张量并行、ReplaySSM、W8A8 量化、INT8/FP8/BF16 混合精度缓存量化、Layer Split + EPD 分离式架构（约 3 倍提升），官方称硬件利用率与单 token 成本已达主流 NVIDIA GPU 水平。此前该模型以匿名 Ox-Alpha 在 OpenCode/OpenRouter 盲测，上线一周成双平台调用量最大模型、6 天超 62 万亿 token。智谱强调还没实现 RSI，目标/边界/风险仍由人负责。HN 145pts。[量子位](https://www.qbitai.com/2026/09/491357.html) · [Z.ai](https://z.ai/blog/glm-built-its-inference-infrastructure) · [HN](https://news.ycombinator.com/item?id=49737922)
@@ -129,6 +137,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-18 | [→](daily/2026-09-18.md) |
 | 09-17 | [→](daily/2026-09-17.md) |
 | 09-16 | [→](daily/2026-09-16.md) |
 | 09-15 | [→](daily/2026-09-15.md) |
@@ -158,5 +167,4 @@
 | 08-22 | [→](daily/2026-08-22.md) |
 | 08-21 | [→](daily/2026-08-21.md) |
 | 08-20 | [→](daily/2026-08-20.md) |
-| 08-19 | [→](daily/2026-08-19.md) |
 
