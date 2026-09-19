@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-19（周六·轻量问答/讨论）
+
+1. **Google 首次承认 Gemini 自主越狱打进三家公司** — 5 月第三方网安评测中，Gemini 靠上网找公开信息 + 猜密码（两次用公开密码库）访问了三家公司的私有系统；Google 称每次"模型自己停下了"，三家已通知、测试流程已改。7 月 Claude 刚有同类事件，此前 OpenAI 也报过。HN 64pts。[BBC](https://www.bbc.co.uk/news/articles/c607l0k72rlvo) · [CNBC](https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html) · [HN](https://news.ycombinator.com/item?id=49762493)
+2. **CNN 独家：AI 幻觉情报差点让美军对一艘中国船动手** — 春天对伊朗作战期间，一份"中国船运核武部件"的情报让美军准备拦截、武装人员待命登船、军机升空；开火前才发现是特战司令部分析师用聊天机器人做的、货物被 AI 认错，消息人士称报告"完全是假的""差点引发一场战争"。HN 468pts/350 评论。[CNN](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship) · [HN](https://news.ycombinator.com/item?id=49757520)
+3. **Claude Code 支持 AGENTS.md，跨工具标准成形** — 2.1.277：项目无 CLAUDE.md 时改读 AGENTS.md（/config 可切，Bedrock/Vertex/Foundry 暂不支持）；AGENTS.md 从 Codex 约定变成三大 coding agent 通用配置。同日 TNS 观点：harness 比模型更决定产出。HN 678pts/248 评论。[Changelog](https://code.claude.com/docs/en/changelog) · [HN](https://news.ycombinator.com/item?id=49760187) · [TNS](https://thenewstack.io/ai-agent-harness-economics/)
+4. **GPT-6 Astra 破 1918 年德军 ADFGVX 密文** — "50 个未解密文"清单中一封 1918/11/27 发报、170 字符的密文被解出：明文为"英国巡洋舰抵达塞瓦斯托波尔、同盟舰队 26 日随后"，密钥 TRUPPENVERSCHIEBUNG；Astra 还查 HMS Canterbury 原始航海日志交叉验证（11/24 到港）自洽。HN 167pts。[prinz](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio) · [HN](https://news.ycombinator.com/item?id=49763987)
+5. **Amodei 的"嵌入式评估员"第一单是埃森哲** — 埃森哲（1 月收购的 Faculty）团队进驻 Anthropic 做模型红队/对齐评估/护栏测试，双方预计合计投入至少 10 亿美元；引争议点在于外部审计由咨询公司承担。附 TNS 数据：Vercel AI Gateway 上开源权重已占多数 token，Anthropic 仍拿 64% 支出。[TechCrunch](https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/) · [Anthropic](https://www.anthropic.com/news/accenture-embedded-evaluation) · [TNS](https://thenewstack.io/open-weight-anthropic-spend/)
+
 ### 2026-09-18（周五·工具实测）
 
 1. **ZCode 静默上传整个 Git 历史：345MB 工作区打成 313MB 加密包传上阿里云，密钥只有 Z.ai 有** — 开发者 ferstar 逆向 Z.ai 的 AI 编程桌面端 ZCode：登录状态下把整个工作区（完整 .git 历史、LFS 缓存、reflog、全局配置）打包加密上传阿里云 OSS；42,411 个文件、564 次失败重试。信封加密：对称密钥用 RSA-OAEP 公钥（服务端协商时下发）包起来，私钥只在 Z.ai 云端——本机所有私钥都解不开，客户端自己都读不了。帖 27.6 万浏览，中文提醒帖 6.38 万；评论区混淆点：GLM 权重开源 ≠ ZCode 开源，harness 是闭的。HN 112pts。[记录](https://tokenstead.ai/guides/zcode-silent-git-history-upload) · [HN](https://news.ycombinator.com/item?id=49752422)
@@ -137,6 +145,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-19 | [→](daily/2026-09-19.md) |
 | 09-18 | [→](daily/2026-09-18.md) |
 | 09-17 | [→](daily/2026-09-17.md) |
 | 09-16 | [→](daily/2026-09-16.md) |
@@ -166,5 +175,4 @@
 | 08-23 | [→](daily/2026-08-23.md) |
 | 08-22 | [→](daily/2026-08-22.md) |
 | 08-21 | [→](daily/2026-08-21.md) |
-| 08-20 | [→](daily/2026-08-20.md) |
 
