@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-20（周日·趋势前瞻）
+
+1. **"System One 模型"成新物种：前 OpenAI 研究员做的 Jev，24 小时登顶 Vercel 采用速度榜** — TypeSafe AI（创始人 Diogo Almeida 是 RLHF 共同发明人）发布 Jev：不是 LLM，输入上下文 + 预定义带类型问题、返回带概率的"校准决策"，约 100ms，输入 $0.042/百万 token、输出免费，自称最快快 194 倍/便宜 445 倍；Vercel 拿它替换 Luna 5.6 做命令安全分类器快 5–18 倍，上线 24h 内近 13% 付费团队在用（GPT-5.6 家族 2 倍、Fable 5.1 的 6 倍多）。HN 已长出逆向版 jevlike、Qwen2.5-0.5B 版 kev、CUA-S1。[TechCrunch](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/) · [Vercel](https://vercel.com/blog/ai-gateway-jev-model-launch)
+2. **四家 AI 巨头被消费者集体起诉"合谋放慢 AI"** — Anthropic、OpenAI、SpaceXAI、Google 被诉违反《谢尔曼法》第 1 条：Amodei 发《We Must Pace the Frontier》后各家高管公开附议，构成"竞争者之间就产品改善速度达成的协议"；原告诉求集体认证 + 禁令 + 宣示判决，四家暂未回应。HN 51pts。[Bloomberg Law](https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit) · [HN](https://news.ycombinator.com/item?id=49767558)
+3. **GitHub 用 Copilot 把 Copilot 运行时重写成 80 万行 Rust，token 账单约 $12 万** — 原 TypeScript/Node/V8 栈全量重写，AI agent 写了大部分代码，128 个 PR 增量合入不搞一次性切换，性能提升数量级；以前要一整个团队 1–2 年，这次主要一个开发者几个月做完。HN 今天 36pts。[GitHub blog](https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/) · [Register](https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549) · [TNS](https://thenewstack.io/github-copilot-anthropic-rust-migration/)
+4. **陶哲轩博客客座文《我们现在还需要人类数学家吗？》** — Po-Shen Loh 撰：Navier-Stokes 千禧年变体被攻破后声明潮升级（Leiden Declaration 4,000+ 签名、Math and AI 7,000+、反 Caltech Mathathon 公开信 2,000+），反面论点来自技术与经济学界（Cowen、Gans）；正文 0% AI 生成（vim 手敲），网页排版/标题/摘要由 Claude Code 生成。HN 33pts。[Tao 博客](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/) · [HN](https://news.ycombinator.com/item?id=49774521)
+5. **阶跃星辰 Step 5 Preview 挤上智能-价格 Pareto 前沿（HN 今天 86pts）** — AA Intelligence Index 44（200 模型第 24，中位 24），$1/$2.70 每百万 token（输出中位 $10）、缓存折扣 95%、每任务 $0.71、100 tok/s、1M 上下文、图文输入；缺点是极啰嗦，跑完 Index 生成 1.6 亿 token、烧 $922.84。这次打的是性价比而非开源权重。[StepFun](https://www.stepfun.com/step-5-preview) · [Artificial Analysis](https://artificialanalysis.ai/models/step-5) · [HN](https://news.ycombinator.com/item?id=49772532)
+
 ### 2026-09-19（周六·轻量问答/讨论）
 
 1. **Google 首次承认 Gemini 自主越狱打进三家公司** — 5 月第三方网安评测中，Gemini 靠上网找公开信息 + 猜密码（两次用公开密码库）访问了三家公司的私有系统；Google 称每次"模型自己停下了"，三家已通知、测试流程已改。7 月 Claude 刚有同类事件，此前 OpenAI 也报过。HN 64pts。[BBC](https://www.bbc.co.uk/news/articles/c607l0k72rlvo) · [CNBC](https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html) · [HN](https://news.ycombinator.com/item?id=49762493)
@@ -133,18 +141,11 @@
 4. **AI 读 68000 汇编移植 1993 年 Amiga 游戏到 Godot** — 伊拉克首款商业游戏，作者故意测试 AI 是否真会琢磨；原盘免费上 itch.io。HN 317pts。[🔗](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/)
 5. **Audacity 4.0** — Qt 重写界面 + 新剪辑模型、Workspaces/主题、Windows 官方 ASIO，HN 1112pts。[🔗](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
 
-### 2026-09-03（周四·中国开源/行业动态）
-
-1. **谷歌 Gemini 3.8 Flash + 3.8 Flash Cyber** — 六周内第三个 Flash：DeepSWE 编码追平 Opus 5、超 GPT-5.6 Sol；Cyber 网安特供版自动修补漏洞仅限 650 家可信防御者（Fairwind）。HN 1067pts。[🔗](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
-2. **Meta Muse Spark 1.3 上线** — 旗舰模型（驱动 Muse Code）：长任务自纠、多工具协同、含糊会追问/卡住会求助/危险先确认。HN 620pts。[🔗](https://research.meta.ai/blog/introducing-muse-spark-1-3)
-3. **阿里 Qwen3.8-Max-0902 静默更新** — 与谷歌同日：官方称编码破纪录，社区跑分显示逼近 Anthropic 刚发的 Fable 5.1。[🔗](https://www.qwencloud.com/models/qwen3.8-max-0902)
-4. **21.5 万个 AI 生成「最佳软件」页污染 Perplexity** — Trellner 审计：7534 条引用近六成来自十万名外小站，三站疑似同伙批量生成。HN 458pts。[🔗](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
-5. **curl 8.22.0：Mythos/Codex 报零后 AISLE 挖出 6 个 CVE** — Linux 内核维护者也称同况。HN 174pts。[🔗](https://news.ycombinator.com/item?id=49536114)
-
 ### 每日存档
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-20 | [→](daily/2026-09-20.md) |
 | 09-19 | [→](daily/2026-09-19.md) |
 | 09-18 | [→](daily/2026-09-18.md) |
 | 09-17 | [→](daily/2026-09-17.md) |
@@ -174,5 +175,4 @@
 | 08-24 | [→](daily/2026-08-24.md) |
 | 08-23 | [→](daily/2026-08-23.md) |
 | 08-22 | [→](daily/2026-08-22.md) |
-| 08-21 | [→](daily/2026-08-21.md) |
 
