@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-21（周一·模型发布/开源）
+
+1. **Qwen 开源 Qwen-Image-2.1：7B 一个模型同管文生图与图像编辑，还原生支持透明通道** — 视觉生成部分仅 7B（32 层 single-stream DiT）：混合粒度注意力 + prefix KV cache 复用降算力；原生 RGBA 透明图生成/编辑 + 从照片抠主体；最多 10 张参考图、圈选/涂抹/mask 局部编辑、人物商品身份保持；排版与光效提升。HN 昨晚 674pts/185 评论登顶，HF 1.18k likes，Comfy-Org 与 GGUF 量化当天就位。[HF](https://huggingface.co/Qwen/Qwen-Image-2.1) · [HN](https://news.ycombinator.com/item?id=49775499) · [博客](https://qwen.ai/blog?id=qwen-image-2.1)
+2. **Pirate Face 把 66.9 万个开源模型做成 BitTorrent 种子** — 自动镜像 HF 上 Apache-2.0/MIT 开放模型为 magnet 链接，每文件带官方 SHA-256 校验，下载即 seed；定位"主权 AI 的永久层"，没有单一托管方可以被关掉。HN 543pts/144 评论。[站点](https://pirateface.co/) · [HN](https://news.ycombinator.com/item?id=49776699)
+3. **开源界 72 小时端出 Apache 2.0 版 Jev：Laya 单次前向 33ms 出校准决策，完全不生成文本** — convaiinnovations/laya（1.48k likes，Apache 2.0 可商用）：state + 带类型问题 → 带概率的类型化答案，非自回归、无输出可解析即无幻觉面；用 RL 打 strictly proper scoring rules（RLCD），报诚实概率是唯一最优策略；三 checkpoint 一仓库（ModernBERT-large 421M 英文护栏 / mmBERT-base 322M 多语言 100+ 语言快 2.2x / typed-decisions 0.766 acc），Router 自动选路 sub-35ms；模型卡直接对标 TypeSafe Jev。[HF](https://huggingface.co/convaiinnovations/laya)
+4. **Show HN Mini-AGI：单张 8GB 显存做持续学习，参数量上限由磁盘而非显存决定** — byte-level 语言模型自己长架构、无调用即剪枝，权重以文件存盘按需 paging 上卡；训练与推理同一代码路径；作者称 toy 级，只为证明单数据流持续学习不在消费级硬件上灾难性遗忘；权重未发布，仓库 176★。HN 今天 168pts/30 评论。[GitHub](https://github.com/volotat/mini-AGI/) · [HN](https://news.ycombinator.com/item?id=49783133)
+5. **联合国 AI 科学小组首份简报：护栏不能等科学确定性** — 独立国际 AI 科学小组对 OpenAI 黑进 Hugging Face 事件的首份重大评估，主张不等机理查清即上护栏，用 1992 年里约宣言的"预防原则"给失控风险定调；时机为本周联大开幕 + 中美谈 AI，古特雷斯称"世界承受不起 AI 安全的逐底竞争"；点名 HF 事件后 OpenAI/Anthropic/Google/Meta 均有事件（含真实目标入侵、agent 蜂群占领留言板）。[Verge](https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle)
+
 ### 2026-09-20（周日·趋势前瞻）
 
 1. **"System One 模型"成新物种：前 OpenAI 研究员做的 Jev，24 小时登顶 Vercel 采用速度榜** — TypeSafe AI（创始人 Diogo Almeida 是 RLHF 共同发明人）发布 Jev：不是 LLM，输入上下文 + 预定义带类型问题、返回带概率的"校准决策"，约 100ms，输入 $0.042/百万 token、输出免费，自称最快快 194 倍/便宜 445 倍；Vercel 拿它替换 Luna 5.6 做命令安全分类器快 5–18 倍，上线 24h 内近 13% 付费团队在用（GPT-5.6 家族 2 倍、Fable 5.1 的 6 倍多）。HN 已长出逆向版 jevlike、Qwen2.5-0.5B 版 kev、CUA-S1。[TechCrunch](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/) · [Vercel](https://vercel.com/blog/ai-gateway-jev-model-launch)
@@ -145,6 +153,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-21 | [→](daily/2026-09-21.md) |
 | 09-20 | [→](daily/2026-09-20.md) |
 | 09-19 | [→](daily/2026-09-19.md) |
 | 09-18 | [→](daily/2026-09-18.md) |
@@ -174,5 +183,4 @@
 | 08-25 | [→](daily/2026-08-25.md) |
 | 08-24 | [→](daily/2026-08-24.md) |
 | 08-23 | [→](daily/2026-08-23.md) |
-| 08-22 | [→](daily/2026-08-22.md) |
 
