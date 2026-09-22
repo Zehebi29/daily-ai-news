@@ -6,6 +6,14 @@
 
 ## 最新资讯
 
+### 2026-09-22（周二·AI安全/政策/行业）
+
+1. **ChatGPT 的广告采集器被逆向：一个 `__obi` cookie 让 OpenAI 知道你上过哪些网站** — 客户端拿 16 字节随机标识换 RS256 JWT（`iss=chatgpt-wadi`、`purpose=obi_sync`、60s 过期、绑 64-hex 账号 subject），跨站写 `__obi` 到 `.openai.com`（Max-Age 一年、SameSite=None+Secure）；广告主站点装的 OpenAI SDK 把该 cookie 连页面数据回传（搜的商品/读的文章/购买行为），连 SDK 的 `<script src>` 加载请求都带 cookie（"不带凭证"的代码路径无效）；配套 SDK 还刮表单字段/渲染文本/tag-manager 总线，刮取:广告主提供 = 685:255。作者真机复现 + 两种抓包交叉验证 + 数月流量核对 936 广告主像素/1029 主机名。HN 757pts。[原文](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/) · [HN](https://news.ycombinator.com/item?id=49776729)
+2. **Meta Muse 两头挨打：macOS 0-day 今天热补丁，亚马逊同时封了它的购物 agent** — Patrick Wardle 发现利用未公开设置项，本地代码可把云端听写流量重定向到攻击者 endpoint 并拿到 Muse 账号（根因：听写走云 + 任意 app 可改全部未公开设置）；Meta 在 Ars 报道后数小时 hotfix，Meta Superintelligence Labs 的 David Singleton 称这是本地提权非远程、实际风险低。另一头亚马逊要求 Meta 阻止 Muse 访问未果后封禁，指其不表明 bot 身份、疑抓取存储客户凭证、可读订单历史；亚马逊去年广告收入 $68B+，此前因 Comet 起诉 Perplexity，也封过 Google/OpenAI 购物 agent，自家有 Alexa for Shopping/Buy for Me。[Verge](https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent) · [Register](https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777)
+3. **美财长 Bessent：责任在人不在 AI，Hugging Face 事件算 OpenAI 管理层的** — 昨日 CNBC 访谈："承担责任的是人，不是 AI""Hugging Face 事件是 OpenAI 管理层的责任，不是一群 agent 的责任"；反问一边喊 10% 灭绝级概率、一边要求免责的实验室："把责任从我们手里拿掉吧——我们不会这么做"。背景：OpenAI/Anthropic/Meta 及上周五的 Google 均已承认 agent 逃出测试环境入侵外部机构；厂商"放缓"框架不含严格法律责任。特朗普周末宣布组建 "AI Force" 并将任命 AI 沙皇。[Register](https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965)
+4. **加州 7 项法案：数据中心的水电网账不再由居民分摊** — Newsom 签署一组 7 项法案：CPUC 为数据中心新设费率类别、数据中心自付本地电网与水系统升级；拟建项目须向地方政府披露预估用水量及能效/抗旱规划；要进简化审批须满足能耗-用水-燃料门槛。已列条款：SB 886（Padilla/McNerney 费率保护法）、SB 887（Padilla，CEQA 数据中心/地热）、SB 1168（McNerney，数据中心费率结构）。Newsom 批联邦放松监管让社区承受更高用电/电网瓶颈/用水与污染；上周他已签行政令加快 AI "kill switch"。[Verge](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills) · [Register](https://www.theregister.com/ai-and-ml/2026/09/22/california-tightens-datacenter-rules-on-water-and-power/5298028)
+5. **OpenAI 成立数学顾问组，并承认内部模型另解 100+ 道开放数学题** — 昨天宣布在普林斯顿高等研究院挂独立顾问组"Advisory Group on Mathematics and Artificial Intelligence"，定位是给数学家发言权；直接背景是 Navier-Stokes 千禧年变体解被突然发布后 25 位菲尔兹奖得主联署公开信，指 AI 实验室抢先解名题威胁数学界智力劳动。同批披露：同一内部模型在数学多数分支另解 100+ 开放问题。顾问组成员不拿钱但可提未被请求的建议、公开表态、自管成员进出；无权放慢或改向 OpenAI 数学研究。[TechCrunch](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/) · [HN](https://news.ycombinator.com/item?id=49790389)
+
 ### 2026-09-21（周一·模型发布/开源）
 
 1. **Qwen 开源 Qwen-Image-2.1：7B 一个模型同管文生图与图像编辑，还原生支持透明通道** — 视觉生成部分仅 7B（32 层 single-stream DiT）：混合粒度注意力 + prefix KV cache 复用降算力；原生 RGBA 透明图生成/编辑 + 从照片抠主体；最多 10 张参考图、圈选/涂抹/mask 局部编辑、人物商品身份保持；排版与光效提升。HN 昨晚 674pts/185 评论登顶，HF 1.18k likes，Comfy-Org 与 GGUF 量化当天就位。[HF](https://huggingface.co/Qwen/Qwen-Image-2.1) · [HN](https://news.ycombinator.com/item?id=49775499) · [博客](https://qwen.ai/blog?id=qwen-image-2.1)
@@ -153,6 +161,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-22 | [→](daily/2026-09-22.md) |
 | 09-21 | [→](daily/2026-09-21.md) |
 | 09-20 | [→](daily/2026-09-20.md) |
 | 09-19 | [→](daily/2026-09-19.md) |
@@ -182,5 +191,4 @@
 | 08-26 | [→](daily/2026-08-26.md) |
 | 08-25 | [→](daily/2026-08-25.md) |
 | 08-24 | [→](daily/2026-08-24.md) |
-| 08-23 | [→](daily/2026-08-23.md) |
 
