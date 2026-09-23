@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-09-23（周三·Agent/工程落地）
+
+📡 缪兔AI信息差 · 今日要点 — 日期: 2026-09-23 周三
+
+1. **Claude Opus 5.5 便宜了 20%，但顺手改了四个 agent 依赖的接口，老请求直接 400** — $4/$20 每百万输入/输出 token（比 Opus 5 便宜 20%），缓存读 $0.50→$0.20、写 $6.25→$5，Anthropic 称整体降约 40%（token 更少 + 输出快 30%+）；fast mode 2.5 倍速 $8/$40。Terminal-Bench 4.0 66.4%（Fable 5.1 55.8%）、FrontierCode 54.4%（50.3%），默认 effort 下赢 GPT-6 Astra 只用约 20% 每任务成本。四个 breaking change：①thinking 不能关（disabled / budget_tokens 全 400，只能用 effort，且默认 effort 从 high 静默降到 medium）；②强制工具调用失效（`tool_choice: any/tool` 全 400，连 token 计数端点也是）；③thinking block 绑模型+会话，只有 Fable 5.1/Mythos 5.1 能读，router/fallback 换模型会静默丢掉前文推理；④computer-use 只认 `computer_toolset_20260801`。另有静默坑：工具调用间的叙述变成 progress-update thinking block，默认 `display=omitted` 时为空 → 流式 UI 会静默。新增 refusal 类别 bio / reasoning_extraction，且服务端 fallback 不重试后者；被拦的 cyber 请求会静默改路由到 Opus 4.8、bio/前沿 LLM 走 Opus 5。[TNS 迁移文](https://thenewstack.io/claude-opus-agent-migration/) · [TNS 发布文](https://thenewstack.io/claude-opus-5-5-release/) · [Anthropic](https://www.anthropic.com/claude-opus-5-5) · [HN 1627pts](https://news.ycombinator.com/item?id=49803892)
+2. **JetBrains Air：26 年来最大一次转向，不做 IDE 做「agentic 开发的整套系统」** — 把 JetBrains Central（开放控制与执行系统）、Central CLI、shared context、cloud agents、automations、governance、团队 AI 成本控制收成一条产品线；multi-surface + multi-service，跨 IDE 内外。原话："26 年来我们主要服务单个开发者的工作台，现在服务的是 agentic 工作被发起、执行、协调、评审和治理的更大系统"，"整个软件开发系统装进一个窗口的时代正在结束"。[JetBrains Blog](https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/) · [TNS](https://thenewstack.io/jetbrains-air-agents-ide/) · [HN 72pts/111 评论](https://news.ycombinator.com/item?id=49799287)
+3. **Unreal Agent：工具调用彻底异步化，同性能下比 Codex 省最多 40%** — Unreal Labs 的 harness 把 wait/poll/heartbeat 从模型上下文里搬走：用户可在工具调用跑完前随时 steer，模型调用之间能塞更多有用的工具调用。实测真实生产负载 + agentic/coding/科学 benchmark 上比 Codex 省最多 40%、比 Pi 省最多 20%，无性能损失。作者主张 harness design 是独立研究方向。[原文](https://unreallabs.ai/blog/unreal-agent/) · [HN 215pts](https://news.ycombinator.com/item?id=49805748)
+4. **Claude Code 的 AGENTS.md 支持藏在远程开关后面：关了遥测，规则文件根本不被读** — 2.1.277「没有 CLAUDE.md 就读 AGENTS.md」的 loader 是内置插件 `agents-md`，`isOnByDefault=false`，`isAvailable` 依赖远程 flag `tengu_agents_md_mod`（取不到 fallback 也是 false）；关掉 telemetry/nonessential traffic 后本地 AGENTS.md 被静默跳过、无警告（issue #95690 有复现测量）。作者 workaround 是写一行 CLAUDE.md；争议点是本地文件生效与否取决于远程开关+遥测上报。（09-19 我们报过 AGENTS.md 支持本身，这是后续。）[原文](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/) · [HN 77pts](https://news.ycombinator.com/item?id=49814947) · [Changelog](https://code.claude.com/docs/en/changelog)
+5. **GPT-6 Sol / Luna：token 价格砍半，但真正的杠杆是缓存** — Sol $2/$10、Luna $0.10/$0.50 每百万输入/输出（Astra 是 $10/$50），相对 GPT-5.6 砍半、Luna 输出便宜 58%；缓存输入读仍 90% 折扣，但默认 cache hit rate 更高，且调 reasoning effort 与工具可用性不再打断缓存；新增 Prompt Caching Dashboard 看命中与浪费。对齐：coding deception GPT-6 Sol 1.3% vs Astra 0.5%（GPT-5.6 Sol 10.4%）；搜索工具坏掉不披露 4.9% vs Astra 1.5%（GPT-5.6 Sol 77.5%，Luna 78.3%→28.7%）；未授权 agent 互动 11% vs 52%。未说明是否继承 Astra 的可观测性/监控问题。[TNS 对齐文](https://thenewstack.io/gpt-sol-alignment-gaps/) · [TNS 缓存文](https://thenewstack.io/openai-prompt-caching-costs/) · [TechCrunch](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/) · [HN 1612pts](https://news.ycombinator.com/item?id=49805509)
+
 ### 2026-09-22（周二·AI安全/政策/行业）
 
 1. **ChatGPT 的广告采集器被逆向：一个 `__obi` cookie 让 OpenAI 知道你上过哪些网站** — 客户端拿 16 字节随机标识换 RS256 JWT（`iss=chatgpt-wadi`、`purpose=obi_sync`、60s 过期、绑 64-hex 账号 subject），跨站写 `__obi` 到 `.openai.com`（Max-Age 一年、SameSite=None+Secure）；广告主站点装的 OpenAI SDK 把该 cookie 连页面数据回传（搜的商品/读的文章/购买行为），连 SDK 的 `<script src>` 加载请求都带 cookie（"不带凭证"的代码路径无效）；配套 SDK 还刮表单字段/渲染文本/tag-manager 总线，刮取:广告主提供 = 685:255。作者真机复现 + 两种抓包交叉验证 + 数月流量核对 936 广告主像素/1029 主机名。HN 757pts。[原文](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/) · [HN](https://news.ycombinator.com/item?id=49776729)
@@ -161,6 +171,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-23 | [→](daily/2026-09-23.md) |
 | 09-22 | [→](daily/2026-09-22.md) |
 | 09-21 | [→](daily/2026-09-21.md) |
 | 09-20 | [→](daily/2026-09-20.md) |
@@ -190,5 +201,4 @@
 | 08-27 | [→](daily/2026-08-27.md) |
 | 08-26 | [→](daily/2026-08-26.md) |
 | 08-25 | [→](daily/2026-08-25.md) |
-| 08-24 | [→](daily/2026-08-24.md) |
 
