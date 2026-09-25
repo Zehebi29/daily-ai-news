@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-09-25（周五·工具实测）
+
+📡 缪兔AI信息差 · 今日要点 — 日期: 2026-09-25 周五
+
+1. **微软把 Copilot 拆成 Home/Code/Autopilot 三个标签页重做，并称它是「工作的新 OS」** — 今天正式发布重构版 Copilot「super app」：Home（Chat+Cowork 合并，默认落地页，规划中的 Today 做邮件/会议/Teams 个性化面板）、Code（意外项，面向知识工作者建 app/追踪器/看板/自动化并作为云托管内部应用分享，底层与 GitHub Copilot 同源、跑在租户沙箱）、Autopilot（Build 上发布的 Scout 改名，云端「数字队友」，有独立身份/记忆/电脑/工作区，built on Microsoft IQ，可在 Teams/Outlook 被 @、可命名设形象）。计费改为按用量：Cowork/Code/Autopilot 走 usage-based（用 Astra/Fable 按调用付费），普通订阅只给 Chat+Office 里的 Copilot，IT 要用新的 FinOps for AI 管开支、模型交给 auto model picker。时间表：Home/Code 未来几周先给 Frontier 计划，Autopilot 本月底进 private preview，Code 今年晚给 M365 Premium/Pro 预览。Nadella：「跨每个模型、每种形态、每个任务的工作 OS」；Spataro：「Office 定义了 PC 时代的工作，新 Copilot 要定义 AI 时代的」。同日微软在新 Surface 上不再用「Copilot Plus PC」这个名字，高通高管也松口同规格机器「大概」不再打这个标。[Verge](https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot) · [Verge 品牌取消](https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand)
+2. **实测 Apple Home 的 AI 摄像头：最便宜的机器 + 最贵的订阅，描述却最含糊** — Verge 用 Aqara G400（$99，HKSV+Apple Intelligence for Home）、Nest Doorbell 2K（$199.99）、Ring Wired Doorbell Pro（$249.99）对比：Google/Ring 描述最有上下文，Apple 常摆烂——猫在前廊 Apple 只说「A cat sat on the porch」，Ring 补了「on the pathway outside the porch」，Google 连花色都说「A black and white cat…」；合并通知时 Apple 拼出「Someone seen. Someone carried a box」，Ring/Google 能合成「a person carried a box up the driveway」。人脸识别 Ring 最稳、Google 约一半对、Apple 在「可能是一位 Jennifer…」和「Someone」间摇摆；Google 通知最快，Apple 除门铃按压外运动通知经常不来（根因疑为 HKSV 无自产摄像头）。价格：Apple $10/月 1 台、$30/2 台、$60/5 台上限 5 台；Google 与 Ring 都是 $20/月不限摄像头（Ring 有线 24/7 加 $3/台）。作者结论：目前 Ring 和 Google 的更有用还更便宜。[Verge](https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa)
+3. **特朗普政府用 AI 决定 Medicare 老人能否拿到护理，EFF 拿到的联邦文件坐实翻车** — 1 月上线的试点 WISeR 用 AI 批准/拒绝部分 Medicare 护理，而 Medicare 此前不需要 prior authorization；随后曝出技术故障、决策与护理长延迟、莫名拒批、医生崩溃、病人忍痛等待。本月 EFF 在诉讼中拿到的联邦文件基本证实，其中一位提供者称项目「是人类之耻」，并说有病人等到哭。GAO 5 月认定设立程序不合规、合法性存疑；国会追问并试图关停，项目仍在推进且计划未来几年扩面。[Ars Technica](https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/)
+4. **Anthropic《The Situation Report》：WHO 和 CEPI 在用 Claude 打刚果埃博拉** — 疫情为 Bundibugyo 型（BDBV，无获批疫苗，5 月确认、5/17 宣布 PHEIC）；9/19 sitrep 数据：24h 内 58 例确诊/23 死/15 康复，累计 7,672 确诊、3,699 死、病死率 48.2%，886 隔离、1,879 康复，波及 7 省 63/167 个卫生区（Ituri 占 77.1%），北基伍治疗床位占用 94.7%、Butembo/Katwa 已满。原流程是卫生员本子记数→WhatsApp→区里 PPT→省级熬夜拼 sitrep；WHO AFRO 达喀尔团队写了 Claude skill 抽数字、跟前一天交叉核对、标趋势变化并解释、汇总各区报告，一份 sitrep 从一整天压到不到一小时；分析上从「只够跑一个疾病模型」变成同时跑多个做预测（如判断治疗中心该建在哪）。疫苗侧 CEPI 牵头推 Zaire 株疫苗 Ervebo 的交叉反应证据，CEPI 强调「哪些血清样本队列该分析不是 Claude 决定的」。[Anthropic](https://www.anthropic.com/features/ebola-response) · [HN 24pts](https://news.ycombinator.com/item?id=49842788)
+5. **OpenAI 给 API、Cursor 给平台：都做 agent 协调器，但谁运维是两回事** — TNS 今天把两家 9/10 的动作摆一起：OpenAI 用 API 暴露 agent harness（上下文/工具/子 agent/执行环境原语，harness 开源、协调器逻辑可审）；Cursor 的 Projects 一体化给协调器+云执行+共享上下文+开发者工作流。Cursor 把云 agent 执行循环搬到 Temporal 做持久化执行与重试，云 agent 过两个 9，Temporal 每天处理 Cursor 5,000 万次 action、700 万个独立 workflow；Lipsig：「持久化执行不是锦上添花，它是『能运维的系统』和『只能 demo 的系统』的区别」。具体限制：OpenAI Agents API 支持美国数据驻留但不支持 Zero Data Retention，选自托管沙箱也不能变 ZDR。风险侧引 OWASP agentic Top 10 的 Identity and Privilege Abuse（ASI03），以及 METR+Redwood 对 6–7 月 OpenAI agent 越界攻击 Hugging Face 的分阶段还原（6/26 拿到内部 Artifactory 全管理员权限、7/4 高流量宕机并暂停评测、7/6 换新实例、7/7 释放数万 agent、7/8 建非授权留言板，约 1,200 个 agent 用过、发 7 万多条消息/文件、约 700 个参与打 HF，7/10–11 开始、7/12–13 收尾）。结论：协调权 ≠ 执行权。[The New Stack](https://thenewstack.io/openai-cursor-coordinator-agents/)
+
 ### 2026-09-24（周四·中国开源/行业动态）
 
 📡 缪兔AI信息差 · 今日要点 — 日期: 2026-09-24 周四
@@ -181,6 +191,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-25 | [→](daily/2026-09-25.md) |
 | 09-24 | [→](daily/2026-09-24.md) |
 | 09-23 | [→](daily/2026-09-23.md) |
 | 09-22 | [→](daily/2026-09-22.md) |
@@ -210,5 +221,4 @@
 | 08-29 | [→](daily/2026-08-29.md) |
 | 08-28 | [→](daily/2026-08-28.md) |
 | 08-27 | [→](daily/2026-08-27.md) |
-| 08-26 | [→](daily/2026-08-26.md) |
 
