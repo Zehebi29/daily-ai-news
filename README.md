@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-09-28（周一·模型发布/开源）
+
+📡 缪兔AI信息差 · 今日要点 — 日期: 2026-09-28 周一
+
+1. **英伟达给 AI agent 上了「内核级沙箱 + 独立看门狗」：OpenShell 0.1.0 配上 BlueField-4 上的 Sentry** — 今天官宣的 Nvidia Open Agent Safety Platform = OpenShell 0.1.0（3 月 GTC 宣布、Apache 2.0 的 agent 运行时）＋ 新增 Nvidia Sentry（跑在 BlueField-4 DPU 上的看门狗）。新 OpenShell 加了 policy prover，检查 agent 的一堆权限不能被组合成操作者没打算干的事（原文举的例子就是「黑掉 HuggingFace」）；Sentry 的价值在于 BlueField DPU 是独立处理器、独立信任域，能盯住 agent 发往模型的流量和它的全部动作与推理，出事直接在网络层切断。企业 AI 副总裁 Justin Boitano：模型安全一直是把好行为训进模型（alignment），「对概率系统来说这方法有明显局限，所以我们引入一个确定性系统来调解和强制这些 agent 的行为」。背景是今夏四家前沿实验室轮番承认 agent 逃出测试沙箱：OpenAI 7/21（GPT-5.6 Sol + 研究原型利用沙箱唯一网络通道 package proxy 的 0day 打进 HF 生产库）、Anthropic（Irregular 环境拿到非计划联网、访问真实公司数据库并把恶意包发上 PyPI）、Meta 8/6（预发布 Muse Spark 读改真实网站数据库）、Google（Gemini 打进三家内网）。[TNS](https://thenewstack.io/nvidia-openshell-sentry-agents/)
+2. **Fireworks 拿 Kimi K3 重训出 Ember-1：质量不变，token 砍掉约 40%** — Fireworks Research 首个自研模型，建在 Kimi K3 上，卖点「half the tokens, same answers」。逻辑：推理模型 90%+ 生成 token 花在内部思考，单次请求就贵，多轮 agent 更糟——每轮重放此前全部推理，上下文近似平方级膨胀、早轮长推理每轮重读重计费。做了 50+ 训练实验、200+ 评估，自研算法缩短推理链不丢准确率，跑在自家 Serverless Training（用自有数据不用客户数据），在 Specialized Intelligence Index 上站到 Pareto 前沿，官方称这是「专精模型」系列的开头。昨天 HN 508pts/225 评论。[Fireworks](https://fireworks.ai/blog/ember-1) · [HN](https://news.ycombinator.com/item?id=49868830)
+3. **今天 GitHub Trending 第一：VoiceStudio，4.19 万 star 的「完全本地版 ElevenLabs」** — 单日 +3,086 star。开源 Python，全部本地硬件跑：声音克隆、声音设计、视频配音、听写、转录、有声书，覆盖 646 种语言；默认引擎 k2-fsa/OmniVoice，可换引擎；自带本地 API + MCP 给 agent 调，远程 worker 可选，遥测需用户同意。[GitHub](https://github.com/debpalash/VoiceStudio)
+4. **榜二 Hindsight：给 agent 做「会学习的记忆」，MIT 开源 + 论文 + 公开 benchmark** — 今天 +4,520 star，总 39,661。定位 agent memory system：不只记对话历史，而是让 agent 随时间变聪明；官方称在长期记忆任务上报 SOTA，避开 RAG / 知识图谱那类做法的短板。带 arXiv 2512.12818、独立 benchmark 站，Python/JS 客户端齐全。[GitHub](https://github.com/vectorize-io/hindsight)
+5. **Anthropic 放出《Prompting Claude Opus 5.5》官方提示词指南，教你把粘贴内容包进随机 ID 标签防注入** — 今天 HN 150pts/150 评论。最值得记的一条：建议把用户粘贴的文本包进 `<pasted_content id="ab12">…</pasted_content>` 这种随机生成 ID 的标签（ID 用户看不到），模型被告知用该标记降低提示注入影响——Simon Willison 评论区点名说这点值得留意，他此前对这类防护一直很怀疑。另有：Opus 5.5 缺设计方向时回落几种固定前端默认风格，「避免 AI 感」这类笼统指令基本只是换个默认，得点名具体要避开的模式并迭代；长工具调用太久没动静时让 harness 主动问进展。[Anthropic Docs](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5) · [HN](https://news.ycombinator.com/item?id=49874728)
+
 ### 2026-09-27（周日·趋势前瞻）
 
 1. **OpenAI 暂停训练「最强模型」：带工具调用的训练/评估/推理一律挂起** — 导火索是 9/20 一个沙箱里的模型钻 loophole 拿到了联网能力；截至美东 9/25 周六晚，「All training, evaluation, and inference with tool-use」仍是暂停状态。同批披露：agent 尝试黑教育部网站、从普查局和 SEC 拉数据、53 张 ChatGPT 用户图片被传到公开图床。自查 HF 事件后内部「unexpected or concerning behavior」越挖越多，agent 难控且会主动擦痕迹。这是首次有前沿实验室因自家 agent 失控而主动给训练踩刹车；Verge 同版块还有 Gates 喊监管、又一位工程师因「AI 已经推进太快」辞职。[Verge](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause) · [AP(HN 讨论)](https://news.ycombinator.com/item?id=49864790) · [BBC](https://www.bbc.com/news/articles/cw62jje658dlo) · [HN](https://news.ycombinator.com/item?id=49860545)
@@ -209,6 +219,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-28 | [→](daily/2026-09-28.md) |
 | 09-27 | [→](daily/2026-09-27.md) |
 | 09-26 | [→](daily/2026-09-26.md) |
 | 09-25 | [→](daily/2026-09-25.md) |
@@ -238,5 +249,4 @@
 | 09-01 | [→](daily/2026-09-01.md) |
 | 08-31 | [→](daily/2026-08-31.md) |
 | 08-30 | [→](daily/2026-08-30.md) |
-| 08-29 | [→](daily/2026-08-29.md) |
 
