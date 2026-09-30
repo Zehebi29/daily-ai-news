@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-09-30（周三·Agent/工程落地）
+
+📡 缪兔AI信息差 · 今日要点 — 日期: 2026-09-30 周三
+
+1. **Livenerf：给「模型被偷偷降级」判案的开源基准，昨晚起就是 HN 第一（718 分 / 279 评论）** — append-only 的小基准，只回答一个问题：模型发布后会不会悄悄变差。以 Claude Opus 5.5 发布日 2026-09-22 为第 0 天，跑在 Claude Max 订阅 + headless Claude Code（`claude -p`，不用 API key）上，每天 90 样本；思路是模型本身没法确定性化（采样参数没了、thinking 关不掉），那就把其它一切确定化：冻结 prompt、锁 CLI 2.1.280、固定 grader、原始日志永久保留，再靠几千样本做统计漂移检测；框架用英国 AISI 的 Inspect，统计口径照 Anthropic 自己的《Adding Error Bars to Evals》。截至 9/29：30 天已收 6 天（基线 6/10）无缺、全跑在同一 harness hash（461391b6fce64167）；前 10 天基线，之后两个 10 天窗口，第一次下结论约 10/24、首行 Results 在 day 20 后。作者对假设中立——量化、同名换小模型、降 effort、改路由都可能，也可能什么都没发生。[GitHub](https://github.com/ninjahawk/livenerf) · [HN](https://news.ycombinator.com/item?id=49901736)
+2. **OpenAI DevDay 两件大事：常驻 agent「Dots」只给 Pro/企业版，GPT-6.1 Sol 七天就把 GPT-6 Sol 换掉** — ①Dots 是 always-on agent，不绑硬件和界面，后台持续追用户设定的目标；主 dot 可命名，设想是「以后一队 dot 替你干活」；可从 ChatGPT 或 Codex 启动，用 Slack、Teams 对话（短信后续支持），每个 dot 能单独配身份、凭证、工具，正与微软对接 Agent 365 安全管控。可用范围很窄：仅 Pro 与 Business Premium 的合格市场用户，Free/Go/Plus 都没有。②GPT-6.1 Sol：AA 今天确认 Intelligence Index 距 GPT-6 Astra 只差 1 分，但 max effort 每任务 $0.72 vs Astra $3.26；标价同 GPT-6 Sol 为 $2/$10 每百万 token，缓存读折扣 90%→95%，agentic 混合价更低。相对 GPT-6 Sol：Terminal-Bench 4.0 +12、HLE +5、GDP.pdf +6、AA-Omniscience 准确率 +8 且幻觉率 60%→54%；代价是输出 token 多 10–30%（低/中 effort 在 token 效率上仍 Pareto 最优）。[TC](https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/) · [HN 664pts](https://news.ycombinator.com/item?id=49896604) · [AA](https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence)
+3. **OpenClaw Enterprise 开源：TNS 说它是「agent 的 Kubernetes」，Red Hat 和 NVIDIA 一起做的** — OCE 是 agent 的企业级控制平面：多租户 + 硬安全边界 + 覆盖生命周期的治理与审计，harness/模型/沙箱等核心原语可换成第三方或内部实现。项目最初起于 OpenAI，后捐给 OpenClaw Foundation 成为独立项目，再与 Red Hat、NVIDIA 共同开发；Red Hat 与 OpenAI 内部均在试点（OpenAI 已让 agent 拿代码库和插件全权限在跑）。定位仍是「内部 pilot 可用」：1.0 前就开源、docker-compose 本地跑、k8s 内部署，任何机构永久免费；安全优先（可信/不可信负载硬隔离 + 沙箱 + LLM 审查 + 细粒度权限），过几周发参考架构。[TNS](https://thenewstack.io/openclaw-enterprise-kubernetes-agents/) · [OpenClaw](https://openclaw.ai/blog/openclaw-enterprise)
+4. **Pi 反转：当年公开声明「不支持 MCP」，现在把 MCP 放进了核心（HN 今天 210 分 / 89 评论）** — pi.dev 上那句「Pi does not support MCP」已被推翻，Earendil 工程博客解释：一是 MCP 一年里变了；二是让 MCP 进核心所需的那套改造本身有用——顺带让 Jev 在 Pi 里更好用，因为 Pi 要的和 MCP 要的相似：一个能玩的解释器沙箱。实现是把 MCP 工具暴露给 JavaScript 沙箱（同 Codex 等 harness）。仍不留情面批 MCP 最大问题依旧是难组合（codemode 也不够），问题更多在 MCP server 与各家 harness 的做法；主张 MCP 应更接近「OpenAPI + 智能工具发现」——工具返回结构化数据、靠文档和描述被发现，而不是把一堆工具直接倒进上下文优化自己的 token。[Earendil](https://earendil.com/posts/you-said-no-mcp/) · [HN](https://news.ycombinator.com/item?id=49906637)
+5. **特朗普版 AI 安全协议全文出炉：四条自律条款，同一时间政府改口把 AI 叫「Super Intelligence」** — 正式名 Joint Commitment on Frontier Responsibilities，白宫顾问 David Sacks 发布，签署人 Pichai、Amodei、扎克伯格、Brockman、马斯克、黄仁勋（特朗普自己也签了，头衔写成 "President of the Unites States"）。四条：①训练与部署中围绕网安/生物/化学做内部能力与对齐监控，确保模型不以非预期方式入侵或访问技术系统；②设内部团队确保控制/监控/检测按预期运行并修复；③与独立外部审计评估方合作做独立评估；④董事会独立委员会监督并接收内部团队与内外审计报告。无罚则，Verge 结论是「小指头承诺」，而第一条恰是 Google/OpenAI/Anthropic 这几个月都违反过的那条。同一时间特朗普发行政令，要求联邦政府今后把 AI 称为 "Super Intelligence"（"artificial" 听起来不好、"super is the best word of all"）。[Verge 协议](https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs) · [Verge 改名](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai)
+
 ### 2026-09-29（周二·AI安全/政策/行业）
 
 📡 缪兔AI信息差 · 今日要点 — 日期: 2026-09-29 周二
@@ -229,6 +239,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 09-30 | [→](daily/2026-09-30.md) |
 | 09-29 | [→](daily/2026-09-29.md) |
 | 09-28 | [→](daily/2026-09-28.md) |
 | 09-27 | [→](daily/2026-09-27.md) |
@@ -258,5 +269,4 @@
 | 09-03 | [→](daily/2026-09-03.md) |
 | 09-02 | [→](daily/2026-09-02.md) |
 | 09-01 | [→](daily/2026-09-01.md) |
-| 08-31 | [→](daily/2026-08-31.md) |
 
