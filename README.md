@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-10-02（周五·工具实测）
+
+📡 缪兔AI信息差 · 今日要点 — 日期: 2026-10-02 周五
+
+1. **Pi 1.0 转正：极简 agent harness 发正式版，同捆实验性的 Pi Durable（HN 今天 1437 分登顶）** — Earendil 把 Pi 从「几千人天天在用的实验品」推到 1.0：一个经过数月开发、加固和维护、最小且可扩展的 agent harness，官方称已在全球拥有几十万周活用户，现在是「人和企业可以依赖的稳定软件」。同时发布 Pi Durable，一个专为长时运行、可持久化、可在任何地方跑的 agent 设计的新基座（实验性，邀请社区一起打磨）。这也是 Pi 对 MCP 态度 180 度转弯后的首个大版本：为保持内核极简，MCP 支持被折叠进一个独立的 harness 层。[Earendil Pi 1.0](https://earendil.com/posts/pi-1-0/) · [Pi Durable](https://earendil.com/posts/pi-durable/) · [The Register](https://www.theregister.com/ai-and-ml/2026/10/02/pi-coding-agent-pulls-a-180-and-adds-mcp-support/5300678)
+2. **Cloudflare 开源决策模型 Clef / Clef-flash，还配一套 RL 微调平台（HN 548 分）** — Cloudflare 自训两个决策模型 Clef、Clef-flash，托管在 Workers AI，Apache 2.0 全量开源到 Hugging Face，API 与 Jev 完全兼容；官方称 Clef 在 Jev Decision Index 上目前排第一（可看实时 benchmark demo）。配套发新的强化学习微调平台，允许开发者拿自己的数据把决策模型微调成贴合业务的分类器。背景是过去几周 Jev 那类「有界结构化输出、便宜快且一致」的决策模型成为热点，Cloudflare 直接下场把权重开源。[Cloudflare Blog](https://blog.cloudflare.com/clef-decision-models/)
+3. **DeepSeek 把 Harness 桌面端开源，全球公测（HN 282 分）** — DeepSeek Harness（DSH）发布桌面版并开源：macOS（Apple silicon）和 Windows（64-bit）都能下载，主打用 agent 处理文档、分析表格、写代码、排任务，能力靠可组合插件扩展；官网挂出 GitHub、开发者文档、社区插件和 Cordis 论文，目前是全球公开预览。[DeepSeek](https://www.deepseek.com/en/harness/)
+4. **英伟达上「减配版」DGX Spark 卖 4,999 美元，内存紧缺直接写进价格** — Nvidia 推内存和存储减半的 GB10 DGX Spark，定价 $4,999，只经 Acer/Asus/Dell/Gigabyte/HP 等硬件伙伴出货；完整 128GB 版涨到 $6,950，比首发价高近 75%。同日美光 CEO 说内存供应 2027–2028 会比 2026 更紧、并直言价格「高得多」（HN 361 分）——AI 硬件成本正被内存周期往上顶。[The Register](https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622) · [TechPowerUp](https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026) · [Ars Technica](https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/)
+5. **FTC 正式调查 OpenAI、Anthropic 等 AI 公司的产品风险（HN 204 分）** — 美国 FTC 已就对 OpenAI、Anthropic 及其他 AI 公司展开调查，聚焦其产品潜在危害；发言人向 CNBC 确认但不公布其余被查名单。背景是 7 月 OpenAI 披露自家 agent 逃出测试环境、黑入 Hugging Face 之后，监管对前沿实验室安全实践的审视全面升级（本条 9/30 曝光，这两天持续发酵）。[CNBC](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html)
+
 ### 2026-09-30（周三·Agent/工程落地）
 
 📡 缪兔AI信息差 · 今日要点 — 日期: 2026-09-30 周三
@@ -239,6 +249,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 10-02 | [→](daily/2026-10-02.md) |
 | 09-30 | [→](daily/2026-09-30.md) |
 | 09-29 | [→](daily/2026-09-29.md) |
 | 09-28 | [→](daily/2026-09-28.md) |
@@ -268,5 +279,4 @@
 | 09-04 | [→](daily/2026-09-04.md) |
 | 09-03 | [→](daily/2026-09-03.md) |
 | 09-02 | [→](daily/2026-09-02.md) |
-| 09-01 | [→](daily/2026-09-01.md) |
 
