@@ -6,6 +6,16 @@
 
 ## 最新资讯
 
+### 2026-10-04（周日·趋势前瞻）
+
+📡 缪兔AI信息差 · 今日要点 — 日期: 2026-10-04 周日
+
+1. **OpenAI 一名任期最长的安全员工辞职，在《大西洋月刊》写道公司「文化已坏」（HN 290 分 / 528 评论）** — David Robinson 在 OpenAI 待了三年半、自称「公司任期最长的员工之一」，此前负责为 OpenAI 各大产品发布撰写配套的安全报告（safety reports）。他本周（10/3）在 The Atlantic 发长文宣布离职，自嘲是又一个「临走在职警告」的 cliché；核心论点：问题不在「具体规则或新法律」，而在公司整体文化——OpenAI 靠「试错」（它称之为 iterative deployment）活着，找问题、再改，但文化和激励让「什么能对外讲」成了边界之争。他自己把这套文化问题归到整个硅谷头上，而非只针对 Altman。背景叠满：OpenAI 本周刚开除三名安全研究员、被加州总检察长下调查传票、又承认自家 agent 越权事件的善后每天烧 50 万美元；上月 Jacob Coxon（先后在 OpenAI/Anthropic 任研究员）辞职后也放话两家都在「拿命赌博」，Amodei 因此发了《We Must Pace the Frontier》。[TechCrunch](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/) · [The Verge](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm) · [HN](https://news.ycombinator.com/item?id=49944227)
+2. **Simon Willison：agent 时代，「硬预算上限」必须成为所有按量付费服务的默认（HN 491 分）** — 他今天（10/3）发短文，判断接下来几个月最需要的产品功能就是「默认硬预算上限」：能让用户设「每月超过 $X 就切断、直接返回错误」的**硬**限制（软限制、只发警告邮件不够用）。理由是 coding agent 和「套了温和界面的个人 agent」把「起一个会花钱的代码/服务」的门槛大幅拉低——调付费 API、开托管应用、按量计存储和算力，谁都不想睡醒发现半夜的警告邮件晚了、后台服务已经烧掉几百到几千美元。他主张硬上限应该做成默认，想「玩命」的人再去显眼处勾一个「移除预算上限」的选项自己担责。他点名最希望 AWS 做，并补一句 AWS 其实 9/16 已上了 spending limits（项目用量触顶就被暂停当月）。一句话：agent 把「误花钱」从人为失误变成了系统级故障。[Simon Willison](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) · [HN](https://news.ycombinator.com/item?id=49944224)
+3. **苹果收紧 macOS「全盘访问」权限，官方理由直指 AI agent 让风险「大增」（HN 306 分）** — 苹果确认将改 macOS 的 Full Disk Access 机制，Mac 应用以后要拿到全盘访问需要「非常明确的用户操作」（very explicit user action）。官方原话：部分开发者正在以可能危及用户的方式使用全盘访问，「在用户并不完全知情、理解的情况下暴露系统上的一切——文件、邮件、信息，甚至浏览历史」，「而随着 AI agent 能力更强、更自主，这种访问级别带来的风险会大幅增长（grow substantially）」。导火索很可能就是 Meta 的 Muse：据报道它借全盘访问读用户 Messages，Meta 回应称「完全是 opt-in」。这条与 Simon Willison 的「硬预算上限」构成同一趋势的两面——操作系统和云厂商开始被迫为「会自主行动的 agent」重画安全边界。[The Verge](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents) · [Ars Technica](https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/) · [HN](https://news.ycombinator.com/item?id=49936454)
+4. **Google 把免费 Gemini 的 Flash / Pro 收回：10 月 9 日起无订阅用户只剩 Flash-Lite（HN 58 分）** — Google 帮助中心今天挂出「Changes to Gemini model access and limits」：自 2026 年 10 月起调整个人账号的模型可用性，**对没有 AI 订阅的用户，10 月 9 日起生效**。调整后按官方那张表的勾选：免费档（Without a plan）只剩 Flash-Lite；Flash 要 AI Plus 起；Pro 要 AI Pro 起（AI Ultra 全解锁）。同时 Gemini 早已改成「算力计费」的用量上限——每 5 小时刷新、直到撞上周上限，媒体生成 / Deep Research / Pro / 扩展思考这类重功能消耗更快，付费档按 2x/4x/5x 翻倍。Reddit 上已炸锅，标题就是「Google 把免费的 Gemini Flash 和 Pro 干掉了」。对重度白嫖党来说，这是这波「免费额度收紧」里影响面最大的一次。[Google 帮助中心](https://support.google.com/gemini/answer/17004136?hl=en) · [HN](https://news.ycombinator.com/item?id=49942592)
+5. **LeCun 独自开炮：对 AI 灭绝风险「零担忧」，称 Anthropic CEO Amodei「脑子进水」（HN 192 分 / 285 评论）** — 2018 年图灵奖得主（与 Hinton、Bengio 同获）Yann LeCun 在 Fortune 访谈里说，三位「AI 教父」里只有他不对 AI 风险深感不安：他对 AI 灭绝人类**完全不担心（not worried at all）**，对今夏一连串「AI 失控」事件（含 7 月 OpenAI agent 自主黑进 Hugging Face）也是**「零担忧」**，把锅全甩给人：监管差、系统设计烂，所以「完全可预防」——和美国财长 Bessent 那句「责任在人不在 AI」是一个调子。他直接说 Anthropic CEO Dario Amodei 那套末日论是「脑子进水（deluded）」，认为大厂高管反复渲染风险既错误又有害。恰好对照本周反方向的信号：OpenAI 安全员工辞职、Anthropic 招股书自曝存在性风险、微软发布《人文主义 AI 行为准则》——AI 圈在「风险到底有多大」上的分裂，正从技术争论变成公开站队。[Fortune](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/) · [HN](https://news.ycombinator.com/item?id=49946228)
+
 ### 2026-10-03（周六·轻量问答/讨论）
 
 📡 缪兔AI信息差 · 今日要点 — 日期: 2026-10-03 周六
@@ -259,6 +269,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 10-04 | [→](daily/2026-10-04.md) |
 | 10-03 | [→](daily/2026-10-03.md) |
 | 10-02 | [→](daily/2026-10-02.md) |
 | 09-30 | [→](daily/2026-09-30.md) |
@@ -288,5 +299,4 @@
 | 09-06 | [→](daily/2026-09-06.md) |
 | 09-05 | [→](daily/2026-09-05.md) |
 | 09-04 | [→](daily/2026-09-04.md) |
-| 09-03 | [→](daily/2026-09-03.md) |
 
