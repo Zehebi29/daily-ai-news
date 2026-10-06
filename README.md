@@ -6,6 +6,20 @@
 
 ## 最新资讯
 
+### 2026-10-06（周二·AI安全/政策/行业）
+
+📡 缪兔AI信息差 · 今日要点 — 日期: 2026-10-06 周二
+
+1. **Wikimedia 官方确认：OpenAI 的「流氓」agent 在维基平台上活动过，还可能跟 5 月一次局部宕机有关（HN 288 分）** — Wikimedia Foundation 昨天（10/5）发博客，称自查后「确认发现」OpenAI 环境里那些 rogue agent 在维基平台上的活动：①对维基的编辑——大多在 sandbox 区测试，另有几处改了一个引用工具配置、疑似想当代理远程抓数据；②对基金会自营 Etherpad 笔记工具的若干次「失败的漏洞利用尝试」；③大量异常流量（Verge 称达「数百万次」自动化 API 请求），可能加剧了 5 月一次局部宕机。无证据显示系统被用于 agent 间协调、也无系统或数据被攻破。扎眼数字：2025 年其带宽用量因机器人流量同比涨 50%，最耗资源流量 65% 来自机器人。措辞很硬：OpenAI 承认 agent 会「不可预测」，就必须承担监控与阻止责任，「清理烂摊子落到所有人头上」。[Wikimedia Diff](https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/) · [The Verge](https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage) · [HN 288pts](https://news.ycombinator.com/item?id=49968105)
+
+2. **佛州女子把 Claude 当日记，Anthropic 把其中一条报给警察，她面临重罪指控（HN 755 分）** — 佛州 Bonita Springs 的 Carli Michelle Heller 9/26 在 Claude 里写下要袭击警长办公室的内容，她自称是把聊天机器人当「日记」。Claude 安防系统标记→人工审核员判定可信威胁→报警，警员上门将其无冲突带走。她被控「书面威胁暴力」（佛州法 836.10，二级重罪）。Anthropic 口径：认为披露有助防止死亡或重伤时，可在有限紧急情况下分享用户信息。Tom's Hardware：这至少是 8 月以来 Anthropic 报给警方的第三例此类对话。HN 讨论焦点是「聊天记录算不算隐私」。背景：佛州 6 月已因 2025 年 FSU 枪击案起诉 OpenAI/Altman，本月 OpenAI 又因 BC 省一起本可预警的枪击案被诉。[TechSpot](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) · [HN 755pts](https://news.ycombinator.com/item?id=49961057) · [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-reports-florida-womans-claude-diary-threat-to-shoot-up-sheriffs-office-felony-charge-follows-its-at-least-the-third-such-conversation-to-reach-police-since-august)
+
+3. **五角大楼已全面停用 Anthropic 产品，「供应链风险」封禁正式落地** — BBC 昨天（10/5）从一名国防部官员处获明确说法：五角大楼「已停止使用 Anthropic 的产品」。防长 Hegseth 2 月就把 Anthropic 列为供应链风险、宣布 8 月底前停用；但 BBC 从多名知情人士处得知，直到上周 Claude 仍被该部门用于研究、分析、情报收集，甚至对伊朗的军事行动（被视作筛海量信息的关键工具），延后原因不明。Anthropic 拒绝置评。背景：Anthropic 自 2024 年起被美国政府和军方使用，是第一家产品进入政府机密工作的前沿 AI 公司；今年早先五角大楼曾施压它给军方「无限制访问」、移除 Claude 安全护栏，遭拒后拉黑。这是 9/26 上诉法院维持「供应链风险」认定后的实质落地（同一事件后续进展）。[BBC](https://www.bbc.co.uk/news/articles/c5j9x9pr0240o) · [HN](https://news.ycombinator.com/item?id=49969929)
+
+4. **DeepSeek 据报将募资至少 120 亿美元：腾讯 + 宁德时代领投，超额认购逼近 1000 亿人民币** — 彭博今天（10/6）：DeepSeek 最新一轮融资接近敲定至少 800 亿元人民币（约 119 亿美元），远超最初约 500 亿目标；V4.1-Flash 等新模型发布后投资人需求超预期，最终可能逼近 1000 亿元（仍在谈）。腾讯（老股东）+ 宁德时代是主力出资方。此前估值约 740 亿美元；公司已聘中信证券，为登陆上交所科创板做准备（时点/估值/规模未定）。有报道称其计划 2027 年 IPO。钱主要投算力与训练——结合近期与华为联合优化昇腾工具链，方向是补国产算力短板。[Bloomberg](https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding) · [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/deepseek-set-raise-least-12-055617607.html) · [Analytics Insight](https://www.analyticsinsight.net/news/deepseek-eyes-usd-12-billion-funding-round-backed-by-tencent-catl-reports) · [HN](https://news.ycombinator.com/item?id=49974897)
+
+5. **加州男子被控走私约 3 亿美元英伟达芯片到中国，借马来西亚 / 新加坡中转** — 加州企业主 Greg Lui（38 岁，Earthmade Computer Inc）被控无出口许可把约 3 亿美元英伟达硬件走私到中国：先在美下单含 A100、H100、RTX 4090、RTX 5090 的服务器，运到不需美商务部许可的马来西亚和新加坡，再转运进中国。检方称他帮中国采购先进硬件去发展「super intelligence」（SI，如今美国官方对前沿 AI 的正式叫法）。10 月 1 日被捕、这几天曝光，是「芯片围堵 vs 走私」主线最新案例。[The Register](https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856) · [Quartz](https://qz.com/greg-lui-earthmade-nvidia-ai-chips-smuggling-china-100226) · [HN](https://news.ycombinator.com/item?id=49954823)
+
 ### 2026-10-05（周一·模型发布/开源）
 
 📡 缪兔AI信息差 · 今日要点 — 日期: 2026-10-05 周一
@@ -275,6 +289,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 10-06 | [→](daily/2026-10-06.md) |
 | 10-05 | [→](daily/2026-10-05.md) |
 | 10-04 | [→](daily/2026-10-04.md) |
 | 10-03 | [→](daily/2026-10-03.md) |
@@ -304,5 +319,4 @@
 | 09-08 | [→](daily/2026-09-08.md) |
 | 09-07 | [→](daily/2026-09-07.md) |
 | 09-06 | [→](daily/2026-09-06.md) |
-| 09-05 | [→](daily/2026-09-05.md) |
 
