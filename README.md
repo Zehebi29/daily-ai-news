@@ -6,6 +6,20 @@
 
 ## 最新资讯
 
+### 2026-10-07（周三·Agent/工程落地）
+
+📡 缪兔AI信息差 · 今日要点 — 日期: 2026-10-07 周三
+
+1. **OpenAI 把内部模型产出的 722 篇数学手稿一次性开源到 GitHub，含 Lean 形式化与推理摘要（HN 今天 1024 分，登顶）** — OpenAI 发布《Sharing AI progress in mathematics》，把内部前沿模型在一批开放数学问题上产出的结果放上 GitHub（openai/math）：共 **722 篇手稿、归成 372 个「结果族」**，按数学分支分类，含 Lean 形式化证明、10 份模型推理摘要、按 ChatGPT Pro 计费的算力估计（官方称平均每个结果约等于「3 小时 ChatGPT Pro 思考量」）。这是 9/11 那封 25 位菲尔兹奖得主联署《A Severe Misalignment of AI in Mathematics》批评其「拿名题当跑分」之后，OpenAI 首次按独立顾问组（IAS AGMAI）建议、用 GitHub + 可引用/可修订协议发布成果，并承诺资助相关研讨会。HN 评论区一半夸「终于不塞给付费期刊」，一半觉得像公关灭火、没回应数学界核心诉求。[OpenAI](https://openai.com/index/sharing-ai-progress-in-mathematics/) · [GitHub](https://github.com/openai/math) · [HN 1024pts](https://news.ycombinator.com/item?id=49984923)
+
+2. **OpenAI 上线 Decisions API 公测：判定型接口，比 Responses API 快 10 倍，唯一模型 gpt-6-luna（HN 346 分）** — 新增 `POST /v1/decisions` 端点：输入文本/图片、问一组「带类型的问题」，直接返回结构化答案，三类型——`predicate`（条件成立概率 0–1）、`choice`（从固定选项里选）、`score`（按有序档位打分、取概率加权均值）。官方称比 Responses API 快约 **10 倍**，目前仅 gpt-6-luna、预计几周内 GA。这是 OpenAI 对 9 月 TypeSafe「Jev/System One」决策模型热度的正面跟进；HN 评论区最关心定价和「已支持图片输入」（Jev 之前缺的一块）。[OpenAI](https://developers.openai.com/api/docs/guides/decisions) · [HN 346pts](https://news.ycombinator.com/item?id=49984025)
+
+3. **AWS 开源 Strands Decider 2B：2B 决策模型，本地 CPU 就能跑、几十毫秒出答案（HN 今天 218 分）** — Strands（AWS 的 agent harness）放出 2B 参数决策模型，专为「固定选项里选一 / 打 0–1 分」设计，本地 CPU 或 GPU 都能跑、**几十毫秒**返回，为每个决策附「可靠度分数」。官方把取舍讲透：决策模型比同尺寸 LLM 更快更强、永远只吐允许选项；代价是没法复杂推理、不能生成文本。继 TypeSafe 的 Jev、Cloudflare 的 Clef、ConvAI 的 Laya 后，又一家大厂下场「系统一模型/决策模型」。（博客 10/1 发布，今天重上 HN 热榜。）[Strands](https://strandsagents.com/blog/introducing-strands-decider/) · [HN 218pts](https://news.ycombinator.com/item?id=49987076)
+
+4. **韩国称 AI agent 疑似被用来攻击本国银行系统（Reuters，10/6，HN 86 分）** — 韩国总统李在明就近期针对韩国银行的网络攻击表态，称其中「出现了 AI agent 被使用的迹象」。这是首次有国家层面把银行系统攻击直接关联到 agent 的公开案例。HN 焦点是质疑：归因方法未公开，「怎么认定是 agent 干的、用的哪个 agent」。注：Reuters 正文屏蔽抓取，本条按标题+出处经 HN 核实，未见调查细节。[Reuters](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/) · [HN](https://news.ycombinator.com/item?id=49985861)
+
+5. **新的 MCP 攻击类别「protocol pivoting」：Google 的 MCP toolbox 等被曝 SSRF，agent 间信任链成攻击面（Ars，10/5）** — 安全研究者 Syed 公开命名为 **protocol pivoting** 的攻击：应用/服务器用 MCP 把任务派给 agent、agent 再把恶意指令转给另一个走不同协议/server 的 agent，整条链每一环都「按设计正常运作」，攻击者却借 prompt injection 让下游 agent 越权。涉及 CVE-2026-97228（Rapid7，CVSS 2.7，已修）和 Google `googleapis/mcp-toolbox`（严重度 8）：后者初始化 HTTP 客户端时没设 CheckRedirect 策略、也没校验目标 IP，构造的 path 参数能让它跟着重定向打到内网端点；Google 用 IP 白/黑名单修复。Rapid7 的 McKee：每个协议都假设自己单独存在，各自看前门，「没人看着中间的走廊」。[Ars](https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/) · [HN](https://news.ycombinator.com/item?id=49991027)
+
 ### 2026-10-06（周二·AI安全/政策/行业）
 
 📡 缪兔AI信息差 · 今日要点 — 日期: 2026-10-06 周二
@@ -289,6 +303,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 10-07 | [→](daily/2026-10-07.md) |
 | 10-06 | [→](daily/2026-10-06.md) |
 | 10-05 | [→](daily/2026-10-05.md) |
 | 10-04 | [→](daily/2026-10-04.md) |
@@ -318,5 +333,4 @@
 | 09-09 | [→](daily/2026-09-09.md) |
 | 09-08 | [→](daily/2026-09-08.md) |
 | 09-07 | [→](daily/2026-09-07.md) |
-| 09-06 | [→](daily/2026-09-06.md) |
 
