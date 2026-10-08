@@ -6,6 +6,20 @@
 
 ## 最新资讯
 
+### 2026-10-08（周四·中国开源/行业）
+
+📡 缪兔AI信息差 · 今日要点 — 日期: 2026-10-08 周四
+
+1. **Anthropic 发布最便宜最快的小模型 Haiku 5.5，比上一代便宜约 75%（HN 938 分）** — Anthropic 昨天（10/7）上线 Claude Haiku 5.5，主打高频、重复、对价格敏感的活（摘要、压缩、分类），也能给 Opus/Sonnet 5.5 当子 agent；官方说干同样的活平均**比上一代便宜约 75%**，同时把 **Sonnet 5.5 缓存读取价砍半**（日常 agent 约再省 20%），并给 Max/Team 订阅者新增每月 API 额度。跑分大幅跳升（GDPval-AA v2.1 735→1620、Terminal-Bench 4.0 0%→39.2%），首个带可调 effort 的 Haiku。HN 讨论集中在新价格结构与缓存降价。生活钩子：AI 越便宜，高频重复的小任务最先降价。[Anthropic](https://www.anthropic.com/claude-haiku-5-5) · [HN 938pts](https://news.ycombinator.com/item?id=49996437)
+
+2. **Mistral 开源「1 万亿参数」大模型 Le Chonk，明说要跟中国开源模型掰手腕（HN 2018 分）** — 法国 Mistral 本周（10/6）发布 Mistral Large 4（外号 **Le Chonk**）公开预览：**1 万亿参数**、每次只激活 520 亿、原生多模态；官方称已**追平全球最强开源模型**、明显超过美欧任何开源模型，网安/金融/法律等企业任务上也是开源最强；权重**本月底**放出。它由欧洲自建数据中心、约 **3,800 块英伟达 Grace Blackwell** 从零训成，主打「欧洲 AI 主权」。HN 热评：有人惊讶 Mistral 追上来，也有人调侃「中国公司都公开研究，追上来不奇怪」。[Mistral](https://mistral.ai/news/mistral-large-4/) · [Ars](https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/) · [HN 2018pts](https://news.ycombinator.com/item?id=49977979)
+
+3. **三星一个季度靠 AI 内存赚到约 800 亿美元，却要把手机产量砍三成（钱包）** — 三星预告第三季度营业利润接近 **800 亿美元**（约去年同期 **9 倍**）、营收约 1,450 亿美元，钱几乎全来自数据中心/GPU 用的**内存**。同周（10/7–8）韩媒曝出三星手机部门因内存成本猛涨，要求供应商把第四季度供货量砍 **20%–30%**，内部直言「卖出去也不赚钱」。生活钩子：内存涨价会传到手机、电脑、内存条、固态硬盘——今年到明年大概率更贵。[The Register](https://www.theregister.com/systems/2026/10/08/samsung-eyes-80b-quarterly-profit-as-memory-buyers-pay-the-price/5301933) · [MoneyToday](https://www.mt.co.kr/en/tech/2026/10/08/2026100709554237233)
+
+4. **英国隐私监管出手：10 家 AI 大厂（含 DeepSeek）承诺整改，下一步盯「会自己干活的 agent」** — 英国 ICO 今天（10/8）说，在审查数据保护合规后，**亚马逊、Anthropic、苹果、Cohere、DeepSeek、Google、Meta、微软、OpenAI、Stability AI** 这 10 家已改、或承诺改处理个人数据的方式；重灾区是「数据会不会被拿去训练、存多久、给谁看」。ICO 下一步重点盯**自主 AI agent**。名单含中国 DeepSeek，说明这类审查是跨国一起查。[The Register](https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966)
+
+5. **Uber 联手中国小马智行，要在伦敦跑无人出租车** — Uber 和中国**小马智行（Pony.ai）**今天（10/8）宣布，几周内在**伦敦**开始测试第七代无人出租车；两家此前已在中东、克罗地亚（萨格勒布）合作，欧洲计划投放 2,000 台。Uber 已和 30 多家自动驾驶公司合作，目标 **2026 年底**前在全球最多 15 座城市提供无人驾驶出行。生活钩子：无人出租车正从尝鲜变日常，中国公司是出海主力；对司机是长期压力。[TechCrunch](https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/)
+
 ### 2026-10-07（周三·Agent/工程落地）
 
 📡 缪兔AI信息差 · 今日要点 — 日期: 2026-10-07 周三
@@ -303,6 +317,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 10-08 | [→](daily/2026-10-08.md) |
 | 10-07 | [→](daily/2026-10-07.md) |
 | 10-06 | [→](daily/2026-10-06.md) |
 | 10-05 | [→](daily/2026-10-05.md) |
@@ -332,5 +347,4 @@
 | 09-10 | [→](daily/2026-09-10.md) |
 | 09-09 | [→](daily/2026-09-09.md) |
 | 09-08 | [→](daily/2026-09-08.md) |
-| 09-07 | [→](daily/2026-09-07.md) |
 
