@@ -6,6 +6,20 @@
 
 ## 最新资讯
 
+### 2026-10-09（周五·工具实测）
+
+📡 缪兔AI信息差 · 今日要点 — 日期: 2026-10-09 周五
+
+1. **OpenAI 前天才公开的数学成果，第二天就撤下 3 篇（HN 341 分）** — OpenAI 10/6 刚把 722 篇数学手稿打包公开（含能被计算机逐行检查的证明），10/7 就悄悄撤下其中 3 篇：一处**正负号写错**让一个关键论证站不住脚，连带着两篇引用它的论文一起作废；另外还有 14 篇被修补。带头批评的数学家组织 AHM（陶哲轩也在其中）说，这批成果**没达到**之前和 OpenAI 约定好的标准——OpenAI 上个月才因「拿名题刷分」被 25 位数学家联名批评过。生活钩子：AI 交出来的东西看着很专业，其实也会错，重要的事别当标准答案直接抄。[GitHub openai/math](https://github.com/openai/math/blob/main/history.md) · [TechCrunch](https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/) · [HN 341pts](https://news.ycombinator.com/item?id=50003107)
+
+2. **一个程序员靠 AI 做出了免费版 Photoshop、Premiere、Lightroom** — 一个独立开发者用 Claude 帮忙，用 Rust 重写了 Adobe 创作全家桶的免费开源替代版，界面功能都照熟悉的样子来，目标是**「一个月做到 100% 一致」**。他坚称是「净室重写」没碰 Adobe 源码；但网上吵翻了——有人警告吃官司，也有人担心 AI 一口气生成的几十万行代码没人能验。一份覆盖 1,100 名开发者的调查显示 **96%** 的人不敢完全信任 AI 写的代码。生活钩子：Adobe 订阅年年涨价，终于有人做免费替代；但 AI 快造的软件省事，风险得自己扛。[Tom's Hardware](https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings) · [Ars Technica](https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/)
+
+3. **OpenAI 收入比吹的少了约 200 亿美元（HN 406 分）** — CNBC 10/8 报道，OpenAI 告诉投资人 9 月底**年化收入约 500 亿美元**，比它之前对外暗示的**少了约 200 亿**；消息一出英伟达、甲骨文等 AI 概念股一起下跌。500 亿听着仍是天文数字，但缩水的落差让市场重新怀疑：AI 这波投入，回报真有那么快吗？生活钩子：AI 很火是真的，但「赚大钱」没吹得那么猛——关系到股市里你的钱，也关系到这轮 AI 烧钱还能烧多久。[CNBC](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html) · [HN 406pts](https://news.ycombinator.com/item?id=50008187)
+
+4. **Anthropic 免费给开源项目查漏洞——但报告是 AI 写的、没人复核（The Verge）** — Anthropic 10/9 推出 **OSS Scanner**：开源项目自愿报名，就能定期拿到它最强模型（含 Claude Mythos）做的免费安全扫描。代价是报告完全由 **AI 生成、无人工复核**，可能报错或误报。背景是今年 5 月一个「Copy Fail」漏洞几乎影响所有 Linux 系统，正是靠 AI 帮忙找出来的。生活钩子：你手机里的 App、常逛的网站，底层几乎都靠开源代码撑着；以后能更早发现漏洞，但「AI 报的漏洞」也得有人甄别。[The Verge](https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner)
+
+5. **谷歌把 Gemini 变成「有工牌和邮箱的 AI 同事」** — Google 10/8 在云大会上发布企业版 **Gemini Agent**：它不只是回答问题，还能自己规划、跨公司各类软件把活干完；能把任务派给不同的**子智能体**、混合调用多个模型，还有一个专门的「职场身份」——**独立邮箱地址**。这是 Google 把 Gemini 从「聊天助手」升级成「能办事的代理」的关键一步。生活钩子：AI 正从聊天工具变成替你跑流程的同事；办公室里那些重复、固定的活，接下来可能真的轮不到人做了。[TechCrunch](https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/) · [Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026) · [HN 17pts](https://news.ycombinator.com/item?id=50012543)
+
 ### 2026-10-08（周四·中国开源/行业）
 
 📡 缪兔AI信息差 · 今日要点 — 日期: 2026-10-08 周四
@@ -317,6 +331,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 10-09 | [→](daily/2026-10-09.md) |
 | 10-08 | [→](daily/2026-10-08.md) |
 | 10-07 | [→](daily/2026-10-07.md) |
 | 10-06 | [→](daily/2026-10-06.md) |
@@ -346,5 +361,4 @@
 | 09-11 | [→](daily/2026-09-11.md) |
 | 09-10 | [→](daily/2026-09-10.md) |
 | 09-09 | [→](daily/2026-09-09.md) |
-| 09-08 | [→](daily/2026-09-08.md) |
 
