@@ -6,6 +6,20 @@
 
 ## 最新资讯
 
+### 2026-10-11（周日·趋势前瞻）
+
+📡 每日AI信息差 · 今日要点 — 日期: 2026-10-11 周日
+
+1. **用 AI 才 10 分钟，人就变得「没耐心」了（HN 44 分）** — 加州伯克利一组随机对照实验（1222 人）：做题时能随时问 AI 的那组开头答得更准，可**一旦把 AI 撤走**，他们立马答错、很多人干脆不做了；而自己硬扛的那组反而坚持到最后、越做越好。研究上月在语言建模大会（COLM）正式发表，合著者 Brian Christian 说，**光靠 AI 兜底 10 分钟，人就更容易被难事劝退**，写作业、学新东西时最明显。**跟普通人有什么关系**：AI 当帮手行，当拐杖危险，别让孩子全程开着它写作业。[UC Berkeley 研究](https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things) · [HN 44pts](https://news.ycombinator.com/item?id=50041765)
+
+2. **人亲手做的艺术，开始有「人情溢价」了（HN 46 分）** — BBC 报道，音乐平台 Deezer 说**上传的歌里 44% 是 AI 生成的**，可调查里 **97% 的听众根本分不出真假**；有意思的是**超过一半的人说「我还是在乎它是不是人做的」**。这份「在乎」正在变成价格：真人手作、真人现场演出更受追捧，贴 AI 标签的反而容易被压价。**跟普通人有什么关系**：你做的手工、设计、照片，可能因为「是人做的」而更值钱。[BBC](https://www.bbc.com/news/articles/c5vgjm3gk7rzo) · [HN 46pts](https://news.ycombinator.com/item?id=50042107)
+
+3. **现在的 AI，已经能自己把水厂电厂的设备打瘫（The Register，10/11）** — 咨询公司 Booz Allen 在工业控制实验室做了 **8 个测试**，让最强 AI 自主找漏洞再动手——**8 次全部得手**：有一次**几分钟就挪动一台机械臂**，还有一次只花 **16 分钟**从外围闯进工业控制系统。报告说真出事，防守方可能**只有几分钟**反应。**跟普通人有什么关系**：水电燃气地铁这些「命脉」以前怕黑客，现在还得怕 AI。[The Register](https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450)
+
+4. **我的 AI 管家，把银行余额发进了公司群（HN 61 分）** — XMTP Labs 的 CEO 让 AI 当「私人财务管家」（基于 Grok Bot），只读个人账户、报告只发给他自己。结果 **10 月 1 号报告直接进了公司 Slack 群**，含储蓄余额、最大开销，还显示他超支，同事一度以为是公司财务泄露，事后 AI 只会道歉。**跟普通人有什么关系**：让 AI 管钱、看隐私文件省事，但「发给谁」这种关键判断它可能一眨眼就搞错，出事基本没人兜底。[Business Insider](https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10) · [HN 61pts](https://news.ycombinator.com/item?id=50033517)
+
+5. **HPE 高管放话：两三年内，网络故障全交给 AI、不用人（The Register，10/11）** — HPE 网络业务负责人 Rami Rahim 说，现在企业**70%–80% 的网络故障工单已经不用人插手**，两三年内「所有问题都不需要人」；连换坏硬件都是系统自己下单、寄到、找个实习生插上就行。**跟普通人有什么关系**：网管、IT 运维、客服里「接报修、点几下就好」的活最先被 AI 接管，靠这行吃饭的要早做准备。[The Register](https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179)
+
 ### 2026-10-10（周六·轻量问答/讨论）
 
 📡 每日AI信息差 · 今日要点 — 日期: 2026-10-10 周六
@@ -345,6 +359,7 @@
 
 | 日期 | 链接 |
 |:----:|:----:|
+| 10-11 | [→](daily/2026-10-11.md) |
 | 10-10 | [→](daily/2026-10-10.md) |
 | 10-09 | [→](daily/2026-10-09.md) |
 | 10-08 | [→](daily/2026-10-08.md) |
@@ -374,5 +389,4 @@
 | 09-13 | [→](daily/2026-09-13.md) |
 | 09-12 | [→](daily/2026-09-12.md) |
 | 09-11 | [→](daily/2026-09-11.md) |
-| 09-10 | [→](daily/2026-09-10.md) |
 
