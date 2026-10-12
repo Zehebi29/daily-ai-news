@@ -7,6 +7,24 @@
 ## 最新资讯
 
 
+### 2026-10-12（周一·模型发布/开源）
+
+📡 每日AI信息差 · 今日要点 — 日期: 2026-10-12 周一
+
+1. **开源项目 Talorys：免费把自己的 AI 助手装进自己的云账号（HN 322 分）** — GitHub 上火了开源项目 Talorys：它是一个**开源的私人 AI 助手**，聊天、记东西、管任务、记笔记、定时提醒都有，**部署只用一行命令**（`npx create-talorys@latest`）。关键是它跑在你**自己的 Cloudflare 账号**里，用的是**免费额度**，不用额外买服务器、不用按月订阅；而且是开源，代码公开、可自查，数据留在自己手里。**跟普通人有什么关系**：想用私人 AI 助手又怕隐私外泄、怕年年涨订阅费，「开源 + 免费额度」是个越来越现实的路子，代价是自己动手装一次。[GitHub](https://github.com/rociiu/talorys) · [HN 322pts](https://news.ycombinator.com/item?id=50031614)
+
+2. **AI 找出 2.9 万个开源漏洞，可只修好了 516 个（The New Stack，10/11）** — Anthropic 做了个叫 **OSS Scanner** 的工具，**让 Claude 去扫开源软件的漏洞**，把发现的问题报告发给维护者。结果 AI 一口气报出约 **2.9 万个**疑似漏洞，但到今天真正被修好的只有 **516 个**——文章一针见血：**找 Bug 容易，修 Bug 太难**。**跟普通人有什么关系**：你手机里、电脑里很多免费 App 都靠开源软件撑着；AI 让「发现问题」变便宜了，可「解决问题」还是没人手，补丁排不上队，风险就一直挂着。[The New Stack](https://thenewstack.io/anthropic-oss-scanner-vulnerabilities/)
+
+3. **Karpathy：约 75% 的人几乎没碰过 AI，认知差距变成「漏斗」（HN 281 分）** — AI 圈名人 Andrej Karpathy 重提自己 4 月的一条推文，说现在这个**「大家对 AI 能力理解」的差距在扩大**。他说这早就不只是「两拨人各说各话」，而是变成了一道**很陡的漏斗**。按他的粗略估算，全球大概 **60 亿人（差不多 75%）几乎没真正跟大模型打过交道**。**跟普通人有什么关系**：网上天天刷到 AI，容易以为「全世界都在用」，其实大多数人还没开始——现在认真上手，你就已经跑在多数人前面。[X / Karpathy](https://twitter.com/karpathy/status/2109361546505966046) · [HN 281pts](https://news.ycombinator.com/item?id=50047422)
+
+4. **谷歌新玩具 Playground：打几句话，几分钟做个能玩的小游戏（Wired，10/11）** — 谷歌本周上线实验室项目 **Playground**，**完全不会写代码的人**，用几句大白话，几分钟就能生成一个能玩的小游戏。Wired 的记者拿它做了好几个「**很烂但真能玩**」的游戏，其中一个赛博朋克射击小游戏里的角色，**几分钟前还不存在**，全是他当场打字捏出来的。**跟普通人有什么关系**：做小游戏、做小工具的门槛在快速塌下来，以前要学编程、约美术、花几星期，现在会打字就能先跑出雏形。[Wired](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/)
+
+5. **开发者烧 5000 亿 token，让 AI 把老游戏「反编译」重造（HN 176 分）** — 一位开发者花了 **3 个月**，**让 AI 帮忙把一款流行的第一人称射击游戏「反编译」**——游戏只给能跑的成品，没有原始「菜谱」，得把内部结构一点点倒推出来。他在文章标题里说，这趟烧掉大约 **5000 亿 token**；但他强调要的不是「能跑的演示」，而是**准确、稳定、功能齐全**的重制版。**跟普通人有什么关系**：程序员最头疼的活之一，就是接手别人留下的、看不懂的老代码；现在 AI 能帮着把这类「天书」拆开，啃硬骨头的节奏在变。[momo5502 博客](https://momo5502.com/posts/2026-10-09-game-decompilation/) · [HN 176pts](https://news.ycombinator.com/item?id=50039092)
+
+---
+来源：HN Algolia（recent days=2 多关键词 + pts days=7 主题/人名 + broad scan days=1/2/3 ≥20pts）+ RSS（TechCrunch / The New Stack / Wired / BBC）+ 原站正文（GitHub / The New Stack / Wired / 开发者博客）
+
+
 ### 2026-10-11（周日·趋势前瞻）
 
 📡 每日AI信息差 · 今日要点 — 日期: 2026-10-11 周日
@@ -115,28 +133,11 @@
 来源：HN Algolia（3 窗口 broad scan + 关键词 + 公司搜索） + RSS/原站（Wikimedia Diff / The Verge / BBC / TechSpot / Tom's Hardware / The Register / Bloomberg / Yahoo Finance / Analytics Insight / Quartz） + HN 讨论帖
 
 
-### 2026-10-05（周一·模型发布/开源）
-
-📡 缪兔AI信息差 · 今日要点 — 日期: 2026-10-05 周一
-
-1. **开源推理引擎 Strata 让 125B 的 Qwen3.8-Flash-Next 跑在 12GB 消费级显卡上，单卡最高 94 tok/s（HN 842 分）** — Strata 是一个刚开源（9/24 建仓、已 1.2 万★）的 C++ 推理引擎，主打「在普通游戏 PC 上跑 125B 大模型」：Windows/Linux 一键安装，硬件门槛是 12GB+ 显存的 N 卡（RTX 20/30/40/50）或 A 卡（RX 7000/9000 系列）+ 32GB 内存 + 约 80GB 磁盘，全程本地、数据不出机器。官方实测写答案：RTX 5070（12GB）在 Q2_0 量化下 94 tok/s、IQ3_S 也有 53 tok/s，预填充最高 2650 tok/s；AMD RX 9070 XT（16GB）Q2_0 约 60 tok/s；官方称 24GB 的 RTX 3090 能到 100–140 tok/s。功能上它把 Qwen3.8-Flash-Next（支持图文输入、128K 上下文）包成 localhost 上的 OpenAI / Anthropic 兼容 API，可直接喂给本地 coding agent，并支持双卡/三卡共享模型。对「本地跑大模型」这件事，这是把门槛从服务器拉进了游戏机箱。[GitHub](https://github.com/Niko1221/Strata) · [HN 842pts](https://news.ycombinator.com/item?id=49953495)
-
-2. **Google 暂停自家开源软件漏洞赏金计划：AI 自动提交把维护者淹了，恢复要等到 2027 Q1** — Google 把 Open Source Software Vulnerability Rewards Program（OSS VRP）从 10 月 1 日起暂停，官方理由写得很直白：「自动提交量大幅上升，其中绝大多数无效（not valid）」——Tom's Hardware 说工程师和开源维护者被大量无效、甚至幻觉编造的漏洞报告打到崩溃。Google 在 X 和项目页承诺 2027 年第一季度给出「更新」，期间让研究者转投它其他赏金项目。安全圈去年就警告过 AI slop 会击穿 bug bounty 经济，这次是最大金主之一先按下暂停键——用大模型批量造「看起来像漏洞」的成本，已经低到超过平台人工筛选的承受力。[TechCrunch](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/) · [HN](https://news.ycombinator.com/item?id=49957570)
-
-3. **GitHub Trending：Agent-Reach 单日 +1156★ —— 一条命令给 AI agent「装上互联网的眼睛」，且全免费** — 今天的趋势榜项目 Panniantong/Agent-Reach（总量已 9.1 万★）把「让 agent 上网」这件脏活做成一个 CLI：装好后就能读/搜 Twitter(X)、Reddit、YouTube、GitHub、B站、小红书、Instagram、LinkedIn、Boss直聘，外加任意网页、RSS、全网语义搜索；官方称所有工具开源、所有 API 免费（唯一可能要花的是 $1/月的服务器代理，跑在本机不需要）。设计上每个平台走「首选 + 备选」多后端路由，某个接口被封就静默切换（官方举例：yt-dlp 被 B站风控封死后自动换 bili-cli，用户零操作）；Cookie 只存本地不上传；自带 `agent-reach doctor` 一条命令体检；兼容 Claude Code / OpenClaw / Cursor / Windsurf 等任何能跑命令行的 agent。对中文平台（B站/小红书/微博系生态）的支持是它比一堆英文 scraper 工具更实用的地方。[GitHub](https://github.com/Panniantong/Agent-Reach)
-
-4. **GitHub Trending 上另一个 6.3 万★：OpenMontage，把 AI coding agent 变成「整间视频制作公司」** — calesthio/OpenMontage（今天 +758★、总量 63,580★，Python）自称「全球首个开源的 agentic 视频生产系统」：12 条制作流水线 + 100+ 工具 + 700+ 份 agent skill 与制作知识文件，官方的说法是「把你的 AI 编程助手变成一整间视频制作工作室」。依赖栈里绑了 ffmpeg / Remotion / Flux / Stable Diffusion / ElevenLabs / 文本转视频等，topics 覆盖 Claude、Copilot、Cursor、OpenAI——走的是「让通用 coding agent 靠技能文件接管视频生产全流程」的路线，而不是再做一个专用 GUI，值得盯。[GitHub](https://github.com/calesthio/OpenMontage)
-
-5. **Cloudflare 上线 Web Search API（公测）：给 agent 一个「带出处」的联网搜索，三家供应商原价零加价** — 这条 10/2 的更新今天被翻上 HN（94 分）。Web Search API 让 agent/应用直接联网检索、把回答 grounding 在实时信息上（而不是靠模型训练截止日期瞎猜 URL），初期接入 Ceramic.ai、Exa、Linkup 三家，都通过 Cloudflare 走 Zero Data Retention、且都承诺遵守其「已验证爬虫」标准。它跑在 AI Gateway 上：搜索请求进你的 gateway 日志，按各供应商官方 API 原价计费、Cloudflare 不加价，也可自带 key；调用方式有 REST API 和 Workers 里的 `env.AI.websearch()` 两种。[Cloudflare Changelog](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/) · [HN](https://news.ycombinator.com/item?id=49963171)
-
----
-来源：HN Algolia（3 窗口 broad scan + 30 关键词 + 公司/人名） + GitHub Trending/GitHub API + RSS(TechCrunch/Verge/Ars/TNS/Register/Wired) + 原站全文(GitHub/Cloudflare/TechCrunch) + HN 讨论帖
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 10-12 | [→](daily/2026-10-12.md) |
 | 10-11 | [→](daily/2026-10-11.md) |
 | 10-10 | [→](daily/2026-10-10.md) |
 | 10-09 | [→](daily/2026-10-09.md) |
@@ -166,4 +167,3 @@
 | 09-14 | [→](daily/2026-09-14.md) |
 | 09-13 | [→](daily/2026-09-13.md) |
 | 09-12 | [→](daily/2026-09-12.md) |
-| 09-11 | [→](daily/2026-09-11.md) |
