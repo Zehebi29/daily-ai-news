@@ -1,0 +1,403 @@
+[
+ {
+  "src": "HN",
+  "title": "Gemini 4 Argon",
+  "url": "https://deepmind.google/models/gemini/",
+  "hn": "https://news.ycombinator.com/item?id=50073879",
+  "points": 1355,
+  "comments": 952,
+  "date": "2026-10-13",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：not available in our org (EU) / so this is prob why antigravity is not working well at the moment lol / not available. classic google. / not available yet. why to launch something that can never be used even after weeks / Blatantly obvious that models will not slow down. For any task, if we can build a dataset or environment of verification / > built",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7478,
+    "recent_median": 11339,
+    "max_play": 132498,
+    "recent30d": 18,
+    "top": [
+     "Gemini 4 Argon 实测：谷歌，你怎么回事？(132498)",
+     "Google 正式上线 Gemini 4 Argon【AI 早报 2026-10-14】(49001)",
+     "GPT-6.1 Astra曝光！Fable 5.5现身Azure！Gemini4 Arg(5090)"
+    ]
+   },
+   "suggest": [
+    "gemini4argon",
+    "gemini4",
+    "gemini",
+    "gemini使用教程",
+    "gemini陪看时差五小时",
+    "gemini4argon写作",
+    "geminifourth",
+    "gemini argon"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Redesigning source control at Anthropic",
+  "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+  "hn": "https://news.ycombinator.com/item?id=50073633",
+  "points": 814,
+  "comments": 865,
+  "date": "2026-10-13",
+  "status": "原链 200 OK",
+  "excerpt": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months. ‖ As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control sys",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 19127,
+    "recent_median": 9939,
+    "max_play": 1968842,
+    "recent30d": 16,
+    "top": [
+     "【保姆级教程】Claude 顶级防封指南，避开所有封号雷区！(43338)",
+     "10.7笑疯！claude钓鱼执法！点了中文界面当场封号！(739655)",
+     "Claude code搞定综述论文发表(27070)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "Claude使用教程",
+    "claude code",
+    "Claude Opus 5.5",
+    "claudecode安装教程",
+    "claude为什么不让中国用",
+    "claude 封号"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI is a tool and using it well takes skill",
+  "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+  "hn": "https://news.ycombinator.com/item?id=50063427",
+  "points": 723,
+  "comments": 562,
+  "date": "2026-10-12",
+  "status": "原链 200 OK",
+  "excerpt": "A response to Rich Hickey's \"'AI' is Not a Tool\": automation and tool use can coexist, and wielding an LLM well requires skill, feedback, and judgment. ‖ In his October 11, 2026 article, \"'AI' is Not a Tool,\" Rich Hickey argues that LLMs are automation rather than tools because they cannot be wielded. I agree that outsourcing work can cost us opportunities t",
+  "dup": true,
+  "dup_why": "1天前(2026-10-13)用过同一条链接",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "GLM-Legal",
+  "url": "https://z.ai/blog/glm-legal",
+  "hn": "https://news.ycombinator.com/item?id=50058507",
+  "points": 668,
+  "comments": 360,
+  "date": "2026-10-12",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：There should be laws about disclosure on the part of attorneys about their use of AI. I know they're already using it, b / It looks like they're relying on tracked changes and human review, but I didn't see anything addressing something that h / Lawyers are going to start living gilded lives. I don’t see us getting past their professional human sign-",
+  "dup": true,
+  "dup_why": "1天前(2026-10-13)用过同一条链接",
+  "cn_kw": "智谱清言",
+  "cn": {
+   "kw": "智谱清言",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 11659,
+    "recent_median": 10870,
+    "max_play": 208147,
+    "recent30d": 8,
+    "top": [
+     "为什么打工人和学生党都爱用智谱清言？GLM4是真的强！(139627)",
+     "智谱GLM5.3-HighSpeed灰度推送，阶跃Step5上线Workbuddy | (16691)",
+     "智谱清言AI大模型人工智能实战教程(7338)"
+    ]
+   },
+   "suggest": [
+    "智谱清言",
+    "智谱清言使用教程",
+    "智谱清言智能体创建",
+    "智谱清言api",
+    "智谱清言智能体",
+    "智谱清言agentmore",
+    "智谱清言好用吗",
+    "智谱清言积分"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "OpenAI engineer arrested in bugging of executive conference room",
+  "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+  "hn": "https://news.ycombinator.com/item?id=50078141",
+  "points": 606,
+  "comments": 504,
+  "date": "2026-10-13",
+  "status": "原链 200 OK",
+  "excerpt": "Federal prosecutors say an employee from Saudi Arabia planted an audio recorder and left another unattended in his bag.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 14078,
+    "recent_median": 14078,
+    "max_play": 372069,
+    "recent30d": 20,
+    "top": [
+     "【黑鸦】AI圈诸神之战！Fable 5.5被曝本周登场；OpenAI加紧安全准备正欲推出(27566)",
+     "匿名编程模型Cat Jam上线，OpenAI内部员工监听高管被捕 | 10月14日AI日(6592)",
+     "【中配】OpenAI与Anthropic闭门密谋：大事即将发生 - TheAIGRID (7259)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "OpenAI发布722篇数学论文",
+    "openai 数学",
+    "openaiAPI密钥",
+    "openai怎么下载",
+    "OpenAI或将发布400个重大数学成果",
+    "openai注册账号",
+    "OpenAI官宣攻克千禧年难题"
+   ],
+   "hot": true,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "QGIS enacts moratorium on AI contributions",
+  "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+  "hn": "https://news.ycombinator.com/item?id=50054751",
+  "points": 391,
+  "comments": 409,
+  "date": "2026-10-12",
+  "status": "原链 200 OK",
+  "excerpt": "Followup discussion at https://lists.osgeo.org/pipermail/qgis-developer/2026-September/068576.html. This formally changes the AI policy to a strict \"NOT ALLOWED\" policy. ‖ This formally changes the AI policy to a strict \"NOT ALLOWED\" policy. Add QEP428: No ai contributions permitted d05dd95 nyalldawson added Policy In Discussion QEPs currently in discussion ",
+  "dup": true,
+  "dup_why": "2天前(2026-10-12)用过同一条链接",
+  "cn_kw": "QGIS",
+  "cn": {
+   "kw": "QGIS",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 17722,
+    "recent_median": 351,
+    "max_play": 239152,
+    "recent30d": 1,
+    "top": [
+     "【公开课】【转载】开源GIS软件：QGIS 3.0入门教程 (中文) 2018.04(239152)",
+     "QGIS系列视频（一）：QGIS简介、安装与界面基础操作(72463)",
+     "QGIS入门全攻略+PyQGIS实操案例(4372)"
+    ]
+   },
+   "suggest": [
+    "QGIS入门教程",
+    "qgis",
+    "qgis制图教程",
+    "qgis安装教程",
+    "QGIS教程零基础入门",
+    "qgis使用教程",
+    "qgis怎么改成中文",
+    "qgis拓扑检查"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI coding agents generate more code, but not more software",
+  "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+  "hn": "https://news.ycombinator.com/item?id=50059523",
+  "points": 362,
+  "comments": 306,
+  "date": "2026-10-12",
+  "status": "原链 405",
+  "excerpt": "HN 讨论要点：Maybe but I’d argue the frontier corps will self destruct via green annd product management enough to make this impracti / I'm noticing AI catching many bugs in code that previously went unnoticed. Some of them are important, and it's great to / Maybe for some orgs, I know theres orgs out there where there is no such review only QA and unit testing. ",
+  "dup": true,
+  "dup_why": "4天前(2026-10-10)用过同一条链接",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4601,
+    "recent_median": 2182,
+    "max_play": 1343114,
+    "recent30d": 14,
+    "top": [
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1343114)",
+     "当你和百万人一起挤景区【AI全民制作人】(727226)",
+     "【前沿实战】大模型Agent强化学习实战(28310)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent开发",
+    "aiagent是什么",
+    "aiagent开发学习路线",
+    "aiagent推荐",
+    "aiagent实战项目",
+    "aiagent使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Why aren't AI companies being charged for hacking?",
+  "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+  "hn": "https://news.ycombinator.com/item?id=50057278",
+  "points": 333,
+  "comments": 367,
+  "date": "2026-10-12",
+  "status": "原链 200 OK",
+  "excerpt": "AI companies claim their hacks were unpredictable accidents — but they follow foreseeably from deliberate design choices, and that establishes criminal intent. ‖ Why aren’t AI companies being charged for hacking? ai October 12, 2026 Is hacking legal now? Anthropic broke into three systems. OpenAI took political aim and broke into an Australian government hea",
+  "dup": true,
+  "dup_why": "1天前(2026-10-13)用过同一条链接",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+  "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+  "hn": "https://news.ycombinator.com/item?id=50073221",
+  "points": 330,
+  "comments": 174,
+  "date": "2026-10-13",
+  "status": "原链 200 OK",
+  "excerpt": "For the past few years, I've been working on sprinklz.io, a customizable feed reader that can, among other things, deprioritize certain topics from your news feed. A month ago, I posted it to HN, and it got a hundred or so upvotes, nice! It seems like people are really tired of hearing about LLMs, and they enjoyed being able to deprioritize them from their f",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+  "url": "https://blog.character.ai/an-update-on-character-ai/",
+  "hn": "https://news.ycombinator.com/item?id=50068036",
+  "points": 326,
+  "comments": 279,
+  "date": "2026-10-13",
+  "status": "原链 200 OK",
+  "excerpt": "Today, we’re sharing that Character.ai has initiated a voluntary Chapter 11 bankruptcy process to facilitate a court-supervised sale of the company. Over the past year, we’ve taken meaningful steps to sustain and improve our business amid significant legal, regulatory, and operational headwinds. After a comprehensive review ‖ Today, we’re sharing that Charac",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Character.ai",
+  "cn": {
+   "kw": "Character.ai",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 189,
+    "recent_median": 53,
+    "max_play": 20620,
+    "recent30d": 12,
+    "top": [
+     "AI独角兽Character.AI破产，迪士尼抄底(4437)",
+     "character ai(781)",
+     "Character Animator角色面部捕捉(5)"
+    ]
+   },
+   "suggest": [],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+  "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-14",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Scimplify",
+  "cn": {
+   "kw": "Scimplify",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 196,
+    "recent_median": 118,
+    "max_play": 53931,
+    "recent30d": 14,
+    "top": [
+     "【转载】《SNAPTIC》完整通关视频 + 全秘密/彩蛋 + 未使用内容(69)",
+     "Ship Unloading with STS Crane 🚢🏗️(132)",
+     "4 Spoons and a Phone Make for a Unique Trick(115)"
+    ]
+   },
+   "suggest": [],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+  "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-13",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud. ‖ Disrupt 2026 has officially begun. Grab your pass now to be at the center of the startup epicenter. Speaking on stage at TechCrunch Disrupt 2026 on Tuesday, the chipmaker executiv",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Cerebras",
+  "cn": {
+   "kw": "Cerebras",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1266,
+    "recent_median": 215,
+    "max_play": 135322,
+    "recent30d": 9,
+    "top": [
+     "挑战GPU、绕过HBM，深挖史上最大芯片背后的Cerebras【硅谷101】(135322)",
+     "Cerebras发布CS-4晶圆超算，推理暴打英伟达30倍！(34609)",
+     "Ultrafast提速10倍，背后是Cerabras巨型芯片 #ultrafast #c(428)"
+    ]
+   },
+   "suggest": [
+    "cerebras芯片",
+    "cerebras上市",
+    "cerebras概念",
+    "cerebras代码",
+    "cerebras能否挑战英伟达"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]

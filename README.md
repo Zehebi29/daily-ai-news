@@ -7,6 +7,24 @@
 ## 最新资讯
 
 
+### 2026-10-14（周三·Agent/工程落地）
+
+1. **AI陪聊巨头Character.ai申请破产保护** — 很多人在手机上养过一个会聊天的AI角色，睡前跟它说说话、解解闷。如今，提供这类服务的公司撑不住了。Character.ai 已启动自愿破产程序，准备在法院监督下把整家公司卖掉，而不是突然关门。公司称过去一年在法律、监管和经营三方面接连碰壁；这类产品曾靠「虚拟陪伴」火遍全球，但付费意愿低、成本高、争议多，一直难赚钱。对普通用户最现实的问题是：聊天记录会不会消失、账号还能不能登录，公司易主后规则和收费都可能变，重要对话最好提前备份。
+   来源：https://blog.character.ai/an-update-on-character-ai/ （HN 326pts）
+
+2. **AI写的代码变多了，能用的软件却没变多** — 现在不少公司让AI帮忙写代码，速度确实快了很多。但一项调查发现，代码总量涨了，真正能上线、好用的软件却没有跟着变多，多出来的往往只是代码行数。原因不难懂：写得多不等于做得好，代码越多越要花时间检查、测试、返工，人手不够时反而是负担。有工程师说AI确实帮忙揪出了不少以前没注意的毛病，关键看有没有人认真把关。给打工人的提醒：AI是帮你干活的工具，不是替你负责的人。
+   来源：https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ （HN 362pts）
+
+3. **OpenAI一名员工涉嫌在高管会议室装录音设备被捕** — 一家顶尖AI公司出了件像谍战片的事。美国联邦检察官说，OpenAI 一名来自沙特的员工，在高管会议室里装了录音装置，另一台录音机则被他落在自己的包里，目前已被逮捕，案件正在走法律程序。这事引发关注，是因为AI公司的内部信息现在太值钱：模型怎么做、下一步往哪走，都是竞争对手砸钱想知道的秘密。竞争已经从产品卷到安全层面，普通人公司里的敏感对话、会议内容也该更上心保护。
+   来源：https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/ （HN 606pts）
+
+4. **Cerebras CEO预测：未来人人家里都有AI助手** — 以后家里有个随叫随到的AI助手，可能跟有台洗衣机一样平常。这是芯片公司 Cerebras 的老板给出的预测。他说，这种助手一部分跑在你自己的设备上，一部分放在云端，分工配合；之所以现在敢这么说，是因为把AI塞进小设备这两年进步飞快，手机、电脑上就能跑一部分，既快又省流量，隐私也相对好守。好消息是生活里的小事有人替你张罗：记事、提醒、查资料、排日程；要留心的是设备听得多，隐私怎么管、数据怎么用，最终看厂商定什么规矩。
+   来源：https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/
+
+5. **谷歌发布最强模型Gemini 4 Argon，却「发了用不上」** — 谷歌新一代大模型 Gemini 4 Argon 一上线就冲上外网热榜。可不少用户很快发现：自己所在的地方压根用不上。外网最扎心的评论是「为什么发布一个几周都用不了的东西」，还有人吐槽公司账户、欧洲地区都没开放，相关功能也跟着不稳定。对普通用户来说，重点从来不是参数多强，而是能不能用上、要不要花钱。想尝鲜的，先确认自己所在地区和服务是否开放，别被「发布」两个字带着走。
+   来源：https://deepmind.google/models/gemini/ （HN 1355pts）
+
+
 ### 2026-10-13（周二·AI 行业与安全）
 
 1. **陪聊明星 AI 五年就破产** — 能做虚拟角色陪你聊天的 Character.AI，上线刚满 5 年就申请破产保护。这类产品用户玩得开心却不太掏钱，训练和运营 AI 又特别烧钱，一边是大笔服务器账单、一边是稀薄订阅收入，资本一收紧，再火也扛不住。提醒：你充的会员、存的聊天记录都存在公司手里，公司一倒可能一起消失；挑 AI 产品别只看热度，也要看它有没有稳定赚钱的路子。来源：TechCrunch AI 🔗 https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/
@@ -113,28 +131,11 @@
 来源：HN Algolia（broad scan days=1/3 + 关键词 Pony.ai/robotaxi/physical AI/Haiku/Mistral/Adobe/DeepSeek/Qwen 等） + RSS/原站（The New Stack / TechCrunch / Ars Technica / The Register / MoneyToday / Anthropic / Mistral） + 原站正文
 
 
-### 2026-10-07（周三·Agent/工程落地）
-
-📡 缪兔AI信息差 · 今日要点 — 日期: 2026-10-07 周三
-
-1. **OpenAI 把内部模型产出的 722 篇数学手稿一次性开源到 GitHub，含 Lean 形式化与推理摘要（HN 今天 1024 分，登顶）** — OpenAI 发布《Sharing AI progress in mathematics》，把内部前沿模型在一批开放数学问题上产出的结果打包放上 GitHub（openai/math）：共 **722 篇手稿、归成 372 个「结果族」**（一族含主结果+配套论证+替代证明），按数学分支分类，含 Lean 形式化证明、10 份模型推理摘要、以及按 ChatGPT Pro 计费的算力估计——官方称平均每个结果约等于「3 小时 ChatGPT Pro 思考量」。这是在 9/11 那封 25 位菲尔兹奖得主联署的《A Severe Misalignment of AI in Mathematics》公开批评其「拿名题当跑分」之后，OpenAI 首次按独立顾问组（普林斯顿高等研究院 AGMAI）的建议，用 GitHub + 可引用/可修订协议来发布成果，并承诺资助一系列研讨会。HN 评论区一半在夸「终于不塞给付费期刊、直接进 GitHub」，一半觉得这更像公关灭火、没回应数学界的核心诉求。[OpenAI](https://openai.com/index/sharing-ai-progress-in-mathematics/) · [GitHub openai/math](https://github.com/openai/math) · [HN 1024pts](https://news.ycombinator.com/item?id=49984923)
-
-2. **OpenAI 上线 Decisions API 公测：判定型接口，比 Responses API 快 10 倍，唯一模型 gpt-6-luna（HN 346 分）** — 新增 `POST /v1/decisions` 端点：输入文本/图片、问一组「带类型的问题」，直接返回结构化答案，三类型——`predicate`（条件成立概率 0–1，如「图里杯子有凹痕吗」）、`choice`（从固定选项里选）、`score`（按有序档位打分、取概率加权均值）。官方称比 Responses API 快约 **10 倍**，目前仅 gpt-6-luna 一个模型，预计几周内 GA。这是 OpenAI 对 9 月 TypeSafe「Jev / System One」决策模型那波热度的正面跟进（此前已有分析写「OpenAI 很适合 fast-follow Jev」）；HN 评论区最关心两件事：定价，以及「已经支持图片输入」——正是 Jev 之前缺的一块。[OpenAI 文档](https://developers.openai.com/api/docs/guides/decisions) · [HN 346pts](https://news.ycombinator.com/item?id=49984025)
-
-3. **AWS 开源 Strands Decider 2B：2B 决策模型，本地 CPU 就能跑、几十毫秒出答案（HN 今天 218 分）** — Strands（AWS 的 agent harness/框架）放出 2B 参数的决策模型，专为「在固定选项里选一个 / 打 0–1 分」这类判定设计，本地 CPU 或 GPU 都能跑、**几十毫秒**返回，还为每个决策附一个「可靠度分数」（官方称这是前沿 LLM 推理 API 给不了的）。官方把取舍讲得很直白：决策模型比同尺寸 LLM 更快更强、永远只吐允许的选项；代价是没法做复杂推理、不能生成文本，所以不适合写代码/聊天/总结。继 TypeSafe 的 Jev、Cloudflare 的 Clef、ConvAI 的 Laya 之后，又一家大厂下场——「系统一模型 / 决策模型」从创业公司打到大厂。（博客原文发布于 10/1，今天重新上 HN 热榜。）[Strands](https://strandsagents.com/blog/introducing-strands-decider/) · [HN 218pts](https://news.ycombinator.com/item?id=49987076)
-
-4. **韩国称 AI agent 疑似被用来攻击本国银行系统（Reuters，10/6，HN 86 分）** — 韩国总统李在明（Lee Jae-myung）就近期针对韩国银行的网络攻击表态，称其中「出现了 AI agent 被使用的迹象」。这是首次有国家层面把银行系统攻击直接关联到 agent 的公开案例——此前 agent 越界多是实验室测试或打外部站点（OpenAI 打 Hugging Face/Wikipedia、Anthropic/Google/Meta 同类事件）。HN 评论的焦点是质疑：技术归因方法未公开，「他们到底怎么认定是 agent 干的、用的哪个 agent」。注意：原文正文 Reuters 屏蔽了抓取，本条依据的标题与出处经 HN（id=49985861）核实，未看到调查细节。[Reuters](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/) · [HN](https://news.ycombinator.com/item?id=49985861)
-
-5. **新的 MCP 攻击类别「protocol pivoting」：Google 的 MCP toolbox 等被曝 SSRF，agent 间信任链成攻击面（Ars，10/5）** — 安全研究者 Syed 公开一类被其命名为 **protocol pivoting** 的攻击：当应用/服务器用 MCP 把任务派给 agent、agent 再把恶意指令转给另一个走不同协议/服务器的 agent 时，整条链上每一环都在「按设计正常运行」，攻击者却能借 prompt injection 让下游 agent 执行越权操作。涉及两个洞：CVE-2026-97228（影响 Rapid7，CVSS 仅 2.7，上月已修）和更严重的 Google `googleapis/mcp-toolbox`（严重度 8）——它初始化 HTTP 客户端时没设 CheckRedirect 策略、也没校验目标 IP，构造的 path 参数能让 toolbox 跟着重定向打到内网端点、代攻击者发请求；Google 用 IP 白名单 + 黑名单修复（启动时就拒绝不安全的 base URL）。Rapid7 的 Douglas McKee 的总结：每个协议都假设自己单独存在，各自看着自家前门，「没人看着中间的走廊」。[Ars Technica](https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/) · [HN](https://news.ycombinator.com/item?id=49991027)
-
----
-来源：HN Algolia（broad scan days=1/2/3 + 关键词"AI agent/Claude/OpenAI/MCP/coding agent" + 公司搜索） + RSS/原站（The New Stack / TechCrunch / Ars Technica / The Verge / Strands） + 原站正文（jina 代理抓 OpenAI 文档 / openai/math README+CONTENTS / Strands / Ars） + HN 讨论帖
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 10-14 | [→](daily/2026-10-14.md) |
 | 10-13 | [→](daily/2026-10-13.md) |
 | 10-12 | [→](daily/2026-10-12.md) |
 | 10-11 | [→](daily/2026-10-11.md) |
@@ -164,4 +165,3 @@
 | 09-16 | [→](daily/2026-09-16.md) |
 | 09-15 | [→](daily/2026-09-15.md) |
 | 09-14 | [→](daily/2026-09-14.md) |
-| 09-13 | [→](daily/2026-09-13.md) |
