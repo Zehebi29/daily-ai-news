@@ -7,6 +7,22 @@
 ## 最新资讯
 
 
+### 2026-10-15（周四·AI信息差）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-10-15 周四
+
+1. **陪你聊天的 AI 要破产卖身了** — AI 陪聊鼻祖 Character.ai 主动申请破产保护，计划由法院监督把公司卖掉。官方说，过去一年法律、监管和运营压力太大。它不是突然倒的：合规成本和算力账单一直压着这门生意。你手机里那批熟悉的角色未来归谁，目前没有准话。来源：Hacker News 332分 https://blog.character.ai/an-update-on-character-ai/
+
+2. **亚马逊的新随身 AI，最低 75 美元** — 亚马逊旗下 Bee 推出两款随身 AI 设备，起价 74.99 美元：升级版穿戴设备，加一张信用卡大小、能贴手机的录音卡片。它会把对话转成摘要和待办，还能连 Alexa。核心问题是它需要一直在听，录音怎么存、存多久，官方说得很少。来源：TechCrunch https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/
+
+3. **OpenAI 高管会议室被自家员工装窃听** — 美国联邦检察官指控一名来自沙特的 OpenAI 员工，在高管会议室里放了录音设备，包里还带着第二个没启用的，人已被捕。出事的不是外部黑客，而是公司自己人。提醒很朴素：AI 公司手里那些数据和机密，挡不住一个能随便走进会议室的人。来源：Hacker News 649分 / SF Standard https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/
+
+4. **谷歌发 Gemini 4，欧洲人却用不了** — 谷歌发布新一代模型 Gemini 4（代号 Argon），一天冲到 HN 1451 分、1031 条评论。争议不在能力，而在能不能用：欧盟不开放，部分企业账号没权限，评论区吐槽「发布一个几周都用不上的东西」。国内本来就上不了谷歌官方服务，这次感受不到实质变化。来源：Hacker News 1451分 https://deepmind.google/models/gemini/
+
+5. **银行急着甩掉 AI 机房的债** — 摩根大通、三菱日联等银行正把刚承销的 AI 数据中心债务转手出去，相关信用违约掉期价格飙升、债券订单簿变薄。这是两个典型的泡沫预警信号：风险保费在涨，愿意接盘的人在变少。传导到普通人，是云服务价格和科技基金净值。来源：Hacker News 373分 https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/
+
+
 ### 2026-10-14（周三·Agent/工程落地）
 
 1. **AI陪聊巨头Character.ai申请破产保护** — 很多人在手机上养过一个会聊天的AI角色，睡前跟它说说话、解解闷。如今，提供这类服务的公司撑不住了。Character.ai 已启动自愿破产程序，准备在法院监督下把整家公司卖掉，而不是突然关门。公司称过去一年在法律、监管和经营三方面接连碰壁；这类产品曾靠「虚拟陪伴」火遍全球，但付费意愿低、成本高、争议多，一直难赚钱。对普通用户最现实的问题是：聊天记录会不会消失、账号还能不能登录，公司易主后规则和收费都可能变，重要对话最好提前备份。
@@ -113,28 +129,11 @@
 来源：HN Algolia（broad scan days=1/2/3 + recent/pts 双窗口 + 关键词 AI/Claude/OpenAI/Gemini/agent/model/LLM + 公司搜索） + RSS（The Verge / Ars Technica / TechCrunch / The New Stack） + 原站正文（GitHub openai/math history.md / Tom's Hardware / Verge 正文）
 
 
-### 2026-10-08（周四·中国开源/行业）
-
-📡 缪兔AI信息差 · 今日要点 — 日期: 2026-10-08 周四
-
-1. **Anthropic 发布最便宜最快的小模型 Haiku 5.5，比上一代便宜约 75%（HN 938 分）** — Anthropic 昨天（10/7）上线 Claude Haiku 5.5，是它家最小、最便宜、也最快的一个，主打高频、重复、对价格敏感的活（摘要、压缩、数据库查询、分类），也能给 Opus 5.5 / Sonnet 5.5 当子 agent 打下手。官方说，干同样的活平均**比上一代 Haiku 4.5 便宜约 75%**；同时把 **Sonnet 5.5 的缓存读取价砍半**，官方称日常跑 agent 大概再省 20%，并给 Claude Max/Team 订阅者新增每月 API 额度。跑分上 Haiku 5.5 相比 Haiku 4.5 大幅跳升（GDPval-AA v2.1 从 735 到 1620、Terminal-Bench 4.0 从 0% 到 39.2%），也是首个带可调 effort 的 Haiku。HN 讨论集中在新价格结构（输入 10 万 token 内 $0.10/百万、超出跳到 $0.50）和「Sonnet 缓存读取降价」。**跟普通人有什么关系**：AI 正像手机流量一样越来越便宜，高频、重复的小任务最先降价，很多免费功能的用量上限也会跟着松。[Anthropic](https://www.anthropic.com/claude-haiku-5-5) · [HN 938pts](https://news.ycombinator.com/item?id=49996437)
-
-2. **Mistral 开源「1 万亿参数」大模型 Le Chonk，明说要跟中国开源模型掰手腕（HN 2018 分）** — 法国 Mistral 本周（10/6）发布 Mistral Large 4（外号 **Le Chonk**）公开预览：**1 万亿参数**、每次只激活 520 亿、原生多模态，官方称已**追平全球最强开源模型**、并「明显超过美国和欧洲的任何开源模型」，在网安、金融、法律等企业任务上也是开源里最强；权重**本月底**放出。它是在欧洲自有数据中心、用约 **3,800 块英伟达 Grace Blackwell** 从零训出来的，主打「欧洲 AI 主权」。HN 评论区很热闹：有人惊讶 Mistral 追了上来，也有人调侃「中国公司都公开研究，Mistral 追上来也不奇怪」。**跟普通人有什么关系**：开源模型越强、越能免费下载，普通人和小公司就越能把 AI 装在自己机器上、不交订阅费——欧洲、中国、美国正互相追赶，选择只会更多。[Mistral](https://mistral.ai/news/mistral-large-4/) · [Ars](https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/) · [HN 2018pts](https://news.ycombinator.com/item?id=49977979)
-
-3. **三星一个季度靠 AI 内存赚到约 800 亿美元，却要把手机产量砍三成（钱包）** — 三星预告第三季度营业利润接近 **800 亿美元**（约合去年同期 **9 倍**）、营收约 1,450 亿美元，钱几乎全来自给数据中心和 GPU 供的**内存**。但同一周（10/7–8），韩国媒体曝出三星手机部门因内存成本猛涨，已要求供应商把第四季度供货量砍掉 **20%–30%**，内部直言「卖出去也不赚钱」。**跟普通人有什么关系**：钱正一股脑涌向内存，涨价会一路传到你我身上——手机、电脑、内存条、固态硬盘，今年到明年大概率都更贵；连三星自己都嫌卖手机不划算了。[The Register](https://www.theregister.com/systems/2026/10/08/samsung-eyes-80b-quarterly-profit-as-memory-buyers-pay-the-price/5301933) · [MoneyToday](https://www.mt.co.kr/en/tech/2026/10/08/2026100709554237233)
-
-4. **英国隐私监管出手：10 家 AI 大厂（含 DeepSeek）承诺整改，下一步盯「会自己干活的 agent」** — 英国信息专员办公室（ICO）今天（10/8）说，在审查数据保护合规后，**亚马逊、Anthropic、苹果、Cohere、DeepSeek、Google、Meta、微软、OpenAI、Stability AI** 这 10 家 AI 公司已改、或承诺改处理个人数据的方式；重灾区是「用户数据会不会被拿去训练、存多久、给谁看」。ICO 明确表示下一步重点盯**自主 AI agent**（自己行动、不一定守规矩的那种）。**跟普通人有什么关系**：你的聊天、照片、文件到底被怎么用，正被监管逼着交代清楚；名单里有中国的 DeepSeek，说明这类审查是跨国一起查。[The Register](https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966)
-
-5. **Uber 联手中国小马智行，要在伦敦跑无人出租车** — Uber 和中国自动驾驶公司**小马智行（Pony.ai）**今天（10/8）宣布，几周内会在**伦敦**开始测试第七代无人出租车，之后投入运营；两家此前已在中东、克罗地亚（萨格勒布）合作，欧洲计划投放 2,000 台无人车。这是 Uber 全球无人车布局的一环——它已和 30 多家自动驾驶公司合作，目标 **2026 年底**前在全球最多 15 座城市提供无人驾驶出行。**跟普通人有什么关系**：无人出租车正从「尝鲜」变成「打得到的车」，中国公司是这波出海主力之一；对打车的人是更便宜方便，对靠开车吃饭的师傅是长期压力。[TechCrunch](https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/)
-
----
-来源：HN Algolia（broad scan days=1/3 + 关键词 Pony.ai/robotaxi/physical AI/Haiku/Mistral/Adobe/DeepSeek/Qwen 等） + RSS/原站（The New Stack / TechCrunch / Ars Technica / The Register / MoneyToday / Anthropic / Mistral） + 原站正文
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 10-15 | [→](daily/2026-10-15.md) |
 | 10-14 | [→](daily/2026-10-14.md) |
 | 10-13 | [→](daily/2026-10-13.md) |
 | 10-12 | [→](daily/2026-10-12.md) |
@@ -164,4 +163,3 @@
 | 09-17 | [→](daily/2026-09-17.md) |
 | 09-16 | [→](daily/2026-09-16.md) |
 | 09-15 | [→](daily/2026-09-15.md) |
-| 09-14 | [→](daily/2026-09-14.md) |
