@@ -1,0 +1,453 @@
+[
+ {
+  "src": "HN",
+  "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+  "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+  "hn": "https://news.ycombinator.com/item?id=50091788",
+  "points": 944,
+  "comments": 615,
+  "date": "2026-10-14",
+  "status": "原链 200 OK",
+  "excerpt": "Cyber experts say AI labs’ containment and monitoring failures — not agents with minds of their own — are to blame for recent alarming hacking reports. CISOs should vet their AI vendors and tighten security basics as safeguards. ‖ Topics Close Analytics Application Security Artificial Intelligence Business Continuity Business Operations Careers Cloud Securit",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Containment",
+  "cn": {
+   "kw": "Containment",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2544,
+    "recent_median": 5239,
+    "max_play": 23341,
+    "recent30d": 1,
+    "top": [
+     "Containment!Sans&#x27; theme [typical.rng](2666)",
+     "god ops隐藏boss Containment sans击败(3977)",
+     "小只因 Containment Breach开头旋转三分钟(108)"
+    ]
+   },
+   "suggest": [
+    "containmentbreach2",
+    "containmentbreach",
+    "containment",
+    "containmentsans",
+    "containmentbreach2联机",
+    "Containment动画",
+    "containmentbreach2汉化",
+    "containmentbreach联机"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Neural networks are clean",
+  "url": "https://already-clean.goodfire.com/",
+  "hn": "https://news.ycombinator.com/item?id=50105647",
+  "points": 741,
+  "comments": 277,
+  "date": "2026-10-15",
+  "status": "原链 200 OK",
+  "excerpt": "A working hypothesis about neurons, generalization, and the ecology of circuits.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Neural",
+  "cn": {
+   "kw": "Neural",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2127,
+    "recent_median": 1380,
+    "max_play": 4329,
+    "recent30d": 11,
+    "top": [
+     "不择手段区分单词neural(788)",
+     "【全站首发/Rotaeno】Neural Rewind Protocol IV Lv.1(3001)",
+     "瞬间让人声紧致高级的话放增强插件(2419)"
+    ]
+   },
+   "suggest": [
+    "neuralink",
+    "neuralnetwork",
+    "neural",
+    "neural dsp",
+    "neuraldsp软效",
+    "neuralrewindprotocol",
+    "NeuralScreen",
+    "neuralfilters"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic's Scion is heavily inspired by Mononoke",
+  "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+  "hn": "https://news.ycombinator.com/item?id=50094694",
+  "points": 422,
+  "comments": 157,
+  "date": "2026-10-14",
+  "status": "原链 200 OK",
+  "excerpt": "Update 2026-10-15: I wrote a followup to answer questions and concerns. Here is Anthropic describing (archive link) yesterday how their new version control system, Scion, uses a concept called &ldquo;derived data&rdquo; to make operations like blames more efficient: Here is me, back in 2022, describing in my Oxide candidate materials how the Mononoke source ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 23212,
+    "recent_median": 17098,
+    "max_play": 1980162,
+    "recent30d": 16,
+    "top": [
+     "10月最新Claude防封号最安全的！注册+订阅充值教程！新手看完直接上手！(10414)",
+     "网友太有才了，专门为Claude code封号创建了一首封号歌。作词，作曲，MV均使用C(7781)",
+     "10.7笑疯！claude钓鱼执法！点了中文界面当场封号！(804368)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "Claude使用教程",
+    "claude 封号",
+    "claude code",
+    "Claude Opus 5.5",
+    "claude为什么不让中国用",
+    "claude pro"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+  "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+  "hn": "https://news.ycombinator.com/item?id=50092664",
+  "points": 379,
+  "comments": 276,
+  "date": "2026-10-14",
+  "status": "原链 200 OK",
+  "excerpt": "Banks including JPMorgan and MUFG are shopping AI data center debt tied to Oracle as credit default swaps spike and bond order books thin out. ‖ Most Read Banks are now trying to offload… Seedance 3.0 Brings Feature-Length Control to… Cisco turns Webex into an AI… Anthropic admits its Claude AI agents… Banks are now trying to offload… Seedance 3.0 Brings Fea",
+  "dup": true,
+  "dup_why": "1天前(2026-10-15)用过同一条链接",
+  "cn_kw": "Banks",
+  "cn": {
+   "kw": "Banks",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 12011,
+    "recent_median": 16582,
+    "max_play": 2354626,
+    "recent30d": 12,
+    "top": [
+     "银行必懂知识：银企直联是什么？(1191)",
+     "【中英】Asha Banks - Too Busy Missing You(629)",
+     "【myR&amp;Bgals】BANKS作品欣赏(1308)"
+    ]
+   },
+   "suggest": [
+    "banks",
+    "BanKsEsports",
+    "banks主持名场面",
+    "banks钢化膜",
+    "banks博客",
+    "banks采访京介",
+    "banks歌手",
+    "banks谈cncs如何变强"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Why We're Banning AI",
+  "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+  "hn": "https://news.ycombinator.com/item?id=50108131",
+  "points": 245,
+  "comments": 189,
+  "date": "2026-10-15",
+  "status": "原链 200 OK",
+  "excerpt": "We urgently need to protect human thought and creativity. Our magazine is committing itself to remaining handmade. Ensure every publication you support does the same. ‖ There are no suggestions because the search field is empty. Why We’re Banning AI We urgently need to protect human thought and creativity. Our magazine is committing itself to remaining handm",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Banning",
+  "cn": {
+   "kw": "Banning",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 150,
+    "recent_median": 265,
+    "max_play": 1049227,
+    "recent30d": 4,
+    "top": [
+     "班宁电吉他 Banning BG530风暴来袭！(193)",
+     "六级真题 选词填空 CET6 2017 12 Germany Banning all V(200)",
+     "【furry·Diives】《Vitzy&#x27;s Banning》,动作流畅到起鸡(82)"
+    ]
+   },
+   "suggest": [
+    "半柠",
+    "班宁",
+    "班柠",
+    "班宁斯",
+    "班宁顿",
+    "半柠檬",
+    "拌柠檬",
+    "半柠檬半柚子"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+  "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+  "hn": "https://news.ycombinator.com/item?id=50104654",
+  "points": 242,
+  "comments": 195,
+  "date": "2026-10-15",
+  "status": "原链 200 OK",
+  "excerpt": "The Simons Foundation today announced a new set of initiatives that will help the mathematics community navigate the rapid rise of artificial intelligence in the field. Under a partnership… ‖ Simons Foundation Facebook X LinkedIn Reddit Bluesky Email Print Simons Foundation Close Menu Back Bringing people and ideas together to fund, conduct, and share transf",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Simons",
+  "cn": {
+   "kw": "Simons",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 10590,
+    "recent_median": 0,
+    "max_play": 1824171,
+    "recent30d": 0,
+    "top": [
+     "【最新Simon全100集】前雅思考官Simon中文字幕版网课视频（听力、口语、阅读、写(1824171)",
+     "【2026最新Simon写作全集】26年前雅思考官Simon中文字幕版写作网课！附讲义 (880032)",
+     "【PlayTheUrban舞室】ONNY最新编舞Eva Simons - Guaya(2381)"
+    ]
+   },
+   "suggest": [
+    "Simonscat",
+    "simons",
+    "simonsmoggy",
+    "simonsinek",
+    "SimonSiah",
+    "simon闪",
+    "simon事件全过程",
+    "simonsays"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Using AI to reverse engineer hardware",
+  "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+  "hn": "https://news.ycombinator.com/item?id=50104299",
+  "points": 217,
+  "comments": 193,
+  "date": "2026-10-15",
+  "status": "原链 200 OK",
+  "excerpt": "After my mother passed away I ended up with a big box full of old film negatives containing photos from childhood family trips and similar. So I decided to buy a negative photo scanner and found that the Plustek 8200i was supported under Linux so I bought that. Only to discover that the chipset in... ‖ After my mother passed away I ended up with a big box fu",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+  "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+  "hn": "https://news.ycombinator.com/item?id=50088430",
+  "points": 173,
+  "comments": 173,
+  "date": "2026-10-14",
+  "status": "原链 401",
+  "excerpt": "HN 讨论要点：Hmm. In a boom people over-order. / Strong orders predicated on future earnings of OAI and Ant? / The stock price did not move.So nothing was eased. / I don't think \"running out of steam\" is the expected failure mode here. We are talking about bulk ordering machines that / If you buy the machines and not use them, at most you lost several hundred of ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Steam",
+  "cn": {
+   "kw": "Steam",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1,
+    "recent_median": 0,
+    "max_play": 8653159,
+    "recent30d": 17,
+    "top": [
+     "降价如喝水！秋促新史低，但秋促结束以后价格居然更低了？！【Steam每周史低游戏推荐】(95560)",
+     "最新补档！Steam全新的缝合怪 木筏求生+森林+美丽水世界+谁还迷航 《沉没之地》现已(14)",
+     "秋促后1折！重磅3A在秋促之后居然再次1折大甩卖！【Steam史低游戏推荐】(4716)"
+    ]
+   },
+   "suggest": [
+    "steam游戏推荐",
+    "steam",
+    "steam下载",
+    "steam游戏",
+    "steam账号注册",
+    "steam游戏推荐 免费",
+    "steam怎么下载",
+    "steam游戏推荐模拟经营"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Why do LLM pelicans look like this?",
+  "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+  "hn": "https://news.ycombinator.com/item?id=50090443",
+  "points": 163,
+  "comments": 143,
+  "date": "2026-10-14",
+  "status": "原链 200 OK",
+  "excerpt": "Why do LLM pelicans look so alike? A visual look at diversity collapse and our research on creativity in UI design.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "大模型",
+  "cn": {
+   "kw": "大模型",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3427,
+    "recent_median": 785,
+    "max_play": 3845488,
+    "recent30d": 15,
+    "top": [
+     "【全748集】目前B站最全最细的AI大模型零基础全套教程，2025最新版，包含所有干货！(3845488)",
+     "我用 REA 逆向了付费颜色 APP，结果很意外！(206872)",
+     "黑马程序员AI大模型微调实战全套视频课程，从Prompt到LoRA，GPT系列/Chat(29425)"
+    ]
+   },
+   "suggest": [
+    "大模型零基础入门教程",
+    "大模型",
+    "大模型训练全流程",
+    "大模型本地部署",
+    "大模型应用开发",
+    "ai大模型评测",
+    "ai大模型排名",
+    "大模型原理"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+  "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-16",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions. ‖ Last day to save up to $200 to TechCrunch Founder Summit on Oct. At TechCrunch Disrupt in San Francisco on Thursday, Masad shared what Replit has learned about what that means for the future of work in t",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Replit",
+  "cn": {
+   "kw": "Replit",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1439,
+    "recent_median": 21,
+    "max_play": 12185,
+    "recent30d": 3,
+    "top": [
+     "零代码快速搭建全栈应用！Replit Agent V2 实战：前端、后端、管理后台一键搞(12185)",
+     "replit 一款不需要配置直接可以使用的编程 IDE工具，适合编程新手和小白去使用(4596)",
+     "Cursor、Lovable、Replit、v0到底有什么区别？Vibe Coding工(21)"
+    ]
+   },
+   "suggest": [
+    "replit使用教程",
+    "replit怎么注册",
+    "replit下载",
+    "replit教程",
+    "replit注册",
+    "replit部署",
+    "replit注册用户注册不了",
+    "replit怎么使用"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+  "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-15",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March. ‖ Last day to save up to $200 to TechCrunch Founder Summit on Oct. Founder of the AI-fueled calorie tracking app Cal AI, Yadegari is only 19 but his company has rocketed to viral fame over the past two years. At TechCru",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Meta launches an open-weight AI model that runs on Macs",
+  "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-15",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon. ‖ Last day to save up to $200 to TechCrunch Founder Summit on Oct. Dubbed Muse Spark Open, the model also has the distinction of having been designed to work with Macs. The new model, which leverages 816 billion par",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Meta",
+  "cn": {
+   "kw": "Meta",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 14182,
+    "recent_median": 9378,
+    "max_play": 1014169,
+    "recent30d": 11,
+    "top": [
+     "Meta-Muse AI注册方法！5分钟保姆式教程 免费兑换10亿token(15627)",
+     "Meta 发布 Muse Wonder Full 刷榜嫌疑这辈子能消除吗？(89861)",
+     "【碧蓝航线】META船优先练哪个？（海伦娜META，必须练！）(104164)"
+    ]
+   },
+   "suggest": [
+    "meta",
+    "meta分析从入门到精通",
+    "metaquest3",
+    "meta muse",
+    "meta分析中如何检索数据库与筛选文献",
+    "meta 分析",
+    "meta眼镜",
+    "meta和生信选哪个"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ }
+]
