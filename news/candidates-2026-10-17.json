@@ -1,0 +1,453 @@
+[
+ {
+  "src": "HN",
+  "title": "Claude reveals ECDSA curve origins",
+  "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+  "hn": "https://news.ycombinator.com/item?id=50122800",
+  "points": 913,
+  "comments": 338,
+  "date": "2026-10-16",
+  "status": "原链 200 OK",
+  "excerpt": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7409,
+    "recent_median": 6405,
+    "max_play": 1985113,
+    "recent30d": 15,
+    "top": [
+     "10月最新Claude防封号最安全的！注册+订阅充值教程！新手看完直接上手！(17580)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(1985113)",
+     "10.7笑疯！claude钓鱼执法！点了中文界面当场封号！(852091)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude code",
+    "Claude使用教程",
+    "Claude Opus 5.5",
+    "claude 封号",
+    "claude为什么不让中国用",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Neural networks are clean",
+  "url": "https://already-clean.goodfire.com/",
+  "hn": "https://news.ycombinator.com/item?id=50105647",
+  "points": 805,
+  "comments": 329,
+  "date": "2026-10-15",
+  "status": "原链 200 OK",
+  "excerpt": "A working hypothesis about neurons, generalization, and the ecology of circuits.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Neural",
+  "cn": {
+   "kw": "Neural",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2693,
+    "recent_median": 1806,
+    "max_play": 263302,
+    "recent30d": 9,
+    "top": [
+     "【ICML 2026｜3DGS】SoMA:A Real-to-Sim Neural Si(295)",
+     "Neural DSP Cortex Control桌面调节软件成功汉化(2)",
+     "Neural Rendering NeRF整体介绍(1123)"
+    ]
+   },
+   "suggest": [
+    "neuralink",
+    "neuralnetwork",
+    "neural",
+    "NeuralScreen",
+    "neuraldsp软效",
+    "neural dsp",
+    "neuralrewindprotocol",
+    "neurallink"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+  "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+  "hn": "https://news.ycombinator.com/item?id=50121179",
+  "points": 536,
+  "comments": 453,
+  "date": "2026-10-16",
+  "status": "原链 200 OK",
+  "excerpt": "The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks. ‖ Enterprise Experts Company A benchmark map of the US economy AI benchmarks have multiplied in recent years, but coverage of economically valuable work remains limited. To measure this, we co",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "How the Claude Code team does code review",
+  "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+  "hn": "https://news.ycombinator.com/item?id=50122951",
+  "points": 385,
+  "comments": 354,
+  "date": "2026-10-16",
+  "status": "原链 200 OK",
+  "excerpt": "How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn't raise reverts or incidents. ‖ EngineeringHow the Claude Code team does code reviewHow do you review code at the volume agents produce it? On the Claude Code",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7409,
+    "recent_median": 6405,
+    "max_play": 1985113,
+    "recent30d": 15,
+    "top": [
+     "10月最新Claude防封号最安全的！注册+订阅充值教程！新手看完直接上手！(17580)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(1985113)",
+     "10.7笑疯！claude钓鱼执法！点了中文界面当场封号！(852091)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude code",
+    "Claude使用教程",
+    "Claude Opus 5.5",
+    "claude 封号",
+    "claude为什么不让中国用",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+  "url": "https://github.com/cobanov/PS5LM",
+  "hn": "https://news.ycombinator.com/item?id=50122431",
+  "points": 307,
+  "comments": 75,
+  "date": "2026-10-16",
+  "status": "原链 200 OK",
+  "excerpt": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8 - cobanov/PS5LM",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Llama",
+  "cn": {
+   "kw": "Llama",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2580,
+    "recent_median": 568,
+    "max_play": 222886,
+    "recent30d": 6,
+    "top": [
+     "什么是Llama模型(833)",
+     "手把手教你用 llama.cpp 本地部署 AI 大模型，一篇讲清全流程 | llama(22210)",
+     "Llama Windows：让本地 AI 的操作更简单(989)"
+    ]
+   },
+   "suggest": [
+    "llama",
+    "llamafactory",
+    "llama模型",
+    "llamallamamadatmama",
+    "llama.cpp",
+    "llamaindex",
+    "llamallama绘本",
+    "llamafactory安装"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+  "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+  "hn": "https://news.ycombinator.com/item?id=50129121",
+  "points": 295,
+  "comments": 113,
+  "date": "2026-10-17",
+  "status": "原链 200 OK",
+  "excerpt": "DeepSeek V4.1 Flash 1017 is the October 17, 2026 snapshot of DeepSeek V4.1 Flash, served by DeepSeek under the `deepseek-flash` API model name. ‖ V4.1 Flash is a sparse mixture-of-experts model from DeepSeek, and the first built on the company's Causal Encoder-Decoder (CED) architecture. It activates 8B parameters on input and 16B on output from a 552B-param",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "DeepSeek",
+  "cn": {
+   "kw": "DeepSeek",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 41539,
+    "recent_median": 41539,
+    "max_play": 2274741,
+    "recent30d": 16,
+    "top": [
+     "DeepSeek-V4.1-Flash-1017 发布总结 + 测试输出盘点；DeepS(1721)",
+     "DeepSeek V4.1 Flash 1017 更新(1254)",
+     "DeepSeek高效写论文写综述专项（含答疑群）(12596)"
+    ]
+   },
+   "suggest": [
+    "deepseek harness",
+    "deepseek",
+    "deepseekAPI使用教程",
+    "deepseek整合成立产品部",
+    "deepseek1013",
+    "DeepSeek V4.1 Flash",
+    "deepseek从入门到精通",
+    "deepseek梁圣"
+   ],
+   "hot": true,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic assigned highest junk credit rating in June",
+  "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+  "hn": "https://news.ycombinator.com/item?id=50122112",
+  "points": 263,
+  "comments": 82,
+  "date": "2026-10-16",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：First SpaceX, now Anthropic. I wonder what happened the last time the big rating agencies gave massive amounts of sketch / Non-paywall link: <https://finance.yahoo.com/technology/ai/articles/anthropic-s...> / > Bankers for Anthropic and rival OpenAI have lobbied the largest rating agencies to grant the AI labs investment-grade  / It's a nice thought ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7409,
+    "recent_median": 6405,
+    "max_play": 1985113,
+    "recent30d": 15,
+    "top": [
+     "10月最新Claude防封号最安全的！注册+订阅充值教程！新手看完直接上手！(17580)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(1985113)",
+     "10.7笑疯！claude钓鱼执法！点了中文界面当场封号！(852091)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude code",
+    "Claude使用教程",
+    "Claude Opus 5.5",
+    "claude 封号",
+    "claude为什么不让中国用",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Why We're Banning AI",
+  "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+  "hn": "https://news.ycombinator.com/item?id=50108131",
+  "points": 256,
+  "comments": 202,
+  "date": "2026-10-15",
+  "status": "原链 200 OK",
+  "excerpt": "We urgently need to protect human thought and creativity. Our magazine is committing itself to remaining handmade. Ensure every publication you support does the same. ‖ There are no suggestions because the search field is empty. Why We’re Banning AI We urgently need to protect human thought and creativity. Our magazine is committing itself to remaining handm",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Banning",
+  "cn": {
+   "kw": "Banning",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 9116,
+    "recent_median": 1153,
+    "max_play": 2113895,
+    "recent30d": 11,
+    "top": [
+     "【furry·Diives】《Vitzy&#x27;s Banning》(18348)",
+     "【furry·Diives】《Vitzy&#x27;s Banning》,动作流畅到起鸡(82)",
+     "邦邦邦邦！邦邦…邦邦邦！(1153)"
+    ]
+   },
+   "suggest": [
+    "半柠",
+    "班宁",
+    "半柠檬",
+    "班柠",
+    "班宁顿",
+    "拌柠檬",
+    "班宁斯",
+    "半柠在哪直播"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "More on Anthropic's Scion ripping off Mononoke",
+  "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+  "hn": "https://news.ycombinator.com/item?id=50106738",
+  "points": 253,
+  "comments": 89,
+  "date": "2026-10-15",
+  "status": "原链 200 OK",
+  "excerpt": "from Anthropic has responded on Hacker News, and sufficient attribution has been added to Anthropic&rsquo;s blog post. I stand by my posts as of the time I wrote them. In response to yesterday&rsquo;s post about Anthropic&rsquo;s Scion ripping off Mononoke, I received a number of questions and concerns. Here&rsquo;s a followup to answer the big ones. My post",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7409,
+    "recent_median": 6405,
+    "max_play": 1985113,
+    "recent30d": 15,
+    "top": [
+     "10月最新Claude防封号最安全的！注册+订阅充值教程！新手看完直接上手！(17580)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(1985113)",
+     "10.7笑疯！claude钓鱼执法！点了中文界面当场封号！(852091)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude code",
+    "Claude使用教程",
+    "Claude Opus 5.5",
+    "claude 封号",
+    "claude为什么不让中国用",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Using AI to reverse engineer hardware",
+  "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+  "hn": "https://news.ycombinator.com/item?id=50104299",
+  "points": 249,
+  "comments": 241,
+  "date": "2026-10-15",
+  "status": "原链 200 OK",
+  "excerpt": "After my mother passed away I ended up with a big box full of old film negatives containing photos from childhood family trips and similar. So I decided to buy a negative photo scanner and found that the Plustek 8200i was supported under Linux so I bought that. Only to discover that the chipset in... ‖ After my mother passed away I ended up with a big box fu",
+  "dup": true,
+  "dup_why": "1天前(2026-10-16)用过同一条链接",
+  "cn_kw": null
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Replit is no longer working with Anthropic, CEO says",
+  "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-16",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic. ‖ Last day to save up to $200 to TechCrunch Founder Summit on Oct. Masad said the decision was made for a number of different reasons, including cost",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7409,
+    "recent_median": 6405,
+    "max_play": 1985113,
+    "recent30d": 15,
+    "top": [
+     "10月最新Claude防封号最安全的！注册+订阅充值教程！新手看完直接上手！(17580)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(1985113)",
+     "10.7笑疯！claude钓鱼执法！点了中文界面当场封号！(852091)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude code",
+    "Claude使用教程",
+    "Claude Opus 5.5",
+    "claude 封号",
+    "claude为什么不让中国用",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "India becomes the latest country to report rogue AI agent activity",
+  "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-16",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles. ‖ Last day to save up to $200 to TechCrunch Founder Summit on Oct. The Indian Computer Emergency Response Team (CERT-In) said it had received “multiple voluntary disclosures from AI model providers” wh",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6456,
+    "recent_median": 1174,
+    "max_play": 1354202,
+    "recent30d": 12,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1211736)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1354202)",
+     "Agent开发工程师训练营(10115)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent推荐",
+    "aiagent开发",
+    "aiagent使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]
