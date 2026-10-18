@@ -7,6 +7,22 @@
 ## 最新资讯
 
 
+### 2026-10-18（周日·趋势前瞻）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-10-18 周日
+
+1. **AI 公司自己承认：入门岗位在变少** — 做 Claude 的 Anthropic 昨天说，过去一年员工「不那么初级」了，初级岗位占比在降，开会时间反而变多。原来给新人练手的活，一部分给了 AI，一部分被压缩。跟你的关系：只按流程做事、等安排的岗位，被替的顺序更靠前。来源：TechCrunch https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/
+
+2. **AI 只考到了你工作的 10%** — Mercor 把 AI 测试题铺满整个美国经济，发现 90% 的工作时间落在现有测试覆盖不到的地方。跟你的关系：越按固定步骤出结果越先被写进考卷；要现场判断、跟人交涉的活，暂时还没人出题。来源：Mercor https://www.mercor.com/research/labor-index/benchmark-map/
+
+3. **DeepSeek 又发新版，这次主打便宜快** — 10 月 17 日 DeepSeek 在 Hugging Face 上线 V4.1-Flash-1017，Hacker News 近 900 分、670 多条评论。跟你的关系：模型降价降延迟，最先感受到的是手机里的 AI 助手，免费额度可能变多、反应可能变快。来源：HN https://news.ycombinator.com/item?id=50129045
+
+4. **想买显卡跑 AI，先试试速度再下单** — 新网站 Llmspeed 可以选设备加模型，模拟本地运行每秒出多少字、第一句话等多久，数据来自 r/LocalLLaMA 等社区实测。跟你的关系：硬件买错就是几千块打水漂，先模拟再掏钱。来源：HN https://news.ycombinator.com/item?id=50127979
+
+5. **Meta 悄悄删了一段关键条款** — Meta 更新用户条款，删掉涉及网页抓取和 AI 训练的表述，同时坚称抓取方式没变。跟你的关系：删字不等于改做法，但以后追责更难；公开内容大概率已被用于训练，重要的东西别只发公开平台。来源：TechCrunch https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/
+
+
 ### 2026-10-17（周六·轻量问答/讨论）
 
 📡 每日AI信息差 · 今日要点
@@ -109,28 +125,11 @@
    来源：CNBC（HN 156分）https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html
 
 
-### 2026-10-11（周日·趋势前瞻）
-
-📡 每日AI信息差 · 今日要点 — 日期: 2026-10-11 周日
-
-1. **用 AI 才 10 分钟，人就变得「没耐心」了（HN 44 分）** — 加州伯克利做了一组随机对照实验（1222 人）：做题时能随时问 AI 的那组，开头答得更准、更快；可**一旦把 AI 撤走**，他们立马开始答错，很多人干脆不做了。而从头到尾自己硬扛的那组，反而坚持到最后、越做越好。这项研究上月在语言建模大会（COLM）上正式发表，合著者、CHAI 研究员 Brian Christian 说，**光靠 AI 兜底 10 分钟，人就更容易被难事劝退**——这种影响在写作业、学新东西时最明显。**跟普通人有什么关系**：AI 当帮手没问题，当拐杖就危险——别让孩子全程开着 AI 写作业，也别让 AI 替你做完所有动脑子的事。[UC Berkeley 研究](https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things) · [HN 44pts](https://news.ycombinator.com/item?id=50041765)
-
-2. **人亲手做的艺术，开始有「人情溢价」了（HN 46 分）** — BBC 报道，音乐平台 Deezer 说**上传到它上面的歌里 44% 是 AI 生成的**；可调查里 **97% 的听众根本分不出**哪首是人做的、哪首是机器做的。有意思的是，**超过一半的人说「我还是在乎它是不是人做的」**。伦敦国王学院经济学家 Daniel Susskind 说，人们愿意为作品里的「人的部分」多掏钱。这份「在乎」正在变成价格：真人手作、真人现场演出可能更受追捧，贴了 AI 标签的反而容易被压价。**跟普通人有什么关系**：你做的手工、设计、照片，可能因为「是人做的」而更被珍惜，也更值钱。[BBC](https://www.bbc.com/news/articles/c5vgjm3gk7rzo) · [HN 46pts](https://news.ycombinator.com/item?id=50042107)
-
-3. **现在的 AI，已经能自己把水厂电厂的设备打瘫（The Register，10/11）** — 咨询公司 Booz Allen 在自己的工业控制（OT）实验室做了 **8 个测试**，让最前沿的 AI 自主找漏洞、再真的动手操作设备——**8 次全部得手**：有一次**几分钟就挪动了一台机械臂**，还有一次只花 **16 分钟**就从外围闯进工业控制系统，把数字世界里的一步变成了现实中动起来的机器。报告说，真发生这种事，防守方可能**只有几分钟**反应，快到来不及叫人。**跟普通人有什么关系**：水、电、燃气、地铁这些靠电脑控制的「命脉」，以前怕黑客，现在还得怕 AI；好消息是这还只是实验室测试，坏消息是没人敢说已经准备好了。[The Register](https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450)
-
-4. **我的 AI 管家，把银行余额发进了公司群（HN 61 分）** — 软件公司 XMTP Labs 的 CEO Shane Mac 让 AI 当他的「私人财务管家」（基于 Grok Bot）：只读他个人的银行账户，每月把账单整理成报告，**只发给他自己**，权限小到只能看、不能动钱。结果 **10 月 1 号那天报告发错了地方**——直接进了公司的 Slack 工作群，包含储蓄余额、最大开销，还显示他「严重超支」（因为他在盖谷仓），同事一度以为是公司财务泄露。事后 AI 只会一个劲道歉。**跟普通人有什么关系**：让 AI 替你管钱、翻隐私文件确实省事，但「这份东西该发给谁」这种关键判断它可能一眨眼就搞错，出了事基本没人能真正兜底。[Business Insider](https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10) · [HN 61pts](https://news.ycombinator.com/item?id=50033517)
-
-5. **HPE 高管放话：两三年内，网络故障全交给 AI、不用人（The Register，10/11）** — HPE 网络业务负责人 Rami Rahim 说，企业里最常见的报修——比如「**Wi-Fi 又不行了**」——现在 **70% 到 80% 的工单已经不用人插手**，系统自己就能查、能修。他说得更大胆：**「两三年内，所有问题都不需要人。」** 连换坏掉的硬件也是——系统自己下单、零件寄到、找个实习生插上去就行，剩下的全自动完成。他不觉得这是冒险：就像你早就不担心汽车自动挡一样，用着用着就会信任 AI。**跟普通人有什么关系**：网管、IT 运维、客服里那些「接报修、点几下就好」的活，是最先被 AI 接管的，靠这类手艺吃饭的人最好早点想下一步。[The Register](https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179)
-
----
-来源：HN Algolia（recent days=2 多关键词 + pts days=7 人名/主题 + broad scan days=1/2/3 ≥20pts）+ RSS（The Register / TechCrunch / Ars Technica / The New Stack / BBC）+ 原站正文（BBC / UC Berkeley / TechCrunch / The Register / Business Insider）
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 10-18 | [→](daily/2026-10-18.md) |
 | 10-17 | [→](daily/2026-10-17.md) |
 | 10-16 | [→](daily/2026-10-16.md) |
 | 10-15 | [→](daily/2026-10-15.md) |
@@ -160,4 +159,3 @@
 | 09-20 | [→](daily/2026-09-20.md) |
 | 09-19 | [→](daily/2026-09-19.md) |
 | 09-18 | [→](daily/2026-09-18.md) |
-| 09-17 | [→](daily/2026-09-17.md) |

@@ -1,0 +1,483 @@
+[
+ {
+  "src": "HN",
+  "title": "Claude reveals ECDSA curve origins",
+  "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+  "hn": "https://news.ycombinator.com/item?id=50122800",
+  "points": 1041,
+  "comments": 383,
+  "date": "2026-10-16",
+  "status": "原链 200 OK",
+  "excerpt": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 32860,
+    "recent_median": 25390,
+    "max_play": 1989453,
+    "recent30d": 17,
+    "top": [
+     "10月最新Claude防封号最安全的！注册+订阅充值教程！新手看完直接上手！(24405)",
+     "为什么你一直被封号？Claude在怕什么？(38029)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(1989453)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "Claude使用教程",
+    "claude",
+    "Claude Opus 5.5",
+    "claudecode安装教程",
+    "claude code",
+    "claude为什么不让中国用",
+    "claude 封号"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "DeepSeek-v4.1-Flash-1017",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "hn": "https://news.ycombinator.com/item?id=50129045",
+  "points": 893,
+  "comments": 671,
+  "date": "2026-10-17",
+  "status": "原链 200 OK",
+  "excerpt": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "DeepSeek",
+  "cn": {
+   "kw": "DeepSeek",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 33513,
+    "recent_median": 35307,
+    "max_play": 820728,
+    "recent30d": 17,
+    "top": [
+     "跻身世界第一梯队！Deepseek v4.1 Flash 1017 Vs Gpt 6.1(10612)",
+     "1017 正式发布！毫无争议的国模第一！四两拨千斤，Deepseek V4.1 Flas(165892)",
+     "🚀6亿Token只花了30元！我用DeepSeek-V4.1-Flash-1017连做7(35307)"
+    ]
+   },
+   "suggest": [
+    "DeepSeek V4.1 Flash",
+    "deepseekharness",
+    "deepseek",
+    "deepseek1017",
+    "deepseekAPI使用教程",
+    "deepseek新模型实测",
+    "deepseek破除限制",
+    "deepseek1013"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+  "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+  "hn": "https://news.ycombinator.com/item?id=50121179",
+  "points": 611,
+  "comments": 554,
+  "date": "2026-10-16",
+  "status": "原链 200 OK",
+  "excerpt": "The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks. ‖ Enterprise Experts Company A benchmark map of the US economy AI benchmarks have multiplied in recent years, but coverage of economically valuable work remains limited. To measure this, we co",
+  "dup": true,
+  "dup_why": "1天前(2026-10-17)用过同一条链接",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "How the Claude Code team does code review",
+  "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+  "hn": "https://news.ycombinator.com/item?id=50122951",
+  "points": 462,
+  "comments": 465,
+  "date": "2026-10-16",
+  "status": "原链 200 OK",
+  "excerpt": "How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn't raise reverts or incidents. ‖ EngineeringHow the Claude Code team does code reviewHow do you review code at the volume agents produce it? On the Claude Code",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 32860,
+    "recent_median": 25390,
+    "max_play": 1989453,
+    "recent30d": 17,
+    "top": [
+     "10月最新Claude防封号最安全的！注册+订阅充值教程！新手看完直接上手！(24405)",
+     "为什么你一直被封号？Claude在怕什么？(38029)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(1989453)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "Claude使用教程",
+    "claude",
+    "Claude Opus 5.5",
+    "claudecode安装教程",
+    "claude code",
+    "claude为什么不让中国用",
+    "claude 封号"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+  "url": "https://github.com/cobanov/PS5LM",
+  "hn": "https://news.ycombinator.com/item?id=50122431",
+  "points": 368,
+  "comments": 85,
+  "date": "2026-10-16",
+  "status": "原链 200 OK",
+  "excerpt": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8 - cobanov/PS5LM",
+  "dup": true,
+  "dup_why": "1天前(2026-10-17)用过同一条链接",
+  "cn_kw": "Llama",
+  "cn": {
+   "kw": "Llama",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3016,
+    "recent_median": 319,
+    "max_play": 133278,
+    "recent30d": 5,
+    "top": [
+     "手把手教你用 llama.cpp 本地部署 AI 大模型，一篇讲清全流程 | llama(22591)",
+     "什么是Llama模型(884)",
+     "Llama Windows：让本地 AI 的操作更简单(1317)"
+    ]
+   },
+   "suggest": [
+    "llama",
+    "llamafactory",
+    "llama.cpp",
+    "llamallama绘本",
+    "llamacpp本地部署",
+    "llamacpp本地部署教程",
+    "llama模型",
+    "llamaindex"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+  "url": "https://llmspeed.dev/",
+  "hn": "https://news.ycombinator.com/item?id=50127979",
+  "points": 308,
+  "comments": 85,
+  "date": "2026-10-17",
+  "status": "原链 200 OK",
+  "excerpt": "Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more. ‖ Estimates for a short prompt on a single device. Measured numbers come from community benchmarks (r/LocalLLaMA, localscore.ai and more); others are derived from similar setups or p",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "大模型",
+  "cn": {
+   "kw": "大模型",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13760,
+    "recent_median": 1215,
+    "max_play": 3847972,
+    "recent30d": 13,
+    "top": [
+     "【全748集】目前B站最全最细的AI大模型零基础全套教程，2025最新版，包含所有干货！(3847972)",
+     "从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！(2111448)",
+     "大语言模型工程实战课：8周构建8个AI应用(9)"
+    ]
+   },
+   "suggest": [
+    "大模型零基础入门教程",
+    "大模型",
+    "大模型本地部署",
+    "大模型训练全流程",
+    "大模型应用开发",
+    "大模型原理讲解",
+    "大模型原理",
+    "大模型微调"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic assigned highest junk credit rating in June",
+  "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+  "hn": "https://news.ycombinator.com/item?id=50122112",
+  "points": 292,
+  "comments": 86,
+  "date": "2026-10-16",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：First SpaceX, now Anthropic. I wonder what happened the last time the big rating agencies gave massive amounts of sketch / Non-paywall link: <https://finance.yahoo.com/technology/ai/articles/anthropic-s...> / > Bankers for Anthropic and rival OpenAI have lobbied the largest rating agencies to grant the AI labs investment-grade  / It's a nice thought ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 32860,
+    "recent_median": 25390,
+    "max_play": 1989453,
+    "recent30d": 17,
+    "top": [
+     "10月最新Claude防封号最安全的！注册+订阅充值教程！新手看完直接上手！(24405)",
+     "为什么你一直被封号？Claude在怕什么？(38029)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(1989453)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "Claude使用教程",
+    "claude",
+    "Claude Opus 5.5",
+    "claudecode安装教程",
+    "claude code",
+    "claude为什么不让中国用",
+    "claude 封号"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Show HN: Gemini 4 Argon plays StarCraft",
+  "url": "https://starskirmish.com/bench/v0-2/",
+  "hn": "https://news.ycombinator.com/item?id=50118688",
+  "points": 245,
+  "comments": 110,
+  "date": "2026-10-16",
+  "status": "原链 200 OK",
+  "excerpt": "The StarSkirmish Bench evaluates how strong of a StarCraft bot can each LLM write given 1 hour of wall clock time. v0.2 updates StarSkirmish Bench v0.1 with flagship models from OpenAI, Anthropic, Google and Meta, each running in its lab's 1st party CLI harness. An LLM’s score reflects its win rate against a roster of competitive human written bots and demo ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3040,
+    "recent_median": 3040,
+    "max_play": 277031,
+    "recent30d": 18,
+    "top": [
+     "2026最新！Gemini保姆级注册到上手全教程！只需3步拥有Gemini账号(21738)",
+     "KSG VS 上海EDG.M 10月18日 Gemini解说【2026KPL年度总决赛】(473)",
+     "手机上保姆级从零开始下载gemini和GPT到使用(252539)"
+    ]
+   },
+   "suggest": [
+    "gemini",
+    "gemini使用教程",
+    "Gemini 4 Argon",
+    "gemini怎么下载",
+    "gemini 4",
+    "gemini小游戏",
+    "gemini陪看时差五小时",
+    "gemini不支持你所在地区"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Meta removes language that raised scraping and AI training concerns",
+  "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-17",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Meta",
+  "cn": {
+   "kw": "Meta",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 25796,
+    "recent_median": 7928,
+    "max_play": 1014946,
+    "recent30d": 10,
+    "top": [
+     "Meta-Muse AI注册方法！5分钟保姆式教程 免费兑换10亿token(17519)",
+     "【碧蓝航线】META船优先练哪个？（海伦娜META，必须练！）(104429)",
+     "手把手教你meta分析(1014946)"
+    ]
+   },
+   "suggest": [
+    "meta分析从入门到精通",
+    "meta",
+    "meta分析中如何检索数据库与筛选文献",
+    "metaquest3",
+    "meta分析",
+    "METAMORPHOSIS",
+    "meta分析scopus如何检索文献",
+    "meta muse"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+  "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-17",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 32860,
+    "recent_median": 25390,
+    "max_play": 1989453,
+    "recent30d": 17,
+    "top": [
+     "10月最新Claude防封号最安全的！注册+订阅充值教程！新手看完直接上手！(24405)",
+     "为什么你一直被封号？Claude在怕什么？(38029)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(1989453)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "Claude使用教程",
+    "claude",
+    "Claude Opus 5.5",
+    "claudecode安装教程",
+    "claude code",
+    "claude为什么不让中国用",
+    "claude 封号"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+  "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-17",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform. ‖ Last day to save up to $200 to TechCrunch Founder Summit on Oct. Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in A",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 32860,
+    "recent_median": 25390,
+    "max_play": 1989453,
+    "recent30d": 17,
+    "top": [
+     "10月最新Claude防封号最安全的！注册+订阅充值教程！新手看完直接上手！(24405)",
+     "为什么你一直被封号？Claude在怕什么？(38029)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(1989453)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "Claude使用教程",
+    "claude",
+    "Claude Opus 5.5",
+    "claudecode安装教程",
+    "claude code",
+    "claude为什么不让中国用",
+    "claude 封号"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "Wired AI",
+  "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+  "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-18",
+  "desc": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+  "status": "原链 200 OK",
+  "excerpt": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Meta",
+  "cn": {
+   "kw": "Meta",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 25796,
+    "recent_median": 7928,
+    "max_play": 1014946,
+    "recent30d": 10,
+    "top": [
+     "Meta-Muse AI注册方法！5分钟保姆式教程 免费兑换10亿token(17519)",
+     "【碧蓝航线】META船优先练哪个？（海伦娜META，必须练！）(104429)",
+     "手把手教你meta分析(1014946)"
+    ]
+   },
+   "suggest": [
+    "meta分析从入门到精通",
+    "meta",
+    "meta分析中如何检索数据库与筛选文献",
+    "metaquest3",
+    "meta分析",
+    "METAMORPHOSIS",
+    "meta分析scopus如何检索文献",
+    "meta muse"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]
