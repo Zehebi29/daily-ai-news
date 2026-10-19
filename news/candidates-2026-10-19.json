@@ -1,0 +1,511 @@
+[
+ {
+  "src": "HN",
+  "title": "DeepSeek-v4.1-Flash-1017",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "hn": "https://news.ycombinator.com/item?id=50129045",
+  "points": 947,
+  "comments": 708,
+  "date": "2026-10-17",
+  "status": "原链 200 OK",
+  "excerpt": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+  "dup": true,
+  "dup_why": "1天前(2026-10-18)用过同一条链接",
+  "cn_kw": "DeepSeek",
+  "cn": {
+   "kw": "DeepSeek",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 52010,
+    "recent_median": 52010,
+    "max_play": 2345627,
+    "recent30d": 16,
+    "top": [
+     "DeepSeek新模型能和GPT-6 Astra 对比实测！以小博大，效果如何？(185417)",
+     "deepseek harness的安装和实战教程(256825)",
+     "【DEEPSEEK】4.1Flash-1017真王者归来！(211900)"
+    ]
+   },
+   "suggest": [
+    "deepseekharness",
+    "deepseek",
+    "deepseek闭门会议",
+    "DeepSeek V4.1 Flash",
+    "deepseek从入门到精通",
+    "deepseek1017",
+    "deepseekAPI使用教程",
+    "deepseek梁文锋"
+   ],
+   "hot": true,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+  "url": "https://arxiv.org/abs/2610.18861",
+  "hn": "https://news.ycombinator.com/item?id=50145337",
+  "points": 442,
+  "comments": 216,
+  "date": "2026-10-18",
+  "status": "原链 200 OK",
+  "excerpt": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning offers an efficient internal medium but lacks native tool access and reasoning transparency. We bridge these two directions with Hybrid Reasoning Agents (HybridAge",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 56,
+    "recent_median": 1,
+    "max_play": 1362598,
+    "recent30d": 15,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1233227)",
+     "从手搓 LangGraph 源码到前端监控平台：TS AI Agents 框架 × 全链(2)",
+     "【前沿实战】大模型Agent强化学习实战(28767)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent推荐",
+    "aiagent使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+  "url": "https://llmspeed.dev/",
+  "hn": "https://news.ycombinator.com/item?id=50127979",
+  "points": 325,
+  "comments": 86,
+  "date": "2026-10-17",
+  "status": "原链 200 OK",
+  "excerpt": "Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more. ‖ Estimates for a short prompt on a single device. Measured numbers come from community benchmarks (r/LocalLLaMA, localscore.ai and more); others are derived from similar setups or p",
+  "dup": true,
+  "dup_why": "1天前(2026-10-18)用过同一条链接",
+  "cn_kw": "大模型",
+  "cn": {
+   "kw": "大模型",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2,
+    "recent_median": 1,
+    "max_play": 3849570,
+    "recent30d": 16,
+    "top": [
+     "【WorkBuddy保姆级教程】吊打付费！目前B站最全最细WorkBuddy完整安装教学(0)",
+     "Opus 5.5 眼力的大模型知识点(0)",
+     "Vibe Coding，手搓五大商业项目(14)"
+    ]
+   },
+   "suggest": [
+    "大模型零基础入门教程",
+    "大模型",
+    "大模型应用开发",
+    "大模型训练全流程",
+    "大模型本地部署",
+    "大模型原理",
+    "大模型微调",
+    "大模型开发"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+  "url": "https://sphinx-six-theta.vercel.app/",
+  "hn": "https://news.ycombinator.com/item?id=50137950",
+  "points": 248,
+  "comments": 87,
+  "date": "2026-10-18",
+  "status": "原链 200 OK",
+  "excerpt": "A Git hook for agent-assisted development. Before your agent’s code ships, Sphinx asks you a question about what it actually does. ‖ “You can outsource your thinking, but not your understanding.” Sphinx is a Git hook for agent-assisted development. Before your agent’s code ships, it asks you a question about what that code actually does. Built to run on mini",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Sphinx",
+  "cn": {
+   "kw": "Sphinx",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2235,
+    "recent_median": 988,
+    "max_play": 12000,
+    "recent30d": 3,
+    "top": [
+     "025_The Great Sphinx(244)",
+     "sphinx快速上手(6799)",
+     "The Great Sphinx of Giza for Children： Ancie(1477)"
+    ]
+   },
+   "suggest": [
+    "sphinxsys",
+    "sphinx教程",
+    "sphinx斯芬克斯",
+    "sphinx手枪",
+    "sphinx3000",
+    "sphinx如何显示latex公式",
+    "the9sphinx",
+    "瑞士sphinx"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+  "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+  "hn": "https://news.ycombinator.com/item?id=50145507",
+  "points": 211,
+  "comments": 152,
+  "date": "2026-10-18",
+  "status": "原链 200 OK",
+  "excerpt": "I think the title captures the idea fully but I'll dig into it because this ain't Twitter. You're working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you're automating the cloning process of grabbing ‖ Menu I think the title captures the idea fully but I'll dig into it because this ain't Twitter. You'",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "大模型",
+  "cn": {
+   "kw": "大模型",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2,
+    "recent_median": 1,
+    "max_play": 3849570,
+    "recent30d": 16,
+    "top": [
+     "【WorkBuddy保姆级教程】吊打付费！目前B站最全最细WorkBuddy完整安装教学(0)",
+     "Opus 5.5 眼力的大模型知识点(0)",
+     "Vibe Coding，手搓五大商业项目(14)"
+    ]
+   },
+   "suggest": [
+    "大模型零基础入门教程",
+    "大模型",
+    "大模型应用开发",
+    "大模型训练全流程",
+    "大模型本地部署",
+    "大模型原理",
+    "大模型微调",
+    "大模型开发"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Amazon uses AI to monitor union risk in UK warehouses",
+  "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+  "hn": "https://news.ycombinator.com/item?id=50132278",
+  "points": 173,
+  "comments": 59,
+  "date": "2026-10-17",
+  "status": "原链 200 OK",
+  "excerpt": "Internal documents suggest tech giant collects ‘hundreds of data points’ for ‘union-busting’ AI model",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "亚马逊",
+  "cn": {
+   "kw": "亚马逊",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6121,
+    "recent_median": 2940,
+    "max_play": 3117476,
+    "recent30d": 12,
+    "top": [
+     "3DS汉化游戏 星霜的亚马逊女战士(1114)",
+     "亚马逊FBA运营系列教程，零基础亚马逊跨境电商运营教程合集 亚马逊入门实操教程 小白入门(2150241)",
+     "【游戏王】鹰身亚马逊展开combo，封锁削手强如怪物，拼尽全力无法战胜(3620)"
+    ]
+   },
+   "suggest": [
+    "亚马逊",
+    "亚马逊跨境电商零基础入门",
+    "亚马逊跨境电商运营教程",
+    "亚马逊雨林",
+    "亚马逊雨林纪录片",
+    "亚马逊跨境电商",
+    "亚马逊雨林恐怖生物",
+    "亚马逊新手入门基础实操运营课"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+  "hn": "https://news.ycombinator.com/item?id=50141429",
+  "points": 166,
+  "comments": 165,
+  "date": "2026-10-18",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：$1B is a pretty easy bar to clear. / On the bright side, don’t offer an exchange rate based on ethnicity or other background criteria but I get the feeling t / The next step is demanding anyone who wishes to release a Certified Safe AI™ model to prove they can insure the $1B in d / so 49 totally okay. / I guess they solved the trolley problem interna",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 18745,
+    "recent_median": 7691,
+    "max_play": 1994720,
+    "recent30d": 16,
+    "top": [
+     "10月最新Claude防封号最安全的！注册+订阅充值教程！新手看完直接上手！(31641)",
+     "睁眼看 AI 第 1 期｜DeepSeek V4.1 新版、Claude 写了 90% (104)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(1994720)"
+    ]
+   },
+   "suggest": [
+    "claude使用教程",
+    "claude",
+    "claude国内怎么使用",
+    "Claude Opus 5.5",
+    "claude code",
+    "claudecode项目实战",
+    "claude 封号",
+    "claude为什么不让中国用"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+  "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-18",
+  "desc": "",
+  "status": "原链 200 OK · 正文经 jina",
+  "excerpt": "Title: Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’ URL Source: https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/ Published Time: 2026-10-18T20:37:40+00:00 Markdown Content: [Skip to content](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/#wp--skip-link--target) Last day to s",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 18745,
+    "recent_median": 7691,
+    "max_play": 1994720,
+    "recent30d": 16,
+    "top": [
+     "10月最新Claude防封号最安全的！注册+订阅充值教程！新手看完直接上手！(31641)",
+     "睁眼看 AI 第 1 期｜DeepSeek V4.1 新版、Claude 写了 90% (104)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(1994720)"
+    ]
+   },
+   "suggest": [
+    "claude使用教程",
+    "claude",
+    "claude国内怎么使用",
+    "Claude Opus 5.5",
+    "claude code",
+    "claudecode项目实战",
+    "claude 封号",
+    "claude为什么不让中国用"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+  "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-18",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer. ‖ Last day to save up to $200 to TechCrunch Founder Summit on Oct. After chatbot startup Character.AI filed for bankruptcy earlier this week, m",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "迪士尼",
+  "cn": {
+   "kw": "迪士尼",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1171,
+    "recent_median": 1053,
+    "max_play": 317288,
+    "recent30d": 16,
+    "top": [
+     "全网最细长视频！带你沉浸式介绍上海迪士尼乐园 2026秋季迪士尼徒步视频(7079)",
+     "【助眠】小熊维尼 🍯甜蜜的梦另一个房间里的迪士尼老歌 舒适的氛围🌙适合睡觉和学习(155031)",
+     "真的好喜欢迪士尼啊呜呜呜呜#迪士尼 #噗噗 #米奇 #迪士尼动画#(317288)"
+    ]
+   },
+   "suggest": [
+    "迪士尼",
+    "迪士尼电影",
+    "迪士尼在逃公主",
+    "迪士尼公主",
+    "迪士尼一打八听潮阁",
+    "迪士尼动画片",
+    "迪士尼动画电影",
+    "迪士尼公主梦幻世界"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "Ars Technica",
+  "title": "Anthropic gives outside AI watchdog “employee-like” access",
+  "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-18",
+  "desc": "",
+  "status": "原链 405 · 正文经 jina",
+  "excerpt": "Title: Anthropic gives outside AI watchdog “employee-like” access URL Source: https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/ Published Time: 2026-10-18T16:25:19+00:00 Markdown Content: Privacy Center Currently, only residents from GDPR countries and certain US states can opt out of Tracking Technologies through our Consent Management Platform. Additional options regarding",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 18745,
+    "recent_median": 7691,
+    "max_play": 1994720,
+    "recent30d": 16,
+    "top": [
+     "10月最新Claude防封号最安全的！注册+订阅充值教程！新手看完直接上手！(31641)",
+     "睁眼看 AI 第 1 期｜DeepSeek V4.1 新版、Claude 写了 90% (104)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(1994720)"
+    ]
+   },
+   "suggest": [
+    "claude使用教程",
+    "claude",
+    "claude国内怎么使用",
+    "Claude Opus 5.5",
+    "claude code",
+    "claudecode项目实战",
+    "claude 封号",
+    "claude为什么不让中国用"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "The New Stack",
+  "title": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
+  "url": "https://thenewstack.io/gemini-argon-claude-opus/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-18",
+  "desc": "When Google announced Gemini 4 Argon to a small group of testers on September 30, it came with a benchmark The post Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate appeared first on The New Stack. ]]>",
+  "status": "原链 200 OK · 正文经 jina",
+  "excerpt": "Title: Gemini 4 Argon vs. It also helps in adverstising on the website. This information is used to improve the user experience by providing more relevant search results in the future. It does not collect or store any personal information about the site visitors. It helps Google control which new features or interface changes are shown to users as part of testing and staged rollouts, ensuring consistent experience fo",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 12069,
+    "recent_median": 6181,
+    "max_play": 3517132,
+    "recent30d": 13,
+    "top": [
+     "2026最新！Gemini保姆级注册到上手全教程！只需3步拥有Gemini账号(22872)",
+     "几块钱开通Gemini Pro18个月(22479)",
+     "MrGemini直播回放10月18日:Gemini：KSG VS EDG(781)"
+    ]
+   },
+   "suggest": [
+    "gemini",
+    "gemini4argon",
+    "gemini使用教程",
+    "gemini4",
+    "gemini小游戏",
+    "gemini怎么下载",
+    "gemini陪看时差五小时",
+    "gemini陪看时差五小时3"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "MIT Tech Review",
+  "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+  "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-19",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "In various tests, solo AI agents invented versions of basketball and “the floor is lava.” But were they truly playing?",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 18745,
+    "recent_median": 7691,
+    "max_play": 1994720,
+    "recent30d": 16,
+    "top": [
+     "10月最新Claude防封号最安全的！注册+订阅充值教程！新手看完直接上手！(31641)",
+     "睁眼看 AI 第 1 期｜DeepSeek V4.1 新版、Claude 写了 90% (104)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(1994720)"
+    ]
+   },
+   "suggest": [
+    "claude使用教程",
+    "claude",
+    "claude国内怎么使用",
+    "Claude Opus 5.5",
+    "claude code",
+    "claudecode项目实战",
+    "claude 封号",
+    "claude为什么不让中国用"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]

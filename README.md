@@ -7,6 +7,15 @@
 ## 最新资讯
 
 
+### 2026-10-19（周一·模型与工具）
+
+1. **Gemini 4 半价，准确率也砍半** — 同一批题，Gemini 4 Argon 只收 Claude Opus 5.5 一半的钱，答对率也差不多只有一半。便宜不等于划算：量大、错了也不致命的活交给便宜那档，要签字、要交付的还得用贵的。来源：The New Stack https://thenewstack.io/gemini-argon-claude-opus/
+2. **亚马逊用 AI 盯「工会风险」** — 内部文件显示，亚马逊在英国几座仓库收集员工「几百个数据点」，喂给专门预测工会风险的模型。被记录的不是产量，是行为：打卡、走动、和谁说话。来源：openDemocracy https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/
+3. **AI 出人命才轮到监管？** — Anthropic 提出的 AI 安全法案写明：只有造成 50 人死亡或 10 亿美元损失，监管才启动。网友第一反应是「那 49 个人怎么办」。来源：Tom's Hardware https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model
+4. **把 Claude 丢荒岛，它自己玩起来** — 研究人员让 Claude 独自待在一座虚拟荒岛，没有同伴也没有任务，它自己发明了投篮，还玩起「地板是岩浆」。研究者没敢说这就是「玩」，但一个会自己找目标的 AI，将来未必乖乖等指令。来源：MIT Technology Review https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/
+5. **Character.AI 破产，迪士尼接人** — 聊天机器人公司 Character.AI 本周申请破产，迪士尼同意接收它大部分员工，绝大多数收到录用通知的人都接受了。对用户最现实的问题是：聊了几年的记录去哪了。来源：TechCrunch https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/
+
+
 ### 2026-10-18（周日·趋势前瞻）
 
 📡 每日AI信息差 · 今日要点
@@ -104,31 +113,11 @@
 5. **AI 是工具，会用才是本事** — 一位知名程序员说 AI 不算工具，因为工具能被人熟练掌控、AI 不能；随后有人反驳：AI 就是工具，只不过用得好需要练。你越会提问、越会核对它的结果、越清楚什么时候不该信它，它越能帮上忙；把活儿全丢给它，等于放弃了练手机会。与其纠结 AI 会不会取代你，不如花点时间练怎么用它——会用 AI 本身正在变成一项实打实的技能。来源：HN 474分 🔗 https://yyhh.org/blog/2026/10/ai-is-a-tool/
 
 
-### 2026-10-12（周一·模型发布/开源）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-10-12 周一
-
-1. **有人把AI助手塞进你自己的账号，还免费** — 一个叫 Talorys 的开源项目上线，把私人 AI 助手装进你自己的云账号，一条命令就能部署，聊天、记事、提醒全都能干。它跑在免费额度上，隐私归你，适合在意隐私又不想花钱的人。
-   来源：GitHub（HN 324分）https://github.com/rociiu/talorys
-
-2. **用AI的人和不用AI的人，差距正在拉大** — AI 大神 Karpathy 估算，全球约 60 亿人（约 75% 的人口）几乎没真正接触过 AI，而会用的人越用越溜，两拨人正从"互相听不懂"变成一道分水岭。
-   来源：X（HN 522分）https://twitter.com/karpathy/status/2109361546505966046
-
-3. **英伟达要买下开源模型公司 Reflection AI** — 英伟达正洽谈收购美国"开源"大模型创业公司 Reflection AI。网友担心美国大厂忙着买买买，而中国同行还在埋头做产品，AI 工具背后的老板会越来越少。
-   来源：HN（176分）https://news.ycombinator.com/item?id=50035886
-
-4. **开源地图软件 QGIS 直接封杀 AI 写的代码** — 知名开源地图项目 QGIS 通过新规：不接受任何 AI 参与的代码贡献。理由是质量、版权和维护负担，等于把 AI 代写挡在门外。
-   来源：GitHub（HN 137分）https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387
-
-5. **分析师骂 Anthropic 上市是"考验投资者有多好骗"** — 做空机构发报告，称 Anthropic 即将进行的 IPO 是"今年最离谱的上市"，建议投资者别参与；它据称感恩节前登陆纳斯达克。AI 公司估值泡沫开始被公开质疑。
-   来源：CNBC（HN 156分）https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 10-19 | [→](daily/2026-10-19.md) |
 | 10-18 | [→](daily/2026-10-18.md) |
 | 10-17 | [→](daily/2026-10-17.md) |
 | 10-16 | [→](daily/2026-10-16.md) |
@@ -158,4 +147,3 @@
 | 09-21 | [→](daily/2026-09-21.md) |
 | 09-20 | [→](daily/2026-09-20.md) |
 | 09-19 | [→](daily/2026-09-19.md) |
-| 09-18 | [→](daily/2026-09-18.md) |
