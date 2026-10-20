@@ -1,0 +1,462 @@
+[
+ {
+  "src": "HN",
+  "title": "DeepSeek just open-sourced its inference engine",
+  "url": "https://github.com/deepseek-ai/DeepInfer",
+  "hn": "https://news.ycombinator.com/item?id=50163277",
+  "points": 841,
+  "comments": 281,
+  "date": "2026-10-20",
+  "status": "原链 200 OK",
+  "excerpt": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models - deepseek-ai/DeepInfer",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "DeepSeek",
+  "cn": {
+   "kw": "DeepSeek",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 118495,
+    "recent_median": 118495,
+    "max_play": 2389475,
+    "recent30d": 16,
+    "top": [
+     "DeepSeek新模型能和GPT-6 Astra 对比实测！以小博大，效果如何？(200307)",
+     "DeepSeek Harness 首发实测 + 入门教程，夯爆了！梁神我错了(2389475)",
+     "deepseek harness的安装和实战教程(312648)"
+    ]
+   },
+   "suggest": [
+    "deepseekharness",
+    "deepseek",
+    "deepseek新模型做动画能力有多强",
+    "deepseek从入门到精通",
+    "deepseekAPI使用教程",
+    "deepseek大肥鱼",
+    "deepseek创始人梁文峰",
+    "deepseekv4.1flash"
+   ],
+   "hot": true,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+  "url": "https://api-docs.deepseek.com/guides/search/",
+  "hn": "https://news.ycombinator.com/item?id=50138531",
+  "points": 601,
+  "comments": 282,
+  "date": "2026-10-18",
+  "status": "原链 200 OK",
+  "excerpt": "The Search API and the Fetch API give agents and RAG applications access to live web content:",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "DeepSeek",
+  "cn": {
+   "kw": "DeepSeek",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 118495,
+    "recent_median": 118495,
+    "max_play": 2389475,
+    "recent30d": 16,
+    "top": [
+     "DeepSeek新模型能和GPT-6 Astra 对比实测！以小博大，效果如何？(200307)",
+     "DeepSeek Harness 首发实测 + 入门教程，夯爆了！梁神我错了(2389475)",
+     "deepseek harness的安装和实战教程(312648)"
+    ]
+   },
+   "suggest": [
+    "deepseekharness",
+    "deepseek",
+    "deepseek新模型做动画能力有多强",
+    "deepseek从入门到精通",
+    "deepseekAPI使用教程",
+    "deepseek大肥鱼",
+    "deepseek创始人梁文峰",
+    "deepseekv4.1flash"
+   ],
+   "hot": true,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Timestral: Mistral's time-series foundation models",
+  "url": "https://mistral.ai/news/timestral/",
+  "hn": "https://news.ycombinator.com/item?id=50150434",
+  "points": 592,
+  "comments": 115,
+  "date": "2026-10-19",
+  "status": "原链 200 OK",
+  "excerpt": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Mistral",
+  "cn": {
+   "kw": "Mistral",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 490,
+    "recent_median": 603,
+    "max_play": 63141,
+    "recent30d": 19,
+    "top": [
+     "法国模型 MistralLarge4 冲出欧洲，走向屎山｜屎山考核(63141)",
+     "Mistral时隔5个月发布Large 4，欧洲AI的脸面又回来了？【因势分解】(10465)",
+     "Mistral和Grok的哈气日常！(314)"
+    ]
+   },
+   "suggest": [
+    "mistral",
+    "MistralLarge4",
+    "mistralai",
+    "mistral模型",
+    "mistral免费",
+    "mistral推理模型",
+    "mistral大模型本地部署",
+    "mistralnemo2407"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+  "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+  "hn": "https://news.ycombinator.com/item?id=50159341",
+  "points": 559,
+  "comments": 158,
+  "date": "2026-10-19",
+  "status": "原链 200 OK",
+  "excerpt": "WhatsApp removed hidden notes telling AI not to recommend a regulator, and not to cite GDPR or CCPA once a lawyer came up. We quote both notes. ‖ WhatsApp's privacy policy for Europe tells you that you can complain to a data protection regulator, and it names the law that gives you that right. Until mid-October 2026, WhatsApp's help pages told an AI not to r",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "大模型",
+  "cn": {
+   "kw": "大模型",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6034,
+    "recent_median": 6,
+    "max_play": 3851393,
+    "recent30d": 15,
+    "top": [
+     "【全748集】目前B站最全最细的AI大模型零基础全套教程，2025最新版，包含所有干货！(3851393)",
+     "从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！(2124334)",
+     "黑马程序员AI大模型微调实战全套视频课程，从Prompt到LoRA，GPT系列/Chat(45756)"
+    ]
+   },
+   "suggest": [
+    "大模型零基础入门教程",
+    "大模型",
+    "大模型训练全流程",
+    "大模型本地部署",
+    "大模型应用开发",
+    "大模型原理",
+    "大模型原理讲解",
+    "大模型原理科普"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+  "url": "https://news.ycombinator.com/item?id=50151036",
+  "hn": "https://news.ycombinator.com/item?id=50151036",
+  "points": 514,
+  "comments": 632,
+  "date": "2026-10-19",
+  "status": "原链 405",
+  "excerpt": "HN 讨论要点：I’m slowly coming around to the idea that if it works, I’m good with that. I never used to personally check all my colle / I had same problem, but after a while I just accepted that is inevitable / The part that makes me uneasy is when the AI writes both the code and the tests. They might agree with each other and st / It feels like another layer of ",
+  "dup": true,
+  "dup_why": "2天前(2026-10-18)用过同一条链接",
+  "cn_kw": "AI-written",
+  "cn": {
+   "kw": "AI-written",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 261,
+    "recent_median": 36,
+    "max_play": 63934,
+    "recent30d": 8,
+    "top": [
+     "TradeFlow AI(36)",
+     "LOOKX AI(315)",
+     "谁是最恨自家模型的AI公司？GPT：OpenAI(18076)"
+    ]
+   },
+   "suggest": [],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+  "url": "https://arxiv.org/abs/2610.18861",
+  "hn": "https://news.ycombinator.com/item?id=50145337",
+  "points": 509,
+  "comments": 236,
+  "date": "2026-10-18",
+  "status": "原链 200 OK",
+  "excerpt": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning offers an efficient internal medium but lacks native tool access and reasoning transparency. We bridge these two directions with Hybrid Reasoning Agents (HybridAge",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 12045,
+    "recent_median": 1065,
+    "max_play": 1367962,
+    "recent30d": 10,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1247001)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1367962)",
+     "AI Agent 开发实战（Eino框架）(5231)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent开发",
+    "aiagent推荐",
+    "aiagent使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+  "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+  "hn": "https://news.ycombinator.com/item?id=50154244",
+  "points": 358,
+  "comments": 315,
+  "date": "2026-10-19",
+  "status": "原链 401",
+  "excerpt": "HN 讨论要点：Here's the transcription of the reasoning: > Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Lt / Deepseek V4.1 Flash 1017 is out of this world good ... and cheap ... that's why. / The models may well contain malware or security vulnerabilities. But they are at least open to inspection because the we / Please excuse my lack o",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "DeepSeek",
+  "cn": {
+   "kw": "DeepSeek",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 118495,
+    "recent_median": 118495,
+    "max_play": 2389475,
+    "recent30d": 16,
+    "top": [
+     "DeepSeek新模型能和GPT-6 Astra 对比实测！以小博大，效果如何？(200307)",
+     "DeepSeek Harness 首发实测 + 入门教程，夯爆了！梁神我错了(2389475)",
+     "deepseek harness的安装和实战教程(312648)"
+    ]
+   },
+   "suggest": [
+    "deepseekharness",
+    "deepseek",
+    "deepseek新模型做动画能力有多强",
+    "deepseek从入门到精通",
+    "deepseekAPI使用教程",
+    "deepseek大肥鱼",
+    "deepseek创始人梁文峰",
+    "deepseekv4.1flash"
+   ],
+   "hot": true,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+  "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+  "hn": "https://news.ycombinator.com/item?id=50153630",
+  "points": 349,
+  "comments": 58,
+  "date": "2026-10-19",
+  "status": "原链 200 OK",
+  "excerpt": "CERN and Mistral sign a statement of intent to advance AI for science and strengthen Europe’s scientific and technological capabilities CERN, the European Laboratory for Particle Physics, and Mistral, a European developer of large-scale AI models, have signed a statement of intent to establish a long-term strategic partnership focused on developing foundatio",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Mistral",
+  "cn": {
+   "kw": "Mistral",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 490,
+    "recent_median": 603,
+    "max_play": 63141,
+    "recent30d": 19,
+    "top": [
+     "法国模型 MistralLarge4 冲出欧洲，走向屎山｜屎山考核(63141)",
+     "Mistral时隔5个月发布Large 4，欧洲AI的脸面又回来了？【因势分解】(10465)",
+     "Mistral和Grok的哈气日常！(314)"
+    ]
+   },
+   "suggest": [
+    "mistral",
+    "MistralLarge4",
+    "mistralai",
+    "mistral模型",
+    "mistral免费",
+    "mistral推理模型",
+    "mistral大模型本地部署",
+    "mistralnemo2407"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+  "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+  "hn": "https://news.ycombinator.com/item?id=50145507",
+  "points": 297,
+  "comments": 213,
+  "date": "2026-10-18",
+  "status": "原链 200 OK",
+  "excerpt": "I think the title captures the idea fully but I'll dig into it because this ain't Twitter. You're working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you're automating the cloning process of grabbing ‖ Menu I think the title captures the idea fully but I'll dig into it because this ain't Twitter. You'",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "大模型",
+  "cn": {
+   "kw": "大模型",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6034,
+    "recent_median": 6,
+    "max_play": 3851393,
+    "recent30d": 15,
+    "top": [
+     "【全748集】目前B站最全最细的AI大模型零基础全套教程，2025最新版，包含所有干货！(3851393)",
+     "从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！(2124334)",
+     "黑马程序员AI大模型微调实战全套视频课程，从Prompt到LoRA，GPT系列/Chat(45756)"
+    ]
+   },
+   "suggest": [
+    "大模型零基础入门教程",
+    "大模型",
+    "大模型训练全流程",
+    "大模型本地部署",
+    "大模型应用开发",
+    "大模型原理",
+    "大模型原理讲解",
+    "大模型原理科普"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+  "url": "https://sphinx-six-theta.vercel.app/",
+  "hn": "https://news.ycombinator.com/item?id=50137950",
+  "points": 252,
+  "comments": 89,
+  "date": "2026-10-18",
+  "status": "原链 200 OK",
+  "excerpt": "A Git hook for agent-assisted development. Before your agent’s code ships, Sphinx asks you a question about what it actually does. ‖ “You can outsource your thinking, but not your understanding.” Sphinx is a Git hook for agent-assisted development. Before your agent’s code ships, it asks you a question about what that code actually does. Built to run on mini",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Sphinx",
+  "cn": {
+   "kw": "Sphinx",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4241,
+    "recent_median": 0,
+    "max_play": 76795,
+    "recent30d": 1,
+    "top": [
+     "The Great Sphinx of Giza for Children： Ancie(1478)",
+     "025_The Great Sphinx(245)",
+     "Great Sphinx of Giza 狮身人面像｜英语里的世界(2476)"
+    ]
+   },
+   "suggest": [
+    "sphinx教程",
+    "sphinx阿景",
+    "sphinxsys",
+    "sphinx斯芬克斯",
+    "sphinxsys安装",
+    "sphinx手枪",
+    "sphinx如何显示latex公式",
+    "the9sphinx"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+  "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-20",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry. ‖ Buy One Founder Summit Ticket, Get a Second for Free. AI Eka is worth $1.45B thanks to a physical AI model that has experts raving Tim Fernholz 6:00 AM PDT · October 20, 2026 Robots still aren",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+  "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-20",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst's Customer Value Fund (CVF), which provides ‖ Buy One Founder Summit Ticket, Get a Second for Free. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. The startup, ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Otter.ai",
+  "cn": {
+   "kw": "Otter.ai",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1046,
+    "recent_median": 208,
+    "max_play": 10052,
+    "recent30d": 4,
+    "top": [
+     "otter ai与notion ai会议记录使用教程(458)",
+     "MBK  Sea Otter(669)",
+     "语音转文字工具 Otter.ai 介绍(1776)"
+    ]
+   },
+   "suggest": [],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ }
+]
