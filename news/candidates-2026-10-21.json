@@ -1,0 +1,500 @@
+[
+ {
+  "src": "HN",
+  "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+  "url": "https://github.com/deepseek-ai/DeepInfer",
+  "hn": "https://news.ycombinator.com/item?id=50163277",
+  "points": 2268,
+  "comments": 870,
+  "date": "2026-10-20",
+  "status": "原链 200 OK",
+  "excerpt": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models - deepseek-ai/DeepInfer",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "DeepSeek",
+  "cn": {
+   "kw": "DeepSeek",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 30779,
+    "recent_median": 30779,
+    "max_play": 2439676,
+    "recent30d": 16,
+    "top": [
+     "DeepSeek 一块显卡时薪 250，它刚开源了秘诀(38015)",
+     "美方突然封杀DeepSeek丨红米跑上iOS丨华为子品牌单独召开发布会—科技信息差(32526)",
+     "deepseek harness的安装和实战教程(375259)"
+    ]
+   },
+   "suggest": [
+    "deepseekharness",
+    "deepseek",
+    "deepseek全面开源",
+    "deepseekAPI使用教程",
+    "deepseek从入门到精通",
+    "deepseek大肥鱼",
+    "DeepSeek新模型做动画能力有多强",
+    "deepseek开源"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+  "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+  "hn": "https://news.ycombinator.com/item?id=50159341",
+  "points": 731,
+  "comments": 210,
+  "date": "2026-10-19",
+  "status": "原链 200 OK",
+  "excerpt": "WhatsApp removed hidden notes telling AI not to recommend a regulator, and not to cite GDPR or CCPA once a lawyer came up. We quote both notes. ‖ WhatsApp's privacy policy for Europe tells you that you can complain to a data protection regulator, and it names the law that gives you that right. Until mid-October 2026, WhatsApp's help pages told an AI not to r",
+  "dup": true,
+  "dup_why": "1天前(2026-10-20)用过同一条链接",
+  "cn_kw": "大模型",
+  "cn": {
+   "kw": "大模型",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 36220,
+    "recent_median": 3638,
+    "max_play": 4881227,
+    "recent30d": 12,
+    "top": [
+     "【全748集】目前B站最全最细的AI大模型零基础全套教程，2025最新版，包含所有干货！(3853056)",
+     "从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！(2130388)",
+     "AI 大模型全栈开发上岸集训营：直通 offer(37475)"
+    ]
+   },
+   "suggest": [
+    "大模型零基础入门教程",
+    "大模型",
+    "大模型训练全流程",
+    "大模型应用开发",
+    "大模型原理",
+    "大模型本地部署",
+    "大模型方向就业",
+    "电脑部署大模型"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Timestral: Mistral's time-series foundation models",
+  "url": "https://mistral.ai/news/timestral/",
+  "hn": "https://news.ycombinator.com/item?id=50150434",
+  "points": 617,
+  "comments": 121,
+  "date": "2026-10-19",
+  "status": "原链 200 OK",
+  "excerpt": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
+  "dup": true,
+  "dup_why": "1天前(2026-10-20)用过同一条链接",
+  "cn_kw": "Mistral",
+  "cn": {
+   "kw": "Mistral",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 319,
+    "recent_median": 319,
+    "max_play": 65518,
+    "recent30d": 20,
+    "top": [
+     "法国模型 MistralLarge4 冲出欧洲，走向屎山｜屎山考核(65518)",
+     "【AI值得看】AI 噬菌体上临床｜OpenAI 缓存存 12 小时｜DeepSeek 开(1883)",
+     "Mistral时隔5个月发布Large 4，欧洲AI的脸面又回来了？【因势分解】(10611)"
+    ]
+   },
+   "suggest": [
+    "mistral",
+    "MistralLarge4",
+    "mistral模型",
+    "mistralai",
+    "mistral推理模型",
+    "mistral免费",
+    "mistral大模型本地部署",
+    "mistralnemo2407"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+  "url": "https://news.ycombinator.com/item?id=50151036",
+  "hn": "https://news.ycombinator.com/item?id=50151036",
+  "points": 594,
+  "comments": 718,
+  "date": "2026-10-19",
+  "status": "原链 405",
+  "excerpt": "HN 讨论要点：I’m slowly coming around to the idea that if it works, I’m good with that. I never used to personally check all my colle / I had same problem, but after a while I just accepted that is inevitable / The part that makes me uneasy is when the AI writes both the code and the tests. They might agree with each other and st / It feels like another layer of ",
+  "dup": true,
+  "dup_why": "1天前(2026-10-20)用过同一条链接",
+  "cn_kw": "AI-written",
+  "cn": {
+   "kw": "AI-written",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 446,
+    "recent_median": 43,
+    "max_play": 63939,
+    "recent30d": 8,
+    "top": [
+     "[初音ミク] 紙鳶 Written by 婉容(463)",
+     "该内存不能为written怎么解决(63939)",
+     "[来自星空深处的灵魂之音] Future Written - Medwyn Goodal(2021)"
+    ]
+   },
+   "suggest": [],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+  "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+  "hn": "https://news.ycombinator.com/item?id=50154244",
+  "points": 569,
+  "comments": 524,
+  "date": "2026-10-19",
+  "status": "原链 401",
+  "excerpt": "HN 讨论要点：Here's the transcription of the reasoning: > Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Lt / Deepseek V4.1 Flash 1017 is out of this world good ... and cheap ... that's why. / The models may well contain malware or security vulnerabilities. But they are at least open to inspection because the we / Please excuse my lack o",
+  "dup": true,
+  "dup_why": "1天前(2026-10-20)用过同一条链接",
+  "cn_kw": "DeepSeek",
+  "cn": {
+   "kw": "DeepSeek",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 30779,
+    "recent_median": 30779,
+    "max_play": 2439676,
+    "recent30d": 16,
+    "top": [
+     "DeepSeek 一块显卡时薪 250，它刚开源了秘诀(38015)",
+     "美方突然封杀DeepSeek丨红米跑上iOS丨华为子品牌单独召开发布会—科技信息差(32526)",
+     "deepseek harness的安装和实战教程(375259)"
+    ]
+   },
+   "suggest": [
+    "deepseekharness",
+    "deepseek",
+    "deepseek全面开源",
+    "deepseekAPI使用教程",
+    "deepseek从入门到精通",
+    "deepseek大肥鱼",
+    "DeepSeek新模型做动画能力有多强",
+    "deepseek开源"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+  "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+  "hn": "https://news.ycombinator.com/item?id=50153630",
+  "points": 358,
+  "comments": 61,
+  "date": "2026-10-19",
+  "status": "原链 200 OK",
+  "excerpt": "CERN and Mistral sign a statement of intent to advance AI for science and strengthen Europe’s scientific and technological capabilities CERN, the European Laboratory for Particle Physics, and Mistral, a European developer of large-scale AI models, have signed a statement of intent to establish a long-term strategic partnership focused on developing foundatio",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Mistral",
+  "cn": {
+   "kw": "Mistral",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 319,
+    "recent_median": 319,
+    "max_play": 65518,
+    "recent30d": 20,
+    "top": [
+     "法国模型 MistralLarge4 冲出欧洲，走向屎山｜屎山考核(65518)",
+     "【AI值得看】AI 噬菌体上临床｜OpenAI 缓存存 12 小时｜DeepSeek 开(1883)",
+     "Mistral时隔5个月发布Large 4，欧洲AI的脸面又回来了？【因势分解】(10611)"
+    ]
+   },
+   "suggest": [
+    "mistral",
+    "MistralLarge4",
+    "mistral模型",
+    "mistralai",
+    "mistral推理模型",
+    "mistral免费",
+    "mistral大模型本地部署",
+    "mistralnemo2407"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Mercury 3: Diffusion at scale",
+  "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+  "hn": "https://news.ycombinator.com/item?id=50155245",
+  "points": 256,
+  "comments": 91,
+  "date": "2026-10-19",
+  "status": "原链 200 OK",
+  "excerpt": "Mercury 3 is the most capable diffusion LLM released to date. It outperforms GPT-6 Luna and Claude Haiku 5.5 while running 4–8x faster at 1,000+ tokens per second. ‖ Today we’re introducing Mercury 3, the most capable diffusion-based LLM released to date. Across a range of benchmarks, Mercury 3 outperforms GPT-6 Luna and Claude Haiku 5.5, while running 4–8x ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Stable Diffusion",
+  "cn": {
+   "kw": "Stable Diffusion",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 12057,
+    "recent_median": 453,
+    "max_play": 4490107,
+    "recent30d": 9,
+    "top": [
+     "【秋叶SD整合包】2026最新Stable Diffusion整合包无私分享，附带最全S(43154)",
+     "【Stable Diffusion全套教程】2026最新版！基础+插件+应用+模型训练+(453)",
+     "Stable Diffusion入门教程，1小时入门AI绘画(61756)"
+    ]
+   },
+   "suggest": [
+    "stablediffusion教程",
+    "stablediffusion本地部署",
+    "stablediffusion视频生成",
+    "stablediffusion下载",
+    "stablediffusion",
+    "stablediffusion手机版",
+    "stablediffusion秋叶整合包",
+    "StableDiffusion软件"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+  "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+  "hn": "https://news.ycombinator.com/item?id=50168190",
+  "points": 179,
+  "comments": 211,
+  "date": "2026-10-20",
+  "status": "原链 200 OK",
+  "excerpt": "Steam Next Fest, Valve's festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games, there seems to be more than usual this time around. ‖ Steam Next Fest, Valve's festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games included, there seems to be m",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Steam",
+  "cn": {
+   "kw": "Steam",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 33542,
+    "recent_median": 11804,
+    "max_play": 8663362,
+    "recent30d": 14,
+    "top": [
+     "幼教级Steam入门指南！下载安装注册转国区一条龙教程【天才赵德柱】(3752297)",
+     "Steam如何关闭自动更新，防止吞流量！(126055)",
+     "开罗游戏steam版CT使用教程(14657)"
+    ]
+   },
+   "suggest": [
+    "steam游戏推荐",
+    "steam游戏推荐 免费",
+    "steam账号注册",
+    "steam游戏",
+    "steam下载",
+    "steam",
+    "Steam账号密码忘了怎么办",
+    "steam游戏推荐多人联机"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+  "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+  "hn": "https://news.ycombinator.com/item?id=50148855",
+  "points": 168,
+  "comments": 127,
+  "date": "2026-10-19",
+  "status": "原链 200 OK",
+  "excerpt": "A working tmux setup for running Claude Code and other AI agents: session-per-project naming, pane layouts, send-keys for scripting an agent, capture-pane for reading one back, and the status-line monitor. Plus the limits you hit at four agents. ‖ tmux runs your AI coding agents in named, detachable sessions that survive a closed terminal or a dropped SSH co",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 57093,
+    "recent_median": 37863,
+    "max_play": 2007312,
+    "recent30d": 18,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(36892)",
+     "【实操】claude稳定不封的方法(11335)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2007312)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude",
+    "Claude Opus 5.5",
+    "claude 封号",
+    "claude code",
+    "claude为什么不让中国用",
+    "claude逃离原生家庭"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+  "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-20",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Now, Anthropic appears to have put forth its own vision for how the government might regulate its industry. Politico recently re",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 57093,
+    "recent_median": 37863,
+    "max_play": 2007312,
+    "recent30d": 18,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(36892)",
+     "【实操】claude稳定不封的方法(11335)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2007312)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude",
+    "Claude Opus 5.5",
+    "claude 封号",
+    "claude code",
+    "claude为什么不让中国用",
+    "claude逃离原生家庭"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+  "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-20",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate. ‖ Buy One Founder Summit Ticket, Get a Second for Free. He appears in it because it’s supposed to be about the famed attack on his company by rogue OpenAI agents. “Super",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Netflix",
+  "cn": {
+   "kw": "Netflix",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6758,
+    "recent_median": 6232,
+    "max_play": 801459,
+    "recent30d": 18,
+    "top": [
+     "速存~（全网首发）手把手教你如何登录使用Netflix免费分享(612)",
+     "一口气看完！Netflix全球剧榜Top1科幻爆剧！最狠猎奇设定，社区地下竟养着一头神秘(51097)",
+     "Netflix又一部大尺度倫理猛劇，揭開兩性隱秘真相，把成年人難言之隱全拍出來了！一口氣(1264)"
+    ]
+   },
+   "suggest": [
+    "Netflix",
+    "netflix好剧推荐",
+    "netflix怎么下",
+    "netflix手机怎么使用",
+    "Netflix新剧",
+    "Netflix电视剧",
+    "netflix好剧推荐2026",
+    "Netflix动画片"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Anthropic’s cloud partnerships are getting messy",
+  "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-20",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Anthropic is having trouble securing enough cloud capacity from AWS, Google, and Microsoft, which incr",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 57093,
+    "recent_median": 37863,
+    "max_play": 2007312,
+    "recent30d": 18,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(36892)",
+     "【实操】claude稳定不封的方法(11335)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2007312)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude",
+    "Claude Opus 5.5",
+    "claude 封号",
+    "claude code",
+    "claude为什么不让中国用",
+    "claude逃离原生家庭"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ }
+]
