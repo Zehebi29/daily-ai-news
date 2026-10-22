@@ -1,0 +1,497 @@
+[
+ {
+  "src": "HN",
+  "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+  "url": "https://github.com/deepseek-ai/DeepInfer",
+  "hn": "https://news.ycombinator.com/item?id=50163277",
+  "points": 2325,
+  "comments": 886,
+  "date": "2026-10-20",
+  "status": "原链 200 OK",
+  "excerpt": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models - deepseek-ai/DeepInfer",
+  "dup": true,
+  "dup_why": "1天前(2026-10-21)用过同一条链接",
+  "cn_kw": "DeepSeek",
+  "cn": {
+   "kw": "DeepSeek",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 16985,
+    "recent_median": 11434,
+    "max_play": 2490499,
+    "recent30d": 15,
+    "top": [
+     "吃灰一年的旅行素材交给 DeepSeek V4.1 Flash 1017，会得到什么(8820)",
+     "deepseek harness的安装和实战教程(440459)",
+     "DeepSeek有鲸鱼，GPT有龙，那我呢？｜陆拾01(2647)"
+    ]
+   },
+   "suggest": [
+    "deepseekharness",
+    "deepseek",
+    "deepseek从入门到精通",
+    "deepseek大肥鱼",
+    "deepseekAPI使用教程",
+    "DeepSeek V4.1 Flash",
+    "deepseek梁文锋",
+    "deepseek本地部署"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Claude Duet",
+  "url": "https://claude.com/product/claude-duet",
+  "hn": "https://news.ycombinator.com/item?id=50186037",
+  "points": 446,
+  "comments": 409,
+  "date": "2026-10-21",
+  "status": "原链 200 OK",
+  "excerpt": "Claude Duet is a personal AI agent you message. It handles your inbox, calendar and follow-ups and messages you when something needs you. ‖ Claude Duet is a proactive agent that understands what needs your attention. It takes on tasks of all sizes, keeps working while you’re away, and waits for your ok when it matters. Powered by Opus 5.5. Available in Pro a",
+  "dup": true,
+  "dup_why": "3天前(2026-10-19)同一事件（专名 50%）",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 32173,
+    "recent_median": 36086,
+    "max_play": 2013387,
+    "recent30d": 15,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(48571)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2013387)",
+     "Claude code搞定综述论文发表(28260)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "Claude Opus 5.5",
+    "claude code",
+    "claude 封号",
+    "claude喜欢deepseek",
+    "claude为什么不让中国用"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+  "url": "https://www.wiz.io/blog/php2shell-php-rce",
+  "hn": "https://news.ycombinator.com/item?id=50180836",
+  "points": 442,
+  "comments": 181,
+  "date": "2026-10-21",
+  "status": "原链 200 OK",
+  "excerpt": "Core PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "PHP2Shell",
+  "cn": {
+   "kw": "PHP2Shell",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1006,
+    "recent_median": 1006,
+    "max_play": 12578,
+    "recent30d": 20,
+    "top": [
+     "php严重rce漏洞php2shell复现演示CVE-2026-109618和CVE-2(12578)",
+     "php2shell 漏洞 | PHP严重漏洞(1516)",
+     "从 PHP 核心开发者的视角看 PHP2shell 漏洞风波(708)"
+    ]
+   },
+   "suggest": [],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Mistral Large 4",
+  "url": "https://mistral.ai/news/mistral-large-4/",
+  "hn": "https://news.ycombinator.com/item?id=50186129",
+  "points": 322,
+  "comments": 100,
+  "date": "2026-10-21",
+  "status": "原链 200 OK",
+  "excerpt": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models. ‖ Copy url to clipboardCopied Le Chonk Today, we’re launching a public preview of Mistral Large 4. Unofficially ML4, very officially: le Chonk. ML4 pushes the frontier of open-weight performance. You can try th",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Mistral",
+  "cn": {
+   "kw": "Mistral",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 292,
+    "recent_median": 292,
+    "max_play": 67514,
+    "recent30d": 20,
+    "top": [
+     "法国模型 MistralLarge4 冲出欧洲，走向屎山｜屎山考核(67514)",
+     "Mistral 发布 Voxtral 3(118)",
+     "Mistral时隔5个月发布Large 4，欧洲AI的脸面又回来了？【因势分解】(10798)"
+    ]
+   },
+   "suggest": [
+    "mistral",
+    "MistralLarge4",
+    "mistral大模型",
+    "mistralai",
+    "mistral模型",
+    "mistral推理模型",
+    "mistral免费",
+    "mistralapi"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "OpenAI models are coming to Google Cloud",
+  "url": "https://openai.com/index/openai-models-google-cloud/",
+  "hn": "https://news.ycombinator.com/item?id=50180079",
+  "points": 306,
+  "comments": 127,
+  "date": "2026-10-21",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：Gotta love the disclaimer at the bottom: Microsoft remains OpenAI’s primary cloud partner. / We need a new acronymGoogle, NVIDIA, OpenAI, MSFT…GNOM…oh wait noThe strategy that I’ve heard said out loud now by all t / How are they trusting Google not to destill them / Preparing for Oracle bankruptcy. / Is this the begging of the end of Gemini? / I don'",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2969,
+    "recent_median": 1017,
+    "max_play": 4047536,
+    "recent30d": 11,
+    "top": [
+     "Chrome浏览器安装使用指南！谷歌浏览器下载｜主页设置｜插件安装｜全套流程！！(4047536)",
+     "超级简单教你如何在两三分钟安装谷歌三件套 谷歌服务框架 google服务框架 谷歌pla(634)",
+     "还在用夸克UC当主力? 谷歌浏览器手机版, 无推送无捆绑附下载点开就搜😎🧐🤩(1338)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌",
+    "谷歌浏览器怎么下",
+    "谷歌地图",
+    "谷歌邮箱怎么注册",
+    "谷歌账号无法验证身份怎么办",
+    "谷歌三件套",
+    "谷歌三件套怎么安装"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic logged net loss of over $80B in first half of 2026",
+  "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+  "hn": "https://news.ycombinator.com/item?id=50171966",
+  "points": 187,
+  "comments": 95,
+  "date": "2026-10-20",
+  "status": "原链 401",
+  "excerpt": "HN 讨论要点：\"Anthropic's third-quarter revenue rose 45% to $16.8 billion\"This is great for Anthropic, but who is increasing their AI / Keep throwing money into the wishing well. This has been, since day one, either a gamble or a complete con, depending on / Reuters reported first in September that Anthropic posted a net loss of $42 billion in 2025 and plans to s",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 32173,
+    "recent_median": 36086,
+    "max_play": 2013387,
+    "recent30d": 15,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(48571)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2013387)",
+     "Claude code搞定综述论文发表(28260)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "Claude Opus 5.5",
+    "claude code",
+    "claude 封号",
+    "claude喜欢deepseek",
+    "claude为什么不让中国用"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+  "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+  "hn": "https://news.ycombinator.com/item?id=50168190",
+  "points": 183,
+  "comments": 229,
+  "date": "2026-10-20",
+  "status": "原链 200 OK",
+  "excerpt": "Steam Next Fest, Valve's festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games, there seems to be more than usual this time around. ‖ Steam Next Fest, Valve's festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games included, there seems to be m",
+  "dup": true,
+  "dup_why": "1天前(2026-10-21)用过同一条链接",
+  "cn_kw": "Steam",
+  "cn": {
+   "kw": "Steam",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 31564,
+    "recent_median": 6749,
+    "max_play": 8664701,
+    "recent30d": 14,
+    "top": [
+     "等等党赢麻了！Steam凌晨发力！不仅有催哭过百万人的治愈神作再次击穿地板价！更有超史低(69273)",
+     "旋转砍人的近战坦克！打击感拉满的3D类银！Steam新品节亲测游戏试玩报告！【Steam(8231)",
+     "幼教级Steam入门指南！下载安装注册转国区一条龙教程【天才赵德柱】(3756125)"
+    ]
+   },
+   "suggest": [
+    "steam游戏",
+    "steam游戏推荐",
+    "steam",
+    "steam账号注册",
+    "steam下载",
+    "steam游戏推荐 免费",
+    "steam怎么下载",
+    "Steam账号密码忘了怎么办"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Using thousands of AI agents to uncover new leads in biological data",
+  "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+  "hn": "https://news.ycombinator.com/item?id=50180752",
+  "points": 148,
+  "comments": 98,
+  "date": "2026-10-21",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：The problem was never generating leads. The bottleneck is validated results. It’s performing clinical trials proving eff / I am sorry, but if you still have stupid humans these leads will end up going the same place all the leads go. Nowhere.S / OpenAI in sciences: \"We have bitten off a bit of each of these apples - you guys finish eating them, becau",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 10076,
+    "recent_median": 581,
+    "max_play": 1377473,
+    "recent30d": 10,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1273517)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1377473)",
+     "【前沿实战】大模型Agent强化学习实战(29167)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent推荐",
+    "aiagent开发",
+    "aiagent使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+  "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-21",
+  "desc": "",
+  "status": "原链 200 OK · 正文经 jina",
+  "excerpt": "Title: Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown URL Source: https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/ Published Time: 2026-10-21T22:51:22+00:00 Markdown Content: Private equity giant Blackstone is putting itself at the center of the AI boom, firm veteran Jas Khaira discussed last week on stage [at TechCrunch Disrupt.](https:/",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Blackstone",
+  "cn": {
+   "kw": "Blackstone",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3143,
+    "recent_median": 389,
+    "max_play": 23787,
+    "recent30d": 1,
+    "top": [
+     "Black Stone - 長谷川智樹(3400)",
+     "《NANA》bgm-長谷川智樹-Black Stone Cover｜🎧你一定没有听过的版(1331)",
+     "软银CEO孙正义：超级智能、AI投资与机器人未来 - Blackstone(389)"
+    ]
+   },
+   "suggest": [
+    "blackstone黑石",
+    "blackstonee",
+    "blackstones",
+    "blackstone电吉他",
+    "blackstonecherry",
+    "blackstone香烟",
+    "blackstone乐队",
+    "blackstone伴奏"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+  "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-21",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself. ‖ Buy One Founder Summit Ticket, Get a Second for Free. The company, which is trying to build AI that can improve itself, released its first model, Flint, on Wednesday. Flint is a free coding model ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Recursive",
+  "cn": {
+   "kw": "Recursive",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 82,
+    "recent_median": 69,
+    "max_play": 568183,
+    "recent30d": 14,
+    "top": [
+     "Recursive Flint…(4)",
+     "Recursive Flint：这个开源本地编程模型太强了！实测对比Pi、OpenCod(87)",
+     "【AI值得看】Claude Duet 主动找你干活｜Recursive Flint 本地(2042)"
+    ]
+   },
+   "suggest": [
+    "RecursiveMAS",
+    "recursively"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+  "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-21",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals. ‖ Buy One Founder Summit Ticket, Get a Second for Free. The move comes shortly after Walmart’s top competitor, Amazon, began b",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "亚马逊",
+  "cn": {
+   "kw": "亚马逊",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3191,
+    "recent_median": 926,
+    "max_play": 2172098,
+    "recent30d": 13,
+    "top": [
+     "亚马逊FBA运营系列教程，零基础亚马逊跨境电商运营教程合集 亚马逊入门实操教程 小白入门(2172098)",
+     "封锁向鹰身亚马逊卡组（无鹰身超框卡）展开combo合集【鹰身亚马逊卡组教程】《游戏王：先(2608)",
+     "0废件单卡7阻抗亚马逊(5158)"
+    ]
+   },
+   "suggest": [
+    "亚马逊",
+    "亚马逊跨境电商运营教程",
+    "亚马逊跨境电商零基础入门",
+    "亚马逊新手入门基础实操运营课",
+    "亚马逊跨境电商",
+    "亚马逊广告打法和思路",
+    "亚马逊雨林",
+    "亚马逊雨林纪录片"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+  "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-21",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2969,
+    "recent_median": 1017,
+    "max_play": 4047536,
+    "recent30d": 11,
+    "top": [
+     "Chrome浏览器安装使用指南！谷歌浏览器下载｜主页设置｜插件安装｜全套流程！！(4047536)",
+     "超级简单教你如何在两三分钟安装谷歌三件套 谷歌服务框架 google服务框架 谷歌pla(634)",
+     "还在用夸克UC当主力? 谷歌浏览器手机版, 无推送无捆绑附下载点开就搜😎🧐🤩(1338)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌",
+    "谷歌浏览器怎么下",
+    "谷歌地图",
+    "谷歌邮箱怎么注册",
+    "谷歌账号无法验证身份怎么办",
+    "谷歌三件套",
+    "谷歌三件套怎么安装"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]

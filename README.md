@@ -7,6 +7,26 @@
 ## 最新资讯
 
 
+### 2026-10-22（周四·安全与钱）
+
+📡 每日AI信息差 · 今日要点
+
+1. **网页背后的老地基裂了** — 安全公司 Wiz 和 OpenAI 联手，用 AI 在 PHP 底层代码里挖出几个很早以前埋下的漏洞。坏人能远程指挥服务器替自己干活，还能像当年「心脏出血」那样一点点读出服务器内存里的东西。重点是大家共用同一套地基，一个洞能顺着一大片网站往下传。这两天收到「请尽快修改密码」的站内信，别当诈骗直接删，改密码、开二次验证是最便宜的自保。
+   来源：Wiz · HN 442分 https://news.ycombinator.com/item?id=50180836
+
+2. **AI 替你下单，两家巨头走了相反的路** — 亚马逊开始在自己站上拦 AI 助手代下单；沃尔玛反着来，允许 AI 替顾客完成购买，但设了花钱上限、每笔交易还要本人确认。等于把你从「点鼠标的人」变成「批预算的人」。能不能让 AI 替你买东西，正在从技术问题变成规则问题：谁授权、谁负责、出错谁赔。
+   来源：TechCrunch https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/
+
+3. **Anthropic 半年亏掉 800 多亿美元** — 同期收入 168 亿美元、涨 45%，去年已亏 420 亿。收入在涨、亏损更大，是典型的「越跑越缺钱」。现在便宜的 AI 订阅，本质是投资人在替你补贴；等他们要看回报，涨价、限次数、砍免费额度都会来。
+   来源：路透 / WSJ https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/
+
+4. **玩家喊话 Steam：加个「不要 AI」按钮** — 新品节试玩里粗制滥造的游戏比往年更多，一眼能看出是 AI 批量生成的画和文案。本该是独立小团队露脸的机会，被这类东西挤得很难被看见。玩家不是反 AI，是反被糊弄；生成变便宜后，能筛掉垃圾的品味反而更值钱。
+   来源：IGN · HN 183分 https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop
+
+5. **Mistral Large 4：开源最强，能搬回自己家** — 法国 Mistral 发布 Large 4（外号 le Chonk），权重公开、可自己部署，主打「开源模型里的最强」，目前是公开预览版，还没到随便上生产的阶段。闭源越贵，开源追得越紧；企业把模型搬回自己服务器，数据不出门、成本可控，最终会压低你用到的 AI 工具的价格与隐私条款。
+   来源：Mistral https://mistral.ai/news/mistral-large-4/
+
+
 ### 2026-10-21（周三·工程落地）
 
 📡 每日AI信息差 · 今日要点
@@ -103,26 +123,11 @@
 5. **Replit CEO：未来公司「自己会开」** — Replit CEO Amjad Masad 提出「自动驾驶式公司」：AI 代理包办回消息、排版、写初稿等日常任务，人只做高层决策。跟你有关：你手里那些流程化、可复制的活，可能最先被这种「会自己跑」的公司接手。来源：TechCrunch · https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/
 
 
-### 2026-10-15（周四·AI信息差）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-10-15 周四
-
-1. **陪你聊天的 AI 要破产卖身了** — AI 陪聊鼻祖 Character.ai 主动申请破产保护，计划由法院监督把公司卖掉。官方说，过去一年法律、监管和运营压力太大。它不是突然倒的：合规成本和算力账单一直压着这门生意。你手机里那批熟悉的角色未来归谁，目前没有准话。来源：Hacker News 332分 https://blog.character.ai/an-update-on-character-ai/
-
-2. **亚马逊的新随身 AI，最低 75 美元** — 亚马逊旗下 Bee 推出两款随身 AI 设备，起价 74.99 美元：升级版穿戴设备，加一张信用卡大小、能贴手机的录音卡片。它会把对话转成摘要和待办，还能连 Alexa。核心问题是它需要一直在听，录音怎么存、存多久，官方说得很少。来源：TechCrunch https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/
-
-3. **OpenAI 高管会议室被自家员工装窃听** — 美国联邦检察官指控一名来自沙特的 OpenAI 员工，在高管会议室里放了录音设备，包里还带着第二个没启用的，人已被捕。出事的不是外部黑客，而是公司自己人。提醒很朴素：AI 公司手里那些数据和机密，挡不住一个能随便走进会议室的人。来源：Hacker News 649分 / SF Standard https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/
-
-4. **谷歌发 Gemini 4，欧洲人却用不了** — 谷歌发布新一代模型 Gemini 4（代号 Argon），一天冲到 HN 1451 分、1031 条评论。争议不在能力，而在能不能用：欧盟不开放，部分企业账号没权限，评论区吐槽「发布一个几周都用不上的东西」。国内本来就上不了谷歌官方服务，这次感受不到实质变化。来源：Hacker News 1451分 https://deepmind.google/models/gemini/
-
-5. **银行急着甩掉 AI 机房的债** — 摩根大通、三菱日联等银行正把刚承销的 AI 数据中心债务转手出去，相关信用违约掉期价格飙升、债券订单簿变薄。这是两个典型的泡沫预警信号：风险保费在涨，愿意接盘的人在变少。传导到普通人，是云服务价格和科技基金净值。来源：Hacker News 373分 https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 10-22 | [→](daily/2026-10-22.md) |
 | 10-21 | [→](daily/2026-10-21.md) |
 | 10-20 | [→](daily/2026-10-20.md) |
 | 10-19 | [→](daily/2026-10-19.md) |
@@ -152,4 +157,3 @@
 | 09-24 | [→](daily/2026-09-24.md) |
 | 09-23 | [→](daily/2026-09-23.md) |
 | 09-22 | [→](daily/2026-09-22.md) |
-| 09-21 | [→](daily/2026-09-21.md) |
