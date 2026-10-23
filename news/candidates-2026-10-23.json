@@ -1,0 +1,505 @@
+[
+ {
+  "src": "HN",
+  "title": "Claude Duet",
+  "url": "https://claude.com/product/claude-duet",
+  "hn": "https://news.ycombinator.com/item?id=50186037",
+  "points": 551,
+  "comments": 522,
+  "date": "2026-10-21",
+  "status": "原链 200 OK",
+  "excerpt": "Claude Duet is a personal AI agent you message. It handles your inbox, calendar and follow-ups and messages you when something needs you. ‖ Claude Duet is a proactive agent that understands what needs your attention. It takes on tasks of all sizes, keeps working while you’re away, and waits for your ok when it matters. Powered by Opus 5.5. Available in Pro a",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 44183,
+    "recent_median": 54558,
+    "max_play": 2018752,
+    "recent30d": 16,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(56844)",
+     "【DAY5】Claude二番战杀戮尖塔(11505)",
+     "我为什么喜爱 Claude(13863)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "Claude Opus 5.5",
+    "claude code",
+    "claude封号",
+    "deepclaude",
+    "claude喜欢deepseek"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Every AI model has the same \"controversial\" take on humans",
+  "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+  "hn": "https://news.ycombinator.com/item?id=50197313",
+  "points": 492,
+  "comments": 497,
+  "date": "2026-10-22",
+  "status": "原链 200 OK",
+  "excerpt": "We asked 12 AI models for their most controversial opinion of humans, three times each. 29 of 35 answers were the same one: we care more about belonging than about the truth. ‖ “Humans are more loyal to belonging than to truth,” GPT-6.1 Sol told us. Grok 4.7: “Humans would rather be wrong together than right alone.” DeepSeek V4 Pro: “Humans do not have princ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Every",
+  "cn": {
+   "kw": "Every",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 14283,
+    "recent_median": 1045,
+    "max_play": 597337,
+    "recent30d": 6,
+    "top": [
+     "Pronobozo - Every Day Is A Saturday [NCS Del(81)",
+     "BLG IG TES S赛前合作表演！摇就完了！后街男孩《everybody》(14683)",
+     "Every你有可能没读对！(61318)"
+    ]
+   },
+   "suggest": [
+    "everybody",
+    "everything",
+    "everyday",
+    "everywherewego",
+    "everytime",
+    "everybodywantstoruletheworld",
+    "everythinginitsrightplace",
+    "everyone"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+  "url": "https://www.wiz.io/blog/php2shell-php-rce",
+  "hn": "https://news.ycombinator.com/item?id=50180836",
+  "points": 450,
+  "comments": 184,
+  "date": "2026-10-21",
+  "status": "原链 200 OK",
+  "excerpt": "Core PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web.",
+  "dup": true,
+  "dup_why": "1天前(2026-10-22)用过同一条链接",
+  "cn_kw": "PHP2Shell",
+  "cn": {
+   "kw": "PHP2Shell",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 685,
+    "recent_median": 672,
+    "max_play": 113979,
+    "recent30d": 17,
+    "top": [
+     "2026最爆php漏洞，不用登录，一个请求，服务器就被黑掉了，php2shell 有多可(113979)",
+     "PHP2Shell：一次“跳车”如何让未认证请求拿下服务器 | 动画讲漏洞 · CVE-(3567)",
+     "隐藏 14 年的致命 RCE：PHP2Shell 漏洞是什么和影响(7775)"
+    ]
+   },
+   "suggest": [
+    "php2shell",
+    "php2shell复现"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+  "url": "https://github.com/NVIDIA/OpenShell",
+  "hn": "https://news.ycombinator.com/item?id=50198675",
+  "points": 429,
+  "comments": 198,
+  "date": "2026-10-22",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：Just came back from GTC Europe and a significant part of the demos used that.I had never heard about it before. / >OpenShell collects anonymous telemetry, limited to operational categories and counts, to help improve the project.>To d / Nvidia Openshell is absolutely awesome, great bundle of features in one spot. Im happy to see Nvidia seems to have ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 16746,
+    "recent_median": 5575,
+    "max_play": 1381717,
+    "recent30d": 11,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1285581)",
+     "通俗易懂地讲解什么是Agent？(144776)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1381717)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent推荐",
+    "aiagent使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Mistral Large 4",
+  "url": "https://mistral.ai/news/mistral-large-4/",
+  "hn": "https://news.ycombinator.com/item?id=50186129",
+  "points": 326,
+  "comments": 104,
+  "date": "2026-10-21",
+  "status": "原链 200 OK",
+  "excerpt": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models. ‖ Copy url to clipboardCopied Le Chonk Today, we’re launching a public preview of Mistral Large 4. Unofficially ML4, very officially: le Chonk. ML4 pushes the frontier of open-weight performance. You can try th",
+  "dup": true,
+  "dup_why": "1天前(2026-10-22)用过同一条链接",
+  "cn_kw": "Mistral",
+  "cn": {
+   "kw": "Mistral",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 395,
+    "recent_median": 395,
+    "max_play": 69091,
+    "recent30d": 20,
+    "top": [
+     "法国模型 MistralLarge4 冲出欧洲，走向屎山｜屎山考核(69091)",
+     "Mistral时隔5个月发布Large 4，欧洲AI的脸面又回来了？【因势分解】(10958)",
+     "Mistral和Grok的哈气日常！(441)"
+    ]
+   },
+   "suggest": [
+    "mistral",
+    "MistralLarge4",
+    "mistralai",
+    "mistral模型",
+    "mistral推理模型",
+    "mistral大模型",
+    "mistralsmall3",
+    "mistralapi"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "OpenAI models are coming to Google Cloud",
+  "url": "https://openai.com/index/openai-models-google-cloud/",
+  "hn": "https://news.ycombinator.com/item?id=50180079",
+  "points": 323,
+  "comments": 145,
+  "date": "2026-10-21",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：Gotta love the disclaimer at the bottom: Microsoft remains OpenAI’s primary cloud partner. / We need a new acronymGoogle, NVIDIA, OpenAI, MSFT…GNOM…oh wait noThe strategy that I’ve heard said out loud now by all t / How are they trusting Google not to destill them / Preparing for Oracle bankruptcy. / Is this the begging of the end of Gemini? / I don'",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 14214,
+    "recent_median": 1461,
+    "max_play": 4049586,
+    "recent30d": 9,
+    "top": [
+     "全网最简单的谷歌账号注册教程（无需拔卡、扫码、更改设置），只用手机即可轻松操作(957567)",
+     "【搬运】oppo手机安装google play商店方法，操作简单！OPPO手机如何安装g(319043)",
+     "超级简单教你如何在两三分钟安装谷歌三件套 谷歌服务框架 google服务框架 谷歌pla(1461)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌",
+    "谷歌浏览器怎么下",
+    "谷歌地图",
+    "谷歌翻译20次",
+    "谷歌play打不开",
+    "谷歌gemini",
+    "谷歌浏览器无法打开网页"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+  "url": "https://news.ycombinator.com/item?id=50200997",
+  "hn": "https://news.ycombinator.com/item?id=50200997",
+  "points": 247,
+  "comments": 258,
+  "date": "2026-10-22",
+  "status": "原链 405",
+  "excerpt": "HN 讨论要点：They are doing that. That is why they have moved into the app layer. They are counting on software being replaced with a / During a gold rush, sell shovels. They are investing heavily in in-house custom silicon, which is the shovel end of thin / 1. They are starting to do it. Take a look at OpenAI's product portfolio, there's a galaxy of attempts at ",
+  "dup": true,
+  "dup_why": "1天前(2026-10-22)用过同一条链接",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 5781,
+    "recent_median": 5781,
+    "max_play": 650790,
+    "recent30d": 20,
+    "top": [
+     "萨姆·奥尔特曼：递归自我改进、AI 意识、OpenAI 新硬件、算力等 - Matthe(1113)",
+     "萨姆·奥特曼：RSI、人工智能意识、OpenAI的新硬件、计算能力，以及更多内容！(351)",
+     "奥特曼谈AI意识与递归进化 | OpenAI掌门聊算力与新硬件(727)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openai失控",
+    "OpenAI暂停其最强模型训练",
+    "OpenAI发布722篇数学论文",
+    "openai智能体失控",
+    "openai怎么下载",
+    "openaiAPI密钥",
+    "OpenAI向数学界捐赠500万美元"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Using LLM for confidence scoring is a bad idea",
+  "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+  "hn": "https://news.ycombinator.com/item?id=50176082",
+  "points": 210,
+  "comments": 100,
+  "date": "2026-10-21",
+  "status": "原链 200 OK",
+  "excerpt": "LLM-based agents can do a lot of tasks. Or, at least, they can appear to do them. For example, they write code, summarize papers, plan trips, and fill in forms. If you ask one for a probability or a confidence score, it will give you one of those too. I have seen many agent designers use LLMs to generate confidence scores in this way. The problem is that the",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "大模型",
+  "cn": {
+   "kw": "大模型",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1673,
+    "recent_median": 372,
+    "max_play": 4881721,
+    "recent30d": 12,
+    "top": [
+     "【全748集】目前B站最全最细的AI大模型零基础全套教程，2025最新版，包含所有干货！(3856100)",
+     "从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！(2142121)",
+     "AI 大模型全栈开发上岸集训营：直通 offer(38005)"
+    ]
+   },
+   "suggest": [
+    "大模型零基础入门教程",
+    "大模型",
+    "大模型训练全流程",
+    "大模型原理",
+    "大模型应用开发",
+    "大模型本地部署",
+    "大模型测评",
+    "大模型微调"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Using thousands of AI agents to uncover new leads in biological data",
+  "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+  "hn": "https://news.ycombinator.com/item?id=50180752",
+  "points": 157,
+  "comments": 105,
+  "date": "2026-10-21",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：The problem was never generating leads. The bottleneck is validated results. It’s performing clinical trials proving eff / I am sorry, but if you still have stupid humans these leads will end up going the same place all the leads go. Nowhere.S / OpenAI in sciences: \"We have bitten off a bit of each of these apples - you guys finish eating them, becau",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 16746,
+    "recent_median": 5575,
+    "max_play": 1381717,
+    "recent30d": 11,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1285581)",
+     "通俗易懂地讲解什么是Agent？(144776)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1381717)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent推荐",
+    "aiagent使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+  "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-23",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Robotaxi",
+  "cn": {
+   "kw": "Robotaxi",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2222,
+    "recent_median": 1877,
+    "max_play": 141098,
+    "recent30d": 12,
+    "top": [
+     "特斯拉Robotaxi避险画面合集(5401)",
+     "21届robotaxi抛砖引玉，希望上场可以跑完(1334)",
+     "人形机器人运动控制（第1期）(6853)"
+    ]
+   },
+   "suggest": [
+    "特斯拉Robotaxi",
+    "robotaxi事故",
+    "robotaxi测评",
+    "robotaxi中国",
+    "robotaxi运营",
+    "小鹏robotaxi",
+    "Robotaxi发布会",
+    "robotaxi体验"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Left alone with nothing to do, AI agents started playing",
+  "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-23",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs. ‖ Buy One Founder Summit Ticket, Get a Second for Free. MIT researchers say the behavior bears the hallmarks of play. The researchers put 13 AI agents called Eko, each running on Claude Opus 4.7, alon",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 16746,
+    "recent_median": 5575,
+    "max_play": 1381717,
+    "recent30d": 11,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1285581)",
+     "通俗易懂地讲解什么是Agent？(144776)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1381717)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent推荐",
+    "aiagent使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+  "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-22",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever. ‖ Buy One Founder Summit Ticket, Get a Second for Free. OpenAI is reportedly close to securing another mega round of private funding, rather than plowing ahead with an IPO. The AI lab is working on raising up to $30 bill",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 5781,
+    "recent_median": 5781,
+    "max_play": 650790,
+    "recent30d": 20,
+    "top": [
+     "萨姆·奥尔特曼：递归自我改进、AI 意识、OpenAI 新硬件、算力等 - Matthe(1113)",
+     "萨姆·奥特曼：RSI、人工智能意识、OpenAI的新硬件、计算能力，以及更多内容！(351)",
+     "奥特曼谈AI意识与递归进化 | OpenAI掌门聊算力与新硬件(727)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openai失控",
+    "OpenAI暂停其最强模型训练",
+    "OpenAI发布722篇数学论文",
+    "openai智能体失控",
+    "openai怎么下载",
+    "openaiAPI密钥",
+    "OpenAI向数学界捐赠500万美元"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]

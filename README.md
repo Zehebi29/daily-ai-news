@@ -7,6 +7,22 @@
 ## 最新资讯
 
 
+### 2026-10-23（周五·工具实测）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-10-23 周五
+
+1. **Claude 不再等你提问，它开始主动找你** — Anthropic 上线 Claude Duet，能接管收件箱、日历和跟进，需要你拍板时才发消息问；跑在 Opus 5.5 上，Pro 套餐可用。重复的沟通活儿会先被它接走。来源：Hacker News 551pts https://news.ycombinator.com/item?id=50186037
+
+2. **OpenAI 要再融 300 亿美元，估值冲到 1.25 万亿** — TechCrunch 称新一轮最高 300 亿美元，赶在 IPO 之前；若成将是史上估值最高的未上市公司。你的订阅价和免费额度都建在这类预期上。来源：TechCrunch https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/
+
+3. **13 个 AI 被丢到荒岛，自己发明了游戏** — MIT 把 13 个跑 Claude Opus 4.7 的 agent 放进虚拟小岛，它们自己定规则、玩游戏，玩过之后干正经活反而更能干。来源：TechCrunch https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/
+
+4. **让 AI 报「我有把握」，基本等于让它瞎猜** — 有开发者写文指出：模型给的把握分是像概率的措辞，不是真实计算；可信的做法是让它标依据，或换问法多问几遍。来源：Hacker News 210pts https://news.ycombinator.com/item?id=50176082
+
+5. **英伟达给 AI 员工造了个安全笼子** — NVIDIA 开源 OpenShell，专跑成群的自主 agent，把权限与隔离做在底层。AI 从「回答」走向「代办」，风险从说错话变成做错事。来源：Hacker News 429pts https://news.ycombinator.com/item?id=50198675
+
+
 ### 2026-10-22（周四·安全与钱）
 
 📡 每日AI信息差 · 今日要点
@@ -110,23 +126,11 @@
    来源：Current Affairs 🔗 https://www.currentaffairs.org/news/why-were-banning-ai （HN 256pts）
 
 
-### 2026-10-16（周五·工具实测）
-
-1. **AI 画啥都一个样？研究员拿「鹈鹕」做了个实验** — 研究者让大模型反复画同一只鹈鹕，发现不管怎么换说法，图像越来越雷同。他把它叫做「多样性坍塌」：AI 为了不出错，总挑最保险的答案，于是不同人拿到的东西高度雷同；研究还顺带看了 UI 设计里 AI 创意不足的问题。跟你有关：你用 AI 生成的东西，可能正和别人撞得一模一样。来源：Hacker News 163 pts · https://arcfu.com/post/the-emperor-pelican-has-no-clothes/
-
-2. **为了修好一台扫描仪，他让 AI「逆向」了硬件** — 博主母亲过世后留下一箱老底片，他特地买了台官方称支持 Linux 的 Plustek 8200i 扫描仪，却卡在芯片兼容上。最后他用 AI 帮忙逆向硬件，让这台冷门设备在 Linux 上重新工作。跟你有关：AI 正变成普通人修设备、折腾冷门工具的「万能搭子」。来源：Hacker News 217 pts · https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/
-
-3. **Meta 拉上苹果，发了个能在 Mac 上本地跑的模型** — Meta 与苹果联合发布开放权重模型 Muse Spark Open，专为苹果芯片优化，能在 Mac 本地运行，数据不必上传云端。跟你有关：以后 AI 可能就在你自己的电脑里，隐私更稳，也不怕断网。来源：TechCrunch · https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/
-
-4. **掏出 1500 万美元，帮数学家「跟上 AI」** — 西蒙斯基金会宣布投入 1500 万美元，推出多项计划，帮数学界应对 AI 快速崛起。跟你有关：连最不愁技术的人都在补 AI 这一课，普通人更该早点上手。来源：Hacker News 242 pts · https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/
-
-5. **Replit CEO：未来公司「自己会开」** — Replit CEO Amjad Masad 提出「自动驾驶式公司」：AI 代理包办回消息、排版、写初稿等日常任务，人只做高层决策。跟你有关：你手里那些流程化、可复制的活，可能最先被这种「会自己跑」的公司接手。来源：TechCrunch · https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 10-23 | [→](daily/2026-10-23.md) |
 | 10-22 | [→](daily/2026-10-22.md) |
 | 10-21 | [→](daily/2026-10-21.md) |
 | 10-20 | [→](daily/2026-10-20.md) |
@@ -156,4 +160,3 @@
 | 09-25 | [→](daily/2026-09-25.md) |
 | 09-24 | [→](daily/2026-09-24.md) |
 | 09-23 | [→](daily/2026-09-23.md) |
-| 09-22 | [→](daily/2026-09-22.md) |
