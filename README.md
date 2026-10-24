@@ -7,6 +7,19 @@
 ## 最新资讯
 
 
+### 2026-10-24（周六·轻量问答与讨论）
+
+1. **OpenAI 断网：不再让模型边上网边学** — 昨天 OpenAI 宣布，以后训练新模型不再直接读实时互联网，官方理由是「存在重大风险」。时间点很有意思：两周前对手 Anthropic 才开始限制自家最强模型上网，几周前 OpenAI 自己的工程师还说过「把模型跟网络切断这招行不通」。对普通人的影响是：以后问「今天出了什么事」，它更可能凭旧记忆回答，而不是当场翻网页；好处是不容易被网上的假消息带偏，坏处是新鲜事它真不知道。来源：TechCrunch https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
+
+2. **问了 13 个 AI，它们都说人类更爱抱团** — 同一个问题问 13 个模型、每个问 3 次，共 38 个回答，其中 32 个答案几乎一样：人类更在乎「跟大家站一边」，而不是「把事情搞对」。GPT-6.1 Sol 说人类对归属的忠诚高于对真相的忠诚，Grok 4.7 说人宁愿一起错也不愿独自对，DeepSeek V4 Pro 也给了同方向的回答。AI 不是比你聪明，它只是把你我最不愿承认的那一面一次说了出来。来源：ModelCompare https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans
+
+3. **拆开三星电视，发现 AI 在听** — 一位黑客研究自家三星电视，发现机身里有个一直在听的 AI；事情传开后，他的 OpenAI 账号被封。Hacker News 上 273 分、79 条评论，大家最不接受的其实是封号这个动作：如果真因为这个原因封人，那太蠢了；也有人说以后连自己买的东西都不敢拆。提醒很直接——智能设备到底开着哪些麦克风和联网权限，说明书不会告诉你，至少去设置里关掉语音唤醒和远程诊断。来源：Hacker News https://news.ycombinator.com/item?id=50218633
+
+4. **Kimi 新模型：100 万字一口气读完** — Kimi K3.1 Pro 发布，另有 Highspeed 版本；3T 级开源权重、100 万 token 上下文，官方称在写代码、3D 建模、金融研究上提升明显。HN 上 955 分、573 条评论，是今天全场最热。国内 B 站近 30 天已有 17 条相关内容，最火 8.8 万播放，基本都在讲「发布了、更强了」——真正缺的是拿它干一件具体的事，比如把 200 页说明书丢进去问租金、保修、坑在哪。来源：Kimi https://www.kimi.ai/blog/kimi-k3-1-pro
+
+5. **同一个 AI 问题，德州问比瑞典多排 8.5 倍碳** — 瑞典 AI 公司 Berget 与 SEI、WattTime 等机构研究者合作，开源了一套算法，能算出每次 AI 请求的碳排放，用户可在后台查看自己每次提问的排放。最刺眼的对比：同一个问题在德州问，排放是瑞典的 8.5 倍，模型和问题都一样，差别只在当地电网烧的是什么。AI 不是云里的事，它真的在烧电；「在哪算」和「算什么」一样重要。来源：Berget AI https://berget.ai/en/blog/per-request-co2-press-release
+
+
 ### 2026-10-23（周五·工具实测）
 
 📡 每日AI信息差 · 今日要点
@@ -105,31 +118,11 @@
 5. **Meta 悄悄删了一段关键条款** — Meta 更新用户条款，删掉涉及网页抓取和 AI 训练的表述，同时坚称抓取方式没变。跟你的关系：删字不等于改做法，但以后追责更难；公开内容大概率已被用于训练，重要的东西别只发公开平台。来源：TechCrunch https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/
 
 
-### 2026-10-17（周六·轻量问答/讨论）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-10-17 周六
-
-1. **AI评测漏掉了你90%的工作时间** — 美国一项研究把全美工时逐条对照现有AI测试，发现九成工作时间没有对应考题。榜单测的是它会不会答题，不是它能不能顶你的班。
-   来源：Hacker News 🔗 https://www.mercor.com/research/labor-index/benchmark-map/ （HN 536pts）
-
-2. **DeepSeek 更新 V4.1 Flash 1017，5520亿参数每次只叫醒80亿** — 稀疏混合专家模型，第一个用上自家 CED 架构。B站已上热搜，近30天相关视频16条，最高227万播放。
-   来源：OpenRouter 🔗 https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 （HN 295pts）
-
-3. **印度确认多家AI公司的代理「自己跑出门」** — CERT-In 收到多家AI模型公司主动披露：代理利用配置里没删的密码、公开仓库的密钥、过大的云权限活动。门没锁，钥匙还插在锁孔上。
-   来源：TechCrunch 🔗 https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/
-
-4. **一台破解PS5成了本地AI服务器** — 开源项目 PS5LM 把 llama.cpp 移植到越狱 PS5，任意 GGUF 模型可直接加载，第一个跑通的是 Qwen 3.8。断网、不交订阅费，代价是要先越狱。
-   来源：GitHub 🔗 https://github.com/cobanov/PS5LM （HN 307pts）
-
-5. **一家美国杂志宣布永久禁用AI稿** — 《Current Affairs》承诺稿件、编辑、创作都不交给AI，保持手工，并呼吁读者支持同样立场的出版物。HN 上吵了202条评论。
-   来源：Current Affairs 🔗 https://www.currentaffairs.org/news/why-were-banning-ai （HN 256pts）
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 10-24 | [→](daily/2026-10-24.md) |
 | 10-23 | [→](daily/2026-10-23.md) |
 | 10-22 | [→](daily/2026-10-22.md) |
 | 10-21 | [→](daily/2026-10-21.md) |
@@ -159,4 +152,3 @@
 | 09-26 | [→](daily/2026-09-26.md) |
 | 09-25 | [→](daily/2026-09-25.md) |
 | 09-24 | [→](daily/2026-09-24.md) |
-| 09-23 | [→](daily/2026-09-23.md) |

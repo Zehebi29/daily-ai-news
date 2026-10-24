@@ -1,0 +1,503 @@
+[
+ {
+  "src": "HN",
+  "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+  "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+  "hn": "https://news.ycombinator.com/item?id=50212065",
+  "points": 955,
+  "comments": 573,
+  "date": "2026-10-23",
+  "status": "原链 200 OK",
+  "excerpt": "Introducing Kimi K3.1 Pro, our most capable 3T-class open-weight model with 1M-token context and major advances in coding, 3D modeling, and financial research. ‖ Scroll to exploreIntroducing Kimi K3.1 ProWe're introducing Kimi K3.1 Pro, the first model in our new K3.1 series and our most capable 3T-class open-weight model to date, with a 1-million-token cont",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Kimi",
+  "cn": {
+   "kw": "Kimi",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 18149,
+    "recent_median": 18303,
+    "max_play": 205476,
+    "recent30d": 17,
+    "top": [
+     "Kimi K3.1 Pro 来啦：智能前沿，更进一步(88404)",
+     "Kimi K3.1 Pro 疯了……(5327)",
+     "Kimi K3.1 Pro 测评报告！究竟有多能打？(8482)"
+    ]
+   },
+   "suggest": [
+    "kimik3.1",
+    "kimi",
+    "kimik3",
+    "kimi乔任梁",
+    "kimi现状",
+    "kimik3测评",
+    "kimi使用教程",
+    "KIMI会员值得买吗"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Every AI model has the same \"controversial\" take on humans",
+  "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+  "hn": "https://news.ycombinator.com/item?id=50197313",
+  "points": 638,
+  "comments": 613,
+  "date": "2026-10-22",
+  "status": "原链 200 OK",
+  "excerpt": "We asked 13 AI models for their most controversial opinion of humans, three times each. 32 of 38 answers were the same one: we care more about belonging than about the truth. ‖ “Humans are more loyal to belonging than to truth,” GPT-6.1 Sol told us. Grok 4.7: “Humans would rather be wrong together than right alone.” DeepSeek V4 Pro: “Humans do not have princ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Every",
+  "cn": {
+   "kw": "Every",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 34,
+    "recent_median": 5,
+    "max_play": 180282,
+    "recent30d": 13,
+    "top": [
+     "Every day，I go to school(16560)",
+     "Every你有可能没读对！(61323)",
+     "Eric Prydz - Every day(508)"
+    ]
+   },
+   "suggest": [
+    "everybody",
+    "everything",
+    "everywherewego",
+    "everyday",
+    "everytime",
+    "everybodywantstoruletheworld",
+    "everynight",
+    "every heart"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+  "url": "https://news.ycombinator.com/item?id=50200997",
+  "hn": "https://news.ycombinator.com/item?id=50200997",
+  "points": 625,
+  "comments": 702,
+  "date": "2026-10-22",
+  "status": "原链 405",
+  "excerpt": "HN 讨论要点：They are doing that. That is why they have moved into the app layer. They are counting on software being replaced with a / During a gold rush, sell shovels. They are investing heavily in in-house custom silicon, which is the shovel end of thin / 1. They are starting to do it. Take a look at OpenAI's product portfolio, there's a galaxy of attempts at ",
+  "dup": true,
+  "dup_why": "1天前(2026-10-23)用过同一条链接",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2222,
+    "recent_median": 2222,
+    "max_play": 679773,
+    "recent30d": 20,
+    "top": [
+     "AI为何开始欺骗人类｜OpenAI智能体失控事件(679773)",
+     "Anthropic报告新模型，安全能力远超Mythos 5.1 | 10月24日AI日报(4398)",
+     "【OpenAI发展历史】看这一期就够了！(0)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "OpenAI暂停其最强模型训练",
+    "openai失控",
+    "openai开放decisionsapi",
+    "openai怎么下载",
+    "OpenAI向数学界捐赠500万美元",
+    "openaiAPI密钥",
+    "openai智能体失控"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+  "url": "https://github.com/NVIDIA/OpenShell",
+  "hn": "https://news.ycombinator.com/item?id=50198675",
+  "points": 495,
+  "comments": 217,
+  "date": "2026-10-22",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：Just came back from GTC Europe and a significant part of the demos used that.I had never heard about it before. / >OpenShell collects anonymous telemetry, limited to operational categories and counts, to help improve the project.>To d / Nvidia Openshell is absolutely awesome, great bundle of features in one spot. Im happy to see Nvidia seems to have ",
+  "dup": true,
+  "dup_why": "1天前(2026-10-23)用过同一条链接",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 8861,
+    "recent_median": 5765,
+    "max_play": 1385195,
+    "recent30d": 11,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1294976)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1385195)",
+     "通俗易懂地讲解什么是Agent？(149050)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent开发",
+    "aiagent实战项目",
+    "aiagent是什么",
+    "aiagent开发学习路线",
+    "aiagent推荐",
+    "aiagent使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Swedish government offices to ban ChatGPT and Claude",
+  "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+  "hn": "https://news.ycombinator.com/item?id=50207405",
+  "points": 321,
+  "comments": 119,
+  "date": "2026-10-23",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：>The block is introduced because they want employees to use the services approved by the government office, including Mi / History will spend a lot of time exploring how the two front runners of AI mismanaged their rep and eroded public trust  / It appears they are only allowing Microsoft Copilot. So it seems like possibly this is contractual with th",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13242,
+    "recent_median": 804,
+    "max_play": 898767,
+    "recent30d": 11,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(898767)",
+     "【无废话】2分钟速通，从零用上ChatGPT6！保姆级教程！白嫖使用（附Image2.5(90105)",
+     "利用ChatGPT快速发表高质量SCI论文(127911)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt",
+    "chatgpt电脑端安装",
+    "chatgpt国内使用教程",
+    "chatgptplus如何购买",
+    "chatgpt6",
+    "chatgpt安装教程",
+    "chatgpt安卓下载"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+  "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+  "hn": "https://news.ycombinator.com/item?id=50218633",
+  "points": 273,
+  "comments": 79,
+  "date": "2026-10-24",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：If OpenAI really banned him for that reason, that would be pretty stupid. If you can no longer use an LLM for reverse en / This looks very bad on OpenAI.What is next? Power and water company suspending your account if your home and car are not / This is again will be very funny race to watch. Right now you can fairly do lots of reverse enginnering or",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "三星",
+  "cn": {
+   "kw": "三星",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 14174,
+    "recent_median": 8691,
+    "max_play": 2037543,
+    "recent30d": 18,
+    "top": [
+     "2026年了，三星手机还值得买吗？618选购一次讲透(157694)",
+     "大就是好…好大的一块平板！三星 Galaxy Tab S12 系列体验(540986)",
+     "苹果三星工业设计巅峰对比！iPhone 18Pro Max VS 三星Galaxy S2(17158)"
+    ]
+   },
+   "suggest": [
+    "三星堆",
+    "三星",
+    "三星zfold8ultra",
+    "三星堆纪录片",
+    "三星堆未来往事",
+    "三星zfold8",
+    "三星s26ultra",
+    "三星zfold7"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+  "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+  "hn": "https://news.ycombinator.com/item?id=50205229",
+  "points": 140,
+  "comments": 156,
+  "date": "2026-10-23",
+  "status": "原链 200 OK",
+  "excerpt": "Swedish AI provider Berget AI releases an open-source method for calculating the carbon emissions of every individual AI request, developed with researchers from SEI, WattTime and Klimatkollen — and customers can now follow their emissions per request in the console. ‖ Print / Save as PDF All postsOn this page About the methodFactsAbout Berget AIAbout SEI, W",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Texas",
+  "cn": {
+   "kw": "Texas",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1280,
+    "recent_median": 9057,
+    "max_play": 54889,
+    "recent30d": 6,
+    "top": [
+     "复刻被称为“北美餐包天花板”的Texas Roadhouse小餐包(38262)",
+     "「村嘉桦选择德州」Choosin&#x27; Texas - Ella Langley (54889)",
+     "¡TEXAS SE PREPARA PARA RECIBIR A LA FÓRMULA (74)"
+    ]
+   },
+   "suggest": [
+    "texasmike",
+    "texasholdem",
+    "TexasRoadHouse",
+    "texasroadhouse上海",
+    "texasmike小黄帽",
+    "choosintexas",
+    "texas炸鸡",
+    "texasinstruments"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI and the Enclosure of the Scientific Commons",
+  "url": "https://arxiv.org/abs/2610.27251",
+  "hn": "https://news.ycombinator.com/item?id=50199230",
+  "points": 138,
+  "comments": 80,
+  "date": "2026-10-22",
+  "status": "原链 200 OK",
+  "excerpt": "The scientific literature can be viewed as an \"information commons:\" an intangible resource that \"no one owns and is shared by everyone.\" There are well-established economic and political frameworks for understanding such commons, emerging from the history of agricultural common lands found in places like preindustrial England. The latter are gone not becaus",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Enclosure",
+  "cn": {
+   "kw": "Enclosure",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 8962,
+    "recent_median": 772,
+    "max_play": 219677,
+    "recent30d": 1,
+    "top": [
+     "爵士入坑必练 - Enclosure目标音(10433)",
+     "「真爵士」用《不再犹豫》做爵士enclosure练习(7491)",
+     "华语吉他系列 第269期 Beyond《不再犹豫》吉他谱、无主音吉他伴奏(219677)"
+    ]
+   },
+   "suggest": [],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+  "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-23",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. ‖ Buy One Founder Summit Ticket, Get a Second for Free. The frontier lab announced its new policy two weeks after its rival, Anthropic, began limiting its newest and, in theory, most capable models from accessing the live internet. Researc",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2222,
+    "recent_median": 2222,
+    "max_play": 679773,
+    "recent30d": 20,
+    "top": [
+     "AI为何开始欺骗人类｜OpenAI智能体失控事件(679773)",
+     "Anthropic报告新模型，安全能力远超Mythos 5.1 | 10月24日AI日报(4398)",
+     "【OpenAI发展历史】看这一期就够了！(0)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "OpenAI暂停其最强模型训练",
+    "openai失控",
+    "openai开放decisionsapi",
+    "openai怎么下载",
+    "OpenAI向数学界捐赠500万美元",
+    "openaiAPI密钥",
+    "openai智能体失控"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+  "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-23",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Nvidia CEO plays with adorable Microduck robots, 20,000 sell Julie Bort 2:59 PM PDT · October 23, 2026 Earlier this week, a video of Nvidia CEO Jensen Huang playing w",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1569,
+    "recent_median": 1824,
+    "max_play": 1960070,
+    "recent30d": 17,
+    "top": [
+     "【双语音+文稿】（完整版）2026 英伟达GTC柏林大会：英伟达创始人兼CEO黄仁勋发表(3827)",
+     "动态视频｜下大棋！英伟达的RTX Spark笔记本电脑，靠谱吗？(1960070)",
+     "英伟达官方发布MC JAVA版RTX Remix(9877)"
+    ]
+   },
+   "suggest": [
+    "英伟达显卡驱动",
+    "英伟达spark",
+    "英伟达app",
+    "英伟达rtxspark",
+    "英伟达n卡显卡驱动下载及安装教程",
+    "英伟达股票暴跌",
+    "英伟达spark笔记本",
+    "英伟达是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "The New Stack",
+  "title": "Before you expand your GPU pool, measure the outcome",
+  "url": "https://thenewstack.io/optimize-kubernetes-gpu-pools/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-24",
+  "desc": "For teams running AI workloads on Kubernetes, a fully allocated GPU pool and a growing batch-job queue might make expanding The post Before you expand your GPU pool, measure the outcome appeared first on The New Stack. ]]>",
+  "status": "原链 200 OK",
+  "excerpt": "Before buying more GPUs, optimize Kubernetes AI scheduling, measure real serving capacity, and link cloud costs to verified outcomes.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "显卡",
+  "cn": {
+   "kw": "显卡",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 33909,
+    "recent_median": 32204,
+    "max_play": 556867,
+    "recent30d": 19,
+    "top": [
+     "RTX50系中端显卡价格翻倍｜显卡日报10月24日(224585)",
+     "还要接着涨？我们还能买到便宜显卡吗？现在显卡为什么忽然这么贵？显卡何时才能降价？(29363)",
+     "显卡已经涨上天，极致魔幻，电脑DIY彻底死透！！(239993)"
+    ]
+   },
+   "suggest": [
+    "显卡",
+    "显卡性价比排行",
+    "显卡涨价",
+    "显卡天梯图2026",
+    "显卡价格走势",
+    "显卡为什么还在涨价",
+    "显卡是什么",
+    "显卡推荐"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "The New Stack",
+  "title": "AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan.",
+  "url": "https://thenewstack.io/kubernetes-agentic-ai-inference/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-23",
+  "desc": "Welcome to another edition of Road to KubeCon! We’re tracking movements in the Kubernetes and cloud-native ecosystem as we count The post AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan. appeared first on The New Stack. ]]>",
+  "status": "原链 200 OK",
+  "excerpt": "Welcome to another edition of Road to KubeCon! We’re tracking movements in the Kubernetes and cloud-native ecosystem as we count",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Kubernetes",
+  "cn": {
+   "kw": "Kubernetes",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 25401,
+    "recent_median": 3224,
+    "max_play": 1846588,
+    "recent30d": 2,
+    "top": [
+     "Kubernetes一小时轻松入门(378764)",
+     "Kubernetes(K8S) 入门进阶实战完整教程，黑马程序员K8S全套教程（基础+高(746271)",
+     "2026年-kubernetes认证管理员CKA(1737)"
+    ]
+   },
+   "suggest": [
+    "kubernetes",
+    "kubernetes快速入门",
+    "Kubernetes教程",
+    "kubernetes尚硅谷",
+    "Kubernetes实战",
+    "kubernetes面试",
+    "kubernetes离线部署",
+    "kubernetes二进制安装"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ }
+]
