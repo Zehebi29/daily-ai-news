@@ -7,6 +7,29 @@
 ## 最新资讯
 
 
+### 2026-10-25（周日·趋势前瞻）
+
+**1. 美国创意行业少了20万个岗位**
+- 要点：美国媒体、影视、艺术行业累计少了约20万个工作岗位，一篇新分析在算这里面有多少是AI拿走的。写稿、配图、剪辑、配音这些活已经能被拆分外包给模型，先被压价的就是它们。
+- 来源：HN 396pts https://news.ycombinator.com/item?id=50226419
+
+**2. AI砸了这么多钱，科技圈外零回报**
+- 要点：阿波罗的分析指出，除了科技行业，企业界的AI投入几乎没在财报上留下回报痕迹。很多项目停在演示阶段没接进业务流程，接下来能说清「省了几小时」的人才留得住预算。
+- 来源：HN 566pts https://news.ycombinator.com/item?id=50224463
+
+**3. 为建AI机房，谷歌砍了25万棵树**
+- 要点：芬兰北部816英亩林地被清空盖数据中心，约25万棵树被砍。报道用了「非法」一词，居民说林子变成了一片泥地——AI不是飘在云上的，它长在地上。
+- 来源：HN 253pts https://news.ycombinator.com/item?id=50221676
+
+**4. AI写的字，为什么越来越难懂**
+- 要点：一篇新论文用从句长度、句法依赖、词频等指标证实：AI生成的文本确实更难读。提要求时加一句「用短句、说人话」，比什么都管用。
+- 来源：HN 210pts https://news.ycombinator.com/item?id=50223647
+
+**5. 瑞典政府机关禁了ChatGPT和Claude**
+- 要点：瑞典政府机构要求员工只用政府批准的服务，讨论称名单上似乎只剩微软 Copilot。公司禁的往往不是AI本身，而是「数据去哪了说不清」。
+- 来源：HN 322pts https://news.ycombinator.com/item?id=50207405
+
+
 ### 2026-10-24（周六·轻量问答与讨论）
 
 1. **OpenAI 断网：不再让模型边上网边学** — 昨天 OpenAI 宣布，以后训练新模型不再直接读实时互联网，官方理由是「存在重大风险」。时间点很有意思：两周前对手 Anthropic 才开始限制自家最强模型上网，几周前 OpenAI 自己的工程师还说过「把模型跟网络切断这招行不通」。对普通人的影响是：以后问「今天出了什么事」，它更可能凭旧记忆回答，而不是当场翻网页；好处是不容易被网上的假消息带偏，坏处是新鲜事它真不知道。来源：TechCrunch https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
@@ -102,26 +125,11 @@
 5. **Character.AI 破产，迪士尼接人** — 聊天机器人公司 Character.AI 本周申请破产，迪士尼同意接收它大部分员工，绝大多数收到录用通知的人都接受了。对用户最现实的问题是：聊了几年的记录去哪了。来源：TechCrunch https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/
 
 
-### 2026-10-18（周日·趋势前瞻）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-10-18 周日
-
-1. **AI 公司自己承认：入门岗位在变少** — 做 Claude 的 Anthropic 昨天说，过去一年员工「不那么初级」了，初级岗位占比在降，开会时间反而变多。原来给新人练手的活，一部分给了 AI，一部分被压缩。跟你的关系：只按流程做事、等安排的岗位，被替的顺序更靠前。来源：TechCrunch https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/
-
-2. **AI 只考到了你工作的 10%** — Mercor 把 AI 测试题铺满整个美国经济，发现 90% 的工作时间落在现有测试覆盖不到的地方。跟你的关系：越按固定步骤出结果越先被写进考卷；要现场判断、跟人交涉的活，暂时还没人出题。来源：Mercor https://www.mercor.com/research/labor-index/benchmark-map/
-
-3. **DeepSeek 又发新版，这次主打便宜快** — 10 月 17 日 DeepSeek 在 Hugging Face 上线 V4.1-Flash-1017，Hacker News 近 900 分、670 多条评论。跟你的关系：模型降价降延迟，最先感受到的是手机里的 AI 助手，免费额度可能变多、反应可能变快。来源：HN https://news.ycombinator.com/item?id=50129045
-
-4. **想买显卡跑 AI，先试试速度再下单** — 新网站 Llmspeed 可以选设备加模型，模拟本地运行每秒出多少字、第一句话等多久，数据来自 r/LocalLLaMA 等社区实测。跟你的关系：硬件买错就是几千块打水漂，先模拟再掏钱。来源：HN https://news.ycombinator.com/item?id=50127979
-
-5. **Meta 悄悄删了一段关键条款** — Meta 更新用户条款，删掉涉及网页抓取和 AI 训练的表述，同时坚称抓取方式没变。跟你的关系：删字不等于改做法，但以后追责更难；公开内容大概率已被用于训练，重要的东西别只发公开平台。来源：TechCrunch https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 10-25 | [→](daily/2026-10-25.md) |
 | 10-24 | [→](daily/2026-10-24.md) |
 | 10-23 | [→](daily/2026-10-23.md) |
 | 10-22 | [→](daily/2026-10-22.md) |
@@ -151,4 +159,3 @@
 | 09-27 | [→](daily/2026-09-27.md) |
 | 09-26 | [→](daily/2026-09-26.md) |
 | 09-25 | [→](daily/2026-09-25.md) |
-| 09-24 | [→](daily/2026-09-24.md) |
