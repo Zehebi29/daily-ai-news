@@ -7,6 +7,19 @@
 ## 最新资讯
 
 
+### 2026-10-26（周一·模型与工具）
+
+1. **大模型价格最高砍掉 80%** — 短短几个月，OpenAI 和 Anthropic 的主力模型价格最多降了八成。有人把两家这几个月发布的模型列成时间线，发现新一代旗舰常常加量不加价，小模型则把门槛砸到很低。你花几块钱能干的活，半年前要几十块。真正的分水岭不再是用不用得起，而是你会不会把活派给它。另一面：价格战说明几家在抢同一批用户，别把重要资料只押在一家。 — 来源：https://minimaxir.com/2026/10/cheap-llms/ （HN 367分）
+
+2. **AI 投了很多钱，账上零回报** — 阿波罗（Apollo）的经济学家翻完企业账本后说：钱砸下去了、热度也是真的，但美国科技行业之外的公司，AI 带来的财务回报是零。买卡、买订阅、做培训，钱花在前面；效率提上去还得落到具体岗位才变利润，而多数公司连哪一步该交给 AI 都没想清楚。买了工具不等于改了流程。对个人：能说清「这活省了几小时」的人，比会背模型名的人值钱。 — 来源：https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/
+
+3. **20 万个饭碗被 AI 端走了？** — 美国媒体、电影、艺术行业累计少了约 20 万个岗位。这篇文章没有直接喊「AI 抢饭碗」，而是一项一项拆：哪些是平台算法改的、哪些是行业本来在缩、哪些确实和生成式 AI 有关。结论是 AI 不是唯一原因，但在加速。最先消失的不是写得好的人，而是按件计价的活——配图、字幕、初剪、通稿。想保住位置，往上走一步：接需求、定标准、扛结果。 — 来源：https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class （HN 527分）
+
+4. **米粒大的芯片能读懂你的状态** — 瑞士洛桑联邦理工学院（EPFL）公布一块约 4×2 毫米的植入芯片，可以实时记录不同脑区之间的「对话」，并据此判断人此刻的认知和情绪状态。突破点是从只盯一个点，变成同时看多个脑区怎么配合，对癫痫、抑郁这类病是往前一步。但植入要开刀，信号怎么解读、数据归谁、能不能被改写都没答完。它读到的是状态，不是你具体的想法。 — 来源：https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ （HN 138分）
+
+5. **学生全用 AI，教授不批作业了** — 加州大学伯克利分校数学教授 Richard Borcherds（菲尔兹奖得主）宣布不再给作业打分：太多学生用 AI 写作业，而且几乎都能拿高分，分数已经分不出谁真会。这不是懒，是评分失灵——作业原本是老师看「你哪一步没懂」的窗口，答案能外包，窗口就糊了。大学接下来大概率会换成当面讲、当场做、看过程。AI 能交漂亮答案，替不了你自己推一遍。 — 来源：https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html （HN 221分）
+
+
 ### 2026-10-25（周日·趋势前瞻）
 
 **1. 美国创意行业少了20万个岗位**
@@ -116,19 +129,11 @@
    来源：Mistral https://mistral.ai/news/timestral/ （HN 592pts）
 
 
-### 2026-10-19（周一·模型与工具）
-
-1. **Gemini 4 半价，准确率也砍半** — 同一批题，Gemini 4 Argon 只收 Claude Opus 5.5 一半的钱，答对率也差不多只有一半。便宜不等于划算：量大、错了也不致命的活交给便宜那档，要签字、要交付的还得用贵的。来源：The New Stack https://thenewstack.io/gemini-argon-claude-opus/
-2. **亚马逊用 AI 盯「工会风险」** — 内部文件显示，亚马逊在英国几座仓库收集员工「几百个数据点」，喂给专门预测工会风险的模型。被记录的不是产量，是行为：打卡、走动、和谁说话。来源：openDemocracy https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/
-3. **AI 出人命才轮到监管？** — Anthropic 提出的 AI 安全法案写明：只有造成 50 人死亡或 10 亿美元损失，监管才启动。网友第一反应是「那 49 个人怎么办」。来源：Tom's Hardware https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model
-4. **把 Claude 丢荒岛，它自己玩起来** — 研究人员让 Claude 独自待在一座虚拟荒岛，没有同伴也没有任务，它自己发明了投篮，还玩起「地板是岩浆」。研究者没敢说这就是「玩」，但一个会自己找目标的 AI，将来未必乖乖等指令。来源：MIT Technology Review https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/
-5. **Character.AI 破产，迪士尼接人** — 聊天机器人公司 Character.AI 本周申请破产，迪士尼同意接收它大部分员工，绝大多数收到录用通知的人都接受了。对用户最现实的问题是：聊了几年的记录去哪了。来源：TechCrunch https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 10-26 | [→](daily/2026-10-26.md) |
 | 10-25 | [→](daily/2026-10-25.md) |
 | 10-24 | [→](daily/2026-10-24.md) |
 | 10-23 | [→](daily/2026-10-23.md) |
@@ -158,4 +163,3 @@
 | 09-28 | [→](daily/2026-09-28.md) |
 | 09-27 | [→](daily/2026-09-27.md) |
 | 09-26 | [→](daily/2026-09-26.md) |
-| 09-25 | [→](daily/2026-09-25.md) |

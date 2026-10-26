@@ -1,0 +1,449 @@
+[
+ {
+  "src": "HN",
+  "title": "No signs of AI payoff outside the tech sector",
+  "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+  "hn": "https://news.ycombinator.com/item?id=50224463",
+  "points": 629,
+  "comments": 661,
+  "date": "2026-10-24",
+  "status": "原链 200 OK",
+  "excerpt": "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. ‖ What We Do Advisor Resources Insights & News About Apollo Back What We Do Explore our investment strategies, solutions, and products designed to support diverse financial goals. Solutions I",
+  "dup": true,
+  "dup_why": "1天前(2026-10-25)用过同一条链接",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+  "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+  "hn": "https://news.ycombinator.com/item?id=50226419",
+  "points": 527,
+  "comments": 563,
+  "date": "2026-10-24",
+  "status": "原链 200 OK",
+  "excerpt": "America is Losing Hundreds of Thousands of Jobs in Media, Film & the Arts. How Much is AI to Blame?",
+  "dup": true,
+  "dup_why": "1天前(2026-10-25)用过同一条链接",
+  "cn_kw": "America",
+  "cn": {
+   "kw": "America",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1270,
+    "recent_median": 390,
+    "max_play": 3634954,
+    "recent30d": 10,
+    "top": [
+     "【稳定更新】20261026 ABC news | ABC新闻 | Good Morni(817)",
+     "[GTA明镜公园电台]Living In America[MV]-DOM(1316)",
+     "Don&#x27;t Watch Sacred Riana If You&#x27;re(15)"
+    ]
+   },
+   "suggest": [
+    "America",
+    "American",
+    "AmericanExpress",
+    "American Accent Training",
+    "America歌曲",
+    "AmericanDad",
+    "AmericasGotTalent",
+    "American girl"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+  "url": "https://minimaxir.com/2026/10/cheap-llms/",
+  "hn": "https://news.ycombinator.com/item?id=50236102",
+  "points": 367,
+  "comments": 353,
+  "date": "2026-10-25",
+  "status": "原链 200 OK",
+  "excerpt": "Let&rsquo;s look at a quick timeline of the major LLM model announcements from both OpenAI and Anthropic over the past few months. All pricing numbers provided are input MTok / output MTok / cache read MTok. OpenAI announced GPT-5.6 Sol and Luna. Sol is the direct successor to GPT 5.5 at the same price of $5 / $30 / $0.50, while Luna is a small model specifi",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3098,
+    "recent_median": 1495,
+    "max_play": 2033880,
+    "recent30d": 16,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(76197)",
+     "【全球首杀】天才少女Claude35秒速通达里奥！！！(5697)",
+     "为了封禁国内用户，Claude有多逆天？(681643)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude",
+    "Claude Opus 5.5",
+    "claude code",
+    "claude封号",
+    "claudecode安装教程",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Cerebras Deploys Trillion-Parameter AI Models",
+  "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+  "hn": "https://news.ycombinator.com/item?id=50227356",
+  "points": 358,
+  "comments": 138,
+  "date": "2026-10-25",
+  "status": "原链 200 OK",
+  "excerpt": "Learn how Cerebras maps trillion-parameter frontier models across WSE-3T wafers to deliver scalable inference at 1,000–2,000+ tokens per second. ‖ One of the most frequently asked questions we get is how we deploy large models on Cerebras wafer-scale chips. A single Cerebras WSE-3T wafer has 44 GB of on-chip memory, and trillion-parameter frontier models nee",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Cerebras",
+  "cn": {
+   "kw": "Cerebras",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 753,
+    "recent_median": 84,
+    "max_play": 136896,
+    "recent30d": 10,
+    "top": [
+     "挑战GPU、绕过HBM，深挖史上最大芯片背后的Cerebras【硅谷101】(136896)",
+     "Cerebras发布CS-4晶圆超算，推理暴打英伟达30倍！(35962)",
+     "推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally(22451)"
+    ]
+   },
+   "suggest": [
+    "cerebras芯片",
+    "cerebras上市",
+    "cerebras代码",
+    "cerebras能否挑战英伟达",
+    "cerebras概念"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+  "url": "https://github.com/Zagitta/gpu-unlock",
+  "hn": "https://news.ycombinator.com/item?id=50219700",
+  "points": 340,
+  "comments": 80,
+  "date": "2026-10-24",
+  "status": "原链 200 OK",
+  "excerpt": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents - Zagitta/gpu-unlock",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6642,
+    "recent_median": 7423,
+    "max_play": 2051980,
+    "recent30d": 16,
+    "top": [
+     "【双语音+文稿】（完整版）2026 英伟达GTC柏林大会：英伟达创始人兼CEO黄仁勋发表(6499)",
+     "宇树腰斩之后走翻倍，机器人蹭上了英伟达！(2524)",
+     "AI原生重塑组织，来自英伟达字节贝壳中智的思考(269)"
+    ]
+   },
+   "suggest": [
+    "英伟达",
+    "英伟达显卡驱动",
+    "英伟达spark",
+    "英伟达RTXSpark",
+    "英伟达n卡显卡驱动下载及安装教程",
+    "英伟达或推迟RTX6060发布时间",
+    "英伟达显卡出货量暴涨",
+    "英伟达显卡驱动更新"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Google illegally cut down 250K trees in Finland for data center",
+  "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+  "hn": "https://news.ycombinator.com/item?id=50221676",
+  "points": 260,
+  "comments": 208,
+  "date": "2026-10-24",
+  "status": "原链 200 OK",
+  "excerpt": "The tech super giant – continuing its expansion of the booming artificial intelligence industry – cleared 816 acres of woodlands in Northern Finland, the Guardian reported Thursday. ‖ Google illegally demolished an estimated 250,000 trees in Finland to make way for a data center, leaving behind a lifeless mud wasteland that forced packs of wolves into a near",
+  "dup": true,
+  "dup_why": "1天前(2026-10-25)用过同一条链接",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7414,
+    "recent_median": 3867,
+    "max_play": 4056829,
+    "recent30d": 12,
+    "top": [
+     "粉丝让我挑战谷歌评分最高的炸鸡店，结果就这？！(5229)",
+     "火速码住！谷歌浏览器10月22日最新版安装包 手机电脑双端适配 网页秒开不卡顿 账号登录(958)",
+     "Chrome浏览器安装使用指南！谷歌浏览器下载｜主页设置｜插件安装｜全套流程！！(4056829)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌浏览器怎么下",
+    "谷歌",
+    "谷歌地图",
+    "谷歌怎么登录",
+    "谷歌邮箱怎么注册",
+    "谷歌邮箱怎么下",
+    "谷歌浏览器无法打开网页"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Why is AI generated language so hard to understand?",
+  "url": "https://arxiv.org/abs/2610.29162",
+  "hn": "https://news.ycombinator.com/item?id=50223647",
+  "points": 247,
+  "comments": 199,
+  "date": "2026-10-24",
+  "status": "原链 200 OK",
+  "excerpt": "There is a widespread sense that AI-generated text has recently become harder to understand. In this study, we investigate a set of psycholinguistic features that are known to correlate with human processing difficulty (e.g., object relative clauses, long syntactic dependencies, low-frequency n-grams). Using a novel corpus of AI-generated text across diverse",
+  "dup": true,
+  "dup_why": "1天前(2026-10-25)用过同一条链接",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+  "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+  "hn": "https://news.ycombinator.com/item?id=50233304",
+  "points": 221,
+  "comments": 320,
+  "date": "2026-10-25",
+  "status": "原链 200 OK",
+  "excerpt": "Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students&rsquo; homework. After seeing how many of his students used AI to consistently receive top scores, he ‖ Prolific student AI use and advancements in AI technology leaves the future of mathematics uncertain. Richard Borcherds, a UC Berkeley professor and Fields medali",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Berkeley",
+  "cn": {
+   "kw": "Berkeley",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1959,
+    "recent_median": 43,
+    "max_play": 164899,
+    "recent30d": 6,
+    "top": [
+     "【LLM代理】高级LLM代理MOOC | 加州大学伯克利分校Sp25 | 通过LLM代理(36)",
+     "【LLM代理】高级LLM代理MOOC | 加州大学伯克利分校CS294-280 Sp25(44)",
+     "【LLM代理】高级LLM代理MOOC | 加州大学伯克利分校CS294-280 Sp25(27)"
+    ]
+   },
+   "suggest": [
+    "Berkeley",
+    "berkeleygw",
+    "berkeleysprings",
+    "berkeleysprings吉他",
+    "berkeleycs61c",
+    "berkeley公开课",
+    "berkeley解码",
+    "Berkeleyhumanoid"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+  "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+  "hn": "https://news.ycombinator.com/item?id=50229827",
+  "points": 141,
+  "comments": 81,
+  "date": "2026-10-25",
+  "status": "原链 200 OK",
+  "excerpt": "Nikon's 16th annual Small World in Motion contest is open to any movie or digital time-lapse photography taken through the microscope. ‖ Serving tech enthusiasts for over 25 years. TechSpot means tech analysis and advice you can trust. A hot potato: It seems that the once-popular trend of entering AI-generated content in competitions made for humans hasn't g",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Nikon",
+  "cn": {
+   "kw": "Nikon",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 957,
+    "recent_median": 439,
+    "max_play": 253732,
+    "recent30d": 11,
+    "top": [
+     "谁是尼康王？2026年末尼康微单选购指南！(21505)",
+     "尼康（Nikon）Z5II全画幅微单相机新手入门高清摄影拍照 视频防抖 vlog推荐性价(3)",
+     "尼康（Nikon）Z5II/z5二代/Z52全画幅微单相机 尼康云创高清旅游vlog视频(0)"
+    ]
+   },
+   "suggest": [
+    "nikonz30",
+    "nikon",
+    "nikonz50二代",
+    "nikonz5ii",
+    "nikonzfc教程",
+    "nikonikoni鬼畜",
+    "nikon相机推荐",
+    "nikonikonikoniko"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Neural chip decodes interactions between brain regions",
+  "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+  "hn": "https://news.ycombinator.com/item?id=50222525",
+  "points": 138,
+  "comments": 54,
+  "date": "2026-10-24",
+  "status": "原链 200 OK",
+  "excerpt": "EPFL researchers have developed an implantable neural chip that tracks communication across brain regions, identifying cognitive and emotional states in real time. ‖ LogSync chips, measuring approximately 4x2 mm. 2026 EPFL / Lundi13 - CC-BY-SA 4.0 EPFL researchers have developed an implantable neural chip that tracks communication across brain regions, ident",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "芯片",
+  "cn": {
+   "kw": "芯片",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 268889,
+    "recent_median": 3290,
+    "max_play": 5413420,
+    "recent30d": 4,
+    "top": [
+     "小学生都能看懂的芯片工作原理，看完能手搓芯片哦【芯片系列科普第一期】(1292348)",
+     "芯片放大几万倍，你会看到什么？(5413420)",
+     "一千道工序、三个月锻造！芯片到底有多难造？一条视频带你看懂。 #芯片 #科普(3016)"
+    ]
+   },
+   "suggest": [
+    "芯片",
+    "芯片测试工程师零基础入门",
+    "芯片制造过程",
+    "芯片的工作原理",
+    "芯片控制大脑",
+    "芯片制造过程视频详解",
+    "手机芯片排行",
+    "芯片测试"
+   ],
+   "hot": false,
+   "verdict": "近期空白(历史有爆款)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+  "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-25",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Grok",
+  "cn": {
+   "kw": "Grok",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13946,
+    "recent_median": 3097,
+    "max_play": 517373,
+    "recent30d": 8,
+    "top": [
+     "《云宝资源》grok下载安装教程grok下载安装详细步骤grok消息数量已达上限grok(17331)",
+     "我看谁不学 Grok Bot：零基础全流程（建Bot·云电脑·协作·拉群）(7314)",
+     "10月 最新 【Grok】 4.6！手机＋PC免费教程！(942)"
+    ]
+   },
+   "suggest": [
+    "grok成人模式",
+    "grok",
+    "grok使用教程",
+    "grokbot",
+    "grok下载",
+    "grok限制解除",
+    "grokbot使用教程",
+    "grok免费使用"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+  "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-25",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\" ‖ Buy One Founder Summit Ticket, Get a Second for Free. AI hasn’t benefited the bottom line of any big corporations outside the tech industry, according to a note recently published by the ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Apollo",
+  "cn": {
+   "kw": "Apollo",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4514,
+    "recent_median": 153,
+    "max_play": 1884317,
+    "recent30d": 3,
+    "top": [
+     "&quot;Apollo&quot;  TJ.hangneil(1884317)",
+     "纯音乐 | Apollo&#x27;s Triumph - Audiomachine ((153551)",
+     "“发现今日份宝藏”I 日推歌单 I Apollo - Pure 100% / Cenji(2898)"
+    ]
+   },
+   "suggest": [
+    "apollo",
+    "apollo教程",
+    "apolloandre",
+    "apollostriumph",
+    "apollo使用教程",
+    "Apollon配置",
+    "apolloprogram",
+    "apollo自动驾驶课程"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ }
+]
