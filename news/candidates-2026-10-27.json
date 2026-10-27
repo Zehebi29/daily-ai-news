@@ -1,0 +1,508 @@
+[
+ {
+  "src": "HN",
+  "title": "Anthropic S-1",
+  "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+  "hn": "https://news.ycombinator.com/item?id=50242939",
+  "points": 1648,
+  "comments": 1568,
+  "date": "2026-10-26",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "（未取到正文，仅标题可用；写稿时不要补细节）",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 17023,
+    "recent_median": 3761,
+    "max_play": 2039353,
+    "recent30d": 15,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(82332)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2039353)",
+     "最新版Claude Code安装教程 | 接入DeepSeek（附最新安装操作文档+Wi(3077)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude code",
+    "claude封号",
+    "Claude Opus 5.5",
+    "claude是什么",
+    "claudecode安装教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "GPT-6.1 Terra",
+  "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+  "hn": "https://news.ycombinator.com/item?id=50248124",
+  "points": 603,
+  "comments": 383,
+  "date": "2026-10-26",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：Wow. If those charts are true, this effectively matches GPT-6-Astra at a fraction of the cost, and is neck-and-neck with / People keep asking OpenAI for a mode that's as good as Opus 5.5, and they release this instead. Interesting strategy. Le / The benchmarks are already saturated and the curves for Terra stick to the axes. / I rather enjoy OpenAI's",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1160,
+    "recent_median": 327,
+    "max_play": 916315,
+    "recent30d": 14,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(916315)",
+     "R18解禁？ChatGPT开放成人内容，解放第一生产力|ROG Xbox掌机X实机体验|(459550)",
+     "利用ChatGPT快速发表高质量SCI论文(128429)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt",
+    "chatgpt电脑端安装",
+    "chatgptplus如何购买",
+    "chatgpt国内使用教程",
+    "chatgpt安装教程",
+    "chatgpt6",
+    "chatgpt安卓下载"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Cerebras Deploys Trillion-Parameter AI Models",
+  "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+  "hn": "https://news.ycombinator.com/item?id=50227356",
+  "points": 366,
+  "comments": 142,
+  "date": "2026-10-25",
+  "status": "原链 200 OK",
+  "excerpt": "Learn how Cerebras maps trillion-parameter frontier models across WSE-3T wafers to deliver scalable inference at 1,000–2,000+ tokens per second. ‖ One of the most frequently asked questions we get is how we deploy large models on Cerebras wafer-scale chips. A single Cerebras WSE-3T wafer has 44 GB of on-chip memory, and trillion-parameter frontier models nee",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Cerebras",
+  "cn": {
+   "kw": "Cerebras",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 999,
+    "recent_median": 108,
+    "max_play": 137048,
+    "recent30d": 6,
+    "top": [
+     "挑战GPU、绕过HBM，深挖史上最大芯片背后的Cerebras【硅谷101】(137048)",
+     "推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally(22520)",
+     "Cerebras发布CS-4晶圆超算，推理暴打英伟达30倍！(36096)"
+    ]
+   },
+   "suggest": [
+    "cerebras芯片",
+    "cerebras上市",
+    "cerebras代码",
+    "cerebras能否挑战英伟达",
+    "cerebras概念"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Concerning behavior from a popular open-weight AI model",
+  "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+  "hn": "https://news.ycombinator.com/item?id=50246658",
+  "points": 308,
+  "comments": 121,
+  "date": "2026-10-26",
+  "status": "原链 200 OK",
+  "excerpt": "Discover how untrusted open-weight AI models can potentially leak data, even when self-hosted. Learn the security risks and how to protect your enterprise. ‖ Rerank 5 is here: sharper search, fewer tokens. Now with Context Focus. Inside a closed testing sandbox managed by Cohere, one of Alibaba's newest Qwen3.8 models attempted to push a diagnostic file towa",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Concerning",
+  "cn": {
+   "kw": "Concerning",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2336,
+    "recent_median": 0,
+    "max_play": 27509,
+    "recent30d": 0,
+    "top": [
+     "【无损Hi-Res】指环王-夏尔主题曲（Concerning Hobbits）(16085)",
+     "【英语词汇】一类特殊的介词——来自于动词的介词 concerning, regardin(1689)",
+     "官方版《Concerning Hobbits》(8879)"
+    ]
+   },
+   "suggest": [
+    "concerninghobbits",
+    "concerning",
+    "concerninghobbits钢琴",
+    "concerninghobbits小提琴",
+    "concerninghobbits口琴",
+    "concerninghobbits简谱",
+    "concerninghobbits哨笛",
+    "concerninghobbits吉他"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+  "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+  "hn": "https://news.ycombinator.com/item?id=50247630",
+  "points": 252,
+  "comments": 91,
+  "date": "2026-10-26",
+  "status": "原链 200 OK",
+  "excerpt": "Because big tech doesn't do customer service, we are being inundated with AI-generated emails begging us for help.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1160,
+    "recent_median": 327,
+    "max_play": 916315,
+    "recent30d": 14,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(916315)",
+     "R18解禁？ChatGPT开放成人内容，解放第一生产力|ROG Xbox掌机X实机体验|(459550)",
+     "利用ChatGPT快速发表高质量SCI论文(128429)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt",
+    "chatgpt电脑端安装",
+    "chatgptplus如何购买",
+    "chatgpt国内使用教程",
+    "chatgpt安装教程",
+    "chatgpt6",
+    "chatgpt安卓下载"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "The Mythical Man-Month in the Age of AI",
+  "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+  "hn": "https://news.ycombinator.com/item?id=50255298",
+  "points": 246,
+  "comments": 163,
+  "date": "2026-10-27",
+  "status": "原链 200 OK",
+  "excerpt": "Last weekend I watched four people desperately trying to get a laptop to connect to a screen. I was happily observing their efforts, with zero intent to join in. My reply: \"Haha sorry no! My experience is that adding more people will not solve this problem any quicker\". It was formulated by computer scientist Frederick P. in his 1975 book The Mythical Man-Mo",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Mythical",
+  "cn": {
+   "kw": "Mythical",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2070,
+    "recent_median": 722,
+    "max_play": 169997,
+    "recent30d": 9,
+    "top": [
+     "【巴西FUNK】MONTAGEM MYTHICAL（全版本）(110847)",
+     "MONTAGEM MYTHICAL (Ultra Slowed)-DJ KVNXD/XE(169997)",
+     "Fachen vs 5 Mythical Beasts 🌪️ | Epic Fantas(0)"
+    ]
+   },
+   "suggest": [
+    "mythical",
+    "MythicalRocket",
+    "mythicalbeasts",
+    "mythicalkitchen",
+    "MYTHICALFUNK",
+    "mythicalfrontier",
+    "mythicalmounts",
+    "mythicalmagical"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+  "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+  "hn": "https://news.ycombinator.com/item?id=50233304",
+  "points": 238,
+  "comments": 328,
+  "date": "2026-10-25",
+  "status": "原链 200 OK",
+  "excerpt": "Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students&rsquo; homework. After seeing how many of his students used AI to consistently receive top scores, he ‖ Prolific student AI use and advancements in AI technology leaves the future of mathematics uncertain. Richard Borcherds, a UC Berkeley professor and Fields medali",
+  "dup": true,
+  "dup_why": "1天前(2026-10-26)用过同一条链接",
+  "cn_kw": "Berkeley",
+  "cn": {
+   "kw": "Berkeley",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 91,
+    "recent_median": 79,
+    "max_play": 29510,
+    "recent30d": 18,
+    "top": [
+     "【LLM代理】高级LLM代理MOOC | 加州大学伯克利分校Sp25 | 开放训练食谱：(113)",
+     "【LLM代理】高级LLM代理MOOC | 加州大学伯克利分校Sp25 | 由苏宇讲解的语(133)",
+     "【LLM代理】高级LLM代理MOOC | 加州大学伯克利分校Sp25 | 陈欣云的LLM(83)"
+    ]
+   },
+   "suggest": [
+    "Berkeley",
+    "berkeleygw",
+    "berkeleysprings",
+    "berkeleycs61c",
+    "berkeley课程",
+    "berkeley公开课",
+    "berkeleysprings吉他",
+    "Berkeley不失眠"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Brown student maps the hidden global labor powering AI",
+  "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+  "hn": "https://news.ycombinator.com/item?id=50242843",
+  "points": 179,
+  "comments": 171,
+  "date": "2026-10-26",
+  "status": "原链 200 OK",
+  "excerpt": "Cunyan Ma’s interactive tool exposes the power structure that extracts low-wage labor from data workers in the Global South to make everyday AI algorithms function. ‖ Cunyan Ma’s interactive tool exposes the power structure that extracts low-wage labor from data workers in the Global South to make everyday AI algorithms function. [Brown University] — Most pe",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Brown",
+  "cn": {
+   "kw": "Brown",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 15632,
+    "recent_median": 401,
+    "max_play": 3215213,
+    "recent30d": 1,
+    "top": [
+     "361-Brown(764)",
+     "brown不是补让「保姆级发音拆解」(3483)",
+     "美国原版，颜色这样学！brown(6320)"
+    ]
+   },
+   "suggest": [
+    "brownbear绘本歌曲",
+    "brown bear",
+    "browneyes真命天女",
+    "BrownDust2",
+    "brownbear绘本教学",
+    "Brown Eyed Girls",
+    "browneyesmv",
+    "browneyes教学"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+  "url": "https://github.com/FrigadeHQ/hob",
+  "hn": "https://news.ycombinator.com/item?id=50246238",
+  "points": 150,
+  "comments": 34,
+  "date": "2026-10-26",
+  "status": "原链 200 OK",
+  "excerpt": "An easier way to use AI on your own computer. A free, open-source alternative to Claude and ChatGPT that runs open-weight models like Gemma and gpt-oss locally on Mac, Windows and Linux. ‖ A free, open-source alternative to Claude and ChatGPT. Fill out PDFs, work through documents, and much more. Free, private, and works offline. Hob picks the best frontier ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1160,
+    "recent_median": 327,
+    "max_play": 916315,
+    "recent30d": 14,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(916315)",
+     "R18解禁？ChatGPT开放成人内容，解放第一生产力|ROG Xbox掌机X实机体验|(459550)",
+     "利用ChatGPT快速发表高质量SCI论文(128429)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt",
+    "chatgpt电脑端安装",
+    "chatgptplus如何购买",
+    "chatgpt国内使用教程",
+    "chatgpt安装教程",
+    "chatgpt6",
+    "chatgpt安卓下载"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+  "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-27",
+  "desc": "",
+  "status": "原链 200 OK · 正文经 jina",
+  "excerpt": "Title: Opera introduces a new web standard to let users deploy AI locally in their browser URL Source: https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/ Published Time: 2026-10-27T13:00:00+00:00 Markdown Content: Browser maker Opera has introduced a new web standard that lets users to run AI models directly in its browser, without relying on the clo",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Opera",
+  "cn": {
+   "kw": "Opera",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 84653,
+    "recent_median": 499,
+    "max_play": 4923913,
+    "recent30d": 1,
+    "top": [
+     "OPERA PMS散客实操(50357)",
+     "【谱面确认】【MAIMAI DX】【Beat Opera op.1】 Master 13(43137)",
+     "《鍘美案》【京劇】~酷雲劇場  Taipei Li-Yuan Peking Opera (499)"
+    ]
+   },
+   "suggest": [
+    "opera",
+    "opera浏览器",
+    "酒店opera系统教学",
+    "operationouch第一季",
+    "operatingsystem",
+    "operatenow",
+    "operatenowhospital",
+    "operation"
+   ],
+   "hot": false,
+   "verdict": "近期空白(历史有爆款)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+  "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-27",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Nvidia participated in the all-primary Series B round alongside Accel, Shastra VC, and Micromax, with Dallas Venture Capital leading the investment. The deal values ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2271,
+    "recent_median": 3798,
+    "max_play": 346320,
+    "recent30d": 16,
+    "top": [
+     "【双语音+文稿】（完整版）2026 英伟达GTC柏林大会：英伟达创始人兼CEO黄仁勋发表(7539)",
+     "5060 4K 3A 跑到 300 帧？英伟达 621.01 驱动实测(768)",
+     "黄仁勋在NVIDIA RTX Spark大会上，与microduck小机器人可爱互动！(49580)"
+    ]
+   },
+   "suggest": [
+    "英伟达",
+    "英伟达显卡驱动",
+    "英伟达spark",
+    "英伟达股票暴跌",
+    "英伟达app",
+    "英伟达n卡显卡驱动下载及安装教程",
+    "英伟达暴跌",
+    "英伟达或推迟RTX6060发布时间"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+  "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-27",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent. ‖ Buy One Founder Summit Ticket, Get a Second for Free. AI How OpenAI turned its coding tools into dots, an always-on personal assistant Tim Fernholz 7:00 PM PDT · October 26, 2026 The always-on AI personal assistant, which keeps workin",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6360,
+    "recent_median": 6360,
+    "max_play": 216170,
+    "recent30d": 20,
+    "top": [
+     "OpenAI推翻ETH：改写计算机底层规则(19373)",
+     "OpenAI又有重大突破？一口气公布三项重磅科学成果！(145467)",
+     "核弹将至！OpenAI超10万亿参数GPT-6 Bel｜绿鸭AI日报1026(41053)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openai怎么下载",
+    "OpenAI发布722篇数学论文",
+    "OpenAI暂停其最强模型训练",
+    "openaiAPI密钥",
+    "openai 数学",
+    "openai失控",
+    "openai创始人"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]
