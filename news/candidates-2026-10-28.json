@@ -1,0 +1,456 @@
+[
+ {
+  "src": "HN",
+  "title": "Anthropic S-1",
+  "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+  "hn": "https://news.ycombinator.com/item?id=50242939",
+  "points": 1697,
+  "comments": 1663,
+  "date": "2026-10-26",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "（未取到正文，仅标题可用；写稿时不要补细节）",
+  "dup": true,
+  "dup_why": "1天前(2026-10-27)用过同一条链接",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7832,
+    "recent_median": 5773,
+    "max_play": 2044752,
+    "recent30d": 17,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(88626)",
+     "《Claude Opus 5.5の小曲》《克劳德の小曲》《文明の小曲》(445779)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2044752)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude code",
+    "claude封号",
+    "claudecode安装教程",
+    "claude是什么",
+    "Claude Opus 5.5"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI promised less work. I've never worked more",
+  "url": "https://oioannou.com/blog/ai-promised-less-work/",
+  "hn": "https://news.ycombinator.com/item?id=50257325",
+  "points": 649,
+  "comments": 643,
+  "date": "2026-10-27",
+  "status": "原链 200 OK",
+  "excerpt": "Agents made implementation cheap, so I started doing far more of it in parallel. My GitHub history since 2019 shows what that did: as VP of Technology I am back at my full-stack engineer pace, with bursts, burnout and a low season that is no longer low. ‖ The pitch was that AI would give us our time back. Write less boilerplate, delegate the boring parts, go",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "GPT-6.1 Terra",
+  "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+  "hn": "https://news.ycombinator.com/item?id=50248124",
+  "points": 628,
+  "comments": 423,
+  "date": "2026-10-26",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：Wow. If those charts are true, this effectively matches GPT-6-Astra at a fraction of the cost, and is neck-and-neck with / People keep asking OpenAI for a mode that's as good as Opus 5.5, and they release this instead. Interesting strategy. Le / The benchmarks are already saturated and the curves for Terra stick to the axes. / I rather enjoy OpenAI's",
+  "dup": true,
+  "dup_why": "1天前(2026-10-27)用过同一条链接",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 696,
+    "recent_median": 389,
+    "max_play": 922137,
+    "recent30d": 14,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(922137)",
+     "11月份了ChatGPT还值得订阅吗? Go、Plus、Pro三档区别+实机演示(899)",
+     "利用ChatGPT快速发表高质量SCI论文(128591)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt电脑端安装",
+    "chatgpt",
+    "chatgpt国内使用教程",
+    "chatgptplus如何购买",
+    "chatgpt6",
+    "chatgpt安装教程",
+    "chatgpt手机版苹果怎么使用"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Wikipedia's Cleanup of AI-Generated Content",
+  "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+  "hn": "https://news.ycombinator.com/item?id=50257326",
+  "points": 484,
+  "comments": 219,
+  "date": "2026-10-27",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：There will be a point in the future, possibly near future, when AI will be capable of reliably producing encyclopedic co / Related:\"Low-background Steel: content without AI contamination (jgc.org)\" 10.jun.2025 https://news.ycombinator.com/item / Almost all of these websites or platforms are doing these massive cleanup to remove ai content from them. ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Wikipedia",
+  "cn": {
+   "kw": "Wikipedia",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2883,
+    "recent_median": 1187,
+    "max_play": 62510,
+    "recent30d": 4,
+    "top": [
+     "维基百科的正确打开方式——如何用Wikipedia做学术研究？（21世纪自学者指南+刘放(62510)",
+     "Corn Wave - Wikipedia Generation 吉他谱(6263)",
+     "【Wendover Productions】英字·趣读维基百科 That Wikiped(852)"
+    ]
+   },
+   "suggest": [
+    "wikipediageneration",
+    "Wikipediac",
+    "wikipedia如何进入",
+    "wikipedia是什么",
+    "wikipedia镜像",
+    "wikipediaより",
+    "wikipedia怎么用",
+    "wikipedia怎么打开"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "The Mythical Man-Month in the Age of AI",
+  "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+  "hn": "https://news.ycombinator.com/item?id=50255298",
+  "points": 461,
+  "comments": 332,
+  "date": "2026-10-27",
+  "status": "原链 200 OK",
+  "excerpt": "Last weekend I watched four people desperately trying to get a laptop to connect to a screen. I was happily observing their efforts, with zero intent to join in. My reply: \"Haha sorry no! My experience is that adding more people will not solve this problem any quicker\". It was formulated by computer scientist Frederick P. in his 1975 book The Mythical Man-Mo",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Mythical",
+  "cn": {
+   "kw": "Mythical",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7566,
+    "recent_median": 845,
+    "max_play": 2502619,
+    "recent30d": 8,
+    "top": [
+     "MONTAGEM MYTHICAL (Ultra Slowed)-DJ KVNXD/XE(170701)",
+     "【巴西FUNK】MONTAGEM MYTHICAL（全版本）(111175)",
+     "单曲循环 l 《MONTAGEM MYTHICAL (Slowed)》(116417)"
+    ]
+   },
+   "suggest": [
+    "mythical",
+    "Mythicalrocket",
+    "MythicalSausage",
+    "MYTHICALFUNK",
+    "mythicalfrontier",
+    "mythicalkitchen",
+    "mythicalbeasts",
+    "mythical厨房"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+  "url": "https://www.brangus.io/survival-llm",
+  "hn": "https://news.ycombinator.com/item?id=50264853",
+  "points": 400,
+  "comments": 152,
+  "date": "2026-10-27",
+  "status": "原链 200 OK",
+  "excerpt": "A free AI assistant and survival library (1.5 million offline articles) that runs on your own computer, with no internet. Shows the source of every answer. ‖ Survival LLM is a free AI assistant and emergency library that runs entirely on your own computer. Ask it how to keep food safe in a blackout, treat a burn, or purify water, and it answers from trusted ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "大模型",
+  "cn": {
+   "kw": "大模型",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 21350,
+    "recent_median": 4764,
+    "max_play": 4882496,
+    "recent30d": 14,
+    "top": [
+     "【全748集】目前B站最全最细的AI大模型零基础全套教程，2025最新版，包含所有干货！(3863036)",
+     "从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！(2169779)",
+     "黑马程序员AI大模型微调实战全套视频课程，从Prompt到LoRA，GPT系列/Chat(70599)"
+    ]
+   },
+   "suggest": [
+    "大模型零基础入门教程",
+    "大模型",
+    "大模型原理与应用",
+    "大模型训练全流程",
+    "大模型本地部署",
+    "大模型ai教程",
+    "大模型原理",
+    "大模型应用开发"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+  "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+  "hn": "https://news.ycombinator.com/item?id=50261819",
+  "points": 377,
+  "comments": 296,
+  "date": "2026-10-27",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：why was this FBI guy so forthcoming with this lady about his agency's arguably civil rights abuses? I mean I guess it's  / \"Citizens will be on their best behavior, because we’re constantly recording and reporting everything that is going on\"- / Source: https://www.aclu.org/news/privacy-technology/ai-driven-polic... (https://news.ycombinator.com/item",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Police",
+  "cn": {
+   "kw": "Police",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 281,
+    "recent_median": 144,
+    "max_play": 29693,
+    "recent30d": 13,
+    "top": [
+     "那就再剪一次POLICE(7204)",
+     "Cute Baby with Police Officer| Funny AI Baby(114)",
+     "POLICE(10164)"
+    ]
+   },
+   "suggest": [
+    "policechiefsimulator",
+    "police",
+    "policestories",
+    "policecar英文动画片",
+    "policesimulator",
+    "policestories教程",
+    "policeman0077",
+    "Policenauts"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+  "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+  "hn": "https://news.ycombinator.com/item?id=50261589",
+  "points": 330,
+  "comments": 258,
+  "date": "2026-10-27",
+  "status": "原链 200 OK",
+  "excerpt": "Amazon is gutting its AI labs and funneling its resources into a new project headed by a noted AI robotics guru.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "亚马逊",
+  "cn": {
+   "kw": "亚马逊",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 36947,
+    "recent_median": 2192,
+    "max_play": 3273195,
+    "recent30d": 13,
+    "top": [
+     "亚马逊FBA运营系列教程，零基础亚马逊跨境电商运营教程合集 亚马逊入门实操教程 小白入门(2207414)",
+     "野性与魅惑的交响曲 1307神鹰亚马逊卡组 补充combo合集(1257)",
+     "和亚马逊原始部落一起生活5天，并狩猎猴子(405625)"
+    ]
+   },
+   "suggest": [
+    "亚马逊",
+    "亚马逊跨境电商零基础入门",
+    "亚马逊跨境电商运营教程",
+    "亚马逊雨林",
+    "亚马逊广告打法和思路",
+    "亚马逊跨境电商",
+    "亚马逊雨林纪录片",
+    "亚马逊购物"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Concerning behavior from a popular open-weight AI model",
+  "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+  "hn": "https://news.ycombinator.com/item?id=50246658",
+  "points": 327,
+  "comments": 128,
+  "date": "2026-10-26",
+  "status": "原链 200 OK",
+  "excerpt": "Discover how untrusted open-weight AI models can potentially leak data, even when self-hosted. Learn the security risks and how to protect your enterprise. ‖ Rerank 5 is here: sharper search, fewer tokens. Now with Context Focus. Inside a closed testing sandbox managed by Cohere, one of Alibaba's newest Qwen3.8 models attempted to push a diagnostic file towa",
+  "dup": true,
+  "dup_why": "1天前(2026-10-27)用过同一条链接",
+  "cn_kw": "Concerning",
+  "cn": {
+   "kw": "Concerning",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1045,
+    "recent_median": 136,
+    "max_play": 24315,
+    "recent30d": 1,
+    "top": [
+     "【英语词汇】一类特殊的介词——来自于动词的介词 concerning, regardin(1691)",
+     "【无损Hi-Res】指环王-夏尔主题曲（Concerning Hobbits）(16107)",
+     "每天学英语：concern 与 concerning 和 concerned(178)"
+    ]
+   },
+   "suggest": [
+    "concerninghobbits",
+    "concerning",
+    "concerninghobbits钢琴",
+    "concerninghobbits小提琴",
+    "concerninghobbits口琴",
+    "concerninghobbits哨笛",
+    "concerninghobbits简谱",
+    "concerninghobbits吉他"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "The data center boom has an upside: innovation for the US grid",
+  "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-27",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Critics say this upswell in connections is enacting a stress test on America’s aging grid infrastructure. Worries abound that, in the short term, t",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+  "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-27",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "America",
+  "cn": {
+   "kw": "America",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 5276,
+    "recent_median": 779,
+    "max_play": 3635526,
+    "recent30d": 6,
+    "top": [
+     "[GTA明镜公园电台]Living In America[MV]-DOM(1323)",
+     "【稳定更新】20261028 ABC news | ABC新闻 | Good Morni(727)",
+     "【稳定更新】20261027 ABC news | ABC新闻 | Good Morni(1315)"
+    ]
+   },
+   "suggest": [
+    "America",
+    "American",
+    "Americanbeauty",
+    "America歌曲",
+    "AmericasGotTalent",
+    "americanboy",
+    "americanfxxkyeah",
+    "AmericanProfessional"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+  "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-27",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Frontier",
+  "cn": {
+   "kw": "Frontier",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 22127,
+    "recent_median": 1659,
+    "max_play": 372503,
+    "recent30d": 2,
+    "top": [
+     "VINAI &amp; SCNDL - Frontier (Original Mix)(52120)",
+     "【电音】Doctor Vox - Frontier【自制音乐可视化】(38254)",
+     "【音街ウナ &amp; 重音テト】Frontier【ごどね】(1537)"
+    ]
+   },
+   "suggest": [
+    "frontier",
+    "frontiers投稿流程",
+    "frontiers期刊",
+    "frontierexplorer",
+    "frontier口哨版",
+    "Frontier纯音乐",
+    "frontier投稿流程",
+    "frontier返修"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ }
+]

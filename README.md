@@ -7,6 +7,27 @@
 ## 最新资讯
 
 
+### 2026-10-28（周三·工程落地）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-10-28 周三
+
+1. **别把银行密码交给AI助手** — 美国银行提醒客户：只要是你授权AI代理去操作账户，产生的交易和损失，「你都要负责」。AI代理拿到密码后，系统看它跟你本人点的一样，事后很难证明不是你干的。查余额可以让AI做，动钱的事自己来。
+   来源：TechCrunch https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/
+
+2. **断网也能用的AI，自带150万篇资料** — 一个免费AI助手装在自己电脑上，全程不联网也能回答：停电怎么保食物、烫伤怎么处理、水怎么净化。它还会标出答案来自哪份手册，能自己核对。说明AI不一定非得连云端，本地部署在停电、没信号时才最有用。
+   来源：brangus.io https://www.brangus.io/survival-llm ／HN 讨论 https://news.ycombinator.com/item?id=50264853
+
+3. **AI说好省时间，结果更忙了** — 一位技术副总裁拿自己2019年以来的代码记录对比：AI让动手做变便宜后，他没有变闲，而是同时推进更多项目，工作量回到全职工程师水平，还一阵一阵爆发。省下的时间没变成休息，老板和同事的预期反而更高了。解法是自己定一个到点就停的上限。
+   来源：oioannou.com https://oioannou.com/blog/ai-promised-less-work/ ／HN 649分 https://news.ycombinator.com/item?id=50257325
+
+4. **警察用AI判断你可不可疑** — 美国有警察部门用AI分析驾驶行为，把「看起来可疑」的车拦下来。讨论里被反复引用的官方说法是：人们会更守规矩，因为我们一直在记录和上报一切。问题不在AI准不准，而在「可疑」的标准谁定、能不能申诉。
+   来源：HN 377分（原报道链接已失效）https://news.ycombinator.com/item?id=50261819
+
+5. **维基百科开始清理AI写的内容** — IEEE《光谱》报道，维基百科编辑志愿者成立了「AI写作清理」专门项目，成批挑出AI生成且未经核实的文字，删掉或重写。维基是很多人查资料的第一站，掺假的成本落在学生、家长和记者身上。争的不是AI能不能写，而是写完有没有人负责核实。
+   来源：IEEE Spectrum https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup
+
+
 ### 2026-10-27（周二·AI 安全与行业）
 
 1. **GPT-6.1 Terra 上线：更便宜，也更能打** — OpenAI 上线新模型 GPT-6.1 Terra。Hacker News 上 603 分、383 条讨论。有程序员看完图表称：效果基本追平上一代旗舰 GPT-6-Astra，成本却只是一小部分；也有人认为测试分数已饱和，看不出真实差距。对普通人：好用的 AI 正在变便宜，升级前可以再等等。来源：Hacker News https://news.ycombinator.com/item?id=50248124
@@ -101,26 +122,11 @@
    来源：Mistral https://mistral.ai/news/mistral-large-4/
 
 
-### 2026-10-21（周三·工程落地）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-10-21 周三
-
-1. **AI 写的代码，你敢不看就上线** — Hacker News 上一位工程师发问：AI 写的代码我没完全看懂就上线了，这正常吗？718 条评论吵成两派。一派说能跑、测试过就够了；另一派卡在细节上——AI 同时写代码又写测试，两边可能一起错，测试全绿也不代表逻辑对。最后形成的共识是：看不懂的部分至少要能说清碰了哪些数据、出问题怎么回退、谁负责半夜修。来源：Hacker News 594 pts https://news.ycombinator.com/item?id=50151036
-
-2. **聊天软件偷偷教 AI 别乱说话** — 安全研究者发现 WhatsApp 帮助页面里藏着给 AI 的指令：不推荐数据保护监管机构、不引用欧洲隐私法条文。律师介入后这些备注被删除。页面写给用户看的隐私政策说「你可以去投诉」，背后的 AI 却被交代了相反的话。来源：Hacker News 731 pts https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions
-
-3. **DeepSeek 把推理秘诀开源了** — DeepSeek 开源 DeepInfer，一个面向大模型推理阶段的高性能框架。发布一天冲到 Hacker News 榜首，2268 分、870 条评论。训练是一次性成本，推理是天天烧钱，谁用得越多这部分越贵。开源的是「怎么跑得更省」的方法，不是模型本身。来源：Hacker News 2268 pts https://github.com/deepseek-ai/DeepInfer
-
-4. **一个人同时开 4 个 AI 干活** — 有人把用 tmux 管多个 AI 编程助手的配置写成教程：一个项目一个会话，关掉终端或 SSH 断线都不中断；用命令把任务「敲」进会话，再把输出「抓」回来读。作者也写了上限：超过 4 个就开始乱，真正的瓶颈是人看不过来。来源：Hacker News 168 pts https://crystl.dev/guides/tmux-for-ai-agents
-
-5. **Steam 玩家求一个「屏蔽 AI」按钮** — 新品节里 AI 生成的粗糙作品明显增多，玩家集体要求平台加过滤。这不是反对技术，是挑游戏的成本被推高了：以前翻十个试玩能碰到一个有意思的，现在可能要翻三十个。平台尚未回应。来源：Hacker News 179 pts https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 10-28 | [→](daily/2026-10-28.md) |
 | 10-27 | [→](daily/2026-10-27.md) |
 | 10-26 | [→](daily/2026-10-26.md) |
 | 10-25 | [→](daily/2026-10-25.md) |
@@ -150,4 +156,3 @@
 | 09-30 | [→](daily/2026-09-30.md) |
 | 09-29 | [→](daily/2026-09-29.md) |
 | 09-28 | [→](daily/2026-09-28.md) |
-| 09-27 | [→](daily/2026-09-27.md) |
