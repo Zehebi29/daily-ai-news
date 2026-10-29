@@ -1,0 +1,475 @@
+[
+ {
+  "src": "HN",
+  "title": "Gemini 4 Carbon",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+  "hn": "https://news.ycombinator.com/item?id=50276792",
+  "points": 958,
+  "comments": 771,
+  "date": "2026-10-28",
+  "status": "原链 200 OK",
+  "excerpt": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3601,
+    "recent_median": 3809,
+    "max_play": 65469,
+    "recent30d": 18,
+    "top": [
+     "【突发】谷歌发布 Gemini 4 Carbon，AA 跑分超 Opus 5.5！3D (54545)",
+     "Artificial Analysis 刚更新，Gemini 就登顶了(4505)",
+     "谷歌终于又回来了！Gemini 4 Carbon：15 项第一，三维案例更抢眼(7930)"
+    ]
+   },
+   "suggest": [
+    "gemini",
+    "gemini使用教程",
+    "Gemini 4 Argon",
+    "gemini道歉",
+    "gemini4carbon",
+    "gemini小游戏",
+    "gemini4",
+    "geminifourth"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI promised less work. I've never worked more",
+  "url": "https://oioannou.com/blog/ai-promised-less-work/",
+  "hn": "https://news.ycombinator.com/item?id=50257325",
+  "points": 674,
+  "comments": 657,
+  "date": "2026-10-27",
+  "status": "原链 200 OK",
+  "excerpt": "Agents made implementation cheap, so I started doing far more of it in parallel. My GitHub history since 2019 shows what that did: as VP of Technology I am back at my full-stack engineer pace, with bursts, burnout and a low season that is no longer low. ‖ The pitch was that AI would give us our time back. Write less boilerplate, delegate the boring parts, go",
+  "dup": true,
+  "dup_why": "1天前(2026-10-28)用过同一条链接",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+  "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+  "hn": "https://news.ycombinator.com/item?id=50260814",
+  "points": 586,
+  "comments": 295,
+  "date": "2026-10-27",
+  "status": "原链 200 OK",
+  "excerpt": "The AI company pirated at least 10 Stanford academics’ work in a $1.5 billion copyright settlement.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 5915,
+    "recent_median": 2707,
+    "max_play": 2049949,
+    "recent30d": 16,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(94512)",
+     "分享一个无限注册Claude、GPT账号的方法(2327)",
+     "Claude code搞定综述论文发表(29367)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "Claude Opus 5.5",
+    "claude封号",
+    "claude code",
+    "claudecode安装教程",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+  "url": "https://www.brangus.io/survival-llm",
+  "hn": "https://news.ycombinator.com/item?id=50264853",
+  "points": 528,
+  "comments": 196,
+  "date": "2026-10-27",
+  "status": "原链 200 OK",
+  "excerpt": "A free AI assistant and survival library (1.5 million offline articles) that runs on your own computer, with no internet. Shows the source of every answer. ‖ Survival LLM is a free AI assistant and emergency library that runs entirely on your own computer. Ask it how to keep food safe in a blackout, treat a burn, or purify water, and it answers from trusted ",
+  "dup": true,
+  "dup_why": "1天前(2026-10-28)用过同一条链接",
+  "cn_kw": "大模型",
+  "cn": {
+   "kw": "大模型",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 8626,
+    "recent_median": 2232,
+    "max_play": 3864491,
+    "recent30d": 14,
+    "top": [
+     "【全748集】目前B站最全最细的AI大模型零基础全套教程，2025最新版，包含所有干货！(3864491)",
+     "从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！(2175667)",
+     "【双11大促】AI 大模型全栈开发上岸集训营(39532)"
+    ]
+   },
+   "suggest": [
+    "大模型零基础入门教程",
+    "大模型",
+    "大模型应用开发",
+    "大模型本地部署",
+    "小爱音箱接入大模型",
+    "大模型训练全流程",
+    "大模型原理",
+    "ai大模型排名"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Wikipedia's Cleanup of AI-Generated Content",
+  "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+  "hn": "https://news.ycombinator.com/item?id=50257326",
+  "points": 509,
+  "comments": 237,
+  "date": "2026-10-27",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：There will be a point in the future, possibly near future, when AI will be capable of reliably producing encyclopedic co / Related:\"Low-background Steel: content without AI contamination (jgc.org)\" 10.jun.2025 https://news.ycombinator.com/item / Almost all of these websites or platforms are doing these massive cleanup to remove ai content from them. ",
+  "dup": true,
+  "dup_why": "1天前(2026-10-28)用过同一条链接",
+  "cn_kw": "Wikipedia",
+  "cn": {
+   "kw": "Wikipedia",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2890,
+    "recent_median": 734,
+    "max_play": 62528,
+    "recent30d": 5,
+    "top": [
+     "维基百科的正确打开方式——如何用Wikipedia做学术研究？（21世纪自学者指南+刘放(62528)",
+     "「后朋克」“一切的缘由，都已消逝殆尽。”丨wikipedia generation丨维基(121)",
+     "Corn Wave - Wikipedia Generation 吉他谱(6268)"
+    ]
+   },
+   "suggest": [
+    "wikipediac",
+    "wikipediageneration",
+    "wikipedia如何进入",
+    "wikipedia下载",
+    "wikipedia是什么",
+    "wikipedia镜像",
+    "wikipediaより",
+    "wikipedia怎么用"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "The Mythical Man-Month in the Age of AI",
+  "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+  "hn": "https://news.ycombinator.com/item?id=50255298",
+  "points": 482,
+  "comments": 355,
+  "date": "2026-10-27",
+  "status": "原链 200 OK",
+  "excerpt": "Last weekend I watched four people desperately trying to get a laptop to connect to a screen. I was happily observing their efforts, with zero intent to join in. My reply: \"Haha sorry no! My experience is that adding more people will not solve this problem any quicker\". It was formulated by computer scientist Frederick P. in his 1975 book The Mythical Man-Mo",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Mythical",
+  "cn": {
+   "kw": "Mythical",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 5636,
+    "recent_median": 1341,
+    "max_play": 2503618,
+    "recent30d": 8,
+    "top": [
+     "MONTAGEM MYTHICAL (Ultra Slowed)-DJ KVNXD/XE(171309)",
+     "【巴西FUNK】MONTAGEM MYTHICAL（全版本）(111482)",
+     "单曲循环 l 《MONTAGEM MYTHICAL (Slowed)》(116682)"
+    ]
+   },
+   "suggest": [
+    "mythical",
+    "Mythicalrocket",
+    "MythicalSausage",
+    "mythicalbeasts",
+    "MYTHICALFUNK",
+    "mythicalkitchen",
+    "mythicalfrontier",
+    "mythical厨房"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+  "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+  "hn": "https://news.ycombinator.com/item?id=50273396",
+  "points": 470,
+  "comments": 507,
+  "date": "2026-10-28",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：> “The process and work involved in thinking through situations, through my work, through my ethics, through the way I h / > “It has to be a deeply held ethical commitment that’s analogous to a religious commitment,” he said. “That’s a fact qu / This is great for him until the goals given him are unachievable, in the given timelines, by human thinkin",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Kentucky",
+  "cn": {
+   "kw": "Kentucky",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1801,
+    "recent_median": 794,
+    "max_play": 70543,
+    "recent30d": 4,
+    "top": [
+     "调酒练习 | D67：Kentucky Maid 肯塔基少女(1870)",
+     "你能在现实中击败《怪奇物语》里的Demogorgon吗？ | Kentucky Ball(570)",
+     "非古雪茄佰草集之木瓦特肯塔基火烤-矮胖子（Muwat Kentucky Fire Cur(7411)"
+    ]
+   },
+   "suggest": [
+    "KentuckyBallistics",
+    "Kentucky",
+    "kentuckyroutezero",
+    "kentucky肯塔基州",
+    "kentuckyfriedchicken",
+    "kentuckyballistics炸膛",
+    "kentuckyrain",
+    "kentuckybird"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Claude Code regularly sends each background agent’s transcript to its model",
+  "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+  "hn": "https://news.ycombinator.com/item?id=50284255",
+  "points": 452,
+  "comments": 183,
+  "date": "2026-10-29",
+  "status": "原链 200 OK",
+  "excerpt": "Claude Code burns ~15-20% of your tokens on a 3-word status line: a Bun preload that turns agent_summary off · by Flamerix AI, flamerix.ai · MIT - README.md ‖ Show Gist options Download ZIP Star 70 (70) You must be signed in to star a gist Fork 1 (1) You must be signed in to fork a gist Embed Select an option Embed Embed this gist in your website. Share Copy",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 5915,
+    "recent_median": 2707,
+    "max_play": 2049949,
+    "recent30d": 16,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(94512)",
+     "分享一个无限注册Claude、GPT账号的方法(2327)",
+     "Claude code搞定综述论文发表(29367)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "Claude Opus 5.5",
+    "claude封号",
+    "claude code",
+    "claudecode安装教程",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+  "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+  "hn": "https://news.ycombinator.com/item?id=50261819",
+  "points": 396,
+  "comments": 312,
+  "date": "2026-10-27",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：why was this FBI guy so forthcoming with this lady about his agency's arguably civil rights abuses? I mean I guess it's  / \"Citizens will be on their best behavior, because we’re constantly recording and reporting everything that is going on\"- / Source: https://www.aclu.org/news/privacy-technology/ai-driven-polic... (https://news.ycombinator.com/item",
+  "dup": true,
+  "dup_why": "1天前(2026-10-28)用过同一条链接",
+  "cn_kw": "Police",
+  "cn": {
+   "kw": "Police",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 920,
+    "recent_median": 236,
+    "max_play": 155438,
+    "recent30d": 12,
+    "top": [
+     "abu dhabi police(141)",
+     "Bhana managed to escape from the police with(128)",
+     "776. H50 Police Officers(459)"
+    ]
+   },
+   "suggest": [
+    "policechiefsimulator",
+    "police",
+    "policestories",
+    "policecar英文动画片",
+    "policeinlove",
+    "policeofficers",
+    "policestories手机版",
+    "policeman0077"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+  "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+  "hn": "https://news.ycombinator.com/item?id=50261589",
+  "points": 377,
+  "comments": 286,
+  "date": "2026-10-27",
+  "status": "原链 200 OK",
+  "excerpt": "Amazon is gutting its AI labs and funneling its resources into a new project headed by a noted AI robotics guru.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "亚马逊",
+  "cn": {
+   "kw": "亚马逊",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3857,
+    "recent_median": 1627,
+    "max_play": 2214294,
+    "recent30d": 14,
+    "top": [
+     "亚马逊FBA运营系列教程，零基础亚马逊跨境电商运营教程合集 亚马逊入门实操教程 小白入门(2214294)",
+     "亚马逊真的变好了？(3301)",
+     "[4K修复][双语字幕]假面骑士Amazons第一季 未删减 完整版 亚马逊们(112454)"
+    ]
+   },
+   "suggest": [
+    "亚马逊跨境电商零基础入门",
+    "亚马逊",
+    "亚马逊跨境电商运营教程",
+    "亚马逊跨境电商",
+    "亚马逊雨林",
+    "亚马逊雨林纪录片",
+    "亚马逊广告打法和思路",
+    "亚马逊怎么下载"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+  "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-29",
+  "desc": "",
+  "status": "原链 200 OK · 正文经 jina",
+  "excerpt": "Title: Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure URL Source: https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/ Published Time: 2026-10-29T13:00:00+00:00 Markdown Content: The voice AI sector is hot, and top players are trying to consolidate their position as more business models come to the fore through partnerships and a",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Deepgram",
+  "cn": {
+   "kw": "Deepgram",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 549,
+    "recent_median": 1386,
+    "max_play": 72962,
+    "recent30d": 2,
+    "top": [
+     "说话反应最快的AI！如何用Groq + Deepgram打造？【源代码分享】(1940)",
+     "Deepgram Aura实时语言对话式AI代理，在TTS中引入更对语音细节(321)",
+     "基于LangGraph的DeepAgent实践(99)"
+    ]
+   },
+   "suggest": [
+    "deepgram教程"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Google expands AI Search ads globally as core ad growth slows",
+  "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-28",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion. ‖ Buy One Founder Summit Ticket, Get a Second for Free. The announcement came Wednesday during Alphabet’s third-quarter earnings call, as the company reported $127.6 billion in revenue, up 25% year over year. B",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6106,
+    "recent_median": 6106,
+    "max_play": 4063156,
+    "recent30d": 14,
+    "top": [
+     "谷歌发布Genie4：重新定义“世界模型”(29493)",
+     "AI改变美联储？甲骨文引领格局？谷歌暴跌10%！微软稳如泰山！海力士提振信心！(7355)",
+     "谷歌跌停！纳指期货大跌，发生了什么？(15079)"
+    ]
+   },
+   "suggest": [
+    "谷歌",
+    "谷歌账号怎么注册",
+    "谷歌浏览器怎么下",
+    "谷歌地图",
+    "谷歌登录不上怎么办",
+    "谷歌play打不开",
+    "谷歌Carbon",
+    "谷歌服务框架"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]

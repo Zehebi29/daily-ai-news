@@ -7,6 +7,22 @@
 ## 最新资讯
 
 
+### 2026-10-29（周四·AI 信息差）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-10-29 周四
+
+1. **谷歌甩出新模型 Gemini 4 直接登顶** — 谷歌发布 Gemini 4 Carbon，官方称是目前最强模型，主攻网络安全和长任务能力。发布当天它冲上国外技术榜第一，958 赞、771 条讨论。国内带 Gemini 名字的内容近 30 天有 18 条但都没做火，需求在、讲清楚的人缺。跟普通人有关：模型每升一代，你手机里的 AI 助手就聪明一档；「长任务」能力一上来，很多要人盯着的活真能撒手。来源：Hacker News 958pts https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
+
+2. **AI 说帮你省时间，结果活越干越多** — 一位技术副总裁摊开自己 2019 年至今的代码提交记录：AI 让写代码变便宜，他就同时开无数个活，效率回到全职程序员巅峰，代价是烧尽，连淡季都不闲。文章在 HN 拿到 674 赞、657 条评论。关键结论：AI 省下的时间不会自动变成休息，会被新任务填满；决定你累不累的不是工具多快，是你手上同时压着几件事。来源：Hacker News 674pts https://oioannou.com/blog/ai-promised-less-work/
+
+3. **15 亿美元和解案牵出偷书训练** — 斯坦福校报调查：Anthropic 训练 Claude 时用了至少 10 位斯坦福教授被非法下载的书，事件发生在一桩 15 亿美元版权和解案里。对普通人的影响：你发到网上的内容默认会被当成免费训练材料；这类官司的成本最后会摊到订阅费上，便宜的 AI 会员涨价理由就在这里。来源：Hacker News 586pts https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/
+
+4. **断网也能问 AI，自带 150 万篇资料** — Survival LLM 完全跑在自己电脑上，不用联网，内置 150 万篇离线文章，覆盖停电储粮、烫伤处理、净水，还会标出答案出自哪一篇。国内「大模型本地部署」是真实搜索词，近 30 天 14 条内容没做火，历史最高播放 386 万，缺口是把它讲成「普通人也能装」。来源：Hacker News 528pts https://www.brangus.io/survival-llm
+
+5. **亚马逊 AI 部门被整体拆掉** — 外媒报道亚马逊自研 AI 连续受挫后，拆掉 AI 部门，人和预算全转去一个机器人专家牵头的新项目。信号：从「不做 AI 就死」变成「做了做不出来就砍」。对普通人的提醒：别把重要工作全押在某家公司的某个功能上。国内「亚马逊跨境电商」历史最高播放 221 万，行业变动是现成选题。来源：Hacker News 377pts https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova
+
+
 ### 2026-10-28（周三·工程落地）
 
 📡 每日AI信息差 · 今日要点
@@ -102,30 +118,11 @@
 5. **英伟达给 AI 员工造了个安全笼子** — NVIDIA 开源 OpenShell，专跑成群的自主 agent，把权限与隔离做在底层。AI 从「回答」走向「代办」，风险从说错话变成做错事。来源：Hacker News 429pts https://news.ycombinator.com/item?id=50198675
 
 
-### 2026-10-22（周四·安全与钱）
-
-📡 每日AI信息差 · 今日要点
-
-1. **网页背后的老地基裂了** — 安全公司 Wiz 和 OpenAI 联手，用 AI 在 PHP 底层代码里挖出几个很早以前埋下的漏洞。坏人能远程指挥服务器替自己干活，还能像当年「心脏出血」那样一点点读出服务器内存里的东西。重点是大家共用同一套地基，一个洞能顺着一大片网站往下传。这两天收到「请尽快修改密码」的站内信，别当诈骗直接删，改密码、开二次验证是最便宜的自保。
-   来源：Wiz · HN 442分 https://news.ycombinator.com/item?id=50180836
-
-2. **AI 替你下单，两家巨头走了相反的路** — 亚马逊开始在自己站上拦 AI 助手代下单；沃尔玛反着来，允许 AI 替顾客完成购买，但设了花钱上限、每笔交易还要本人确认。等于把你从「点鼠标的人」变成「批预算的人」。能不能让 AI 替你买东西，正在从技术问题变成规则问题：谁授权、谁负责、出错谁赔。
-   来源：TechCrunch https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/
-
-3. **Anthropic 半年亏掉 800 多亿美元** — 同期收入 168 亿美元、涨 45%，去年已亏 420 亿。收入在涨、亏损更大，是典型的「越跑越缺钱」。现在便宜的 AI 订阅，本质是投资人在替你补贴；等他们要看回报，涨价、限次数、砍免费额度都会来。
-   来源：路透 / WSJ https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/
-
-4. **玩家喊话 Steam：加个「不要 AI」按钮** — 新品节试玩里粗制滥造的游戏比往年更多，一眼能看出是 AI 批量生成的画和文案。本该是独立小团队露脸的机会，被这类东西挤得很难被看见。玩家不是反 AI，是反被糊弄；生成变便宜后，能筛掉垃圾的品味反而更值钱。
-   来源：IGN · HN 183分 https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop
-
-5. **Mistral Large 4：开源最强，能搬回自己家** — 法国 Mistral 发布 Large 4（外号 le Chonk），权重公开、可自己部署，主打「开源模型里的最强」，目前是公开预览版，还没到随便上生产的阶段。闭源越贵，开源追得越紧；企业把模型搬回自己服务器，数据不出门、成本可控，最终会压低你用到的 AI 工具的价格与隐私条款。
-   来源：Mistral https://mistral.ai/news/mistral-large-4/
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 10-29 | [→](daily/2026-10-29.md) |
 | 10-28 | [→](daily/2026-10-28.md) |
 | 10-27 | [→](daily/2026-10-27.md) |
 | 10-26 | [→](daily/2026-10-26.md) |
@@ -155,4 +152,3 @@
 | 10-02 | [→](daily/2026-10-02.md) |
 | 09-30 | [→](daily/2026-09-30.md) |
 | 09-29 | [→](daily/2026-09-29.md) |
-| 09-28 | [→](daily/2026-09-28.md) |
