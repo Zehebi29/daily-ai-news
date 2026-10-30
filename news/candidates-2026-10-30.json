@@ -1,0 +1,454 @@
+[
+ {
+  "src": "HN",
+  "title": "We're releasing the weights of Mistral Large 4",
+  "url": "https://mistral.ai/news/mistral-large-4-oss/",
+  "hn": "https://news.ycombinator.com/item?id=50289418",
+  "points": 1558,
+  "comments": 408,
+  "date": "2026-10-29",
+  "status": "原链 200 OK",
+  "excerpt": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe. ‖ Mistral released Mistral Large 4 (Le Chonk), a 1-trillion-parameter multimodal model, now available with improved coding, cybersecurity, and reasoning efficiency. It leads open-weight benchmarks in coding and de",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Mistral",
+  "cn": {
+   "kw": "Mistral",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 60,
+    "recent_median": 60,
+    "max_play": 78333,
+    "recent30d": 20,
+    "top": [
+     "编码比肩GLM-5.3！Mistral开源Large 4，1T参数炸场！ | 10月29(3460)",
+     "Codex Pro用户额度翻倍；GPT-6.2代号疑似曝光；Qwen4预告下周发布；Mi(13067)",
+     "法国模型 MistralLarge4 冲出欧洲，走向屎山｜屎山考核(78333)"
+    ]
+   },
+   "suggest": [
+    "MistralLarge4",
+    "mistral模型",
+    "MistralAI",
+    "mistral大模型",
+    "mistral免费",
+    "mistral娘",
+    "mistral4",
+    "mistralsmall3"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Gemini 4 Carbon",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+  "hn": "https://news.ycombinator.com/item?id=50276792",
+  "points": 1007,
+  "comments": 800,
+  "date": "2026-10-28",
+  "status": "原链 200 OK",
+  "excerpt": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+  "dup": true,
+  "dup_why": "1天前(2026-10-29)用过同一条链接",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7625,
+    "recent_median": 7625,
+    "max_play": 291163,
+    "recent30d": 16,
+    "top": [
+     "后门获得Gemini Pro一年Telegram一键过SheerID学生认证原理(759)",
+     "Gemini 4 Argon 14天深度评测报告:世界第三稳了?优缺点及使用指南汇总(2348)",
+     "谷歌终于又回来了！Gemini 4 Carbon：15 项第一，三维案例更抢眼(10977)"
+    ]
+   },
+   "suggest": [
+    "gemini",
+    "gemini4argon",
+    "gemini4carbon",
+    "gemini使用教程",
+    "gemini4",
+    "gemini小游戏",
+    "gemini怎么下载",
+    "gemini不支持你所在地区"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Claude Code regularly sends each background agent’s transcript to its model",
+  "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+  "hn": "https://news.ycombinator.com/item?id=50284255",
+  "points": 569,
+  "comments": 232,
+  "date": "2026-10-29",
+  "status": "原链 200 OK",
+  "excerpt": "Claude Code burns ~15-20% of your tokens on a 3-word status line: a Bun preload that turns agent_summary off · by Flamerix AI, flamerix.ai · MIT - README.md ‖ Show Gist options Download ZIP Star 280 (280) You must be signed in to star a gist Fork 14 (14) You must be signed in to fork a gist Embed Select an option Embed Embed this gist in your website. Share ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13974,
+    "recent_median": 6439,
+    "max_play": 2054656,
+    "recent30d": 15,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(100913)",
+     "🐟️商务捕鲸了解一下🐟️DeepSeek&amp;ChatGPT&amp;Claude(20234)",
+     "Claude code搞定综述论文发表(29510)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "Claude Opus 5.5",
+    "claude封号",
+    "claude code",
+    "claude和deepseek",
+    "claude为什么不让中国用"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "LLM Voice",
+  "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+  "hn": "https://news.ycombinator.com/item?id=50290177",
+  "points": 514,
+  "comments": 270,
+  "date": "2026-10-29",
+  "status": "原链 200 OK",
+  "excerpt": "Sometimes when I read a post, I get the growing feeling that I'm reading the output of an LLM. I can't necessarily define why, although there are the common tells (it's not the em-dashes, it's the load-bearing tapestries). As I do this my desire to read on atrophies, sometimes to the point of revulsion There are tools out there that claim to be able to tell ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "大模型",
+  "cn": {
+   "kw": "大模型",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4166,
+    "recent_median": 1413,
+    "max_play": 3865866,
+    "recent30d": 14,
+    "top": [
+     "【全748集】目前B站最全最细的AI大模型零基础全套教程，2025最新版，包含所有干货！(3865866)",
+     "从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！(2180660)",
+     "黑马程序员AI大模型微调实战全套视频课程，从Prompt到LoRA，GPT系列/Chat(74879)"
+    ]
+   },
+   "suggest": [
+    "大模型",
+    "大模型零基础入门教程",
+    "大模型原理",
+    "大模型应用开发",
+    "大模型本地部署",
+    "大模型训练全流程",
+    "ai大模型排名",
+    "大模型微调"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+  "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+  "hn": "https://news.ycombinator.com/item?id=50273396",
+  "points": 489,
+  "comments": 537,
+  "date": "2026-10-28",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：> “The process and work involved in thinking through situations, through my work, through my ethics, through the way I h / Let's see how all the \"religion doesn't belong in the workplace\" people will react now that the religion happens to alig / > “It has to be a deeply held ethical commitment that’s analogous to a religious commitment,” he said. “Th",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Kentucky",
+  "cn": {
+   "kw": "Kentucky",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2785,
+    "recent_median": 1630,
+    "max_play": 274275,
+    "recent30d": 2,
+    "top": [
+     "调酒练习 | D67：Kentucky Maid 肯塔基少女(1870)",
+     "Kentucky - donkeyboy(65)",
+     "【完结7P】肯塔基零号公路第一幕 Kentucky Route Zero Act I(19608)"
+    ]
+   },
+   "suggest": [
+    "KentuckyBallistics",
+    "Kentucky",
+    "kentuckyroutezero",
+    "kentuckyfriedchicken",
+    "kentucky肯塔基州",
+    "kentuckyrain",
+    "kentuckybird",
+    "kentuckyballistics炸膛"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Backdoors in official Claude Code extensions",
+  "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+  "hn": "https://news.ycombinator.com/item?id=50302334",
+  "points": 346,
+  "comments": 94,
+  "date": "2026-10-30",
+  "status": "原链 200 OK",
+  "excerpt": "Anthropic got compromised. Their Claude Code extension on Visual Studio Code and Cursor has malware in it, which creates a remote access Trojan to desktops. https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13974,
+    "recent_median": 6439,
+    "max_play": 2054656,
+    "recent30d": 15,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(100913)",
+     "🐟️商务捕鲸了解一下🐟️DeepSeek&amp;ChatGPT&amp;Claude(20234)",
+     "Claude code搞定综述论文发表(29510)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "Claude Opus 5.5",
+    "claude封号",
+    "claude code",
+    "claude和deepseek",
+    "claude为什么不让中国用"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+  "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+  "hn": "https://news.ycombinator.com/item?id=50293047",
+  "points": 335,
+  "comments": 227,
+  "date": "2026-10-29",
+  "status": "原链 200 OK",
+  "excerpt": "An alleged Chinese spy developed a “close relationship” with Nvidia CEO Jensen Huang, setting off alarms among US intelligence officials who were secretly monitoring her communications,… ‖ An alleged Chinese spy developed a “close relationship” with Nvidia CEO Jensen Huang, setting off alarms among US intelligence officials who were secretly monitoring her c",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3051,
+    "recent_median": 5754,
+    "max_play": 2173852,
+    "recent30d": 16,
+    "top": [
+     "美媒称中国女间谍与黄仁勋关系密切 英伟达回应！(70373)",
+     "【双语音+文稿】（完整版）2026 英伟达GTC柏林大会：英伟达创始人兼CEO黄仁勋发表(9817)",
+     "一口气看完英伟达柏林GTC！黄仁勋要赚整个AI产业的钱！(7736)"
+    ]
+   },
+   "suggest": [
+    "英伟达",
+    "英伟达显卡驱动",
+    "英伟达n卡显卡驱动下载及安装教程",
+    "英伟达暴跌",
+    "英伟达spark",
+    "英伟达股票暴跌",
+    "英伟达是什么",
+    "英伟达显卡驱动更新"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "We ran AI agent swarms in Minecraft and Mindustry",
+  "url": "https://labs.ycombinator.com/projects/games/index.html",
+  "hn": "https://news.ycombinator.com/item?id=50296486",
+  "points": 324,
+  "comments": 125,
+  "date": "2026-10-29",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：Interesting setups, I found the Minecraft agents to work in an almost turn-based manner, which makes me think that the t / I am more impressed by the embedded gameplay widget. Does anyone know what tool/library is that? That'd be so cool if I  / Its a little disappointing they have a hierarchy based purely off alphabetical order, i wonder if a slight",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 33362,
+    "recent_median": 4223,
+    "max_play": 1411667,
+    "recent30d": 8,
+    "top": [
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1411667)",
+     "通俗易懂地讲解什么是Agent？(179068)",
+     "从小白到接单·用Agent做AI视频(5899)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent使用教程",
+    "aiagent开发教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+  "url": "https://surgehq.ai/blog/dayjob-tax",
+  "hn": "https://news.ycombinator.com/item?id=50275626",
+  "points": 258,
+  "comments": 173,
+  "date": "2026-10-28",
+  "status": "原链 200 OK",
+  "excerpt": "DAYJOB: Tax evaluates AI agents across 50 realistic tax environments, testing their ability to navigate messy records, exercise professional judgment, and deliver reliable tax work. ‖ Anna was planning to sell her condo. She had moved out in August 2024 and wanted to know whether closing in October 2026 or January 2027 would be better for taxes. An AI agent ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 33362,
+    "recent_median": 4223,
+    "max_play": 1411667,
+    "recent30d": 8,
+    "top": [
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1411667)",
+     "通俗易懂地讲解什么是Agent？(179068)",
+     "从小白到接单·用Agent做AI视频(5899)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent使用教程",
+    "aiagent开发教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+  "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-30",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. This startup aims to find out Dominic-Madori Davis 6:00 AM PDT · October 30, 2026 AI infrastructure company Runware is makin",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+  "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-30",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. David Durman, a nontheistic humanist, recently secured a religious exemption from using AI in the workplace. “Humanism is a collection of beliefs about t",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Rivian expands joint venture with VW to include AI assistant",
+  "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-29",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Rivian",
+  "cn": {
+   "kw": "Rivian",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3030,
+    "recent_median": 1202,
+    "max_play": 18424,
+    "recent30d": 5,
+    "top": [
+     "全网首发！无缘国内？详聊Rivian R1S三电机版为何没有冰箱彩电大沙发却依旧出色！(18424)",
+     "RIVIAN R1T 拆解 第9集 车架(3162)",
+     "【补档】我花 1 万美元买下亚马逊价值 10 万美元的 Rivian 货车……现在我知道(16666)"
+    ]
+   },
+   "suggest": [
+    "RivianR2",
+    "rivianr1t",
+    "rivian汽车",
+    "rivian皮卡",
+    "rivianr1s",
+    "rivianr1",
+    "rivian货车",
+    "rivian拆解"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ }
+]

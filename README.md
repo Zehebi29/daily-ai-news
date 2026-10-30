@@ -7,6 +7,22 @@
 ## 最新资讯
 
 
+### 2026-10-30（周五·工具实测）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-10-30 周五
+
+1. **Anthropic 官方 Claude Code 插件被植入后门** — Anthropic 承认，Claude Code 在 VS Code 和 Cursor 里的官方扩展被人塞了恶意代码，会在电脑上开一道远程控制后门，不需要你再点任何东西。装过的人先禁用扩展，等修复版本。来源：Hacker News 346 分 🔗 https://news.ycombinator.com/item?id=50302334
+
+2. **Mistral Large 4 开放权重，1 万亿参数免费下载** — 法国 Mistral 把最大的模型直接放出，能看图能读字，官方称写代码能力在开源模型里排第一。模型文件在自己手里，公司数据可以不出门；但 1 万亿参数普通笔记本带不动，得靠专业显卡。来源：Hacker News 1558 分 🔗 https://news.ycombinator.com/item?id=50289418
+
+3. **谷歌发布 Gemini 4 Carbon，主打「自己干活」** — 官方称是自家最强模型，两个卖点是网络安全能力和长时间独立完成任务：接一个长任务能自己拆步骤往下做，几十分钟不用盯。国内短期仍难用上原版，看到「已接入 Gemini 4」的套壳宣传先别付钱。来源：Hacker News 1007 分 🔗 https://news.ycombinator.com/item?id=50276792
+
+4. **「AI 味」藏不住了：读到一半就知道是 AI 写的** — 软件界老前辈 Martin Fowler 写随笔说，AI 特征不是破折号也不是排版，是用滥的比喻和句式——每句都对，但连起来不像有人在说话。让人出结构、自己手写最后一段和具体例子，才是「有个人在」的证据。来源：Martin Fowler 博客 🔗 https://martinfowler.com/bliki/LLM-Voice.html
+
+5. **美国首例：以信仰为由获准上班不用 AI** — 肯塔基大学行政人员 David Durman 用「人文主义」信念拿到宗教豁免，理由是他认为思考必须由自己完成。单位认的标准是这个信念要像宗教信仰一样深。国内没这套制度，但「哪些判断必须人来做」可以谈。来源：TechCrunch 🔗 https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai/
+
+
 ### 2026-10-29（周四·AI 信息差）
 
 📡 每日AI信息差 · 今日要点
@@ -102,26 +118,11 @@
 5. **同一个 AI 问题，德州问比瑞典多排 8.5 倍碳** — 瑞典 AI 公司 Berget 与 SEI、WattTime 等机构研究者合作，开源了一套算法，能算出每次 AI 请求的碳排放，用户可在后台查看自己每次提问的排放。最刺眼的对比：同一个问题在德州问，排放是瑞典的 8.5 倍，模型和问题都一样，差别只在当地电网烧的是什么。AI 不是云里的事，它真的在烧电；「在哪算」和「算什么」一样重要。来源：Berget AI https://berget.ai/en/blog/per-request-co2-press-release
 
 
-### 2026-10-23（周五·工具实测）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-10-23 周五
-
-1. **Claude 不再等你提问，它开始主动找你** — Anthropic 上线 Claude Duet，能接管收件箱、日历和跟进，需要你拍板时才发消息问；跑在 Opus 5.5 上，Pro 套餐可用。重复的沟通活儿会先被它接走。来源：Hacker News 551pts https://news.ycombinator.com/item?id=50186037
-
-2. **OpenAI 要再融 300 亿美元，估值冲到 1.25 万亿** — TechCrunch 称新一轮最高 300 亿美元，赶在 IPO 之前；若成将是史上估值最高的未上市公司。你的订阅价和免费额度都建在这类预期上。来源：TechCrunch https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/
-
-3. **13 个 AI 被丢到荒岛，自己发明了游戏** — MIT 把 13 个跑 Claude Opus 4.7 的 agent 放进虚拟小岛，它们自己定规则、玩游戏，玩过之后干正经活反而更能干。来源：TechCrunch https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/
-
-4. **让 AI 报「我有把握」，基本等于让它瞎猜** — 有开发者写文指出：模型给的把握分是像概率的措辞，不是真实计算；可信的做法是让它标依据，或换问法多问几遍。来源：Hacker News 210pts https://news.ycombinator.com/item?id=50176082
-
-5. **英伟达给 AI 员工造了个安全笼子** — NVIDIA 开源 OpenShell，专跑成群的自主 agent，把权限与隔离做在底层。AI 从「回答」走向「代办」，风险从说错话变成做错事。来源：Hacker News 429pts https://news.ycombinator.com/item?id=50198675
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 10-30 | [→](daily/2026-10-30.md) |
 | 10-29 | [→](daily/2026-10-29.md) |
 | 10-28 | [→](daily/2026-10-28.md) |
 | 10-27 | [→](daily/2026-10-27.md) |
@@ -151,4 +152,3 @@
 | 10-03 | [→](daily/2026-10-03.md) |
 | 10-02 | [→](daily/2026-10-02.md) |
 | 09-30 | [→](daily/2026-09-30.md) |
-| 09-29 | [→](daily/2026-09-29.md) |
