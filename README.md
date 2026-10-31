@@ -7,6 +7,19 @@
 ## 最新资讯
 
 
+### 2026-10-31（周六·轻量问答）
+
+1. **Claude Code 官方插件被植入后门，装过的人先卸掉** — 安全公司 Phorion 发现，Cursor 插件商店里那个挂着 Claude Code 官方名字的 VS Code 插件被人塞了东西：装上后会在 Mac、Linux、Windows 上留一条长期有效的远程通道，等于别人隔着网络能进你的电脑。这不是破解版，是很多人以为最安全的官方渠道那份包出的问题。装过的先卸掉，再从官方仓库重装，顺手看一眼登录记录和陌生密钥。 — 来源：Hacker News 918pts https://phorion.io/blog/offical-claude-code-vsx-compromise/
+
+2. **Mistral 开源 1 万亿参数模型，编程能力开源第一** — 法国 Mistral 把 Mistral Large 4 的权重全部公开，1 万亿参数、多模态，官方称是目前最强的开源权重模型，编程能力排第一。开源权重意味着模型本体能下载到自己机房跑，代码和数据不必发给别家。普通显卡仍跑不动全量，实际是公司部署、员工调用。 — 来源：Hacker News 1695pts https://mistral.ai/news/mistral-large-4-oss/
+
+3. **AI 没抢走饭碗，却可能让人不会干活** — 一位工程师提出：当 AI 接手 95% 的故障处理，人对剩下那 5% 的判断力会退化。日常小故障看着琐碎，其实是在练手感；AI 全接走以后，人只剩最难场景，却少了练手机会。很多岗位都一样：报表有人做、文案有人写，你只在最后签字，而签字的能力恰恰来自那些被替掉的活。 — 来源：Hacker News 610pts https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling
+
+4. **AI 花钱热潮出现裂缝：债务上升、现金流为负** — 过去两周 Alphabet、亚马逊、Meta、微软接连公布 AI 基建计划，投入都以十亿美元计。但 TechCrunch 指出三个信号：债务在上升、现金流为负、投资人开始怀疑可持续性。这轮投入正从「用利润买未来」变成「借钱赌未来」，而普通人的基金、养老金大多押在这条线上。 — 来源：TechCrunch https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/
+
+5. **Gemini 4 Carbon 登顶综合榜，编程只排第二** — Artificial Analysis 智能指数 v5 上，谷歌 Gemini 4 Carbon 排第一；但在编程智能体榜单上只排第二，前面是 Claude Opus 5.5。综合分看知识面和推理，改一整个项目考的是另一套能力。写文案查资料几个模型差距不大，动成型项目的代码才见高下。 — 来源：Artificial Analysis https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1
+
+
 ### 2026-10-30（周五·工具实测）
 
 📡 每日AI信息差 · 今日要点
@@ -105,23 +118,11 @@
 - 来源：HN 322pts https://news.ycombinator.com/item?id=50207405
 
 
-### 2026-10-24（周六·轻量问答与讨论）
-
-1. **OpenAI 断网：不再让模型边上网边学** — 昨天 OpenAI 宣布，以后训练新模型不再直接读实时互联网，官方理由是「存在重大风险」。时间点很有意思：两周前对手 Anthropic 才开始限制自家最强模型上网，几周前 OpenAI 自己的工程师还说过「把模型跟网络切断这招行不通」。对普通人的影响是：以后问「今天出了什么事」，它更可能凭旧记忆回答，而不是当场翻网页；好处是不容易被网上的假消息带偏，坏处是新鲜事它真不知道。来源：TechCrunch https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
-
-2. **问了 13 个 AI，它们都说人类更爱抱团** — 同一个问题问 13 个模型、每个问 3 次，共 38 个回答，其中 32 个答案几乎一样：人类更在乎「跟大家站一边」，而不是「把事情搞对」。GPT-6.1 Sol 说人类对归属的忠诚高于对真相的忠诚，Grok 4.7 说人宁愿一起错也不愿独自对，DeepSeek V4 Pro 也给了同方向的回答。AI 不是比你聪明，它只是把你我最不愿承认的那一面一次说了出来。来源：ModelCompare https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans
-
-3. **拆开三星电视，发现 AI 在听** — 一位黑客研究自家三星电视，发现机身里有个一直在听的 AI；事情传开后，他的 OpenAI 账号被封。Hacker News 上 273 分、79 条评论，大家最不接受的其实是封号这个动作：如果真因为这个原因封人，那太蠢了；也有人说以后连自己买的东西都不敢拆。提醒很直接——智能设备到底开着哪些麦克风和联网权限，说明书不会告诉你，至少去设置里关掉语音唤醒和远程诊断。来源：Hacker News https://news.ycombinator.com/item?id=50218633
-
-4. **Kimi 新模型：100 万字一口气读完** — Kimi K3.1 Pro 发布，另有 Highspeed 版本；3T 级开源权重、100 万 token 上下文，官方称在写代码、3D 建模、金融研究上提升明显。HN 上 955 分、573 条评论，是今天全场最热。国内 B 站近 30 天已有 17 条相关内容，最火 8.8 万播放，基本都在讲「发布了、更强了」——真正缺的是拿它干一件具体的事，比如把 200 页说明书丢进去问租金、保修、坑在哪。来源：Kimi https://www.kimi.ai/blog/kimi-k3-1-pro
-
-5. **同一个 AI 问题，德州问比瑞典多排 8.5 倍碳** — 瑞典 AI 公司 Berget 与 SEI、WattTime 等机构研究者合作，开源了一套算法，能算出每次 AI 请求的碳排放，用户可在后台查看自己每次提问的排放。最刺眼的对比：同一个问题在德州问，排放是瑞典的 8.5 倍，模型和问题都一样，差别只在当地电网烧的是什么。AI 不是云里的事，它真的在烧电；「在哪算」和「算什么」一样重要。来源：Berget AI https://berget.ai/en/blog/per-request-co2-press-release
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 10-31 | [→](daily/2026-10-31.md) |
 | 10-30 | [→](daily/2026-10-30.md) |
 | 10-29 | [→](daily/2026-10-29.md) |
 | 10-28 | [→](daily/2026-10-28.md) |
@@ -151,4 +152,3 @@
 | 10-04 | [→](daily/2026-10-04.md) |
 | 10-03 | [→](daily/2026-10-03.md) |
 | 10-02 | [→](daily/2026-10-02.md) |
-| 09-30 | [→](daily/2026-09-30.md) |

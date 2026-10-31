@@ -1,0 +1,481 @@
+[
+ {
+  "src": "HN",
+  "title": "We're releasing the weights of Mistral Large 4",
+  "url": "https://mistral.ai/news/mistral-large-4-oss/",
+  "hn": "https://news.ycombinator.com/item?id=50289418",
+  "points": 1695,
+  "comments": 436,
+  "date": "2026-10-29",
+  "status": "原链 200 OK",
+  "excerpt": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe. ‖ Mistral released Mistral Large 4 (Le Chonk), a 1-trillion-parameter multimodal model, now available with improved coding, cybersecurity, and reasoning efficiency. It leads open-weight benchmarks in coding and de",
+  "dup": true,
+  "dup_why": "1天前(2026-10-30)用过同一条链接",
+  "cn_kw": "Mistral",
+  "cn": {
+   "kw": "Mistral",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 174,
+    "recent_median": 174,
+    "max_play": 79106,
+    "recent30d": 20,
+    "top": [
+     "法国模型 MistralLarge4 冲出欧洲，走向屎山｜屎山考核(79106)",
+     "【欧洲开源大模型】Mistral Large 4 正式开源！1T万亿参数、52B激活参数(1063)",
+     "编码比肩GLM-5.3！Mistral开源Large 4，1T参数炸场！ | 10月29(4008)"
+    ]
+   },
+   "suggest": [
+    "MistralLarge4",
+    "mistral模型",
+    "MistralAI",
+    "mistral娘",
+    "mistral大模型",
+    "mistral4",
+    "mistral免费",
+    "mistralsmall3"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+  "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+  "hn": "https://news.ycombinator.com/item?id=50300683",
+  "points": 918,
+  "comments": 536,
+  "date": "2026-10-30",
+  "status": "原链 200 OK",
+  "excerpt": "Phorion has detected a backdoor in the official Claude Code for VS Code extension bundle on the Cursor Marketplace that drops a persistent SSH backdoor across macOS, Linux, and Windows. ‖ TL;DRPhorion has detected a backdoor in the official Claude Code for VS Code extension bundle on the Cursor Marketplace that drops a persistent SSH backdoor across macOS, L",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Cursor",
+  "cn": {
+   "kw": "Cursor",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7482,
+    "recent_median": 1123,
+    "max_play": 675159,
+    "recent30d": 11,
+    "top": [
+     "【2026最新Cursor使用教程】史上最强 AI 编程工具Cursor！Cursor保(221294)",
+     "史上最强 AI 编程工具Cursor来啦！Cursor保姆级使用教程！新手友好！看到就是(288142)",
+     "【Cursor使用教程】史上最强 AI 编程工具Cursor来啦！Cursor保姆级使用(299)"
+    ]
+   },
+   "suggest": [
+    "cursor",
+    "cursor使用教程",
+    "cursor无限免费使用最新方法",
+    "cursor中文设置",
+    "cursor订阅",
+    "cursor教程从入门到精通",
+    "cursor安装教程",
+    "cursor安装使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Backdoors in official Claude Code extensions",
+  "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+  "hn": "https://news.ycombinator.com/item?id=50302334",
+  "points": 655,
+  "comments": 17,
+  "date": "2026-10-30",
+  "status": "原链 200 OK",
+  "excerpt": "Anthropic Visual Studio Claude Code extension on Cursor has malware in it, which creates a remote access Trojan to desktops. https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+  "dup": true,
+  "dup_why": "1天前(2026-10-30)用过同一条链接",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 11153,
+    "recent_median": 9068,
+    "max_play": 2059139,
+    "recent30d": 14,
+    "top": [
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2059139)",
+     "《Claude Opus 5.5の小曲》《克劳德の小曲》《文明の小曲》(505046)",
+     "如何长期稳定使用Claude订阅，原理+实操教学(107011)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "Claude Opus 5.5",
+    "claude code",
+    "claude封号",
+    "claude大小姐",
+    "claude和deepseek"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI isn't replacing SREs, it's deskilling them",
+  "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+  "hn": "https://news.ycombinator.com/item?id=50305693",
+  "points": 610,
+  "comments": 455,
+  "date": "2026-10-30",
+  "status": "原链 200 OK",
+  "excerpt": "When AI handles 95% of your incident response, do you get worse at handling the 5% that actually matters?",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "LLM Voice",
+  "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+  "hn": "https://news.ycombinator.com/item?id=50290177",
+  "points": 598,
+  "comments": 329,
+  "date": "2026-10-29",
+  "status": "原链 200 OK",
+  "excerpt": "Sometimes when I read a post, I get the growing feeling that I'm reading the output of an LLM. I can't necessarily define why, although there are the common tells (it's not the em-dashes, it's the load-bearing tapestries). As I do this my desire to read on atrophies, sometimes to the point of revulsion There are tools out there that claim to be able to tell ",
+  "dup": true,
+  "dup_why": "1天前(2026-10-30)用过同一条链接",
+  "cn_kw": "大模型",
+  "cn": {
+   "kw": "大模型",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4620,
+    "recent_median": 1241,
+    "max_play": 3866826,
+    "recent30d": 14,
+    "top": [
+     "【全748集】目前B站最全最细的AI大模型零基础全套教程，2025最新版，包含所有干货！(3866826)",
+     "从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！(2184811)",
+     "黑马程序员AI大模型微调实战全套视频课程，从Prompt到LoRA，GPT系列/Chat(76284)"
+    ]
+   },
+   "suggest": [
+    "大模型",
+    "大模型零基础入门教程",
+    "大模型原理",
+    "大模型训练全流程",
+    "大模型本地部署",
+    "大模型应用开发",
+    "ai大模型排名",
+    "大模型微调"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Claude Code regularly sends each background agent’s transcript to its model",
+  "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+  "hn": "https://news.ycombinator.com/item?id=50284255",
+  "points": 583,
+  "comments": 235,
+  "date": "2026-10-29",
+  "status": "原链 200 OK",
+  "excerpt": "Claude Code burns ~15-20% of your tokens on a 3-word status line: a Bun preload that turns agent_summary off · by Flamerix AI, flamerix.ai · MIT - README.md ‖ Show Gist options Download ZIP Star 296 (296) You must be signed in to star a gist Fork 18 (18) You must be signed in to fork a gist Embed Select an option Embed Embed this gist in your website. Share ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 11153,
+    "recent_median": 9068,
+    "max_play": 2059139,
+    "recent30d": 14,
+    "top": [
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2059139)",
+     "《Claude Opus 5.5の小曲》《克劳德の小曲》《文明の小曲》(505046)",
+     "如何长期稳定使用Claude订阅，原理+实操教学(107011)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "Claude Opus 5.5",
+    "claude code",
+    "claude封号",
+    "claude大小姐",
+    "claude和deepseek"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "We ran AI agent swarms in Minecraft and Mindustry",
+  "url": "https://labs.ycombinator.com/projects/games/index.html",
+  "hn": "https://news.ycombinator.com/item?id=50296486",
+  "points": 403,
+  "comments": 166,
+  "date": "2026-10-29",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：Interesting setups, I found the Minecraft agents to work in an almost turn-based manner, which makes me think that the t / I am more impressed by the embedded gameplay widget. Does anyone know what tool/library is that? That'd be so cool if I  / Its a little disappointing they have a hierarchy based purely off alphabetical order, i wonder if a slight",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 11108,
+    "recent_median": 1522,
+    "max_play": 1414756,
+    "recent30d": 9,
+    "top": [
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1414756)",
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1382826)",
+     "Agent开发工程师训练营(13245)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发学习路线",
+    "aiagent实战项目",
+    "aiagent开发",
+    "aiagent使用教程",
+    "aiagent开发教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+  "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+  "hn": "https://news.ycombinator.com/item?id=50293047",
+  "points": 356,
+  "comments": 235,
+  "date": "2026-10-29",
+  "status": "原链 200 OK",
+  "excerpt": "An alleged Chinese spy developed a “close relationship” with Nvidia CEO Jensen Huang, setting off alarms among US intelligence officials who were secretly monitoring her communications,… ‖ An alleged Chinese spy developed a “close relationship” with Nvidia CEO Jensen Huang, setting off alarms among US intelligence officials who were secretly monitoring her c",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2255,
+    "recent_median": 2925,
+    "max_play": 2233875,
+    "recent30d": 16,
+    "top": [
+     "美媒称中国女间谍与黄仁勋关系密切 英伟达回应！(278633)",
+     "【双语音+文稿】（完整版）2026 英伟达GTC柏林大会：英伟达创始人兼CEO黄仁勋发表(10361)",
+     "AI原生重塑组织，来自英伟达字节贝壳中智的思考(310)"
+    ]
+   },
+   "suggest": [
+    "英伟达",
+    "英伟达股票暴跌",
+    "英伟达暴跌",
+    "英伟达显卡驱动",
+    "英伟达spark",
+    "英伟达显卡驱动更新",
+    "英伟达app",
+    "英伟达RTX Pro 5500订单暴涨"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+  "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+  "hn": "https://news.ycombinator.com/item?id=50288019",
+  "points": 337,
+  "comments": 245,
+  "date": "2026-10-29",
+  "status": "原链 200 OK",
+  "excerpt": "Google’s Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent Index ‖ Google’s Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent Index Gemini 4 Carbon sc",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 5570,
+    "recent_median": 5570,
+    "max_play": 294718,
+    "recent30d": 16,
+    "top": [
+     "gpt-6.2曝光？Gemini 4 Xenon现身？Claude订阅更名？DeepSe(9021)",
+     "11月新渠道 1 分钟教程！免费白嫖 Gemini 4.0 Pro【支持反代】 一整年会(1818)",
+     "职场后半程逆袭：Gemini AI 全流程实战指(693)"
+    ]
+   },
+   "suggest": [
+    "gemini",
+    "gemini4argon",
+    "gemini4",
+    "geminifourth",
+    "gemini使用教程",
+    "gemini直播回放",
+    "gemini4carbon",
+    "gemini怎么下载"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+  "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-31",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Bloomberg later corroborated the report. Anthropic has signed a $44.6 billion contract for the project’s first building alone, according to Nscale’s IPO ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2255,
+    "recent_median": 2925,
+    "max_play": 2233875,
+    "recent30d": 16,
+    "top": [
+     "美媒称中国女间谍与黄仁勋关系密切 英伟达回应！(278633)",
+     "【双语音+文稿】（完整版）2026 英伟达GTC柏林大会：英伟达创始人兼CEO黄仁勋发表(10361)",
+     "AI原生重塑组织，来自英伟达字节贝壳中智的思考(310)"
+    ]
+   },
+   "suggest": [
+    "英伟达",
+    "英伟达股票暴跌",
+    "英伟达暴跌",
+    "英伟达显卡驱动",
+    "英伟达spark",
+    "英伟达显卡驱动更新",
+    "英伟达app",
+    "英伟达RTX Pro 5500订单暴涨"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+  "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-30",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Bill Lennon, the company’s co-founder and CEO, took to X on Friday to deliver the news, noting that the app",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Ollie",
+  "cn": {
+   "kw": "Ollie",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 11705,
+    "recent_median": 779,
+    "max_play": 675933,
+    "recent30d": 4,
+    "top": [
+     "搬运｜自制中字｜一站式Ollie教程！(265110)",
+     "没有你的日子，彻夜难眠【中字】Ollie - Feelings(3064)",
+     "【中文字幕】日本滑手Ollie前脚发力的独门秘诀(1217)"
+    ]
+   },
+   "suggest": [
+    "ollie",
+    "olliebearman",
+    "ollie奥利",
+    "ollie怎么提高",
+    "ollie教学",
+    "olliemuhl",
+    "ollie慢动作",
+    "Ollie原理"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Cracks are emerging in the AI spending boom",
+  "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-30",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Over the past two weeks, Alphabet, Amazon, Meta, and Microsoft have outlined plan",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Cracks",
+  "cn": {
+   "kw": "Cracks",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 12189,
+    "recent_median": 6711,
+    "max_play": 489975,
+    "recent30d": 8,
+    "top": [
+     "裂缝守护者通关思路参考(5555)",
+     "Cracks - Lovespeed(10)",
+     "狼狗浣熊裂缝CG（极简版）(50065)"
+    ]
+   },
+   "suggest": [
+    "crackstale",
+    "Cracksun",
+    "cracksurgeons",
+    "cracks电影",
+    "crackshot",
+    "Cracksman",
+    "cracksinvisible",
+    "crackstlae"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]
