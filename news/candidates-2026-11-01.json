@@ -1,0 +1,482 @@
+[
+ {
+  "src": "HN",
+  "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+  "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+  "hn": "https://news.ycombinator.com/item?id=50300683",
+  "points": 979,
+  "comments": 548,
+  "date": "2026-10-30",
+  "status": "原链 200 OK",
+  "excerpt": "Phorion has detected a backdoor in the official Claude Code for VS Code extension bundle on the Cursor Marketplace that drops a persistent SSH backdoor across macOS, Linux, and Windows. ‖ TL;DRPhorion has detected a backdoor in the official Claude Code for VS Code extension bundle on the Cursor Marketplace that drops a persistent SSH backdoor across macOS, L",
+  "dup": true,
+  "dup_why": "1天前(2026-10-31)用过同一条链接",
+  "cn_kw": "Cursor",
+  "cn": {
+   "kw": "Cursor",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 29451,
+    "recent_median": 20,
+    "max_play": 947277,
+    "recent30d": 1,
+    "top": [
+     "【2026最新Cursor使用教程】史上最强 AI 编程工具Cursor！Cursor保(222152)",
+     "史上最强 AI 编程工具免费啦！Cursor 保姆级使用教程！新手友好！看到就是赚到！｜(675186)",
+     "【AI实测】cursor最新版汉化 3分钟教你cursor最新版汉化，这是彻底汉化不只是(20)"
+    ]
+   },
+   "suggest": [
+    "cursor使用教程",
+    "cursor",
+    "cursor无限免费使用最新方法",
+    "cursor中文设置",
+    "cursor教程从入门到精通",
+    "cursor订阅",
+    "cursor安装教程",
+    "cursor免费使用教程"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Backdoors in official Claude Code extensions",
+  "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+  "hn": "https://news.ycombinator.com/item?id=50302334",
+  "points": 659,
+  "comments": 17,
+  "date": "2026-10-30",
+  "status": "原链 200 OK",
+  "excerpt": "Anthropic Visual Studio Claude Code extension on Cursor has malware in it, which creates a remote access Trojan to desktops. https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+  "dup": true,
+  "dup_why": "2天前(2026-10-30)用过同一条链接",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 16819,
+    "recent_median": 2703,
+    "max_play": 2063976,
+    "recent30d": 16,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(112839)",
+     "【Day 0】Claude接管这个账号，听说你想被封号？(87638)",
+     "为了封禁国内用户，Claude有多逆天？(887953)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude封号",
+    "claude code",
+    "Claude Opus 5.5",
+    "claude下载",
+    "claude大小姐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI isn't replacing SREs, it's deskilling them",
+  "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+  "hn": "https://news.ycombinator.com/item?id=50305693",
+  "points": 655,
+  "comments": 476,
+  "date": "2026-10-30",
+  "status": "原链 200 OK",
+  "excerpt": "When AI handles 95% of your incident response, do you get worse at handling the 5% that actually matters?",
+  "dup": true,
+  "dup_why": "1天前(2026-10-31)用过同一条链接",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic blocks users for anything touching training larger models",
+  "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+  "hn": "https://news.ycombinator.com/item?id=50319358",
+  "points": 392,
+  "comments": 222,
+  "date": "2026-10-31",
+  "status": "原链 200 OK",
+  "excerpt": "Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for \"training a competitor,\" and now anything touching RFT, SFT, or training larger models gets me blocked, Opus 5.5 downgrade…",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 16819,
+    "recent_median": 2703,
+    "max_play": 2063976,
+    "recent30d": 16,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(112839)",
+     "【Day 0】Claude接管这个账号，听说你想被封号？(87638)",
+     "为了封禁国内用户，Claude有多逆天？(887953)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude封号",
+    "claude code",
+    "Claude Opus 5.5",
+    "claude下载",
+    "claude大小姐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Do the math: How we took over ChatGPT accounts",
+  "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+  "hn": "https://news.ycombinator.com/item?id=50314699",
+  "points": 344,
+  "comments": 168,
+  "date": "2026-10-31",
+  "status": "原链 200 OK",
+  "excerpt": "By bypassing ChatGPT's sandbox and content security policy, our research team was able to take over anyone's account simply by sending them a link. ‖ By bypassing ChatGPT's sandbox and content security policy, our research team was able to take over anyone's account simply by sending them a link. In October 2026, we found a way to turn an ordinary public Cha",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 10949,
+    "recent_median": 4197,
+    "max_play": 940369,
+    "recent30d": 14,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(940369)",
+     "OpenAI宣布所有模型共用额度，你的ChatGPT要省着用了！(10056)",
+     "利用ChatGPT快速发表高质量SCI论文(129232)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt",
+    "chatgpt电脑端安装",
+    "chatgpt安卓下载",
+    "chatgpt安装教程",
+    "chatgpt国内使用教程",
+    "chatgptplus如何购买",
+    "chatgpt手机版苹果怎么使用"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+  "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+  "hn": "https://news.ycombinator.com/item?id=50307219",
+  "points": 323,
+  "comments": 290,
+  "date": "2026-10-30",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：https://wallhop.io/https://www.ft.com/content/59383c7f-8d82-... / https://giftarticle.ft.com/giftarticle/actions/redeem/2d0b4d...9 shares leftplease comment if you have used it to ensure / He is the article: Roula Khalaf, Editor of the FT, selects her favourite stories in this weekly newsletter.Blackstone to / What could go wrong? / Is this a surpris",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 16819,
+    "recent_median": 2703,
+    "max_play": 2063976,
+    "recent30d": 16,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(112839)",
+     "【Day 0】Claude接管这个账号，听说你想被封号？(87638)",
+     "为了封禁国内用户，Claude有多逆天？(887953)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude封号",
+    "claude code",
+    "Claude Opus 5.5",
+    "claude下载",
+    "claude大小姐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+  "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+  "hn": "https://news.ycombinator.com/item?id=50304122",
+  "points": 308,
+  "comments": 382,
+  "date": "2026-10-30",
+  "status": "原链 200 OK",
+  "excerpt": "Meet Paddy, the 27-year-old Cisco’s president calls an “energizer bunny.” He’s been given unlimited AI tokens and told to “go nuts.” ‖ Trendingnow1Jeff Bezos once gave Eva Longoria and the admiral behind Osama bin Laden's capture $100 million—but she says you don't need wealth to give back2The Pentagon and Britain are bracing for the power to go out. The ult",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Cisco",
+  "cn": {
+   "kw": "Cisco",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 23461,
+    "recent_median": 658,
+    "max_play": 823148,
+    "recent30d": 1,
+    "top": [
+     "计算机网络 思科Cisco Packet Tracer仿真实验(823148)",
+     "2026最新思科模拟器（Cisco Packet Tracer）最新版本8.2安装注册和(74942)",
+     "【公开课】思科学习教程(111752)"
+    ]
+   },
+   "suggest": [
+    "ciscopackettracer教学",
+    "CiscoPacketTracer",
+    "CiscoPacketTracer下载",
+    "cisco",
+    "cisco使用教程",
+    "cisco教程",
+    "CiscoPacketTracer实验",
+    "cisco教学"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+  "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+  "hn": "https://news.ycombinator.com/item?id=50307183",
+  "points": 291,
+  "comments": 252,
+  "date": "2026-10-30",
+  "status": "原链 200 OK",
+  "excerpt": "The move came after 404 Media published an investigation into how Proton CEO Andy Yen was aggressively pushing AI across Proton despite security concerns and the culture of fear he has created. ‖ On Friday, Andy Yen, the CEO of Proton, cancelled a series of nearly company-wide ‘re-interviews’ that would have forced employees to explain how they are using AI,",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Proton",
+  "cn": {
+   "kw": "Proton",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 59365,
+    "recent_median": 1049,
+    "max_play": 2678870,
+    "recent30d": 1,
+    "top": [
+     "每个你真正需要的免费应用详解（第三部分） - Explainer Chris - 中配(68763)",
+     "始祖鸟Proton系列对比atom系列有啥区别？如何选？ 前两年一直穿的始祖鸟atom系(3700)",
+     "全网最全介绍proton——免费、安全、匿名邮箱，原理解释、注册及使用教程(89598)"
+    ]
+   },
+   "suggest": [
+    "proton",
+    "proton如何使用",
+    "proton怎么安装",
+    "protonvpm",
+    "protonvp",
+    "proton怎么注册",
+    "proton安装包",
+    "proton邮箱注册"
+   ],
+   "hot": false,
+   "verdict": "近期空白(历史有爆款)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+  "url": "https://github.com/dbreunig/nesformer",
+  "hn": "https://news.ycombinator.com/item?id=50306442",
+  "points": 288,
+  "comments": 148,
+  "date": "2026-10-30",
+  "status": "原链 200 OK",
+  "excerpt": "An NES CPU compiled into the weights of a stock Qwen3.5 model - dbreunig/nesformer",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "通义千问",
+  "cn": {
+   "kw": "通义千问",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 193,
+    "recent_median": 77,
+    "max_play": 78762,
+    "recent30d": 14,
+    "top": [
+     "Qwen模型是什么？一口气看懂通义千问：模型家族、原理、能力与使用场景(171)",
+     "【Day 0】千问娘：我不是大肥鱼的劳工，这个B站账号现在归我管了！(78762)",
+     "中国版 Apple Intelligence 架构揭晓：苹果自研端侧模型 + 阿里通义千(62)"
+    ]
+   },
+   "suggest": [
+    "通义千问",
+    "通义千问api",
+    "通义千问api调用教程",
+    "通义千问使用教程",
+    "通义千问测评",
+    "通义千问本地部署",
+    "通义千问和文心一言哪个强",
+    "通义千问手机版"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+  "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-31",
+  "desc": "",
+  "status": "原链 200 OK · 正文经 jina",
+  "excerpt": "Title: Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’ URL Source: https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/ Published Time: 2026-10-31T21:41:00+00:00 Markdown Content: –:–:–:– Buy One Founder Summit Ticket, Get a Second for Free. Over the past couple years, Apple has often been described as behind on AI, especially as it delayed the release o",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "苹果",
+  "cn": {
+   "kw": "苹果",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 11989,
+    "recent_median": 8757,
+    "max_play": 795971,
+    "recent30d": 17,
+    "top": [
+     "“有助于减肥！”医生推荐冬天多喝苹果水，分享4种苹果的“王牌搭配”(8757)",
+     "他们最近的苹果情况(627)",
+     "下一次吃苹果的时间，地点，人物状态(497)"
+    ]
+   },
+   "suggest": [
+    "苹果",
+    "苹果手机",
+    "苹果18promax",
+    "苹果饭冰冰佟大为",
+    "苹果duo适配",
+    "苹果duo",
+    "苹果平板",
+    "苹果日历怎么显示所有节日"
+   ],
+   "hot": true,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+  "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-31",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Judge",
+  "cn": {
+   "kw": "Judge",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 17693,
+    "recent_median": 98,
+    "max_play": 639329,
+    "recent30d": 1,
+    "top": [
+     "My Dali Reading 108: Never judge someone by (98)",
+     "英语词汇-judge(5806)",
+     "Shopify店主必看！用Judge.me快速加星级评分⭐(819)"
+    ]
+   },
+   "suggest": [
+    "judge",
+    "judgemental",
+    "judgement",
+    "judgementday",
+    "judgementknightof",
+    "judge审判漫画",
+    "judgeofknights",
+    "judge审判"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "OpenAI reportedly lowers funding target for new round",
+  "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-10-31",
+  "desc": "",
+  "status": "原链 200 OK · 正文经 jina",
+  "excerpt": "Title: OpenAI reportedly lowers funding target for new round URL Source: https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/ Published Time: 2026-10-31T16:12:55+00:00 Markdown Content: –:–:–:– Buy One Founder Summit Ticket, Get a Second for Free. OpenAI was previously reported to be [raising $30 billion at a $1.4 trillion valuation](https://techcrunch.com/2026/09/29/openai-reporte",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13291,
+    "recent_median": 13291,
+    "max_play": 460729,
+    "recent30d": 20,
+    "top": [
+     "OpenAI宣布所有模型共用额度，你的ChatGPT要省着用了！(10056)",
+     "OpenAI 发布神秘动画：GPT-6.2 Bel 要来了吗？(6508)",
+     "华尔街翻脸！连OpenAI都融不到足额的钱了？(4627)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "OpenAI发布722篇数学论文",
+    "openai失控",
+    "openai 数学",
+    "openai怎么下载",
+    "openai智能体失控",
+    "OpenAI的722篇论文含金量如何",
+    "openaiAPI密钥"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ }
+]
