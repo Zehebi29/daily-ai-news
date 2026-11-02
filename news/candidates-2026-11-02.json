@@ -1,0 +1,481 @@
+[
+ {
+  "src": "HN",
+  "title": "Anthropic blocks users for anything touching training larger models",
+  "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+  "hn": "https://news.ycombinator.com/item?id=50319358",
+  "points": 474,
+  "comments": 262,
+  "date": "2026-10-31",
+  "status": "原链 200 OK",
+  "excerpt": "Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for \"training a competitor,\" and now anything touching RFT, SFT, or training larger models gets me blocked, Opus 5.5 downgrade…",
+  "dup": true,
+  "dup_why": "1天前(2026-11-01)用过同一条链接",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 8876,
+    "recent_median": 3633,
+    "max_play": 2069238,
+    "recent30d": 15,
+    "top": [
+     "claude，禁止游戏复刻！一期解读(8130)",
+     "如何长期稳定使用Claude订阅，原理+实操教学(120530)",
+     "Claude code搞定综述论文发表(29917)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude封号",
+    "claude使用教程",
+    "Claude Opus 5.5",
+    "claude code",
+    "claude下载",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "The AI cost of JavaScript frameworks",
+  "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+  "hn": "https://news.ycombinator.com/item?id=50323088",
+  "points": 396,
+  "comments": 304,
+  "date": "2026-11-01",
+  "status": "原链 200 OK",
+  "excerpt": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will… ‖ One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will “supercharge” your development, the right abs",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "JavaScript",
+  "cn": {
+   "kw": "JavaScript",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 317022,
+    "recent_median": 658,
+    "max_play": 8138457,
+    "recent30d": 3,
+    "top": [
+     "黑马程序员前端JavaScript入门到精通全套视频教程，javascript核心进阶E(7803233)",
+     "【JavaScript基础】 2小时快速入门，全程无废话，入门到精通，前端js全套基础&(590481)",
+     "JavaScript 怎么学？不建议学，但你没得选(209)"
+    ]
+   },
+   "suggest": [
+    "javascript零基础入门到精通",
+    "JavaScript",
+    "JavaScript速成",
+    "JavaScript是什么",
+    "javascript前端开发与实例教程",
+    "JavaScript下载",
+    "javascript和java的区别",
+    "JavaScript基础"
+   ],
+   "hot": false,
+   "verdict": "近期空白(历史有爆款)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Do the math: How we took over ChatGPT accounts",
+  "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+  "hn": "https://news.ycombinator.com/item?id=50314699",
+  "points": 360,
+  "comments": 176,
+  "date": "2026-10-31",
+  "status": "原链 200 OK",
+  "excerpt": "By bypassing ChatGPT's sandbox and content security policy, our research team was able to take over anyone's account simply by sending them a link. ‖ By bypassing ChatGPT's sandbox and content security policy, our research team was able to take over anyone's account simply by sending them a link. In October 2026, we found a way to turn an ordinary public Cha",
+  "dup": true,
+  "dup_why": "1天前(2026-11-01)用过同一条链接",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2073,
+    "recent_median": 1592,
+    "max_play": 945392,
+    "recent30d": 14,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(945392)",
+     "ChatGPT手机版如何下载？安卓苹果保姆级教程，从安装到订阅Plus全搞定(456730)",
+     "利用ChatGPT快速发表高质量SCI论文(129406)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt",
+    "chatgpt电脑端安装",
+    "chatgptplus如何购买",
+    "chatgpt国内使用教程",
+    "chatgpt安卓下载",
+    "chatgpt6",
+    "chatgpt手机版苹果怎么使用"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+  "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+  "hn": "https://news.ycombinator.com/item?id=50330456",
+  "points": 229,
+  "comments": 230,
+  "date": "2026-11-01",
+  "status": "原链 200 OK",
+  "excerpt": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\" ‖ Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. AI hasn’t benefited the bottom line of any big corporations outside the tech industry, according to a note",
+  "dup": true,
+  "dup_why": "7天前(2026-10-26)用过同一条链接",
+  "cn_kw": "Apollo",
+  "cn": {
+   "kw": "Apollo",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 22600,
+    "recent_median": 812,
+    "max_play": 1890554,
+    "recent30d": 1,
+    "top": [
+     "&quot;Apollo&quot;  TJ.hangneil(1890554)",
+     "纯音乐 | Apollo&#x27;s Triumph - Audiomachine ((154533)",
+     "【Apollo Kepler】VALENTINE&#x27;S KARAOKE💌【生肉】(812)"
+    ]
+   },
+   "suggest": [
+    "apollo",
+    "apollostriumph",
+    "apollo教程",
+    "Apolloevo",
+    "apollotwinx",
+    "apollo使用教程",
+    "apollo和andre",
+    "ApolloandAndre"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "ChatGPT and Codex usage limits merging",
+  "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+  "hn": "https://news.ycombinator.com/item?id=50320588",
+  "points": 227,
+  "comments": 168,
+  "date": "2026-10-31",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：Not surprising: Claude has behaved like this for awhile and it was only a matter of time.At the least, it deters people  / I just got an email stating that \"Chat and Work are coming together in one experience\". Then, half way through it's the  / I got it, too. Not surprising but this was definitely one of the deciding factors keeping me with ChatGPT.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2073,
+    "recent_median": 1592,
+    "max_play": 945392,
+    "recent30d": 14,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(945392)",
+     "ChatGPT手机版如何下载？安卓苹果保姆级教程，从安装到订阅Plus全搞定(456730)",
+     "利用ChatGPT快速发表高质量SCI论文(129406)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt",
+    "chatgpt电脑端安装",
+    "chatgptplus如何购买",
+    "chatgpt国内使用教程",
+    "chatgpt安卓下载",
+    "chatgpt6",
+    "chatgpt手机版苹果怎么使用"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+  "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+  "hn": "https://news.ycombinator.com/item?id=50320255",
+  "points": 189,
+  "comments": 114,
+  "date": "2026-10-31",
+  "status": "原链 200 OK",
+  "excerpt": "The restrictions are so broad that they're even hurting legitimate game developers and preventing basic troubleshooting tasks. ‖ According to reporting from Tom's Hardware, Anthropic's Claude AI has quietly started restricting the kinds of work it will do, including modding, decompiling, or reverse-engineering video game code. And though there has as yet bee",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 8876,
+    "recent_median": 3633,
+    "max_play": 2069238,
+    "recent30d": 15,
+    "top": [
+     "claude，禁止游戏复刻！一期解读(8130)",
+     "如何长期稳定使用Claude订阅，原理+实操教学(120530)",
+     "Claude code搞定综述论文发表(29917)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude封号",
+    "claude使用教程",
+    "Claude Opus 5.5",
+    "claude code",
+    "claude下载",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "OpenAI raises less than half of $30B target",
+  "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+  "hn": "https://news.ycombinator.com/item?id=50312922",
+  "points": 186,
+  "comments": 201,
+  "date": "2026-10-31",
+  "status": "原链 401",
+  "excerpt": "HN 讨论要点：No no no, don’t burst that AI bubble just yet. I haven’t finished all my side-projects. / Welp that’s not a good sign for the anthropic IPO. Curious what happens now that both OpenAI and Anthropic will face bud / Wow! Its bursting... / The end state is OpenAI as a division of Microsoft. / How does this affect OpenAI's prospects in the next few quarte",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 10290,
+    "recent_median": 10290,
+    "max_play": 248244,
+    "recent30d": 20,
+    "top": [
+     "盘点一周AI大事(11月1日)｜Gemini重夺最强(34320)",
+     "华尔街翻脸！连OpenAI都融不到足额的钱了？(15571)",
+     "突发|gpt-6.2-astra上线，DeepSeek V4.1-pro现身，Claud(23587)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openai 数学",
+    "openai失控",
+    "openai创始人",
+    "openaiAPI密钥",
+    "openai怎么下载",
+    "OpenAI发布722篇数学论文",
+    "OpenAI的722篇论文含金量如何"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+  "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+  "hn": "https://news.ycombinator.com/item?id=50318871",
+  "points": 176,
+  "comments": 188,
+  "date": "2026-10-31",
+  "status": "原链 200 OK",
+  "excerpt": "Edit: Woah, this took off! I’m working on a more detailed highlights/commentary post and video. Previously: We got Claude Code playing Factorio, Towards beating Factorio autonomously, and Faketorio: an agent testbed I got GPT-5.6 Sol, running in Codex with low thinking level, to complete a peaceful (i.e. no biters) Factorio run in 13.5 hours of game time: ‖ ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2073,
+    "recent_median": 1592,
+    "max_play": 945392,
+    "recent30d": 14,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(945392)",
+     "ChatGPT手机版如何下载？安卓苹果保姆级教程，从安装到订阅Plus全搞定(456730)",
+     "利用ChatGPT快速发表高质量SCI论文(129406)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt",
+    "chatgpt电脑端安装",
+    "chatgptplus如何购买",
+    "chatgpt国内使用教程",
+    "chatgpt安卓下载",
+    "chatgpt6",
+    "chatgpt手机版苹果怎么使用"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+  "hn": "https://news.ycombinator.com/item?id=50325662",
+  "points": 173,
+  "comments": 82,
+  "date": "2026-11-01",
+  "status": "原链 200 OK",
+  "excerpt": "It is hoped game testing can provide insight into recent AI agent headlines, good and bad.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 12375,
+    "recent_median": 1154,
+    "max_play": 1422113,
+    "recent30d": 8,
+    "top": [
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1422113)",
+     "通俗易懂地讲解什么是Agent？(190084)",
+     "从小白到接单·用Agent做AI视频(8265)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent开发",
+    "aiagent开发学习路线",
+    "aiagent实战项目",
+    "aiagent是什么",
+    "aiagent推荐",
+    "aiagent使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "It wasn't AI that flipped Proton's charge",
+  "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+  "hn": "https://news.ycombinator.com/item?id=50328488",
+  "points": 160,
+  "comments": 93,
+  "date": "2026-11-01",
+  "status": "原链 200 OK",
+  "excerpt": "Go back It wasn't AI that flipped Proton's charge Posted on:November 1, 2026 I’ve been paying for Proton for many years, and it’s what I recommend when someone asks how to get off Gmail. This week 404 Media published an investigation into how Proton’s leadership is pushing AI inside the company. The detail that made the rounds came from the security Slack ch",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Proton",
+  "cn": {
+   "kw": "Proton",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 8377,
+    "recent_median": 9271,
+    "max_play": 89946,
+    "recent30d": 1,
+    "top": [
+     "每个你真正需要的免费应用详解（第三部分） - Explainer Chris - 中配(69089)",
+     "全网最全介绍proton——免费、安全、匿名邮箱，原理解释、注册及使用教程(89946)",
+     "ARC&#x27;TERYX始祖鸟 PROTON HOODY 男子 滑雪保暖棉服 Rob(0)"
+    ]
+   },
+   "suggest": [
+    "proton",
+    "proton如何使用",
+    "protonvpm",
+    "proton怎么安装",
+    "protonvp",
+    "proton怎么注册",
+    "proton安装包",
+    "proton用不了"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+  "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-01",
+  "desc": "",
+  "status": "原链 200 OK · 正文经 jina",
+  "excerpt": "Title: OpenAI might rebrand its data centers as ‘AI compute campuses’ URL Source: https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/ Published Time: 2026-11-01T21:55:23+00:00 Markdown Content: [Skip to content](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/#wp--skip-link--target) 02:00:58:13 Buy One Founder Summit Ticket, Ge",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 10290,
+    "recent_median": 10290,
+    "max_play": 248244,
+    "recent30d": 20,
+    "top": [
+     "盘点一周AI大事(11月1日)｜Gemini重夺最强(34320)",
+     "华尔街翻脸！连OpenAI都融不到足额的钱了？(15571)",
+     "突发|gpt-6.2-astra上线，DeepSeek V4.1-pro现身，Claud(23587)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openai 数学",
+    "openai失控",
+    "openai创始人",
+    "openaiAPI密钥",
+    "openai怎么下载",
+    "OpenAI发布722篇数学论文",
+    "OpenAI的722篇论文含金量如何"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+  "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-01",
+  "desc": "",
+  "status": "原链 200 OK · 正文经 jina",
+  "excerpt": "Title: AI can make tech CEOs’ lives easier. What about everyone else? URL Source: https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/ Published Time: 2026-11-01T20:57:58+00:00 Markdown Content: Dazzle AI CEO Marissa Mayer recently became the latest tech CEO to face criticism over seemingly out-of-touch comments extolling the usefulness of AI. In Mayer’s case, that involved [",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ }
+]

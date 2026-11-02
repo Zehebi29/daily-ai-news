@@ -7,6 +7,24 @@
 ## 最新资讯
 
 
+### 2026-11-02（周一·模型与工具）
+
+1. **Anthropic 开始按「用途」封号：碰训练就直接锁** — 一位开发者用 Claude 帮忙提交训练任务、跑数据分析，账号被判定「在训练竞争对手」直接限制。他自称全程调用开源模型、从未蒸馏 Claude。这条在 HN 拿到 474 分、262 条留言。限制范围很宽：沾上微调、强化学习或更大模型就被挡，连正经游戏开发也被误伤。付费不等于安全，重要资料要定期导出备份。
+   来源：HN 讨论 https://news.ycombinator.com/item?id=50319358
+
+2. **一条链接就能接管你的 ChatGPT 账号** — 安全团队发现：不用骗你填密码，只要你在登录状态下点开一个公开分享页，脚本就能绕过沙箱和网页安全策略，把登录状态拿走。账号里有聊天记录、上传文件和绑定的付款方式。HN 360 分、176 条留言。
+   来源：https://www.parameter.ai/labs/we-found-a-gap-at-openai （讨论 https://news.ycombinator.com/item?id=50314699 ）
+
+3. **OpenAI 想融 300 亿美元，只拿到不到一半** — 媒体披露最新一轮融资目标 300 亿美元，实际到账不到一半。评论区第一条热评：先别戳破泡沫，我副业还没做完。钱一紧，先动的通常是免费额度和订阅价格，而不是发布会。
+   来源：https://news.ycombinator.com/item?id=50312922
+
+4. **一个模型用 13.5 小时通关《异星工厂》** — 有人让 GPT-5.6 Sol 在 Codex 里把思考档位调到最低，玩《异星工厂》和平模式，13.5 个游戏小时跑完整个流程。这游戏要从零搭产线、算配比、堵瓶颈，靠的是长任务里的自我纠错。HN 176 分、188 条留言。
+   来源：https://ryanmadden.net/gpt-56-beats-factorio/
+
+5. **50 个 AI 组队建文明，先卡在审批流程里** — 研究人员把 50 个 AI 智能体团队放进《我的世界》建社会，结果全部失败，全卡在开会、审批和互相等回复上，报道称「陷入瘫痪性的官僚流程」。模型不笨，是组织方式错了。HN 173 分、82 条留言。
+   来源：https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy
+
+
 ### 2026-11-01（周日·趋势前瞻）
 
 📡 每日AI信息差 · 今日要点
@@ -98,23 +116,11 @@
 5. **OpenAI 把编程工具做成「永远在线」的助理 dots** — OpenAI 将自家写代码的工具改造成 dots：一个一直在线的个人助理。项目负责人称，他不想再跟别人的 AI 代理开会。信号是 AI 从「你去问它」变成「它一直跟着你」，上班族需要先划清哪些活能交出去、哪些必须自己盯。来源：TechCrunch https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/
 
 
-### 2026-10-26（周一·模型与工具）
-
-1. **大模型价格最高砍掉 80%** — 短短几个月，OpenAI 和 Anthropic 的主力模型价格最多降了八成。有人把两家这几个月发布的模型列成时间线，发现新一代旗舰常常加量不加价，小模型则把门槛砸到很低。你花几块钱能干的活，半年前要几十块。真正的分水岭不再是用不用得起，而是你会不会把活派给它。另一面：价格战说明几家在抢同一批用户，别把重要资料只押在一家。 — 来源：https://minimaxir.com/2026/10/cheap-llms/ （HN 367分）
-
-2. **AI 投了很多钱，账上零回报** — 阿波罗（Apollo）的经济学家翻完企业账本后说：钱砸下去了、热度也是真的，但美国科技行业之外的公司，AI 带来的财务回报是零。买卡、买订阅、做培训，钱花在前面；效率提上去还得落到具体岗位才变利润，而多数公司连哪一步该交给 AI 都没想清楚。买了工具不等于改了流程。对个人：能说清「这活省了几小时」的人，比会背模型名的人值钱。 — 来源：https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/
-
-3. **20 万个饭碗被 AI 端走了？** — 美国媒体、电影、艺术行业累计少了约 20 万个岗位。这篇文章没有直接喊「AI 抢饭碗」，而是一项一项拆：哪些是平台算法改的、哪些是行业本来在缩、哪些确实和生成式 AI 有关。结论是 AI 不是唯一原因，但在加速。最先消失的不是写得好的人，而是按件计价的活——配图、字幕、初剪、通稿。想保住位置，往上走一步：接需求、定标准、扛结果。 — 来源：https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class （HN 527分）
-
-4. **米粒大的芯片能读懂你的状态** — 瑞士洛桑联邦理工学院（EPFL）公布一块约 4×2 毫米的植入芯片，可以实时记录不同脑区之间的「对话」，并据此判断人此刻的认知和情绪状态。突破点是从只盯一个点，变成同时看多个脑区怎么配合，对癫痫、抑郁这类病是往前一步。但植入要开刀，信号怎么解读、数据归谁、能不能被改写都没答完。它读到的是状态，不是你具体的想法。 — 来源：https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ （HN 138分）
-
-5. **学生全用 AI，教授不批作业了** — 加州大学伯克利分校数学教授 Richard Borcherds（菲尔兹奖得主）宣布不再给作业打分：太多学生用 AI 写作业，而且几乎都能拿高分，分数已经分不出谁真会。这不是懒，是评分失灵——作业原本是老师看「你哪一步没懂」的窗口，答案能外包，窗口就糊了。大学接下来大概率会换成当面讲、当场做、看过程。AI 能交漂亮答案，替不了你自己推一遍。 — 来源：https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html （HN 221分）
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-02 | [→](daily/2026-11-02.md) |
 | 11-01 | [→](daily/2026-11-01.md) |
 | 10-31 | [→](daily/2026-10-31.md) |
 | 10-30 | [→](daily/2026-10-30.md) |
@@ -144,4 +150,3 @@
 | 10-06 | [→](daily/2026-10-06.md) |
 | 10-05 | [→](daily/2026-10-05.md) |
 | 10-04 | [→](daily/2026-10-04.md) |
-| 10-03 | [→](daily/2026-10-03.md) |
