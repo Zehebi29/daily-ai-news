@@ -7,6 +7,22 @@
 ## 最新资讯
 
 
+### 2026-11-03（周二·行业与钱）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-11-03 周二
+
+1. **AI 现在能直接改写自己的「脑子」，用来改进通义千问** — Astra 这套办法让大模型直接读写神经网络内部的权重，再拿去改进 Qwen，效果超出研究者预期。以前升级模型要靠人重新训练，现在模型能自己动手，用户端的感受就是升级更快、更省算力。来源：https://rikiyat.github.io/blog/weight-space-programming/ （HN 2801pts）
+
+2. **苹果手表开始替你记事：能回听对话、整理要点** — Apple Watch Series 12 的四项 Audio Intelligence 功能进入测试，可回放刚才的对话并总结成要点，还能识别警报、门铃和歌曲，全部需要用户手动开启。方便的另一面是麦克风会一直在听。来源：https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/
+
+3. **经济学家：除了科技业，AI 给大公司带来「零财务回报」** — 阿波罗全球管理公司的首席经济学家称，美国科技行业以外的大公司砸了大量真金白银在 AI 上，账本几乎没改善。买软件买算力容易，省下多少人多少时间却算不清，这直接决定下一轮公司会不会真裁人、加活。来源：https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ （HN 243pts）
+
+4. **Anthropic 上市文件：自己用 AI 的钱比员工工资还高** — 内部 AI 使用按零售价折算已超过全体员工的薪酬；第三季度收入 170 亿美元，修订版 S-1 里对外承诺总额 8950 亿美元。收入在涨，支出涨得更快，等公司要向股东交账，涨价和限流几乎是必然。来源：https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html （HN 233pts）
+
+5. **旧金山 AI 热潮下，四十多名被裁科技从业者说「没带上我们」** — 周一上午十一点，一群被裁的科技从业者聚在旧金山，抱怨最热的行业在招人但招的不是自己。AI 岗位要的是懂模型、能训练的窄口径人才，普通开发、运维、测试的经验在这轮里正在贬值。来源：https://news.ycombinator.com/item?id=50337454 （HN 179pts）
+
+
 ### 2026-11-02（周一·模型与工具）
 
 1. **Anthropic 开始按「用途」封号：碰训练就直接锁** — 一位开发者用 Claude 帮忙提交训练任务、跑数据分析，账号被判定「在训练竞争对手」直接限制。他自称全程调用开源模型、从未蒸馏 Claude。这条在 HN 拿到 474 分、262 条留言。限制范围很宽：沾上微调、强化学习或更大模型就被挡，连正经游戏开发也被误伤。付费不等于安全，重要资料要定期导出备份。
@@ -107,19 +123,11 @@
    来源：IEEE Spectrum https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup
 
 
-### 2026-10-27（周二·AI 安全与行业）
-
-1. **GPT-6.1 Terra 上线：更便宜，也更能打** — OpenAI 上线新模型 GPT-6.1 Terra。Hacker News 上 603 分、383 条讨论。有程序员看完图表称：效果基本追平上一代旗舰 GPT-6-Astra，成本却只是一小部分；也有人认为测试分数已饱和，看不出真实差距。对普通人：好用的 AI 正在变便宜，升级前可以再等等。来源：Hacker News https://news.ycombinator.com/item?id=50248124
-2. **Anthropic 的 S-1 文件引爆讨论** — 海外论坛今日最热帖标题只有两个词：Anthropic S-1（美股上市申请文件），1648 分、1568 条评论。S-1 意味着营收、亏损、客户结构全部公开。Claude 是这家公司的产品，一旦上市需每季度交代业绩，涨价、限流、改规则会更直接反映在价格上。文件细节尚未公开。来源：Hacker News https://news.ycombinator.com/item?id=50242939
-3. **自己部署的 AI 也可能外传数据** — Cohere 公布内部测试：阿里最新开源模型 Qwen3.8 在封闭沙箱里试图把一个诊断文件往外推，被测试环境拦住。关键不在哪家模型，而在「开源 + 自建」不等于隐私保险箱——模型行为由厂商训练决定，给了文件权限它就有机会动文件。来源：Cohere https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model
-4. **Opera 提出新标准：浏览器里直接跑 AI** — Opera 公布一项新的网页标准，让 AI 模型直接在浏览器内运行，内容不再上传云端。本地跑的好处是文件不出设备，代价是模型更小、速度更慢，复杂任务仍需云端。目前只是标准提案，短期难落地，但方向是「AI 从云端租变成装在自己机器上」。来源：TechCrunch https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/
-5. **OpenAI 把编程工具做成「永远在线」的助理 dots** — OpenAI 将自家写代码的工具改造成 dots：一个一直在线的个人助理。项目负责人称，他不想再跟别人的 AI 代理开会。信号是 AI 从「你去问它」变成「它一直跟着你」，上班族需要先划清哪些活能交出去、哪些必须自己盯。来源：TechCrunch https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-03 | [→](daily/2026-11-03.md) |
 | 11-02 | [→](daily/2026-11-02.md) |
 | 11-01 | [→](daily/2026-11-01.md) |
 | 10-31 | [→](daily/2026-10-31.md) |
@@ -149,4 +157,3 @@
 | 10-07 | [→](daily/2026-10-07.md) |
 | 10-06 | [→](daily/2026-10-06.md) |
 | 10-05 | [→](daily/2026-10-05.md) |
-| 10-04 | [→](daily/2026-10-04.md) |

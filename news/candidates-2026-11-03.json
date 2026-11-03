@@ -1,0 +1,507 @@
+[
+ {
+  "src": "HN",
+  "title": "Astra can read and write weights to improve Qwen",
+  "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+  "hn": "https://news.ycombinator.com/item?id=50341174",
+  "points": 2801,
+  "comments": 855,
+  "date": "2026-11-02",
+  "status": "原链 200 OK",
+  "excerpt": "We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, well past what we’d expect from humans or conventional algorithms. ‖ it is in the source --> , an SVG cannot use the page's web fonts and falls back to Helvetica, so each one is put into the page itself: its text is then set in Source Sans 3 and JetBrains",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "通义千问",
+  "cn": {
+   "kw": "通义千问",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 9569,
+    "recent_median": 192,
+    "max_play": 1043219,
+    "recent30d": 3,
+    "top": [
+     "魅族Air2AR显示智能眼镜通义千问大模型超轻AR头显长续航演讲(5)",
+     "通义千问介绍(1219)",
+     "通义APP更新前后对比(21302)"
+    ]
+   },
+   "suggest": [
+    "通义千问",
+    "通义千问api",
+    "通义千问使用教程",
+    "通义千问本地部署",
+    "通义千问qwen3",
+    "通义千问apikey",
+    "通义千问api调用教程",
+    "通义千问max"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "The AI cost of JavaScript frameworks",
+  "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+  "hn": "https://news.ycombinator.com/item?id=50323088",
+  "points": 471,
+  "comments": 389,
+  "date": "2026-11-01",
+  "status": "原链 200 OK",
+  "excerpt": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will… ‖ One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will “supercharge” your development, the right abs",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "JavaScript",
+  "cn": {
+   "kw": "JavaScript",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 123238,
+    "recent_median": 688,
+    "max_play": 8138622,
+    "recent30d": 3,
+    "top": [
+     "黑马程序员前端JavaScript入门到精通全套视频教程，javascript核心进阶E(7804936)",
+     "【JavaScript基础】 2小时快速入门，全程无废话，入门到精通，前端js全套基础&(591719)",
+     "【2026之编程小白教程】JavaScript 2小时快速入门，全程无废话，入门到精通，(273)"
+    ]
+   },
+   "suggest": [
+    "javascript零基础入门到精通",
+    "JavaScript",
+    "JavaScript速成",
+    "JavaScript是什么",
+    "javascript前端开发与实例教程",
+    "JavaScript期末速成",
+    "JavaScript下载",
+    "javascript期末试题"
+   ],
+   "hot": false,
+   "verdict": "近期空白(历史有爆款)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+  "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+  "hn": "https://news.ycombinator.com/item?id=50344919",
+  "points": 370,
+  "comments": 277,
+  "date": "2026-11-02",
+  "status": "原链 200 OK",
+  "excerpt": "If Anthropic goes public, workers, retail investors, and retirees will be left holding the bag when its bills come due, writes Matt Scherer. ‖ Matt Scherer is co-author of the recent report Brace for Impact: Protecting people and the economy when the AI bubble bursts. Anthropic CEO Dario Amodei looks on as United States President Donald Trump holds a press b",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 17421,
+    "recent_median": 10404,
+    "max_play": 2074426,
+    "recent30d": 16,
+    "top": [
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2074426)",
+     "如何长期稳定使用Claude订阅，原理+实操教学(127567)",
+     "Claude code搞定综述论文发表(30077)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude code",
+    "Claude Opus 5.5",
+    "claude封号",
+    "claude下载",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+  "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+  "hn": "https://news.ycombinator.com/item?id=50339494",
+  "points": 334,
+  "comments": 256,
+  "date": "2026-11-02",
+  "status": "原链 200 OK",
+  "excerpt": "Anthropic's IPO filing reveals a striking milestone: Its internal AI usage is now valued above employee compensation.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 17421,
+    "recent_median": 10404,
+    "max_play": 2074426,
+    "recent30d": 16,
+    "top": [
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2074426)",
+     "如何长期稳定使用Claude订阅，原理+实操教学(127567)",
+     "Claude code搞定综述论文发表(30077)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude code",
+    "Claude Opus 5.5",
+    "claude封号",
+    "claude下载",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+  "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+  "hn": "https://news.ycombinator.com/item?id=50330456",
+  "points": 243,
+  "comments": 254,
+  "date": "2026-11-01",
+  "status": "原链 200 OK",
+  "excerpt": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\" ‖ Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. AI hasn’t benefited the bottom line of any big corporations outside the tech industry, according to a note",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Apollo",
+  "cn": {
+   "kw": "Apollo",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 12120,
+    "recent_median": 843,
+    "max_play": 1891128,
+    "recent30d": 1,
+    "top": [
+     "&quot;Apollo&quot;  TJ.hangneil(1891128)",
+     "Apollo分布式配置中心实战(轻松入门，快速上手)(38403)",
+     "【Apollo Kepler】VALENTINE&#x27;S KARAOKE💌【生肉】(843)"
+    ]
+   },
+   "suggest": [
+    "apollo",
+    "Apollostriumph",
+    "apollo教程",
+    "apollo使用教程",
+    "apollokepler",
+    "Apolloevo",
+    "apollotwinx",
+    "apollosavetool"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Scaling Git at OpenAI",
+  "url": "https://openai.com/index/scaling-git-at-openai/",
+  "hn": "https://news.ycombinator.com/item?id=50345924",
+  "points": 242,
+  "comments": 166,
+  "date": "2026-11-02",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：Technical details aside, this volume is ridiculous. How on earth do they see this kind of \"growth\" as an asset and not a / Impressive. We're definitely seeing LLMs help create real novel software / While I don't have any particular interest in the topic this is a great blog post. No AI in every second line, no needle / Can anyone explain to me what t",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 5242,
+    "recent_median": 5242,
+    "max_play": 185899,
+    "recent30d": 20,
+    "top": [
+     "Tibo发文引GPT-6.2 Astra猜测；Arena四款匿名模型疑似Qwen 4；O(2429)",
+     "盘点一周AI大事(11月1日)｜Gemini重夺最强(38266)",
+     "GPT直接改写了Qwen的底层权重，0.016%参数换6倍性能(3879)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openai失控",
+    "openai 数学",
+    "openai怎么下载",
+    "OpenAI发布722篇数学论文",
+    "openai宣布所有模型共用额度",
+    "openai ceo",
+    "openai奥特曼"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+  "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+  "hn": "https://news.ycombinator.com/item?id=50337439",
+  "points": 233,
+  "comments": 275,
+  "date": "2026-11-02",
+  "status": "原链 200 OK",
+  "excerpt": "Anthropic unveiled its S-1 prospectus last week, but the initial filing only included the company's financials through the first half of the year.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 17421,
+    "recent_median": 10404,
+    "max_play": 2074426,
+    "recent30d": 16,
+    "top": [
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2074426)",
+     "如何长期稳定使用Claude订阅，原理+实操教学(127567)",
+     "Claude code搞定综述论文发表(30077)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude code",
+    "Claude Opus 5.5",
+    "claude封号",
+    "claude下载",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic's growth just flattened",
+  "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+  "hn": "https://news.ycombinator.com/item?id=50344958",
+  "points": 216,
+  "comments": 249,
+  "date": "2026-11-02",
+  "status": "原链 200 OK",
+  "excerpt": "Henry BlodgetOct 15, 2026 37 4Share Source: Regenerator estimates and news reports.Anthropic shared high-level Q3 financials with investors yesterday, report the NYT’s Andrew Ross Sorkin, Lauren Hirsch, and Sri Muppidi. At first glance, this number seems astonishing. And, in one sense, it is. It’s another jaw-dropping sequential gain for what is likely the f",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 17421,
+    "recent_median": 10404,
+    "max_play": 2074426,
+    "recent30d": 16,
+    "top": [
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2074426)",
+     "如何长期稳定使用Claude订阅，原理+实操教学(127567)",
+     "Claude code搞定综述论文发表(30077)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude code",
+    "Claude Opus 5.5",
+    "claude封号",
+    "claude下载",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+  "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+  "hn": "https://news.ycombinator.com/item?id=50342284",
+  "points": 190,
+  "comments": 168,
+  "date": "2026-11-02",
+  "status": "原链 200 OK",
+  "excerpt": "Oracle filed plans on Monday to issue new shares and more debt to finance its artificial intelligence buildout.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Oracle",
+  "cn": {
+   "kw": "Oracle",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 51638,
+    "recent_median": 352,
+    "max_play": 2302932,
+    "recent30d": 1,
+    "top": [
+     "黑马程序员Oracle数据库精讲，从0到1学会Oracle数据库(938603)",
+     "【黄霄雲4K】《重返地球》《Oracle》「宇宙无敌号2.0」佛山站2026.10.31(352)",
+     "这可能是B站唯一一个把Oracle数据库讲的如此通俗易懂的教程了，只需一周时间搞定关系型(30682)"
+    ]
+   },
+   "suggest": [
+    "oracle",
+    "oracle从入门到精通",
+    "oracle数据库",
+    "oracle财务系统实操",
+    "oracle安装教程",
+    "oraclevmvirtualbox",
+    "Oracle财务系统",
+    "oracle性能调优"
+   ],
+   "hot": false,
+   "verdict": "近期空白(历史有爆款)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+  "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+  "hn": "https://news.ycombinator.com/item?id=50337454",
+  "points": 179,
+  "comments": 249,
+  "date": "2026-11-02",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：https://archive.ph/hTPql / There are H1B armies of regular people, doing regular jobs, that require no critical skills, making decent wages, at the / Unless you fit a certain very narrow demographic and career profile, SF is a shitty place to actually live. I understand / \"A group of more than four dozen laid-off workers gathered at 11 a.m. on a Mond",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Jobless",
+  "cn": {
+   "kw": "Jobless",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 281,
+    "recent_median": 659,
+    "max_play": 49011,
+    "recent30d": 10,
+    "top": [
+     "【英配听力】Mushoku Tensei: Jobless Reincarnation(1716)",
+     "Jobless Loser Dies Saving a Stranger, Then R(37)",
+     "(FREE FOR PROFIT) LAPTOPBOYBOY + BIG HEAD - (311)"
+    ]
+   },
+   "suggest": [
+    "joblessoblige",
+    "joblessreincarnation",
+    "joblessm",
+    "joblessgarrett",
+    "joblessed13"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+  "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-03",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. The technology includes a set of four opt-in AI features that allow Apple Watch Series 12 wearers to detect important sounds, identify songs, catch up o",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "苹果",
+  "cn": {
+   "kw": "苹果",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 8541,
+    "recent_median": 5528,
+    "max_play": 1118233,
+    "recent30d": 16,
+    "top": [
+     "苹果(104665)",
+     "油价崩了！Anthropic放缓？光与光的合作！苹果供应链危机？PLTR通往老登之路！(7571)",
+     "苹果三星华为直板机，谁是高端之最？(363206)"
+    ]
+   },
+   "suggest": [
+    "苹果",
+    "苹果手机",
+    "苹果18promax",
+    "苹果duo",
+    "苹果新品发布会2026",
+    "苹果发布新款iPad mini",
+    "苹果折叠屏",
+    "苹果饭冰冰佟大为"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+  "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-03",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3465,
+    "recent_median": 1171,
+    "max_play": 4074614,
+    "recent30d": 14,
+    "top": [
+     "段永平今晚抄底！谷歌值得买吗？微软、亚马逊、谷歌横向对比。(6770)",
+     "谷歌大跌12%，英特尔大跌28%，巨额资本开支、自由现金流恶化，AI泡沫松动(224967)",
+     "谷歌广告投放实战实操课程-初级-RobinLuo(504)"
+    ]
+   },
+   "suggest": [
+    "谷歌",
+    "谷歌账号怎么注册",
+    "谷歌浏览器无法打开网页",
+    "谷歌浏览器怎么下",
+    "谷歌play打不开",
+    "谷歌地图",
+    "谷歌三件套怎么安装",
+    "谷歌邮箱怎么注册"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]
