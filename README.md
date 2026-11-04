@@ -7,6 +7,21 @@
 ## 最新资讯
 
 
+### 2026-11-04（周三·Agent/工程落地）
+
+📡 每日AI信息差 · 今日要点
+
+1. **AI 能直接改自己的大脑** — 一个叫 Astra 的实验说，大模型能直接读懂、直接改自己的参数，不用重训。另一位开发者用 Qwen 27B 在普通笔记本上跑出类似效果，Hacker News 2930 分登顶。往远了看，修 AI 可能跟改文档一样便宜；但模型也能被悄悄动手脚，"谁改过、改了什么"以后必须查得到。— Hacker News 2930pts · https://rikiyat.github.io/blog/weight-space-programming/
+
+2. **800 美元的吊线机器人** — 天花板四角各一个电机，四根线吊着一只夹爪，靠收放线在整间屋里移动。不用轮子不用腿，地上堆满杂物进不去的地方，它从上面伸手下去拿。整套开源，800 美元覆盖一整个房间，机器人不一定非得长成人样。— Hacker News 650pts · https://neufangled.com/
+
+3. **你的代码对话又被拿去训练** — 有用户发现，OpenAI 在悄悄给 Codex 重新打开"用你的对话训练模型"，连用量入口也藏了，493 分讨论一夜没停。你贴进对话框的报错、代码、业务数据可能正在变成训练材料，而且连用了多少都查不到。公司最该紧张：代码就是命根子。— Hacker News 493pts · https://news.ycombinator.com/item?id=50352757
+
+4. **学校禁 AI，谷歌就断搜索** — 谷歌管教育的副总裁说，禁用 AI 的学校，学生将无法使用谷歌搜索，632 分讨论一半在骂。翻成人话：你不配合我的 AI 产品，我就把最基础的搜索也关掉。家长该追问两点：学校数据会不会被拿去喂模型，拒绝的代价凭什么由学生承担。— Hacker News 632pts · https://news.ycombinator.com/item?id=50353192
+
+5. **半年涨 90%，3.2 万亿暗债** — 日经统计，美国科技巨头为 AI 背的隐性债务半年涨 90%，到 3.2 万亿美元，多是数据中心租约和长期采购承诺，不上主报表。这些钱最后要靠服务涨价、融资和股价消化，你买的基金里就有它们。AI 泡沫破不破没人知道，但账单已经先记上了。— Hacker News 369pts · https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months
+
+
 ### 2026-11-03（周二·行业与钱）
 
 📡 每日AI信息差 · 今日要点
@@ -102,31 +117,11 @@
 5. **亚马逊 AI 部门被整体拆掉** — 外媒报道亚马逊自研 AI 连续受挫后，拆掉 AI 部门，人和预算全转去一个机器人专家牵头的新项目。信号：从「不做 AI 就死」变成「做了做不出来就砍」。对普通人的提醒：别把重要工作全押在某家公司的某个功能上。国内「亚马逊跨境电商」历史最高播放 221 万，行业变动是现成选题。来源：Hacker News 377pts https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova
 
 
-### 2026-10-28（周三·工程落地）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-10-28 周三
-
-1. **别把银行密码交给AI助手** — 美国银行提醒客户：只要是你授权AI代理去操作账户，产生的交易和损失，「你都要负责」。AI代理拿到密码后，系统看它跟你本人点的一样，事后很难证明不是你干的。查余额可以让AI做，动钱的事自己来。
-   来源：TechCrunch https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/
-
-2. **断网也能用的AI，自带150万篇资料** — 一个免费AI助手装在自己电脑上，全程不联网也能回答：停电怎么保食物、烫伤怎么处理、水怎么净化。它还会标出答案来自哪份手册，能自己核对。说明AI不一定非得连云端，本地部署在停电、没信号时才最有用。
-   来源：brangus.io https://www.brangus.io/survival-llm ／HN 讨论 https://news.ycombinator.com/item?id=50264853
-
-3. **AI说好省时间，结果更忙了** — 一位技术副总裁拿自己2019年以来的代码记录对比：AI让动手做变便宜后，他没有变闲，而是同时推进更多项目，工作量回到全职工程师水平，还一阵一阵爆发。省下的时间没变成休息，老板和同事的预期反而更高了。解法是自己定一个到点就停的上限。
-   来源：oioannou.com https://oioannou.com/blog/ai-promised-less-work/ ／HN 649分 https://news.ycombinator.com/item?id=50257325
-
-4. **警察用AI判断你可不可疑** — 美国有警察部门用AI分析驾驶行为，把「看起来可疑」的车拦下来。讨论里被反复引用的官方说法是：人们会更守规矩，因为我们一直在记录和上报一切。问题不在AI准不准，而在「可疑」的标准谁定、能不能申诉。
-   来源：HN 377分（原报道链接已失效）https://news.ycombinator.com/item?id=50261819
-
-5. **维基百科开始清理AI写的内容** — IEEE《光谱》报道，维基百科编辑志愿者成立了「AI写作清理」专门项目，成批挑出AI生成且未经核实的文字，删掉或重写。维基是很多人查资料的第一站，掺假的成本落在学生、家长和记者身上。争的不是AI能不能写，而是写完有没有人负责核实。
-   来源：IEEE Spectrum https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-04 | [→](daily/2026-11-04.md) |
 | 11-03 | [→](daily/2026-11-03.md) |
 | 11-02 | [→](daily/2026-11-02.md) |
 | 11-01 | [→](daily/2026-11-01.md) |
@@ -156,4 +151,3 @@
 | 10-08 | [→](daily/2026-10-08.md) |
 | 10-07 | [→](daily/2026-10-07.md) |
 | 10-06 | [→](daily/2026-10-06.md) |
-| 10-05 | [→](daily/2026-10-05.md) |

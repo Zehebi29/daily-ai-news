@@ -1,0 +1,445 @@
+[
+ {
+  "src": "HN",
+  "title": "Astra can read and write weights to improve Qwen",
+  "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+  "hn": "https://news.ycombinator.com/item?id=50341174",
+  "points": 2930,
+  "comments": 882,
+  "date": "2026-11-02",
+  "status": "原链 200 OK",
+  "excerpt": "We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, using a variety of recent tools and algorithms or even via direct weight editing. ‖ it is in the source --> , an SVG cannot use the page's web fonts and falls back to Helvetica, so each one is put into the page itself: its text is then set in Source Sans ",
+  "dup": true,
+  "dup_why": "1天前(2026-11-03)用过同一条链接",
+  "cn_kw": "通义千问",
+  "cn": {
+   "kw": "通义千问",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13481,
+    "recent_median": 779,
+    "max_play": 1043897,
+    "recent30d": 3,
+    "top": [
+     "从夯到拉，锐评2026全球通用AI助手排名，纯主观，不喜请直接开喷(1043897)",
+     "如何获取通义千问API-key 来自-祥云AI智能直播助手(16453)",
+     "通义千问基本用法(6037)"
+    ]
+   },
+   "suggest": [
+    "通义千问",
+    "通义千问api",
+    "通义千问api调用教程",
+    "通义千问使用教程",
+    "通义千问本地部署",
+    "通义千问部署",
+    "通义千问下载",
+    "通义千问手机版"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+  "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+  "hn": "https://news.ycombinator.com/item?id=50354960",
+  "points": 1356,
+  "comments": 455,
+  "date": "2026-11-03",
+  "status": "原链 200 OK",
+  "excerpt": "Is there an existing issue for this? I have searched the tracker for existing similar issues and I know that duplicates will be closed Describe the Issue Opening Postman on my Mac was followed by u... ‖ I have searched the tracker for existing similar issues and I know that duplicates will be closed Describe the Issue Opening Postman on my Mac was followed b",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Postman",
+  "cn": {
+   "kw": "Postman",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6947,
+    "recent_median": 174,
+    "max_play": 2221399,
+    "recent30d": 1,
+    "top": [
+     "1小时postman接口测试从入门到精通教程(261467)",
+     "几分钟学会postman使用(61106)",
+     "【Postman小白教程】五分钟学会如何使用Postman~(235753)"
+    ]
+   },
+   "suggest": [
+    "postman使用教程",
+    "postman",
+    "postman接口测试教程",
+    "postman安装教程",
+    "postman怎么改中文",
+    "Postman接口测试从入门到精通",
+    "postman从零基础入门到精通",
+    "postman汉化"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+  "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+  "hn": "https://news.ycombinator.com/item?id=50355251",
+  "points": 660,
+  "comments": 193,
+  "date": "2026-11-03",
+  "status": "原链 200 OK",
+  "excerpt": "Yesterday’s hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. ‖ Yesterday’s hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "通义千问",
+  "cn": {
+   "kw": "通义千问",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13481,
+    "recent_median": 779,
+    "max_play": 1043897,
+    "recent30d": 3,
+    "top": [
+     "从夯到拉，锐评2026全球通用AI助手排名，纯主观，不喜请直接开喷(1043897)",
+     "如何获取通义千问API-key 来自-祥云AI智能直播助手(16453)",
+     "通义千问基本用法(6037)"
+    ]
+   },
+   "suggest": [
+    "通义千问",
+    "通义千问api",
+    "通义千问api调用教程",
+    "通义千问使用教程",
+    "通义千问本地部署",
+    "通义千问部署",
+    "通义千问下载",
+    "通义千问手机版"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Stringman, an $800 open-source room scale gripper robot",
+  "url": "https://neufangled.com/",
+  "hn": "https://news.ycombinator.com/item?id=50354358",
+  "points": 650,
+  "comments": 208,
+  "date": "2026-11-03",
+  "status": "原链 405",
+  "excerpt": "In robotics, price is basically actuator count. Stringman reaches an entire room with four motors, hanging its gripper from lines anchored in the ceiling corners. Working from above, it reaches floors too cluttered for any wheeled or legged robot. And since the lifting force is shared by all motors, payload capacity scales with their combined torque instead ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "机器人",
+  "cn": {
+   "kw": "机器人",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4637,
+    "recent_median": 4062,
+    "max_play": 1588805,
+    "recent30d": 14,
+    "top": [
+     "少女被触手机器人束缚寄生！(341)",
+     "机器人管家培训完成，会收拾还会归类(54482)",
+     "机器人行星关模组设计课程--行星齿轮设计技术基础(1602)"
+    ]
+   },
+   "suggest": [
+    "机器人",
+    "机器人女友",
+    "机器人总动员",
+    "机器人技术基础",
+    "机器人格斗大赛",
+    "机器人舞蹈",
+    "机器人之梦",
+    "机器人登泰山"
+   ],
+   "hot": true,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Google will turn off search for schools that reject AI",
+  "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+  "hn": "https://news.ycombinator.com/item?id=50353192",
+  "points": 632,
+  "comments": 437,
+  "date": "2026-11-03",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：[flagged] / I wonder if schools will manage to filter this. Probably on windows , but I'm less sure on chromebooks. / > If a school has banned A.I., he [Chris Phillips, vice president for education at Google] added, students “will not hav / so what? there are alternatives... and who still googles nowadays anyways :) / As usual, the truth is a little ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6800,
+    "recent_median": 1404,
+    "max_play": 4076513,
+    "recent30d": 12,
+    "top": [
+     "段永平今晚抄底！谷歌值得买吗？微软、亚马逊、谷歌横向对比。(7456)",
+     "谷歌EGM！氛围编程大杀器！谷歌内部都在用！(931)",
+     "全网最简单的谷歌账号注册教程（无需拔卡、扫码、更改设置），只用手机即可轻松操作(1013328)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌",
+    "谷歌浏览器怎么下",
+    "谷歌地图",
+    "谷歌浏览器无法打开网页",
+    "谷歌play打不开",
+    "谷歌三件套怎么安装",
+    "谷歌邮箱怎么注册"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+  "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+  "hn": "https://news.ycombinator.com/item?id=50336918",
+  "points": 494,
+  "comments": 209,
+  "date": "2026-11-02",
+  "status": "原链 405",
+  "excerpt": "HN 讨论要点：Surely it’s AI, and not harvest-now-decrypt-later attacks, right? / I came across this website that provides LTO tape pricing references (I have no affiliation with the site).LTO-10 30TB:  / BluRay M-Disks are cheaper and more resistant to humidity / heat. / The cost of backing up slop gets added to the cost of generating it in the first place, I sup",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Fujifilm",
+  "cn": {
+   "kw": "Fujifilm",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 24652,
+    "recent_median": 10,
+    "max_play": 321322,
+    "recent30d": 1,
+    "top": [
+     "富士新APP：FUJIFILM Xapp如何下载、连接和使用(22765)",
+     "instax课堂：富士instax mini99开箱及操作演示(42475)",
+     "【顶级ps机】【富士】凯乐斯fujifilm klasse 一代，性价比，若x100v是(7731)"
+    ]
+   },
+   "suggest": [
+    "fujifilm打印机",
+    "fujifilmxm5",
+    "fujifilm相机",
+    "fujifilmxs20",
+    "fujifilmxt30",
+    "fujifilmx100vi",
+    "fujifilminstax",
+    "fujifilm拍立得"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+  "url": "https://news.ycombinator.com/item?id=50352757",
+  "hn": "https://news.ycombinator.com/item?id=50352757",
+  "points": 493,
+  "comments": 148,
+  "date": "2026-11-03",
+  "status": "原链 405",
+  "excerpt": "HN 讨论要点：OpenAI is also now hiding your usage. Not accessible anymore in the menu, and /usage in the codex app now also gives a l / If your company actually cared about this they would be running their own inference instead of leaving fate to a couple  / May be the coding agents should build a layer when they don't leak any IP, treat them like environment var",
+  "dup": true,
+  "dup_why": "1天前(2026-11-03)用过同一条链接",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6124,
+    "recent_median": 6124,
+    "max_play": 976461,
+    "recent30d": 20,
+    "top": [
+     "AI泡沫要破了？OpenAI融资暴雷，Anthropic或许将被打上垃圾评级(20146)",
+     "Sam Altman：解出千禧难题的 GPT 即将发布！DeepSeek Harness(25104)",
+     "【AI前沿】OpenAI全新GPT-ADA！GPT-6.2 Astra堪比Fable 5(1568)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openai失控",
+    "OpenAI的722篇论文含金量如何",
+    "openai怎么下载",
+    "openaiAPI密钥",
+    "openai创始人",
+    "openai智能体失控",
+    "openai 数学"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+  "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+  "hn": "https://news.ycombinator.com/item?id=50344919",
+  "points": 400,
+  "comments": 319,
+  "date": "2026-11-02",
+  "status": "原链 200 OK",
+  "excerpt": "If Anthropic goes public, workers, retail investors, and retirees will be left holding the bag when its bills come due, writes Matt Scherer. ‖ Matt Scherer is co-author of the recent report Brace for Impact: Protecting people and the economy when the AI bubble bursts. Anthropic CEO Dario Amodei looks on as United States President Donald Trump holds a press b",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 33487,
+    "recent_median": 36743,
+    "max_play": 2079271,
+    "recent30d": 15,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(132546)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2079271)",
+     "Claude Code 底层源码深度剖析(53)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claude封号",
+    "claude code",
+    "Claude Opus 5.5",
+    "claude大小姐",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+  "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+  "hn": "https://news.ycombinator.com/item?id=50358422",
+  "points": 369,
+  "comments": 155,
+  "date": "2026-11-03",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：I very much hope this, and other threads on the financially insane behaviour of the tech sector get more surface. I don' / I do wonder why HN thinks it understands risk better than the people hired at multi trillion dollar companies whose whol / This is quite misleading. It includes numbers for commitments for leases of data centers and payments for ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Anthropic is working on a system to prove AI models’ identity",
+  "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-03",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. The system, called FlashProve, is built to provide what researchers call “provable inference” — a cryptographic proof, essentially a mathematical guarantee",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 33487,
+    "recent_median": 36743,
+    "max_play": 2079271,
+    "recent30d": 15,
+    "top": [
+     "如何长期稳定使用Claude订阅，原理+实操教学(132546)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2079271)",
+     "Claude Code 底层源码深度剖析(53)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claude封号",
+    "claude code",
+    "Claude Opus 5.5",
+    "claude大小姐",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+  "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-03",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. The San Francisco-based VC firm filed with the U.S. Securities and Exchange Commission this week to raise $360 million ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Schlein",
+  "cn": {
+   "kw": "Schlein",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 504,
+    "recent_median": 0,
+    "max_play": 3114,
+    "recent30d": 0,
+    "top": [
+     "St Clare&#x27;s 01 - The Twins at St Clare&#(1842)",
+     "Deutschland erwache！（Sturm! sturm! sturm!）(573)",
+     "Schubert : Liebe schwarmt Aug Allen Wegen(786)"
+    ]
+   },
+   "suggest": [],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+  "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-03",
+  "desc": "",
+  "status": "原链 200 OK · 正文经 jina",
+  "excerpt": "Title: AI inference startup Fal doubles its valuation to $16B as demand surges URL Source: https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/ Published Time: 2026-11-03T19:34:43+00:00 Markdown Content: –:–:–:– Buy One Founder Summit Ticket, Get a Second for Free. The deal values Fal at $16 billion, double its $8 billion valuation in April, [Bloomberg reported](ht",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ }
+]
