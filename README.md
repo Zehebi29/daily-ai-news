@@ -7,6 +7,22 @@
 ## 最新资讯
 
 
+### 2026-11-05（周四·隐私与钱）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-11-05 周四
+
+1. **谷歌 Gemini 把聊天记录拿去训练，付费订阅也躲不掉** — 有用户发现，即使开了个人付费订阅，Gemini 仍会把对话内容用于训练模型。讨论里有人提醒：只要在输入框打了字，哪怕没发出去，都该按「永久保存」对待。合同、证件、客户名单别直接粘，先脱敏。— 来源：Hacker News https://news.ycombinator.com/item?id=50363461
+
+2. **学校完全禁用 AI，谷歌就断掉搜索** — 谷歌新规：学校若全面禁止 AI，学生将失去谷歌搜索的访问权限。官方称是为了给老师和家长更多控制权，但代价落在学生的搜索使用权上。家里有孩子在读书的，值得留意学校后面怎么表态。— 来源：Hacker News https://news.ycombinator.com/item?id=50353192
+
+3. **美国科技巨头隐性 AI 债务半年涨 90%，到 3.2 万亿美元** — 日经统计，这笔钱主要压在数据中心、算力采购和长期租约上。评论区指出口径把「未来要付的租金」也算进去了，不等于已欠现钱，但方向清楚：AI 竞赛越来越像借钱修路。成本大概率会传导成云服务、会员涨价。— 来源：Nikkei Asia https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months
+
+4. **第一家纯人形机器人公司今天在纳斯达克上市** — Agility 挂牌，成为第一家单独上市的人形机器人公司，此前只能买大公司间接参与。行业眼下的收入撑不起估值故事，普通人别急着开户，先看今年卖了多少台、单台成本降了多少。— 来源：TechCrunch https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/
+
+5. **Postman 打开就自动装 AI 插件，还想同步你的接口数据** — 有人在 GitHub 反馈：Mac 上打开 Postman 会自动安装 AI 插件，并试图把接口数据同步出去。这条已冲到 HN 第一（1506 分、487 条评论）。核心问题不是 AI，而是你没点过同意。接口数据常带密钥和用户信息，升级前先查同步与插件开关。— 来源：GitHub https://github.com/postmanlabs/postman-app-support/issues/14370
+
+
 ### 2026-11-04（周三·Agent/工程落地）
 
 📡 每日AI信息差 · 今日要点
@@ -101,26 +117,11 @@
 5. **美国首例：以信仰为由获准上班不用 AI** — 肯塔基大学行政人员 David Durman 用「人文主义」信念拿到宗教豁免，理由是他认为思考必须由自己完成。单位认的标准是这个信念要像宗教信仰一样深。国内没这套制度，但「哪些判断必须人来做」可以谈。来源：TechCrunch 🔗 https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai/
 
 
-### 2026-10-29（周四·AI 信息差）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-10-29 周四
-
-1. **谷歌甩出新模型 Gemini 4 直接登顶** — 谷歌发布 Gemini 4 Carbon，官方称是目前最强模型，主攻网络安全和长任务能力。发布当天它冲上国外技术榜第一，958 赞、771 条讨论。国内带 Gemini 名字的内容近 30 天有 18 条但都没做火，需求在、讲清楚的人缺。跟普通人有关：模型每升一代，你手机里的 AI 助手就聪明一档；「长任务」能力一上来，很多要人盯着的活真能撒手。来源：Hacker News 958pts https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
-
-2. **AI 说帮你省时间，结果活越干越多** — 一位技术副总裁摊开自己 2019 年至今的代码提交记录：AI 让写代码变便宜，他就同时开无数个活，效率回到全职程序员巅峰，代价是烧尽，连淡季都不闲。文章在 HN 拿到 674 赞、657 条评论。关键结论：AI 省下的时间不会自动变成休息，会被新任务填满；决定你累不累的不是工具多快，是你手上同时压着几件事。来源：Hacker News 674pts https://oioannou.com/blog/ai-promised-less-work/
-
-3. **15 亿美元和解案牵出偷书训练** — 斯坦福校报调查：Anthropic 训练 Claude 时用了至少 10 位斯坦福教授被非法下载的书，事件发生在一桩 15 亿美元版权和解案里。对普通人的影响：你发到网上的内容默认会被当成免费训练材料；这类官司的成本最后会摊到订阅费上，便宜的 AI 会员涨价理由就在这里。来源：Hacker News 586pts https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/
-
-4. **断网也能问 AI，自带 150 万篇资料** — Survival LLM 完全跑在自己电脑上，不用联网，内置 150 万篇离线文章，覆盖停电储粮、烫伤处理、净水，还会标出答案出自哪一篇。国内「大模型本地部署」是真实搜索词，近 30 天 14 条内容没做火，历史最高播放 386 万，缺口是把它讲成「普通人也能装」。来源：Hacker News 528pts https://www.brangus.io/survival-llm
-
-5. **亚马逊 AI 部门被整体拆掉** — 外媒报道亚马逊自研 AI 连续受挫后，拆掉 AI 部门，人和预算全转去一个机器人专家牵头的新项目。信号：从「不做 AI 就死」变成「做了做不出来就砍」。对普通人的提醒：别把重要工作全押在某家公司的某个功能上。国内「亚马逊跨境电商」历史最高播放 221 万，行业变动是现成选题。来源：Hacker News 377pts https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-05 | [→](daily/2026-11-05.md) |
 | 11-04 | [→](daily/2026-11-04.md) |
 | 11-03 | [→](daily/2026-11-03.md) |
 | 11-02 | [→](daily/2026-11-02.md) |
@@ -150,4 +151,3 @@
 | 10-09 | [→](daily/2026-10-09.md) |
 | 10-08 | [→](daily/2026-10-08.md) |
 | 10-07 | [→](daily/2026-10-07.md) |
-| 10-06 | [→](daily/2026-10-06.md) |

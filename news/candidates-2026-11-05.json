@@ -1,0 +1,426 @@
+[
+ {
+  "src": "HN",
+  "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+  "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+  "hn": "https://news.ycombinator.com/item?id=50354960",
+  "points": 1506,
+  "comments": 487,
+  "date": "2026-11-03",
+  "status": "原链 200 OK",
+  "excerpt": "Is there an existing issue for this? I have searched the tracker for existing similar issues and I know that duplicates will be closed Describe the Issue Opening Postman on my Mac was followed by u... ‖ I have searched the tracker for existing similar issues and I know that duplicates will be closed Describe the Issue Opening Postman on my Mac was followed b",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Postman",
+  "cn": {
+   "kw": "Postman",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6949,
+    "recent_median": 1,
+    "max_play": 2221428,
+    "recent30d": 3,
+    "top": [
+     "1小时postman接口测试从入门到精通教程(261996)",
+     "耳朵怀孕 Carpenters 卡朋特 《Please Mr. Postman》 黑胶试(52310)",
+     "postman入门到精通项目实战全套教程(6087)"
+    ]
+   },
+   "suggest": [
+    "postman使用教程",
+    "postman",
+    "postman接口测试教程",
+    "postman安装教程",
+    "postman怎么改中文",
+    "Postman接口测试从入门到精通",
+    "postman汉化",
+    "postman从零基础入门到精通"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI is forcing us to pay off 40 years of technical debt",
+  "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+  "hn": "https://news.ycombinator.com/item?id=50364336",
+  "points": 1215,
+  "comments": 709,
+  "date": "2026-11-04",
+  "status": "原链 200 OK",
+  "excerpt": "AI in cybersecurity accelerates both attackers and defenders, revealing painful technical debt in fragile legacy systems. ‖ IEEE.orgIEEE XploreIEEE StandardsIEEE Job SiteMore SitesSign InJoin IEEE The November issue of IEEE Spectrum is here! The PHP2Shell Vulnerability Heralds Cybersecurity HellShare FOR THE TECHNOLOGY INSIDERSearch: Explore by topicAerospac",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+  "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+  "hn": "https://news.ycombinator.com/item?id=50351111",
+  "points": 1032,
+  "comments": 208,
+  "date": "2026-11-03",
+  "status": "原链 200 OK",
+  "excerpt": "The experiments that read raw weights and the ones that fix Qwen use completely different techniques.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "通义千问",
+  "cn": {
+   "kw": "通义千问",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13500,
+    "recent_median": 864,
+    "max_play": 1044559,
+    "recent30d": 5,
+    "top": [
+     "在SSD上运行177B模型（速度超快！）_ 通义千问3.8 Flash下一代测试(71)",
+     "从夯到拉，锐评2026全球通用AI助手排名，纯主观，不喜请直接开喷(1044559)",
+     "Qwen模型是什么？一口气看懂通义千问：模型家族、原理、能力与使用场景(215)"
+    ]
+   },
+   "suggest": [
+    "通义千问",
+    "通义千问使用教程",
+    "通义千问本地部署",
+    "通义千问api调用教程",
+    "通义千问qwen3",
+    "通义千问电脑版",
+    "通义千问api",
+    "通义千问apikey"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Stringman, an $800 open-source room scale gripper robot",
+  "url": "https://neufangled.com/",
+  "hn": "https://news.ycombinator.com/item?id=50354358",
+  "points": 825,
+  "comments": 245,
+  "date": "2026-11-03",
+  "status": "原链 405",
+  "excerpt": "In robotics, price is basically actuator count. Stringman reaches an entire room with four motors, hanging its gripper from lines anchored in the ceiling corners. Working from above, it reaches floors too cluttered for any wheeled or legged robot. And since the lifting force is shared by all motors, payload capacity scales with their combined torque instead ",
+  "dup": true,
+  "dup_why": "1天前(2026-11-04)用过同一条链接",
+  "cn_kw": "机器人",
+  "cn": {
+   "kw": "机器人",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7422,
+    "recent_median": 2862,
+    "max_play": 1615177,
+    "recent30d": 14,
+    "top": [
+     "仿生机器人(1094)",
+     "（1-3季）机骸重铸，从破旧机器人开始！方宇一觉醒来，发现自己穿越成了一具残破不堪的废土(11014)",
+     "机器人行星关模组设计课程--行星齿轮设计技术基础(1784)"
+    ]
+   },
+   "suggest": [
+    "机器人",
+    "机器人技术基础",
+    "机器人总动员",
+    "机器人女友",
+    "机器人之梦",
+    "机器人离规模化落地有多远",
+    "机器人小安",
+    "机器人格斗大赛"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+  "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+  "hn": "https://news.ycombinator.com/item?id=50355251",
+  "points": 730,
+  "comments": 213,
+  "date": "2026-11-03",
+  "status": "原链 200 OK",
+  "excerpt": "Yesterday’s hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. ‖ Yesterday’s hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "通义千问",
+  "cn": {
+   "kw": "通义千问",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13500,
+    "recent_median": 864,
+    "max_play": 1044559,
+    "recent30d": 5,
+    "top": [
+     "在SSD上运行177B模型（速度超快！）_ 通义千问3.8 Flash下一代测试(71)",
+     "从夯到拉，锐评2026全球通用AI助手排名，纯主观，不喜请直接开喷(1044559)",
+     "Qwen模型是什么？一口气看懂通义千问：模型家族、原理、能力与使用场景(215)"
+    ]
+   },
+   "suggest": [
+    "通义千问",
+    "通义千问使用教程",
+    "通义千问本地部署",
+    "通义千问api调用教程",
+    "通义千问qwen3",
+    "通义千问电脑版",
+    "通义千问api",
+    "通义千问apikey"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+  "url": "https://news.ycombinator.com/item?id=50363461",
+  "hn": "https://news.ycombinator.com/item?id=50363461",
+  "points": 676,
+  "comments": 174,
+  "date": "2026-11-04",
+  "status": "原链 405",
+  "excerpt": "HN 讨论要点：another Google W I guess? gemini really leading the pack over here / I assume that everyone does this no matter what they say. Seems like too juicy a target / imho you should act as if everything you type, not even send, is stored forever and might be used for training whenever  / It might matter if Gemini was good enough to use but its not - I only ",
+  "dup": true,
+  "dup_why": "1天前(2026-11-04)用过同一条链接",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6070,
+    "recent_median": 6291,
+    "max_play": 312766,
+    "recent30d": 17,
+    "top": [
+     "神仙打架！新版Astra与Sol周五炸场，Gemini氢检查点偷偷测试，Meta隐身模型(6291)",
+     "AI 三巨头：nice！终于要暂停 AI 发展了！腾讯混元 Hy4 AA 跑分出炉；Ge(7835)",
+     "【Gemini 小游戏】动物躲猫猫 学叫声 11月4日 Moo Who Gemini小游(1841)"
+    ]
+   },
+   "suggest": [
+    "gemini",
+    "gemini4argon",
+    "gemini使用教程",
+    "gemini4",
+    "Gemini郭家毅解说",
+    "gemini订阅",
+    "Gemini郭家毅五排",
+    "gemini郭家毅盛世天下"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Google will turn off search for schools that reject AI",
+  "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+  "hn": "https://news.ycombinator.com/item?id=50353192",
+  "points": 668,
+  "comments": 463,
+  "date": "2026-11-03",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "Google is making it easier to restrict its A.I. But schools that block A.I. entirely will lose student access to Google’s search engine. ‖ Executives at the tech giant said they wanted to be responsive to educators and parents who have asked for more control in how children interact with A.I. But there is a catch: Schools that choose to restrict A.I. entirel",
+  "dup": true,
+  "dup_why": "1天前(2026-11-04)用过同一条链接",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3142,
+    "recent_median": 3043,
+    "max_play": 4078259,
+    "recent30d": 13,
+    "top": [
+     "百度开源ERNIE 5.5 Flash；6.2 Astra与Sol短暂现身谷歌云；Cla(831)",
+     "谷歌大跌是不是泡沫破裂的导火索(3043)",
+     "谷歌广告投放实战实操课程-初级-RobinLuo(0)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌",
+    "谷歌浏览器怎么下",
+    "谷歌浏览器无法打开网页",
+    "谷歌play打不开",
+    "谷歌邮箱怎么注册",
+    "谷歌地图",
+    "谷歌三件套怎么安装"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+  "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+  "hn": "https://news.ycombinator.com/item?id=50362905",
+  "points": 603,
+  "comments": 280,
+  "date": "2026-11-04",
+  "status": "原链 200 OK",
+  "excerpt": "A hands-on look at dual-booting Linux on the Nvidia RTX Spark laptop, the GPU clock throttling bug found, and why WSL still wins. ‖ Product AI ModelsAI Media WorkbenchAgent Skills PluginWorkflow CapabilitiesPricingLearn UniversityDocumentationBlogAboutLog inGet StartedMy Workspace Can you run Linux on the Nvidia RTX Spark laptop? Yes, but it comes with a ser",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 970,
+    "recent_median": 1050,
+    "max_play": 66209,
+    "recent30d": 17,
+    "top": [
+     "老黄经济学：一口气看懂英伟达的商业帝国(66209)",
+     "11.3台媒热议  AI股大逃杀！英特尔血崩53.8%、英伟达蒸发近9千亿美元(3058)",
+     "AI原生重塑组织，来自英伟达字节贝壳中智的思考(0)"
+    ]
+   },
+   "suggest": [
+    "英伟达",
+    "英伟达显卡驱动",
+    "英伟达新模型",
+    "英伟达spark",
+    "英伟达是什么",
+    "英伟达app",
+    "英伟达RTXSpark",
+    "英伟达spark笔记本"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+  "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+  "hn": "https://news.ycombinator.com/item?id=50358422",
+  "points": 412,
+  "comments": 167,
+  "date": "2026-11-03",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：I very much hope this, and other threads on the financially insane behaviour of the tech sector get more surface. I don' / I do wonder why HN thinks it understands risk better than the people hired at multi trillion dollar companies whose whol / This is quite misleading. It includes numbers for commitments for leases of data centers and payments for ",
+  "dup": true,
+  "dup_why": "1天前(2026-11-04)用过同一条链接",
+  "cn_kw": null
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+  "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-05",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+  "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-05",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "人形机器人",
+  "cn": {
+   "kw": "人形机器人",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 777,
+    "recent_median": 231,
+    "max_play": 1069557,
+    "recent30d": 12,
+    "top": [
+     "反转了吗？人形机器人的节奏！(1554)",
+     "CGTN刘欣 | 人形机器人的“宇树时刻”：一场IPO如何点燃具身智能热潮（202608(250)",
+     "人形机器人运动控制（第1期）(7516)"
+    ]
+   },
+   "suggest": [
+    "人形机器人",
+    "人形机器人行业分析",
+    "人形机器人产业前景究竟如何",
+    "人形机器人玛丽",
+    "人形机器人结构设计",
+    "人形机器人骗局",
+    "人形机器人协作挑战赛",
+    "人形机器人最新进展"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Apple is reportedly cutting budgets for its internal AI usage",
+  "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-05",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "苹果",
+  "cn": {
+   "kw": "苹果",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 10336,
+    "recent_median": 10227,
+    "max_play": 949790,
+    "recent30d": 19,
+    "top": [
+     "苹果(949790)",
+     "鬼畜众神齐跳《小苹果》(10446)",
+     "把我的小苹果🍎吐！出！来！(18629)"
+    ]
+   },
+   "suggest": [
+    "苹果",
+    "苹果18promax",
+    "苹果手机",
+    "苹果duo",
+    "苹果饭冰冰佟大为",
+    "苹果平板",
+    "苹果触屏macbook pro实机上手",
+    "苹果博主背后的商业逻辑"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ }
+]
