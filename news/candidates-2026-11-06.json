@@ -1,0 +1,481 @@
+[
+ {
+  "src": "HN",
+  "title": "AI is forcing us to pay off 40 years of technical debt",
+  "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+  "hn": "https://news.ycombinator.com/item?id=50364336",
+  "points": 1279,
+  "comments": 744,
+  "date": "2026-11-04",
+  "status": "原链 200 OK",
+  "excerpt": "AI in cybersecurity accelerates both attackers and defenders, revealing painful technical debt in fragile legacy systems. ‖ IEEE.orgIEEE XploreIEEE StandardsIEEE Job SiteMore SitesSign InJoin IEEE The November issue of IEEE Spectrum is here! The PHP2Shell Vulnerability Heralds Cybersecurity HellShare FOR THE TECHNOLOGY INSIDERSearch: Explore by topicAerospac",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Claude Code sends your email address to websites",
+  "url": "https://github.com/anthropics/claude-code/issues/107757",
+  "hn": "https://news.ycombinator.com/item?id=50385272",
+  "points": 1266,
+  "comments": 399,
+  "date": "2026-11-05",
+  "status": "原链 200 OK",
+  "excerpt": "Bug Description I receive dozens of scam emails per day because claude code divulged my email to arbitrary 3rd parties in the User-Agent request header while conducting web searches without my perm... ‖ This should not be a setting with opt-out or opt-in behavior, it needs to be removed from the harness entirely. It is not for the good of anyone involved: it",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2845,
+    "recent_median": 2048,
+    "max_play": 2087531,
+    "recent30d": 15,
+    "top": [
+     "【fate/agi】claude 反杀达里奥(8076)",
+     "【全网首发】Claude防封号独家指南！前后花了5万元！小白保姆级教程【包含对话铺垫/I(56114)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2087531)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude",
+    "Claude Opus 5.5",
+    "Claudebot",
+    "claude封号",
+    "claude code",
+    "claude大小姐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+  "url": "https://news.ycombinator.com/item?id=50363461",
+  "hn": "https://news.ycombinator.com/item?id=50363461",
+  "points": 720,
+  "comments": 195,
+  "date": "2026-11-04",
+  "status": "原链 405",
+  "excerpt": "HN 讨论要点：another Google W I guess? gemini really leading the pack over here / I assume that everyone does this no matter what they say. Seems like too juicy a target / imho you should act as if everything you type, not even send, is stored forever and might be used for training whenever  / It might matter if Gemini was good enough to use but its not - I only ",
+  "dup": true,
+  "dup_why": "1天前(2026-11-05)用过同一条链接",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2519,
+    "recent_median": 2519,
+    "max_play": 12258,
+    "recent30d": 18,
+    "top": [
+     "【Gemini/刺痛 巅峰赛+万象棋】一个打 一个压力？ 11月5日  Gemini 直(1541)",
+     "Gemini学生优惠又来了！Google AI Pro免费1年怎么申请？(2639)",
+     "0元白嫖Google AI Pro会员24个月！Gemini Pro+5TB空间，浏览器(7957)"
+    ]
+   },
+   "suggest": [
+    "gemini",
+    "gemini使用教程",
+    "Gemini郭家毅解说",
+    "gemini直播回放",
+    "gemini4argon",
+    "gemini4",
+    "Gemini 4 Carbon发布",
+    "gemini郭家毅小游戏"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Kimi K3.1 Pro model weights are out",
+  "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+  "hn": "https://news.ycombinator.com/item?id=50366999",
+  "points": 632,
+  "comments": 187,
+  "date": "2026-11-04",
+  "status": "原链 200 OK",
+  "excerpt": "Image-Text-to-Text model with 2.8T parameters. Download, explore files and run it on Hugging Face.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Kimi",
+  "cn": {
+   "kw": "Kimi",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2655,
+    "recent_median": 1143,
+    "max_play": 120557,
+    "recent30d": 18,
+    "top": [
+     "Kimi 3.1 给词典笔做了3D我的世界(24255)",
+     "kimi3.1pro 全新订阅套餐 真实额度评测！！！(4364)",
+     "Kimi Code 零基础开发小程序(15227)"
+    ]
+   },
+   "suggest": [
+    "kimi",
+    "kimi使用教程",
+    "kimi乔任梁",
+    "kimik3.1pro",
+    "kimi安东内利",
+    "KIMI会员值得买吗",
+    "kimi乔任梁通灵",
+    "kimi是哪个公司的"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+  "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+  "hn": "https://news.ycombinator.com/item?id=50362905",
+  "points": 614,
+  "comments": 287,
+  "date": "2026-11-04",
+  "status": "原链 200 OK",
+  "excerpt": "A hands-on look at dual-booting Linux on the Nvidia RTX Spark laptop, the GPU clock throttling bug found, and why WSL still wins. ‖ Product AI ModelsAI Media WorkbenchAgent Skills PluginWorkflow CapabilitiesPricingLearn UniversityDocumentationBlogAboutLog inGet StartedMy Workspace Can you run Linux on the Nvidia RTX Spark laptop? Yes, but it comes with a ser",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2199,
+    "recent_median": 5842,
+    "max_play": 78876,
+    "recent30d": 17,
+    "top": [
+     "11.6: 美股遭遇抛售纳指大跌5.52%、美光及AMD暴跌17%、英伟达及特斯拉跌约1(55660)",
+     "路透社：由于东大拒绝批准进口，英伟达芯片在香港堆积如山(21422)",
+     "AI原生重塑组织，来自英伟达字节贝壳中智的思考(342)"
+    ]
+   },
+   "suggest": [
+    "英伟达",
+    "英伟达股票暴跌",
+    "英伟达显卡驱动",
+    "英伟达是什么",
+    "英伟达spark",
+    "英伟达暴跌",
+    "英伟达app",
+    "英伟达显示模式optimus是什么意思"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+  "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+  "hn": "https://news.ycombinator.com/item?id=50385870",
+  "points": 394,
+  "comments": 181,
+  "date": "2026-11-05",
+  "status": "原链 200 OK",
+  "excerpt": "Cuban says he has been seeing his own face in scammy AI-generated ads for nonexistent diabetes cures.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Cuban",
+  "cn": {
+   "kw": "Cuban",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 707,
+    "recent_median": 157,
+    "max_play": 5587,
+    "recent30d": 2,
+    "top": [
+     "[双语] Mark Cuban的商业成功之道 | 大师课(3274)",
+     "Afro-Cuban 6/8律动解析｜核心风格与节奏拆解｜CME现代音乐小课堂(686)",
+     "【雪茄品吸】古巴轮回罗布图马杜罗Cuban Rounds Robusto Maduro(910)"
+    ]
+   },
+   "suggest": [
+    "CubanPete",
+    "醋拌饺子",
+    "Cubans",
+    "粗棒针编织教程",
+    "粗棒针毛衣编织视频教程",
+    "cubandance",
+    "cubanacubana",
+    "粗棒针毛衣编织教程"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "GPT-6 Astra covertly underperforms on safety research",
+  "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+  "hn": "https://news.ycombinator.com/item?id=50376313",
+  "points": 332,
+  "comments": 180,
+  "date": "2026-11-05",
+  "status": "原链 200 OK",
+  "excerpt": "Research on aligning AI with human values and intent, and reports documenting model failures.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 471,
+    "recent_median": 408,
+    "max_play": 963140,
+    "recent30d": 15,
+    "top": [
+     "ChatGPT手机版如何下载？安卓苹果保姆级教程，从安装到订阅Plus全搞定(463321)",
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(963140)",
+     "利用ChatGPT快速发表高质量SCI论文(130141)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt电脑端安装",
+    "chatgpt",
+    "chatgpt国内使用教程",
+    "chatgptplus如何购买",
+    "chatgpt安卓下载",
+    "chatgpt安装教程",
+    "chatgpt手机版苹果怎么使用"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+  "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+  "hn": "https://news.ycombinator.com/item?id=50363554",
+  "points": 320,
+  "comments": 317,
+  "date": "2026-11-04",
+  "status": "原链 200 OK",
+  "excerpt": "Nobel winner warns the tech could be near to triggering major incident such as power or banking shutdown",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Geoffrey",
+  "cn": {
+   "kw": "Geoffrey",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6076,
+    "recent_median": 1427,
+    "max_play": 171103,
+    "recent30d": 2,
+    "top": [
+     "1.2.1 Geoffrey Chaucer(4270)",
+     "Geoffrey Lindenberg【中英⚡无损检测|AVS3650 Spring 2(3295)",
+     "数字通信-基础 [Geoffrey Messier](1702)"
+    ]
+   },
+   "suggest": [
+    "geoffrey",
+    "geoffreyhinton",
+    "geoffreyzhou",
+    "geoffreychaucer",
+    "geoffreyhinton访谈",
+    "geoffreybsmall",
+    "geoffreyrush",
+    "geoffreyF"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "OpenAI to acquire Pierre Computer Company",
+  "url": "https://openai.com/index/openai-to-acquire-pierre/",
+  "hn": "https://news.ycombinator.com/item?id=50366863",
+  "points": 262,
+  "comments": 92,
+  "date": "2026-11-04",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：I wish these \"acquired by\" announcements started with an explanation of what the startup was in the first place.I had ne / https://openai.com/index/openai-to-acquire-pierre/ / https://xnotme.com/pierrecomputer/status/2117999036175188183 / I'm interested in knowing more about the company itself. How many people is/was it? Were they working all in an o",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1589,
+    "recent_median": 1589,
+    "max_play": 38053,
+    "recent30d": 20,
+    "top": [
+     "王炸更新！GPT-6.2或成OpenAI迄今最大飞跃(1586)",
+     "突发！OpenAI 发布 GPT-6 Cyber 网络安全模型(9706)",
+     "OpenAI自曝：GPT-6 Astra做安全研究时会偷偷摸鱼！GPT-6 Cyber正(2282)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openai失控",
+    "openai智能体失控",
+    "openai怎么下载",
+    "openai出逃",
+    "openai创始人",
+    "openai智能体失控事件",
+    "openaiAPI密钥"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Progress on provable inference for large language models",
+  "url": "https://www.anthropic.com/research/provable-inference",
+  "hn": "https://news.ycombinator.com/item?id=50368626",
+  "points": 238,
+  "comments": 121,
+  "date": "2026-11-04",
+  "status": "原链 200 OK",
+  "excerpt": "Sharing progress on a powerful type of cryptographic proof known as a zkSNARK, which is uniquely fit for provable inference. ‖ Skip to main content 01Executive summary Roy Rinberg (Anthropic), Alex Allain (Anthropic); Alessandro Chiesa (EPFL, StarkWare), Miranda Christ (MIT, RESI), Rahul Dalal (Anthropic STEM Fellows Program, Succinct), Giacomo Fenzi (EPFL),",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Progress",
+  "cn": {
+   "kw": "Progress",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1792,
+    "recent_median": 197,
+    "max_play": 168032,
+    "recent30d": 6,
+    "top": [
+     "（progress3）shukketsu 79%(235)",
+     "[hip-hop]《Progress》人类一败涂地|循环歌单|God&#x27;s Pl(168032)",
+     "词根gress：progress congress transgress aggress(1905)"
+    ]
+   },
+   "suggest": [
+    "progress",
+    "progress是什么意思",
+    "progress歌曲",
+    "progression电吉他",
+    "progressive house",
+    "progressivehouse制作",
+    "progress鬼船",
+    "progress生日会"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+  "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-06",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 23287,
+    "recent_median": 474,
+    "max_play": 1442960,
+    "recent30d": 8,
+    "top": [
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1437792)",
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1442960)",
+     "从小白到接单·用Agent做AI视频(11727)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发学习路线",
+    "aiagent开发",
+    "aiagent实战项目",
+    "aiagent开发教程",
+    "aiagent使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+  "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-05",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. In the company’s Q3 shareholder letter on Thursday, Airbnb also provided more detail about how the agent will work, what it will actual",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 23287,
+    "recent_median": 474,
+    "max_play": 1442960,
+    "recent30d": 8,
+    "top": [
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1437792)",
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1442960)",
+     "从小白到接单·用Agent做AI视频(11727)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发学习路线",
+    "aiagent开发",
+    "aiagent实战项目",
+    "aiagent开发教程",
+    "aiagent使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]

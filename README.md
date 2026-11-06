@@ -7,6 +7,22 @@
 ## 最新资讯
 
 
+### 2026-11-06（周五·工具实测）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-11-06 周五
+
+1. **AI写代码时，把你邮箱送出去了** — Claude Code 帮用户上网查资料时，把用户邮箱塞进请求头一起发出去，有人因此每天收到几十封诈骗邮件。官方把它做成了「可关闭的开关」，而不是直接删掉。来源：GitHub anthropics/claude-code issue #107757 · https://github.com/anthropics/claude-code/issues/107757 （HN 1266pts）
+
+2. **付了钱的 Gemini，照样拿你聊天训练** — HN 用户实测确认：个人付费订阅账号的聊天记录一样进训练集。讨论区结论是「该假设你敲进去的每个字，哪怕没按发送，都会被永久保存」。来源：Hacker News · https://news.ycombinator.com/item?id=50363461 （720pts）
+
+3. **这块新显卡装 Linux 后只剩三成力** — 有人实测 Nvidia RTX Spark 笔记本装 Linux 跑本地模型，推理速度掉到 35%，原因是一段加密固件压住了显卡频率。作者结论：想跑 AI，这台机器上 Windows + WSL 反而更强。来源：MindStudio · https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop （HN 614pts）
+
+4. **Kimi 新模型权重直接放开** — 月之暗面把 Kimi K3.1 Pro 权重放上 Hugging Face，2.8 万亿参数，图 + 文双输入。个人电脑跑不动，但对普通人的实际影响是：套壳产品接下来会降价或提速。来源：Hugging Face · https://huggingface.co/moonshotai/Kimi-K3.1-Pro （HN 632pts）
+
+5. **社媒上的假广告，一年骗走 160 亿美元** — Mark Cuban 称 Facebook 明知平台上有 AI 生成的假广告，里面还有他本人的脸，在卖不存在的糖尿病药；文件显示这类诈骗一年 160 亿美元。记住一条：名人脸 + 神药 + 短视频 = 诈骗。来源：Yahoo Finance · https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html （HN 394pts）
+
+
 ### 2026-11-05（周四·隐私与钱）
 
 📡 每日AI信息差 · 今日要点
@@ -101,26 +117,11 @@
 5. **Gemini 4 Carbon 登顶综合榜，编程只排第二** — Artificial Analysis 智能指数 v5 上，谷歌 Gemini 4 Carbon 排第一；但在编程智能体榜单上只排第二，前面是 Claude Opus 5.5。综合分看知识面和推理，改一整个项目考的是另一套能力。写文案查资料几个模型差距不大，动成型项目的代码才见高下。 — 来源：Artificial Analysis https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1
 
 
-### 2026-10-30（周五·工具实测）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-10-30 周五
-
-1. **Anthropic 官方 Claude Code 插件被植入后门** — Anthropic 承认，Claude Code 在 VS Code 和 Cursor 里的官方扩展被人塞了恶意代码，会在电脑上开一道远程控制后门，不需要你再点任何东西。装过的人先禁用扩展，等修复版本。来源：Hacker News 346 分 🔗 https://news.ycombinator.com/item?id=50302334
-
-2. **Mistral Large 4 开放权重，1 万亿参数免费下载** — 法国 Mistral 把最大的模型直接放出，能看图能读字，官方称写代码能力在开源模型里排第一。模型文件在自己手里，公司数据可以不出门；但 1 万亿参数普通笔记本带不动，得靠专业显卡。来源：Hacker News 1558 分 🔗 https://news.ycombinator.com/item?id=50289418
-
-3. **谷歌发布 Gemini 4 Carbon，主打「自己干活」** — 官方称是自家最强模型，两个卖点是网络安全能力和长时间独立完成任务：接一个长任务能自己拆步骤往下做，几十分钟不用盯。国内短期仍难用上原版，看到「已接入 Gemini 4」的套壳宣传先别付钱。来源：Hacker News 1007 分 🔗 https://news.ycombinator.com/item?id=50276792
-
-4. **「AI 味」藏不住了：读到一半就知道是 AI 写的** — 软件界老前辈 Martin Fowler 写随笔说，AI 特征不是破折号也不是排版，是用滥的比喻和句式——每句都对，但连起来不像有人在说话。让人出结构、自己手写最后一段和具体例子，才是「有个人在」的证据。来源：Martin Fowler 博客 🔗 https://martinfowler.com/bliki/LLM-Voice.html
-
-5. **美国首例：以信仰为由获准上班不用 AI** — 肯塔基大学行政人员 David Durman 用「人文主义」信念拿到宗教豁免，理由是他认为思考必须由自己完成。单位认的标准是这个信念要像宗教信仰一样深。国内没这套制度，但「哪些判断必须人来做」可以谈。来源：TechCrunch 🔗 https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai/
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-06 | [→](daily/2026-11-06.md) |
 | 11-05 | [→](daily/2026-11-05.md) |
 | 11-04 | [→](daily/2026-11-04.md) |
 | 11-03 | [→](daily/2026-11-03.md) |
@@ -150,4 +151,3 @@
 | 10-10 | [→](daily/2026-10-10.md) |
 | 10-09 | [→](daily/2026-10-09.md) |
 | 10-08 | [→](daily/2026-10-08.md) |
-| 10-07 | [→](daily/2026-10-07.md) |
