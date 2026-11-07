@@ -1,0 +1,453 @@
+[
+ {
+  "src": "HN",
+  "title": "Claude Code sends your email address to websites",
+  "url": "https://github.com/anthropics/claude-code/issues/107757",
+  "hn": "https://news.ycombinator.com/item?id=50385272",
+  "points": 1578,
+  "comments": 505,
+  "date": "2026-11-05",
+  "status": "原链 200 OK",
+  "excerpt": "Bug Description I receive dozens of scam emails per day because claude code divulged my email to arbitrary 3rd parties in the User-Agent request header while conducting web searches without my perm... ‖ This should not be a setting with opt-out or opt-in behavior, it needs to be removed from the harness entirely. It is not for the good of anyone involved: it",
+  "dup": true,
+  "dup_why": "1天前(2026-11-06)用过同一条链接",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 11696,
+    "recent_median": 2739,
+    "max_play": 2091247,
+    "recent30d": 15,
+    "top": [
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2091247)",
+     "【全网首发】Claude防封号独家指南！前后花了5万元！小白保姆级教程【包含对话铺垫/I(62943)",
+     "Claude KYC 实名认证保姆级教程：中国护照实测及避坑指南(6596)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude封号",
+    "claude code",
+    "claude内部模型model4曝光",
+    "Claude Opus 5.5",
+    "claude大小姐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+  "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+  "hn": "https://news.ycombinator.com/item?id=50385870",
+  "points": 509,
+  "comments": 224,
+  "date": "2026-11-05",
+  "status": "原链 200 OK",
+  "excerpt": "Cuban says he has been seeing his own face in scammy AI-generated ads for nonexistent diabetes cures.",
+  "dup": true,
+  "dup_why": "1天前(2026-11-06)用过同一条链接",
+  "cn_kw": "Cuban",
+  "cn": {
+   "kw": "Cuban",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1896,
+    "recent_median": 0,
+    "max_play": 10085,
+    "recent30d": 0,
+    "top": [
+     "[双语] Mark Cuban的商业成功之道 | 大师课(3276)",
+     "【古巴舞曲】Estas Tonne || Cuban Dance || Live in (3708)",
+     "『Cuban Latin Jazz古巴拉丁爵士/Clave克拉夫节奏/Mambo曼波舞曲(864)"
+    ]
+   },
+   "suggest": [
+    "CubanPete",
+    "cuba女篮",
+    "Cubans",
+    "醋拌柠檬",
+    "醋拌饺子",
+    "粗棒针毛衣编织视频教程",
+    "cubana",
+    "粗棒针毛衣编织教程"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Gemini Omni 1.2 Flash",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "hn": "https://news.ycombinator.com/item?id=50392118",
+  "points": 346,
+  "comments": 233,
+  "date": "2026-11-06",
+  "status": "原链 200 OK",
+  "excerpt": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing. ‖ Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips Nov 05, 2026 Gemini Omni 1.2 Flash brings 15-second clips, stronger consistency, and faster, more cost-effective generation. We’re rolling out Gemini Omni 1.2 Flash, which ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1626,
+    "recent_median": 1593,
+    "max_play": 319752,
+    "recent30d": 17,
+    "top": [
+     "[WB vs JDG]Gemini/花海/阿豆/拖米直播 弹幕版26.11.6(10049)",
+     "Gemini来袭！手把手教你免费领Gemini密钥，顺便避开云赠金402大坑【B站AI创(5485)",
+     "北京JDG VS 北京WB 11月6日  Gemini解说【2026KPL年度总决赛】北(5687)"
+    ]
+   },
+   "suggest": [
+    "gemini",
+    "gemini郭家毅小游戏",
+    "gemini郭家毅盛世天下",
+    "gemini使用教程",
+    "gemini直播回放",
+    "gemini4",
+    "gemini郭家毅战至巅峰",
+    "Gemini郭家毅五排"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "GPT-6 Astra covertly underperforms on safety research",
+  "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+  "hn": "https://news.ycombinator.com/item?id=50376313",
+  "points": 341,
+  "comments": 189,
+  "date": "2026-11-05",
+  "status": "原链 200 OK",
+  "excerpt": "Research on aligning AI with human values and intent, and reports documenting model failures.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 520,
+    "recent_median": 516,
+    "max_play": 966495,
+    "recent30d": 15,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(966495)",
+     "ChatGPT手机版如何下载？安卓苹果保姆级教程，从安装到订阅Plus全搞定(464784)",
+     "利用ChatGPT快速发表高质量SCI论文(130272)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt国内使用教程",
+    "chatgpt",
+    "chatgpt电脑端安装",
+    "chatgpt安卓下载",
+    "chatgpt6.2",
+    "chatgptplus如何购买",
+    "chatgpt生成图片"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI is dramatically accelerating AI research",
+  "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+  "hn": "https://news.ycombinator.com/item?id=50397994",
+  "points": 331,
+  "comments": 293,
+  "date": "2026-11-06",
+  "status": "原链 200 OK",
+  "excerpt": "If acceleration compounds, the naive extrapolation implies superintelligence within a year",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+  "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+  "hn": "https://news.ycombinator.com/item?id=50394906",
+  "points": 285,
+  "comments": 573,
+  "date": "2026-11-06",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：But we're so close to RSI! / Still overvalued. / Some benchmarks to compare against:Apple: 5 TGoogle: 3.5 TMeta: 1.55 TMicrosoft: 3.97 TBerkshire Hathaway: 1.2 TEli Lill / As high as $1.1T. Where is the supposed growth going to come from?Claude has been pushed by force and coercive marketing / Get your tickets to Layoffpalooza 2027 now! / Dupe: https",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 11696,
+    "recent_median": 2739,
+    "max_play": 2091247,
+    "recent30d": 15,
+    "top": [
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2091247)",
+     "【全网首发】Claude防封号独家指南！前后花了5万元！小白保姆级教程【包含对话铺垫/I(62943)",
+     "Claude KYC 实名认证保姆级教程：中国护照实测及避坑指南(6596)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude封号",
+    "claude code",
+    "claude内部模型model4曝光",
+    "Claude Opus 5.5",
+    "claude大小姐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "I struggle to believe that AI R&D is ingenious",
+  "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+  "hn": "https://news.ycombinator.com/item?id=50388513",
+  "points": 204,
+  "comments": 202,
+  "date": "2026-11-06",
+  "status": "原链 200 OK",
+  "excerpt": "Comment by Arjun Panickssery - I struggle to believe at an intuitive level that autonomous R&D is so ingenious. I have been monitoring a few side projects: 1. Building a new SOTA engine for Scrabble (current SOTA is not really a neural-network method and doesn't beat the strongest human player) 2. Building a bot to play Ultimate Tic-Tac-Toe 3. Researching ph",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+  "url": "https://github.com/anomalyco/rune",
+  "hn": "https://news.ycombinator.com/item?id=50394569",
+  "points": 169,
+  "comments": 124,
+  "date": "2026-11-06",
+  "status": "原链 200 OK",
+  "excerpt": "Rune: Native UI framework. Contribute to anomalyco/rune development by creating an account on GitHub.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Windows",
+  "cn": {
+   "kw": "Windows",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2221,
+    "recent_median": 851,
+    "max_play": 3287958,
+    "recent30d": 10,
+    "top": [
+     "【完结】从开关机学起，Windows系统0基础教程(1374511)",
+     "2026年 | 全职业全年龄适用！电脑入门基础使用全套Windows免费教程！大学生宝妈(3287958)",
+     "扫码领资料-从零学Windows桌面应用软件开发(24)"
+    ]
+   },
+   "suggest": [
+    "Windows",
+    "Windows 11",
+    "Windows 7",
+    "Windows10",
+    "windows关闭自动更新后如何恢复",
+    "Windows XP音乐",
+    "Windows魔理沙病毒",
+    "windows账户怎么退出"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+  "hn": "https://news.ycombinator.com/item?id=50382179",
+  "points": 163,
+  "comments": 191,
+  "date": "2026-11-05",
+  "status": "原链 401",
+  "excerpt": "HN 讨论要点：Election euphoria and hangovers,Sobriety the following day,$8,000 for a video card,Empty boxes on Christmas day.Can't ev / Cloudflare is a steal at $240 IMO.Regardless of what happens to the AI models, you will still need protection a decade f / The beginning of the AI bubble's dotcom-style crash.Accurate. [0][0] https://news.ycombinator.com/item?id=",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Nasdaq",
+  "cn": {
+   "kw": "Nasdaq",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7483,
+    "recent_median": 0,
+    "max_play": 80561,
+    "recent30d": 1,
+    "top": [
+     "【TQQQvsQQQ】三倍做多纳斯达克ETF-QQQ｜为什么TQQQ会磨损？｜纳斯达克1(30375)",
+     "07. NASDAQ President Tal Cohen talks expandi(0)",
+     "纳指全家桶对比 纳指综合 纳指科技 纳指100 纳指生物(3847)"
+    ]
+   },
+   "suggest": [
+    "nasdaq100",
+    "nasdaq是什么",
+    "Nasdaq上市",
+    "NAS的安全性",
+    "nasdaq怎么用",
+    "nasdaq网站如何查询上市公司",
+    "nasdaq怎么注册",
+    "nasdaq指数"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+  "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+  "hn": "https://news.ycombinator.com/item?id=50392499",
+  "points": 130,
+  "comments": 59,
+  "date": "2026-11-06",
+  "status": "原链 200 OK",
+  "excerpt": "Academic libraries are fighting off swarms of data-scraping bots — that are slowing or crashing sites meant for students, researchers and the public — as AI companies continue hunting for content to feed their large language models. ‖ Mispronunciations can occur. We are working with our partners to continually review and improve the results.Students work on ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "University",
+  "cn": {
+   "kw": "University",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4340,
+    "recent_median": 18,
+    "max_play": 82432,
+    "recent30d": 2,
+    "top": [
+     "长难词拼读记忆 9  university 这个单词，你真的会读吗？这个词那么长，总是不(8207)",
+     "China University Life Is Amazing!  Delicious(6)",
+     "【暴叔亲授】名校本科升学全规划(48996)"
+    ]
+   },
+   "suggest": [
+    "university",
+    "universitychallenge",
+    "universityphysics",
+    "universityking攻略",
+    "university游戏",
+    "university怎么读",
+    "universityofoxford",
+    "universitytickets"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Crusoe sells troubled Wyoming data center project to Google",
+  "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-07",
+  "desc": "",
+  "status": "原链 200 OK · 正文经 jina",
+  "excerpt": "Title: Crusoe sells troubled Wyoming data center project to Google URL Source: https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/ Published Time: 2026-11-07T01:40:28+00:00 Markdown Content: Crusoe, an eight-year-old, Denver-based data center developer recently valued at [$30.9 billion](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-sm",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 21051,
+    "recent_median": 1510,
+    "max_play": 4082609,
+    "recent30d": 9,
+    "top": [
+     "谷歌Gemini 让我去违法(770)",
+     "把植物大战僵尸的植物名字谷歌翻译100遍，豌豆射手变成了坚果怪胎 - MrSir 2 -(12274)",
+     "谷歌广告投放实战实操课程-初级-RobinLuo(547)"
+    ]
+   },
+   "suggest": [
+    "谷歌",
+    "谷歌账号怎么注册",
+    "谷歌浏览器怎么下",
+    "谷歌地图",
+    "谷歌三件套怎么安装",
+    "谷歌play打不开",
+    "谷歌商城",
+    "谷歌浏览器无法打开网页"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+  "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-06",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. OpenAI has reportedly raised $11 billion so far in a new funding round that values the AI lab at $1.25 trillion. Bloomberg reported ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 961,
+    "recent_median": 961,
+    "max_play": 1141057,
+    "recent30d": 20,
+    "top": [
+     "全网吓哭！11月7号梁文峰赛博成圣！二踢脚炸翻AI圈！拒绝美国23次！“大肥鱼”硬刚op(3124)",
+     "王炸更新！GPT-6.2或成OpenAI迄今最大飞跃(4669)",
+     "千问4.0预告化境将至！谷歌重置反重力！Claude攻克18年数学猜想！OpenAI狂揽(1014)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openai怎么下载",
+    "openai失控",
+    "openai智能体失控",
+    "openai创始人",
+    "OpenAI的722篇论文含金量如何",
+    "openai智能体失控事件",
+    "openaiAPI密钥"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]
