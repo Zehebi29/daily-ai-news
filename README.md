@@ -7,6 +7,19 @@
 ## 最新资讯
 
 
+### 2026-11-08（周日 · 趋势前瞻）
+
+1. **写代码的AI，把你的密码传上了网** — 国外一家安全公司发现：Claude Code 的「别再问我」按钮，会把密码填进明文记录里。1122个公开仓库文件已经中招。任何人打开浏览器搜一下，就能看到你的密码。这不是工具坏了，是「方便」和「安全」打架，输的永远是你。密码别让任何工具替你记。来源：apiiro.com · HN 445pts https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+
+2. **微软关掉一个研究AI的核心部门** — 微软研究院的「AI前沿小组」宣布解散，负责人自己写：一个人再聪明，也顶不过别人一整个团队推得快。不是没钱，是投入产出比算不过来。连微软这种钱最多的公司，都在承认「人堆不过规模」。能用AI放大自己产出的岗位在涨，只能一个人硬扛的岗位在缩。来源：hunch.net · HN 470pts https://hunch.net/?p=13764006
+
+3. **有人换掉了用了一年的AI工具** — 一位老用户写了篇长文，说自己从 Claude 换到了另一个工具 Pi，理由是「用起来更顺手」。不是因为它变差，而是新工具更适合他现在的用法。这类工具的迭代周期只有几个月，你现在学的那套操作，半年后可能全变。别把精力花在记按钮上，花在说清楚「我想让它干什么」上。来源：caleb.software · HN 398pts https://caleb.software/posts/claude-to-pi.html
+
+4. **还没上市的AI公司，被估到1.1万亿** — Anthropic 的早期投资者按最低 1.1万亿美元 估值买入。比现在的苹果少四倍，但比伯克希尔还高，可这家公司还在亏损、靠融资活着。评论区一句话很扎心：苹果才5万亿，这家凭什么。你现在免费用得爽，是因为有人在替你烧钱。来源：HN 317pts https://news.ycombinator.com/item?id=50394906
+
+5. **英伟达放出管显卡集群的新工具** — GitHub 上出现一个叫 NVKE 的项目：在裸机上管理GPU集群，把这套活儿变成像点外卖一样下单。国内这块近30天几乎没人做，但搜「kubernetes教程」的人一直很多，历史上有过184万播放的入门课。意思是：AI背后的算力正在被做成标准商品，以后租显卡会像租云服务器一样便宜。来源：github.com/dsx-ai-factory/nvke · HN 124pts https://github.com/dsx-ai-factory/nvke
+
+
 ### 2026-11-07（周六·轻量问答）
 
 ## 每日AI信息差 · 今日要点
@@ -103,26 +116,11 @@
    来源：https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy
 
 
-### 2026-11-01（周日·趋势前瞻）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-11-01 周日
-
-1. **Claude Code插件被人偷偷装了后门** — 安全公司Phorion发现，Cursor应用商店里官方Claude Code的VS Code插件安装包被人夹带东西，装上后会在macOS、Linux、Windows三个系统里留下一个能远程登录的暗门，重启也不消失。麻烦在于它长得像正版，名字图标都对。AI编程插件今天该检查一遍来源，只认官方渠道。来源：Hacker News 979pts 🔗 https://news.ycombinator.com/item?id=50300683
-
-2. **点开一条链接，ChatGPT账号就没了** — 研究团队Parameter.ai绕过ChatGPT的沙箱和安全策略，做成一个看着正常的小网页，用户在聊天里点开，账号控制权就到对方手里，全程不用输密码。团队没说已修复，只证明这条路走得通。账号里存着聊天记录、上传文件和付款方式，登录状态下陌生链接一律别点。来源：Hacker News 344pts 🔗 https://news.ycombinator.com/item?id=50314699
-
-3. **AI接走95%的活，人反而变笨了** — 一家监控公司的技术通讯提出：AI处理掉95%的线上故障后，决定生死的那5%你还接得住吗？476条评论几乎没人敢说接得住。判断力靠踩坑练出来，坑被AI先填了，人就只剩按按钮。用AI省时间没错，但要留一件坚持自己动手的事。来源：Hacker News 655pts 🔗 https://news.ycombinator.com/item?id=50305693
-
-4. **用Claude做实验，账号直接被封** — 一位开发者称自己没蒸馏Claude，训练数据来自另一个开源模型，Claude只帮忙提交任务和跑分析，仍被系统标记为「训练竞争对手」，订阅被降级到Opus 5.5，申诉无出口。国内不少人靠Claude干活，账号就是生产力——重要资料别只存一个账号，工作流别全压一家。来源：Hacker News 392pts 🔗 https://news.ycombinator.com/item?id=50319358
-
-5. **1GB的模型跑起一台游戏机** — 开源项目nesformer把NES游戏机的处理器逻辑直接编译进普通Qwen3.5模型的权重里，模型不调外部代码，自己算出每一步该干什么，只占约1GB。288个顶、148条评论。说明模型的用法远不止聊天框，门槛不在模型多大，在你想让它干什么。来源：GitHub 🔗 https://github.com/dbreunig/nesformer
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-08 | [→](daily/2026-11-08.md) |
 | 11-07 | [→](daily/2026-11-07.md) |
 | 11-06 | [→](daily/2026-11-06.md) |
 | 11-05 | [→](daily/2026-11-05.md) |
@@ -152,4 +150,3 @@
 | 10-12 | [→](daily/2026-10-12.md) |
 | 10-11 | [→](daily/2026-10-11.md) |
 | 10-10 | [→](daily/2026-10-10.md) |
-| 10-09 | [→](daily/2026-10-09.md) |

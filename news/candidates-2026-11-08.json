@@ -1,0 +1,453 @@
+[
+ {
+  "src": "HN",
+  "title": "The end of Microsoft Research's AI Frontiers group",
+  "url": "https://hunch.net/?p=13764006",
+  "hn": "https://news.ycombinator.com/item?id=50406563",
+  "points": 470,
+  "comments": 282,
+  "date": "2026-11-07",
+  "status": "原链 200 OK",
+  "excerpt": "In 2023 after the ChatGPT release, it was clear to me that research needed to be more organized to succeed than was typical within Microsoft Research. The amount of support and focus which other research groups were applying was great enough that even with a clever idea pursued by one person it was likely to arrive late and unconvincing because one person co",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "微软",
+  "cn": {
+   "kw": "微软",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 9703,
+    "recent_median": 26148,
+    "max_play": 567690,
+    "recent30d": 17,
+    "top": [
+     "&quot;买下微软只是为了解雇你&quot;(57447)",
+     "【全新登录体验！】微软今天发布 Windows 11 26H2 最新版 Build 26(2438)",
+     "微软SharePoint系列1(570)"
+    ]
+   },
+   "suggest": [
+    "微软surface",
+    "微软",
+    "微软商店",
+    "微软模拟飞行2024",
+    "微软浏览器",
+    "微软账号注册",
+    "微软模拟飞行2020",
+    "微软whiteboard"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+  "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+  "hn": "https://news.ycombinator.com/item?id=50407882",
+  "points": 445,
+  "comments": 307,
+  "date": "2026-11-07",
+  "status": "原链 200 OK",
+  "excerpt": "Secure everything coding agents build, use, and ship - prevent risk before code exists, AutoFix the backlog, and protect the coding agents and supply chain.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "GitHub",
+  "cn": {
+   "kw": "GitHub",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1856,
+    "recent_median": 1156,
+    "max_play": 2382809,
+    "recent30d": 11,
+    "top": [
+     "【互联网入门指南】Github入门(2382809)",
+     "【无需魔法代理】Github零基础入门+找资源超详细教程！(27405)",
+     "爬爬虾：小白玩转Github/Git，全功能精讲(793515)"
+    ]
+   },
+   "suggest": [
+    "github使用教程",
+    "github",
+    "github下载",
+    "github进不去怎么办",
+    "github热门项目",
+    "github怎么下载文件",
+    "github安装教程",
+    "github怎么下载"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Goodbye Claude, Hello Pi",
+  "url": "https://caleb.software/posts/claude-to-pi.html",
+  "hn": "https://news.ycombinator.com/item?id=50410107",
+  "points": 398,
+  "comments": 252,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "I’ve been a longtime Claude Code user, ever since it became available in the Claude Pro subscription plan over a year ago. I remember the first time I used it, feeling giddy as it spat out messy Python code for whatever random weekend project I was working on, all from a single prompt. I’m certain that in a few years we’ll all look back at its release as one",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 5559,
+    "recent_median": 3386,
+    "max_play": 2094881,
+    "recent30d": 15,
+    "top": [
+     "【全网首发】Claude防封号独家指南！前后花了5万元！小白保姆级教程【包含对话铺垫/I(69412)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2094881)",
+     "Claude KYC 实名认证保姆级教程：中国护照实测及避坑指南(14010)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claude code",
+    "claude封号",
+    "claude大小姐",
+    "Claude Opus 5.5",
+    "claude下载"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI is dramatically accelerating AI research",
+  "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+  "hn": "https://news.ycombinator.com/item?id=50397994",
+  "points": 370,
+  "comments": 349,
+  "date": "2026-11-06",
+  "status": "原链 200 OK",
+  "excerpt": "If acceleration compounds, the naive extrapolation implies superintelligence within a year",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Gemini Omni 1.2 Flash",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "hn": "https://news.ycombinator.com/item?id=50392118",
+  "points": 365,
+  "comments": 251,
+  "date": "2026-11-06",
+  "status": "原链 200 OK",
+  "excerpt": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing. ‖ Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips Nov 05, 2026 Gemini Omni 1.2 Flash brings 15-second clips, stronger consistency, and faster, more cost-effective generation. We’re rolling out Gemini Omni 1.2 Flash, which ",
+  "dup": true,
+  "dup_why": "1天前(2026-11-07)用过同一条链接",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2400,
+    "recent_median": 2400,
+    "max_play": 27068,
+    "recent30d": 18,
+    "top": [
+     "北京JDG VS 北京WB 11月6日  Gemini解说【2026KPL年度总决赛】北(6735)",
+     "【Gemini 王者五排】转盘五排 11月2日 车车 明锅 骚易 北港 宝宝巴士 多视角(974)",
+     "广州TTG VS 杭州LGD.NBW 11月7日  Gemini解说【2026KPL年度(2247)"
+    ]
+   },
+   "suggest": [
+    "gemini",
+    "gemini使用教程",
+    "gemini直播回放",
+    "gemini郭家毅盛世天下",
+    "gemini4",
+    "gemini怎么下载",
+    "Gemini郭家毅解说",
+    "Gemini 4 Argon"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+  "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+  "hn": "https://news.ycombinator.com/item?id=50394906",
+  "points": 317,
+  "comments": 620,
+  "date": "2026-11-06",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：But we're so close to RSI! / Still overvalued. / Some benchmarks to compare against:Apple: 5 TGoogle: 3.5 TMeta: 1.55 TMicrosoft: 3.97 TBerkshire Hathaway: 1.2 TEli Lill / As high as $1.1T. Where is the supposed growth going to come from?Claude has been pushed by force and coercive marketing / Get your tickets to Layoffpalooza 2027 now! / Dupe: https",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 5559,
+    "recent_median": 3386,
+    "max_play": 2094881,
+    "recent30d": 15,
+    "top": [
+     "【全网首发】Claude防封号独家指南！前后花了5万元！小白保姆级教程【包含对话铺垫/I(69412)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2094881)",
+     "Claude KYC 实名认证保姆级教程：中国护照实测及避坑指南(14010)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claude code",
+    "claude封号",
+    "claude大小姐",
+    "Claude Opus 5.5",
+    "claude下载"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "I struggle to believe that AI R&D is ingenious",
+  "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+  "hn": "https://news.ycombinator.com/item?id=50388513",
+  "points": 220,
+  "comments": 217,
+  "date": "2026-11-06",
+  "status": "原链 200 OK",
+  "excerpt": "Comment by Arjun Panickssery - I struggle to believe at an intuitive level that autonomous R&D is so ingenious. I have been monitoring a few side projects: 1. Building a new SOTA engine for Scrabble (current SOTA is not really a neural-network method and doesn't beat the strongest human player) 2. Building a bot to play Ultimate Tic-Tac-Toe 3. Researching ph",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+  "url": "https://github.com/anomalyco/rune",
+  "hn": "https://news.ycombinator.com/item?id=50394569",
+  "points": 177,
+  "comments": 130,
+  "date": "2026-11-06",
+  "status": "原链 200 OK",
+  "excerpt": "Rune: Native UI framework. Contribute to anomalyco/rune development by creating an account on GitHub.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Windows",
+  "cn": {
+   "kw": "Windows",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 20255,
+    "recent_median": 1914,
+    "max_play": 3289148,
+    "recent30d": 10,
+    "top": [
+     "【完结】从开关机学起，Windows系统0基础教程(1378049)",
+     "2026年 | 全职业全年龄适用！电脑入门基础使用全套Windows免费教程！大学生宝妈(3289148)",
+     "扫码领资料-从零学Windows桌面应用软件开发(24)"
+    ]
+   },
+   "suggest": [
+    "windows11",
+    "Windows",
+    "Windows 7",
+    "Windows10",
+    "Windows7旗舰版",
+    "windows11wifi消失了怎么办",
+    "windows8为什么是最失败的系统",
+    "windows账户怎么退出"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+  "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+  "hn": "https://news.ycombinator.com/item?id=50392499",
+  "points": 136,
+  "comments": 63,
+  "date": "2026-11-06",
+  "status": "原链 200 OK",
+  "excerpt": "Academic libraries are fighting off swarms of data-scraping bots — that are slowing or crashing sites meant for students, researchers and the public — as AI companies continue hunting for content to feed their large language models. ‖ Mispronunciations can occur. We are working with our partners to continually review and improve the results.Students work on ",
+  "dup": true,
+  "dup_why": "1天前(2026-11-07)用过同一条链接",
+  "cn_kw": "University",
+  "cn": {
+   "kw": "University",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 569,
+    "recent_median": 17,
+    "max_play": 49016,
+    "recent30d": 5,
+    "top": [
+     "Z时代的追忆，献给我们童年的一份情书[噪音摇滚/数学摇滚]University–McCa(47)",
+     "[噪音摇滚/Emo/数学摇滚]University–YES(2025//Full EP)(17)",
+     "【暴叔亲授】名校本科升学全规划(49016)"
+    ]
+   },
+   "suggest": [
+    "university",
+    "universitychallenge",
+    "universityphysics",
+    "universityking攻略",
+    "universityofoxford",
+    "university怎么读",
+    "universitytickets",
+    "universityofglasgow"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nvidia Kubernetes Engine (NVKE)",
+  "url": "https://github.com/dsx-ai-factory/nvke",
+  "hn": "https://news.ycombinator.com/item?id=50387738",
+  "points": 124,
+  "comments": 29,
+  "date": "2026-11-06",
+  "status": "原链 200 OK",
+  "excerpt": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. - dsx-ai-factory/nvke",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Kubernetes",
+  "cn": {
+   "kw": "Kubernetes",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 43888,
+    "recent_median": 76,
+    "max_play": 1848530,
+    "recent30d": 1,
+    "top": [
+     "Kubernetes一小时轻松入门(383142)",
+     "【最全】完整版Kubernetes（K8S）全套入门+微服务实战项目，带你一站式深入掌握(1119479)",
+     "Kubernetes 企业级实战(938)"
+    ]
+   },
+   "suggest": [
+    "kubernetes",
+    "kubernetes快速入门",
+    "kubernetes教程",
+    "kubernetes尚硅谷",
+    "kubernetes面试题",
+    "kubernetes实战",
+    "Kubernetes网络",
+    "kubernetes部署"
+   ],
+   "hot": false,
+   "verdict": "近期空白(历史有爆款)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+  "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-07",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO. ‖ Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. A memo circulated earlier this year claimed that technology executive Alice Huang was recruited by China’s Ministry of",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 731,
+    "recent_median": 948,
+    "max_play": 114368,
+    "recent30d": 17,
+    "top": [
+     "英伟达一夜蒸发3万亿！硬件周期顶部已到？(21251)",
+     "速报！彭博社：美股暴跌，英伟达股价暴跌9%，人工智能抛售潮蒸发2.3万亿美元 | 收盘钟(114368)",
+     "AI原生重塑组织，来自英伟达字节贝壳中智的思考(355)"
+    ]
+   },
+   "suggest": [
+    "英伟达",
+    "英伟达股票暴跌",
+    "英伟达显卡驱动",
+    "英伟达app",
+    "英伟达app安装失败",
+    "英伟达app怎么下载",
+    "英伟达spark笔记本",
+    "英伟达显卡驱动更新"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "Wired AI",
+  "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+  "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-08",
+  "desc": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+  "status": "原链 200 OK",
+  "excerpt": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark. ‖ It highlighted this sweet, funny relationship between a media brand’s personalities and its audience, a warm-casual vibe. I am not among the multitudes in the Cooking section's commenter army, bu",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Cooking",
+  "cn": {
+   "kw": "Cooking",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 14512,
+    "recent_median": 332,
+    "max_play": 218360,
+    "recent30d": 7,
+    "top": [
+     "油管千万播放！免烤草莓芝士蛋糕教程，建议戴上耳机食用【HidaMari Cooking】(218360)",
+     "Veeronica COOKING?!✌️🗣️(631)",
+     "西餐料理工艺经典菜品实战课(255)"
+    ]
+   },
+   "suggest": [
+    "cooking",
+    "cookingclash",
+    "cooking simulator",
+    "cookingredred",
+    "cooking TNT1",
+    "cookingtnt2",
+    "cookingtycoons",
+    "cookingWITHfred"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ }
+]
