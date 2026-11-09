@@ -1,0 +1,436 @@
+[
+ {
+  "src": "HN",
+  "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+  "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+  "hn": "https://news.ycombinator.com/item?id=50415628",
+  "points": 805,
+  "comments": 430,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "All Articles Share: marketers-guide-to-open-clawSponsored contentPresented by↗ Goldman Sachs has restricted Anthropic's Claude Code and Microsoft's GitHub to its engineers, cutting off traders and bankers who used the tools to track client flows and build market models. The bank barred its Hong Kong bankers from Claude in April and is now a lead underwriter ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2077,
+    "recent_median": 1901,
+    "max_play": 1023222,
+    "recent30d": 17,
+    "top": [
+     "Claude(Code)桌面APP，保姆级全攻略，一期视频精通，顶级Agent软件长什么(26949)",
+     "【全网首发】Claude防封号独家指南！前后花了5万元！小白保姆级教程【包含对话铺垫/I(75105)",
+     "Claude code搞定综述论文发表(30857)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude code",
+    "claude封号",
+    "Claude Opus 5.5",
+    "claude大小姐",
+    "claude下载"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Goodbye Claude, hello Pi",
+  "url": "https://caleb.software/posts/claude-to-pi.html",
+  "hn": "https://news.ycombinator.com/item?id=50410107",
+  "points": 779,
+  "comments": 476,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "I’ve been a longtime Claude Code user, ever since it became available in the Claude Pro subscription plan over a year ago. I remember the first time I used it, feeling giddy as it spat out messy Python code for whatever random weekend project I was working on, all from a single prompt. I’m certain that in a few years we’ll all look back at its release as one",
+  "dup": true,
+  "dup_why": "1天前(2026-11-08)用过同一条链接",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2077,
+    "recent_median": 1901,
+    "max_play": 1023222,
+    "recent30d": 17,
+    "top": [
+     "Claude(Code)桌面APP，保姆级全攻略，一期视频精通，顶级Agent软件长什么(26949)",
+     "【全网首发】Claude防封号独家指南！前后花了5万元！小白保姆级教程【包含对话铺垫/I(75105)",
+     "Claude code搞定综述论文发表(30857)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude code",
+    "claude封号",
+    "Claude Opus 5.5",
+    "claude大小姐",
+    "claude下载"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+  "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+  "hn": "https://news.ycombinator.com/item?id=50418016",
+  "points": 750,
+  "comments": 843,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "I owe my family and all of you an apology. I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. Throughout my life, my ... ‖ I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. Throughout my life, my family has given me love and support. They deserve my honesty",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 5138,
+    "recent_median": 9888,
+    "max_play": 191803,
+    "recent30d": 17,
+    "top": [
+     "11.9全网炸锅！黄仁勋承认出轨！女主牵出芯片走私，英伟达炸了！特朗普回应：他是个很好的(128287)",
+     "天啊！股民一觉醒来天塌了！英伟达CEO黄仁勋公开承认出轨新加坡公司高管！因女方涉嫌情报间(191803)",
+     "【粤语新闻】黄仁勋向员工发信承认出轨并致歉/英伟达就黄仁勋涉成为外国情报机构目标展开独立(4299)"
+    ]
+   },
+   "suggest": [
+    "英伟达",
+    "英伟达黄仁勋",
+    "英伟达股票暴跌",
+    "英伟达是什么",
+    "英伟达显卡驱动",
+    "英伟达app",
+    "英伟达spark",
+    "英伟达显卡驱动更新"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+  "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+  "hn": "https://news.ycombinator.com/item?id=50407882",
+  "points": 611,
+  "comments": 410,
+  "date": "2026-11-07",
+  "status": "原链 200 OK",
+  "excerpt": "Secure everything coding agents build, use, and ship - prevent risk before code exists, AutoFix the backlog, and protect the coding agents and supply chain.",
+  "dup": true,
+  "dup_why": "1天前(2026-11-08)用过同一条链接",
+  "cn_kw": "GitHub",
+  "cn": {
+   "kw": "GitHub",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3494,
+    "recent_median": 1589,
+    "max_play": 2390478,
+    "recent30d": 13,
+    "top": [
+     "【互联网入门指南】Github入门(2390478)",
+     "Github 零基础终极教程！(215158)",
+     "爬爬虾：小白玩转Github/Git，全功能精讲(794565)"
+    ]
+   },
+   "suggest": [
+    "github使用教程",
+    "github",
+    "github热门项目",
+    "github下载",
+    "github进不去怎么办",
+    "github怎么下载文件",
+    "github安装教程",
+    "github加速器"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "The end of Microsoft Research's AI Frontiers group",
+  "url": "https://hunch.net/?p=13764006",
+  "hn": "https://news.ycombinator.com/item?id=50406563",
+  "points": 504,
+  "comments": 309,
+  "date": "2026-11-07",
+  "status": "原链 200 OK",
+  "excerpt": "In 2023 after the ChatGPT release, it was clear to me that research needed to be more organized to succeed than was typical within Microsoft Research. The amount of support and focus which other research groups were applying was great enough that even with a clever idea pursued by one person it was likely to arrive late and unconvincing because one person co",
+  "dup": true,
+  "dup_why": "1天前(2026-11-08)用过同一条链接",
+  "cn_kw": "微软",
+  "cn": {
+   "kw": "微软",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 972,
+    "recent_median": 356,
+    "max_play": 506282,
+    "recent30d": 15,
+    "top": [
+     "微软主机也可以破解呢？ai太厉害目前PS5，switch2都要可以免费玩游戏了！电玩店专(1353)",
+     "[2026年11月最新教程]全程干货！3分钟教会你下载安装微软office全家桶，wor(214)",
+     "微软SharePoint系列1(592)"
+    ]
+   },
+   "suggest": [
+    "微软",
+    "微软surface",
+    "微软和巨硬",
+    "微软模拟飞行2024",
+    "微软商店",
+    "微软浏览器",
+    "微软模拟飞行2020",
+    "微软office"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Statement from Nvidia board of directors",
+  "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+  "hn": "https://news.ycombinator.com/item?id=50416801",
+  "points": 472,
+  "comments": 356,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. ‖ The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A co",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 5138,
+    "recent_median": 9888,
+    "max_play": 191803,
+    "recent30d": 17,
+    "top": [
+     "11.9全网炸锅！黄仁勋承认出轨！女主牵出芯片走私，英伟达炸了！特朗普回应：他是个很好的(128287)",
+     "天啊！股民一觉醒来天塌了！英伟达CEO黄仁勋公开承认出轨新加坡公司高管！因女方涉嫌情报间(191803)",
+     "【粤语新闻】黄仁勋向员工发信承认出轨并致歉/英伟达就黄仁勋涉成为外国情报机构目标展开独立(4299)"
+    ]
+   },
+   "suggest": [
+    "英伟达",
+    "英伟达黄仁勋",
+    "英伟达股票暴跌",
+    "英伟达是什么",
+    "英伟达显卡驱动",
+    "英伟达app",
+    "英伟达spark",
+    "英伟达显卡驱动更新"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+  "url": "https://github.com/synchopate/llama-modchip",
+  "hn": "https://news.ycombinator.com/item?id=50411961",
+  "points": 437,
+  "comments": 194,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) &amp; 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 &amp; 13ms Claude Code... ‖ Setting LLAMA_MOE_TOP_K=5 or 4 is an optional runtime flag for users who want to trade a small perplexity delta for higher decode throughput. Linux & macOS (Aut",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "DeepSeek",
+  "cn": {
+   "kw": "DeepSeek",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1769,
+    "recent_median": 1769,
+    "max_play": 2395523,
+    "recent30d": 18,
+    "top": [
+     "DeepSeek Harness 大肥鱼终极教程：新手进阶/插件生态/界面美化/手机端互(520664)",
+     "【全网最全】DeepSeek Harness超详细教程！50分钟吃透DSH，让Super(2395523)",
+     "DeepSeek Harness 源码解析(292)"
+    ]
+   },
+   "suggest": [
+    "deepseekharness",
+    "deepseek",
+    "deepseek大肥鱼",
+    "deepseek梁文锋",
+    "deepseekAPI使用教程",
+    "DeepSeek新架构详解",
+    "deepseek做游戏",
+    "deepseek养鱼教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "I'm not convinced the AI bubble exists",
+  "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+  "hn": "https://news.ycombinator.com/item?id=50418975",
+  "points": 371,
+  "comments": 628,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "The AI bubble is a speculative concept that the AI industry is extremely over-valued. If true, the value of most companies involved in AI (several of whom are worth well over a trillion dollars) will collapse, devastating the entire economy. If you check any online discussion about the financial situation … ‖ The AI bubble is a speculative concept that the A",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "How I Fight AI Brain Fry",
+  "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+  "hn": "https://news.ycombinator.com/item?id=50416363",
+  "points": 274,
+  "comments": 188,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：HN hug of death strikes again.I still do LeetCode problems occasionally. It feels weird to write code and work through c / Non-hugged link:https://web.archive.org/web/20261108193851/https://sergeykuh... / The author's problem is that the are doing too many parallel agent things. It's very interesting that their solution spa / I feel like sharing a bl",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Fight",
+  "cn": {
+   "kw": "Fight",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 303,
+    "recent_median": 143,
+    "max_play": 1417402,
+    "recent30d": 15,
+    "top": [
+     "压迫感神曲《Fight》-BeatBrothers(453922)",
+     "【元子弹】押尾光太郎《FIGHT!》完整指弹教学 谱例同步(1417402)",
+     "blgnb！导播放《Fight of Your Life》为他们的信念加油！弹幕疯了！(116445)"
+    ]
+   },
+   "suggest": [
+    "fightofyourlife",
+    "fight",
+    "fighter",
+    "fightsong",
+    "fightsodirty",
+    "fightfightfight",
+    "fight club",
+    "fighttilimgoodenough"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "OpenAI raises $11B at a $1.25T valuation",
+  "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+  "hn": "https://news.ycombinator.com/item?id=50413822",
+  "points": 188,
+  "comments": 209,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "OpenAI got its money, but not on the terms it wanted, and the gap between its growth story and investor appetite is landing on two giants. One faces a bookkeeping hit, the other a deeper dependency on the funding flow. ‖ 7,435.60+0.69%Dow Jones 51,807.20+0.97%Nasdaq 100 27,174.60+0.60%Russell 2000 2,786.83+1.18% S&P 500 7,435.60+0.69%Dow Jones 51,807.20+0.97",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1795,
+    "recent_median": 1795,
+    "max_play": 29725,
+    "recent30d": 20,
+    "top": [
+     "【中配】OpenAI的财务危机比你想象的更严重 - MonkeyExplains Nwl(7343)",
+     "最严封号潮! OpenAI连正版Pro号都封?(26628)",
+     "Qwen 4 Flash 超过 Opus 5.5 , 在游戏开发测试 GameFeel (1918)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openai封号",
+    "openai失控",
+    "openai智能体失控",
+    "openaiAPI密钥",
+    "openai怎么下载",
+    "openai创始人",
+    "OpenAI或将发布400个重大数学成果"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "Wired AI",
+  "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+  "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-09",
+  "desc": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+  "status": "原链 200 OK",
+  "excerpt": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind. ‖ Since 2019, she has published five thrillers, become a New York Times bestselling author, had her work optioned by the likes of Netflix and Hulu, and picked up an endorsement from Reese Witherspoon’s influential book club. She als",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Authors",
+  "cn": {
+   "kw": "Authors",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4704,
+    "recent_median": 2,
+    "max_play": 103278,
+    "recent30d": 1,
+    "top": [
+     "【American Authors】【MV合集】(5513)",
+     "American Authors MV合集(4902)",
+     "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 “接泼天的福气” 美国乐队 American Authors | 请福(9262)"
+    ]
+   },
+   "suggest": [
+    "Authors",
+    "authorstatement",
+    "authorsans",
+    "authorship",
+    "author什么意思",
+    "authorstatement怎么写",
+    "author是什么意思"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ }
+]

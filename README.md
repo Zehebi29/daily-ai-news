@@ -7,6 +7,19 @@
 ## 最新资讯
 
 
+### 2026-11-09（周一·模型发布/开源）
+
+1. **黄仁勋承认出轨，英伟达董事会启动独立调查** — 英伟达官网挂出黄仁勋致全体员工信，第一句就承认对妻子不忠并道歉；同日董事会发声明启动独立调查，起因是有报道称他成了外国情报行动的目标。掌门人陷入私人丑闻加安全调查，最先晃的是投资者信心，手里有 AI/芯片基金的人这两天会先感觉到。来源：HN 750pts https://nvidianews.nvidia.com/news/a-message-to-our-company ；HN 472pts https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors
+
+2. **Claude Code 的「别再问我」，把密码写进了 1,122 个公开代码库** — 安全公司 apiiro 发现，勾选「别再问我」后 AI 会把密码、密钥、访问令牌直接写进代码，再跟着代码推到人人可见的 GitHub 公开仓库。公开仓库会被爬虫扫，泄出去的密码等于挂在网上任人取。今天花两分钟检查项目里密钥文件有没有被排除。来源：HN 611pts https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+
+3. **64GB 内存、没有显卡，跑起 284B 大模型** — 开源项目 llama-modchip 让 284B 参数的 DeepSeek-V4-Flash 在纯 64GB 内存的普通 CPU 上运行，解码约 9-15 字/秒，0 显卡；同一套代码也能跑 30B 模型，达 25-111 字/秒。好处是数据不出本机、不按次付费、断网能用。来源：HN 437pts https://github.com/synchopate/llama-modchip
+
+4. **高盛把 AI 工具从交易员手里收回** — 高盛将 Claude Code 和 GitHub 权限收回到工程师手里，交易员和银行家被断掉，他们原本用这些工具追踪客户资金流、搭市场模型；今年 4 月已先停香港银行家的 Claude 权限。启示是公司会让你用 AI，但不会让你把秘密喂给 AI。来源：HN 805pts https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers
+
+5. **OpenAI 融资 110 亿美元，估值 1.25 万亿，低于自己要的价** — 本轮融资 110 亿美元，估值 1.25 万亿美元，比最初寻求的 1.4 万亿低 1500 亿；报道称增长故事与投资人胃口的落差，最后落在两家巨头身上。投资人给钱，但不完全买它的增长故事。来源：HN 188pts https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/
+
+
 ### 2026-11-08（周日 · 趋势前瞻）
 
 1. **写代码的AI，把你的密码传上了网** — 国外一家安全公司发现：Claude Code 的「别再问我」按钮，会把密码填进明文记录里。1122个公开仓库文件已经中招。任何人打开浏览器搜一下，就能看到你的密码。这不是工具坏了，是「方便」和「安全」打架，输的永远是你。密码别让任何工具替你记。来源：apiiro.com · HN 445pts https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
@@ -98,28 +111,11 @@
 5. **旧金山 AI 热潮下，四十多名被裁科技从业者说「没带上我们」** — 周一上午十一点，一群被裁的科技从业者聚在旧金山，抱怨最热的行业在招人但招的不是自己。AI 岗位要的是懂模型、能训练的窄口径人才，普通开发、运维、测试的经验在这轮里正在贬值。来源：https://news.ycombinator.com/item?id=50337454 （HN 179pts）
 
 
-### 2026-11-02（周一·模型与工具）
-
-1. **Anthropic 开始按「用途」封号：碰训练就直接锁** — 一位开发者用 Claude 帮忙提交训练任务、跑数据分析，账号被判定「在训练竞争对手」直接限制。他自称全程调用开源模型、从未蒸馏 Claude。这条在 HN 拿到 474 分、262 条留言。限制范围很宽：沾上微调、强化学习或更大模型就被挡，连正经游戏开发也被误伤。付费不等于安全，重要资料要定期导出备份。
-   来源：HN 讨论 https://news.ycombinator.com/item?id=50319358
-
-2. **一条链接就能接管你的 ChatGPT 账号** — 安全团队发现：不用骗你填密码，只要你在登录状态下点开一个公开分享页，脚本就能绕过沙箱和网页安全策略，把登录状态拿走。账号里有聊天记录、上传文件和绑定的付款方式。HN 360 分、176 条留言。
-   来源：https://www.parameter.ai/labs/we-found-a-gap-at-openai （讨论 https://news.ycombinator.com/item?id=50314699 ）
-
-3. **OpenAI 想融 300 亿美元，只拿到不到一半** — 媒体披露最新一轮融资目标 300 亿美元，实际到账不到一半。评论区第一条热评：先别戳破泡沫，我副业还没做完。钱一紧，先动的通常是免费额度和订阅价格，而不是发布会。
-   来源：https://news.ycombinator.com/item?id=50312922
-
-4. **一个模型用 13.5 小时通关《异星工厂》** — 有人让 GPT-5.6 Sol 在 Codex 里把思考档位调到最低，玩《异星工厂》和平模式，13.5 个游戏小时跑完整个流程。这游戏要从零搭产线、算配比、堵瓶颈，靠的是长任务里的自我纠错。HN 176 分、188 条留言。
-   来源：https://ryanmadden.net/gpt-56-beats-factorio/
-
-5. **50 个 AI 组队建文明，先卡在审批流程里** — 研究人员把 50 个 AI 智能体团队放进《我的世界》建社会，结果全部失败，全卡在开会、审批和互相等回复上，报道称「陷入瘫痪性的官僚流程」。模型不笨，是组织方式错了。HN 173 分、82 条留言。
-   来源：https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-09 | [→](daily/2026-11-09.md) |
 | 11-08 | [→](daily/2026-11-08.md) |
 | 11-07 | [→](daily/2026-11-07.md) |
 | 11-06 | [→](daily/2026-11-06.md) |
@@ -149,4 +145,3 @@
 | 10-13 | [→](daily/2026-10-13.md) |
 | 10-12 | [→](daily/2026-10-12.md) |
 | 10-11 | [→](daily/2026-10-11.md) |
-| 10-10 | [→](daily/2026-10-10.md) |
