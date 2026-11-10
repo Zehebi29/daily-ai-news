@@ -7,6 +7,22 @@
 ## 最新资讯
 
 
+### 2026-11-10（周二·AI安全与行业）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-11-10 周二
+
+1. **Claude 又换代，一口气上 5.2** — 做 Claude 的公司今天发了两个新模型 Fable 5.2 和 Mythos 5.2，官方说在写代码、金融分析、科学研究上又拔高一档，海外技术论坛一天冲到 978 分、全场第一。国内近 30 天有 18 条相关视频，但搜的都是「claude 国内怎么使用」，讲清怎么用上的几乎没有。跟你有关：你手机里的 AI 助手、公司让你试的写代码工具，底层可能就是这个东西，换一代你能让它干的活就多一档。—— 来源：Hacker News 978 pts https://news.ycombinator.com/item?id=50429906
+
+2. **黄仁勋被盯上，英伟达董事会立案自查** — 英伟达董事会宣布就近期报道启动独立调查，理由是创始人兼 CEO 黄仁勋成了一支外国情报力量的目标。同一周他发了全员信，承认婚外情并向家人和员工道歉，两件事叠加，海外论坛热度 964。国内视频最高播放 152978，但都停在八卦层面，没人讲董事会为什么动手。跟你有关：一家万亿公司的股价，可能被一个人的私事加一场调查同时拽下来。—— 来源：NVIDIA 官方声明 / Hacker News 490 pts https://news.ycombinator.com/item?id=50416801
+
+3. **高盛收回交易员的 AI 权限** — 高盛把 Claude Code 和微软 GitHub 的权限收回，只留给工程师，交易员和投行人员不能再拿它追踪客户资金流、搭市场模型（论坛 891 分）。今年 4 月它已先停掉香港投行人员的 Claude，这次是扩大范围。跟你有关：公司开始给 AI 划红线，标准不是职级，是「这个活能不能让机器看见客户数据」，握着客户信息的人可能就是下一个。—— 来源：The State of AI / Hacker News 891 pts https://news.ycombinator.com/item?id=50415628
+
+4. **你的网盘和邮件被人工翻看** — 有开发者整理出可复现的记录：个人 Gmail 账号下，Gemini 会把 Drive 文件和邮件转给人工标注员处理，企业账号不在此列，这条在海外论坛拿到 649 分。跟你有关：把合同、体检报告、家里账单丢进网盘让 AI 总结，中间可能有一双手在过一遍，免费和方便都有价码。—— 来源：GitHub 复现记录 / Hacker News 649 pts https://news.ycombinator.com/item?id=50429426
+
+5. **不买显卡也能跑 284B 大模型** — 开源项目 llama-modchip 把 284B 参数的 DeepSeek-V4-Flash 塞进 64GB 内存、零显卡的纯 CPU 机器，占用不到 59GB，速度 9.1 到 14.7 字/秒，上下文 256K（论坛 481 分）。跟你有关：跑大模型的门槛从「买几万块显卡」变成「内存配大点」，一台旧电脑就能开试。—— 来源：GitHub llama-modchip / Hacker News 481 pts https://news.ycombinator.com/item?id=50411961
+
+
 ### 2026-11-09（周一·模型发布/开源）
 
 1. **黄仁勋承认出轨，英伟达董事会启动独立调查** — 英伟达官网挂出黄仁勋致全体员工信，第一句就承认对妻子不忠并道歉；同日董事会发声明启动独立调查，起因是有报道称他成了外国情报行动的目标。掌门人陷入私人丑闻加安全调查，最先晃的是投资者信心，手里有 AI/芯片基金的人这两天会先感觉到。来源：HN 750pts https://nvidianews.nvidia.com/news/a-message-to-our-company ；HN 472pts https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors
@@ -95,26 +111,11 @@
 5. **半年涨 90%，3.2 万亿暗债** — 日经统计，美国科技巨头为 AI 背的隐性债务半年涨 90%，到 3.2 万亿美元，多是数据中心租约和长期采购承诺，不上主报表。这些钱最后要靠服务涨价、融资和股价消化，你买的基金里就有它们。AI 泡沫破不破没人知道，但账单已经先记上了。— Hacker News 369pts · https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months
 
 
-### 2026-11-03（周二·行业与钱）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-11-03 周二
-
-1. **AI 现在能直接改写自己的「脑子」，用来改进通义千问** — Astra 这套办法让大模型直接读写神经网络内部的权重，再拿去改进 Qwen，效果超出研究者预期。以前升级模型要靠人重新训练，现在模型能自己动手，用户端的感受就是升级更快、更省算力。来源：https://rikiyat.github.io/blog/weight-space-programming/ （HN 2801pts）
-
-2. **苹果手表开始替你记事：能回听对话、整理要点** — Apple Watch Series 12 的四项 Audio Intelligence 功能进入测试，可回放刚才的对话并总结成要点，还能识别警报、门铃和歌曲，全部需要用户手动开启。方便的另一面是麦克风会一直在听。来源：https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/
-
-3. **经济学家：除了科技业，AI 给大公司带来「零财务回报」** — 阿波罗全球管理公司的首席经济学家称，美国科技行业以外的大公司砸了大量真金白银在 AI 上，账本几乎没改善。买软件买算力容易，省下多少人多少时间却算不清，这直接决定下一轮公司会不会真裁人、加活。来源：https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ （HN 243pts）
-
-4. **Anthropic 上市文件：自己用 AI 的钱比员工工资还高** — 内部 AI 使用按零售价折算已超过全体员工的薪酬；第三季度收入 170 亿美元，修订版 S-1 里对外承诺总额 8950 亿美元。收入在涨，支出涨得更快，等公司要向股东交账，涨价和限流几乎是必然。来源：https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html （HN 233pts）
-
-5. **旧金山 AI 热潮下，四十多名被裁科技从业者说「没带上我们」** — 周一上午十一点，一群被裁的科技从业者聚在旧金山，抱怨最热的行业在招人但招的不是自己。AI 岗位要的是懂模型、能训练的窄口径人才，普通开发、运维、测试的经验在这轮里正在贬值。来源：https://news.ycombinator.com/item?id=50337454 （HN 179pts）
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-10 | [→](daily/2026-11-10.md) |
 | 11-09 | [→](daily/2026-11-09.md) |
 | 11-08 | [→](daily/2026-11-08.md) |
 | 11-07 | [→](daily/2026-11-07.md) |
@@ -144,4 +145,3 @@
 | 10-14 | [→](daily/2026-10-14.md) |
 | 10-13 | [→](daily/2026-10-13.md) |
 | 10-12 | [→](daily/2026-10-12.md) |
-| 10-11 | [→](daily/2026-10-11.md) |

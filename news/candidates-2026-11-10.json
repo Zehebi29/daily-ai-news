@@ -1,0 +1,453 @@
+[
+ {
+  "src": "HN",
+  "title": "Claude Fable 5.2 and Mythos 5.2",
+  "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+  "hn": "https://news.ycombinator.com/item?id=50429906",
+  "points": 978,
+  "comments": 6,
+  "date": "2026-11-09",
+  "status": "原链 200 OK",
+  "excerpt": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences. ‖ We’ve upgraded Claude Fable and Claude Mythos—models that are designed to tackle the most daunting technical challenges. Claude Fable 5.2 and Claude Mythos 5.2 show improvements in areas like coding, re",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4566,
+    "recent_median": 3624,
+    "max_play": 2102426,
+    "recent30d": 18,
+    "top": [
+     "Claude(Code)桌面APP，保姆级全攻略，一期视频精通，顶级Agent软件长什么(42748)",
+     "DeepSeek：好像又惹Claude生气了…(3075)",
+     "【5分钟搞定】Claude账号注册登录保姆级教程！没有邮箱、注册不了、要手机号验证、弹K(5476)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "Claudefable52",
+    "claude使用教程",
+    "claude code",
+    "claude封号",
+    "Claude Opus 5.5",
+    "claude大小姐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+  "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+  "hn": "https://news.ycombinator.com/item?id=50418016",
+  "points": 964,
+  "comments": 1241,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "I owe my family and all of you an apology. I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. Throughout my life, my ... ‖ I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. Throughout my life, my family has given me love and support. They deserve my honesty",
+  "dup": true,
+  "dup_why": "1天前(2026-11-09)用过同一条链接",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6735,
+    "recent_median": 7530,
+    "max_play": 152978,
+    "recent30d": 18,
+    "top": [
+     "11.9全网炸锅！黄仁勋承认出轨！女主牵出芯片走私，英伟达炸了！特朗普回应：他是个很好的(152978)",
+     "黄仁勋栽了！承认婚外情，英伟达大跌！(141060)",
+     "英伟达老黄出轨，A股冲高跳水(20189)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达股票暴跌",
+    "英伟达暴跌",
+    "英伟达事件",
+    "英伟达旧版驱动如何删干净",
+    "英伟达显卡驱动",
+    "英伟达为什么这么强"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+  "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+  "hn": "https://news.ycombinator.com/item?id=50415628",
+  "points": 891,
+  "comments": 483,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "All Articles Share: marketers-guide-to-open-clawSponsored contentPresented by↗ Goldman Sachs has restricted Anthropic's Claude Code and Microsoft's GitHub to its engineers, cutting off traders and bankers who used the tools to track client flows and build market models. The bank barred its Hong Kong bankers from Claude in April and is now a lead underwriter ",
+  "dup": true,
+  "dup_why": "1天前(2026-11-09)用过同一条链接",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4566,
+    "recent_median": 3624,
+    "max_play": 2102426,
+    "recent30d": 18,
+    "top": [
+     "Claude(Code)桌面APP，保姆级全攻略，一期视频精通，顶级Agent软件长什么(42748)",
+     "DeepSeek：好像又惹Claude生气了…(3075)",
+     "【5分钟搞定】Claude账号注册登录保姆级教程！没有邮箱、注册不了、要手机号验证、弹K(5476)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "Claudefable52",
+    "claude使用教程",
+    "claude code",
+    "claude封号",
+    "Claude Opus 5.5",
+    "claude大小姐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Goodbye Claude, hello Pi",
+  "url": "https://caleb.software/posts/claude-to-pi.html",
+  "hn": "https://news.ycombinator.com/item?id=50410107",
+  "points": 808,
+  "comments": 488,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "I’ve been a longtime Claude Code user, ever since it became available in the Claude Pro subscription plan over a year ago. I remember the first time I used it, feeling giddy as it spat out messy Python code for whatever random weekend project I was working on, all from a single prompt. I’m certain that in a few years we’ll all look back at its release as one",
+  "dup": true,
+  "dup_why": "2天前(2026-11-08)用过同一条链接",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4566,
+    "recent_median": 3624,
+    "max_play": 2102426,
+    "recent30d": 18,
+    "top": [
+     "Claude(Code)桌面APP，保姆级全攻略，一期视频精通，顶级Agent软件长什么(42748)",
+     "DeepSeek：好像又惹Claude生气了…(3075)",
+     "【5分钟搞定】Claude账号注册登录保姆级教程！没有邮箱、注册不了、要手机号验证、弹K(5476)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "Claudefable52",
+    "claude使用教程",
+    "claude code",
+    "claude封号",
+    "Claude Opus 5.5",
+    "claude大小姐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Google Gemini routes personal Drive files and emails to human annotators",
+  "url": "https://github.com/thisisme6598/gemini_files/",
+  "hn": "https://news.ycombinator.com/item?id=50429426",
+  "points": 649,
+  "comments": 139,
+  "date": "2026-11-09",
+  "status": "原链 200 OK",
+  "excerpt": "Documentation of Gemini File Leaking Behavior. Contribute to thisisme6598/gemini_files development by creating an account on GitHub. ‖ This documentation and technical reproduction apply strictly to Consumer Google Accounts (personal @gmail.com accounts) governed by the standard Gemini Apps Privacy Notice, Gemini Apps Activity, and Google Help Answer 1683698",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3511,
+    "recent_median": 3712,
+    "max_play": 1042388,
+    "recent30d": 15,
+    "top": [
+     "谷歌王朝了(28403)",
+     "把《植物大战僵尸》的植物名谷歌翻译300遍，翻译出什么就做什么 - MrSir 2 - (3712)",
+     "谷歌广告投放实战实操课程-初级-RobinLuo(594)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌",
+    "谷歌浏览器无法打开网页",
+    "谷歌浏览器怎么下",
+    "谷歌地图",
+    "谷歌play打不开",
+    "谷歌浏览器",
+    "谷歌账号忘记密码怎么办"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "I'm not convinced the AI bubble exists",
+  "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+  "hn": "https://news.ycombinator.com/item?id=50418975",
+  "points": 557,
+  "comments": 948,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "The AI bubble is a speculative concept that the AI industry is extremely over-valued. If true, the value of most companies involved in AI (several of whom are worth well over a trillion dollars) will collapse, devastating the entire economy. If you check any online discussion about the financial situation … ‖ The AI bubble is a speculative concept that the A",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Statement from Nvidia board of directors",
+  "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+  "hn": "https://news.ycombinator.com/item?id=50416801",
+  "points": 490,
+  "comments": 407,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. ‖ The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A co",
+  "dup": true,
+  "dup_why": "1天前(2026-11-09)用过同一条链接",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6735,
+    "recent_median": 7530,
+    "max_play": 152978,
+    "recent30d": 18,
+    "top": [
+     "11.9全网炸锅！黄仁勋承认出轨！女主牵出芯片走私，英伟达炸了！特朗普回应：他是个很好的(152978)",
+     "黄仁勋栽了！承认婚外情，英伟达大跌！(141060)",
+     "英伟达老黄出轨，A股冲高跳水(20189)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达股票暴跌",
+    "英伟达暴跌",
+    "英伟达事件",
+    "英伟达旧版驱动如何删干净",
+    "英伟达显卡驱动",
+    "英伟达为什么这么强"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+  "url": "https://github.com/synchopate/llama-modchip",
+  "hn": "https://news.ycombinator.com/item?id=50411961",
+  "points": 481,
+  "comments": 205,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) &amp; 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 &amp; 13ms Claude Code... ‖ Setting LLAMA_MOE_TOP_K=5 or 4 is an optional runtime flag for users who want to trade a small perplexity delta for higher decode throughput. Linux & macOS (Aut",
+  "dup": true,
+  "dup_why": "1天前(2026-11-09)用过同一条链接",
+  "cn_kw": "DeepSeek",
+  "cn": {
+   "kw": "DeepSeek",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2850,
+    "recent_median": 1574,
+    "max_play": 825316,
+    "recent30d": 17,
+    "top": [
+     "从小白到高手，玩转DeepSeek Harness的保姆级教程(24823)",
+     "DeepSeek创始人梁文锋是个什么样的人？(8374)",
+     "DeepSeek高效写论文写综述专项（含答疑群）(12681)"
+    ]
+   },
+   "suggest": [
+    "deepseekharness",
+    "deepseek",
+    "deepseek大肥鱼",
+    "deepseek梁文锋",
+    "deepseek生成视频",
+    "deepseekAPI使用教程",
+    "deepseek养鱼教程",
+    "deepseek开源"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "How I'm fighting the AI brain fry",
+  "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+  "hn": "https://news.ycombinator.com/item?id=50416363",
+  "points": 307,
+  "comments": 212,
+  "date": "2026-11-08",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：HN hug of death strikes again.I still do LeetCode problems occasionally. It feels weird to write code and work through c / Non-hugged link:https://web.archive.org/web/20261108193851/https://sergeykuh... / The author's problem is that the are doing too many parallel agent things. It's very interesting that their solution spa / I feel like sharing a bl",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+  "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-10",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide. ‖ Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns Rebecca Bellan 5:00 AM PST · Novembe",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Hugging Face",
+  "cn": {
+   "kw": "Hugging Face",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2639,
+    "recent_median": 375,
+    "max_play": 168474,
+    "recent30d": 8,
+    "top": [
+     "「Hugging Face」 这应该是全球最强的AI资源网站了!找到你想要的任何开源AI(89572)",
+     "Hugging Face 核心组件(10)",
+     "自然语言处理必备神器Huggingface实战课(80)"
+    ]
+   },
+   "suggest": [
+    "huggingface事件",
+    "huggingface使用教程",
+    "huggingface怎么下载模型",
+    "huggingface注册",
+    "huggingface下载慢",
+    "huggingface下载",
+    "huggingface",
+    "huggingface无法访问"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Otter AI can now follow conversations across 30+ languages",
+  "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-10",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages. ‖ Otter AI can now follow conversations across 30+ languages Lauren Forristal 11:00 PM PST · November 9, 2026 Otter.ai, the AI-powered note-taking tool, announced Tuesday that it’s expanding its multilingual capabilities, ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Otter",
+  "cn": {
+   "kw": "Otter",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 807,
+    "recent_median": 105,
+    "max_play": 4802,
+    "recent30d": 4,
+    "top": [
+     "【免费】【和女儿玩游戏】《That One Otter Game》本地双人合作平台解谜冒(3338)",
+     "【中配】Roblox 堵车被困…… - OTTER ON ROBLOX(198)",
+     "【中配】Roblox 寻找并变形为动物…… - OTTER ON ROBLOX(222)"
+    ]
+   },
+   "suggest": [
+    "otterlife",
+    "otterbox",
+    "otter使用教程",
+    "otter",
+    "otterlite",
+    "otterbox多少钱能买到",
+    "otter下载",
+    "ottermind"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Anthropic reportedly plans to move forward with IPO plans",
+  "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-10",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4566,
+    "recent_median": 3624,
+    "max_play": 2102426,
+    "recent30d": 18,
+    "top": [
+     "Claude(Code)桌面APP，保姆级全攻略，一期视频精通，顶级Agent软件长什么(42748)",
+     "DeepSeek：好像又惹Claude生气了…(3075)",
+     "【5分钟搞定】Claude账号注册登录保姆级教程！没有邮箱、注册不了、要手机号验证、弹K(5476)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "Claudefable52",
+    "claude使用教程",
+    "claude code",
+    "claude封号",
+    "Claude Opus 5.5",
+    "claude大小姐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]
