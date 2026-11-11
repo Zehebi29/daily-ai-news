@@ -1,0 +1,481 @@
+[
+ {
+  "src": "HN",
+  "title": "Claude Fable 5.2 and Mythos 5.2",
+  "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+  "hn": "https://news.ycombinator.com/item?id=50429906",
+  "points": 993,
+  "comments": 8,
+  "date": "2026-11-09",
+  "status": "原链 200 OK",
+  "excerpt": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences. ‖ We’ve upgraded Claude Fable and Claude Mythos—models that are designed to tackle the most daunting technical challenges. Claude Fable 5.2 and Claude Mythos 5.2 show improvements in areas like coding, re",
+  "dup": true,
+  "dup_why": "1天前(2026-11-10)用过同一条链接",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3451,
+    "recent_median": 3451,
+    "max_play": 2106419,
+    "recent30d": 16,
+    "top": [
+     "【全网首发】Claude防封号独家指南！前后花了5万元！小白保姆级教程【包含对话铺垫/I(89376)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2106419)",
+     "这次claude要彻底跟大家说再见了(5926)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "Claudefable52",
+    "claude code",
+    "claude封号",
+    "claude下载",
+    "claude大小姐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Google Gemini routes personal Drive files and emails to human annotators",
+  "url": "https://github.com/thisisme6598/gemini_files/",
+  "hn": "https://news.ycombinator.com/item?id=50429426",
+  "points": 721,
+  "comments": 147,
+  "date": "2026-11-09",
+  "status": "原链 200 OK",
+  "excerpt": "Documentation of Gemini File Leaking Behavior. Contribute to thisisme6598/gemini_files development by creating an account on GitHub. ‖ This documentation and technical reproduction apply strictly to Consumer Google Accounts (personal @gmail.com accounts) governed by the standard Gemini Apps Privacy Notice, Gemini Apps Activity, and Google Help Answer 1683698",
+  "dup": true,
+  "dup_why": "1天前(2026-11-10)用过同一条链接",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2599,
+    "recent_median": 2371,
+    "max_play": 1046424,
+    "recent30d": 14,
+    "top": [
+     "全网最简单的谷歌账号注册教程（无需拔卡、扫码、更改设置），只用手机即可轻松操作(1046424)",
+     "ChatGPT Plus 开通全攻略！最低106元信用卡订阅、苹果美区礼品卡订阅/安卓谷(2900)",
+     "谷歌广告投放实战实操课程-初级-RobinLuo(654)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌",
+    "谷歌浏览器怎么下",
+    "谷歌地图",
+    "谷歌play打不开",
+    "谷歌浏览器无法打开网页",
+    "谷歌翻译20次",
+    "谷歌邮箱怎么注册"
+   ],
+   "hot": true,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI usage generates a fragile codebase",
+  "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+  "hn": "https://news.ycombinator.com/item?id=50438318",
+  "points": 599,
+  "comments": 563,
+  "date": "2026-11-10",
+  "status": "原链 200 OK",
+  "excerpt": "I can only speculate as to the reasons why I was laid off from Meta in May, but I suspect that one of the reasons is that I was a little bit more resistant to adopting AI/LLMs as coding tools than some of my peers. Don't get me wrong, I generated at least 90% of my code using AI in my last few months there, which was the minimum for a decent rating. But AI d",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Tracking Anthropic-discovered vulnerabilities",
+  "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+  "hn": "https://news.ycombinator.com/item?id=50447074",
+  "points": 422,
+  "comments": 203,
+  "date": "2026-11-10",
+  "status": "原链 200 OK",
+  "excerpt": "Seven months into Project Glasswing, VulnCheck has tracked 442 CVEs attributable to Anthropic, roughly 0.5% of all CVEs published this year, with only two identified as exploited in the wild. Of Anthropic’s 37,966 reported findings, only 7,349 (19.4%) have been made public and just 217 have been marked fixed. ‖ We're seven months into Anthropic's flagship Pr",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3451,
+    "recent_median": 3451,
+    "max_play": 2106419,
+    "recent30d": 16,
+    "top": [
+     "【全网首发】Claude防封号独家指南！前后花了5万元！小白保姆级教程【包含对话铺垫/I(89376)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2106419)",
+     "这次claude要彻底跟大家说再见了(5926)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "Claudefable52",
+    "claude code",
+    "claude封号",
+    "claude下载",
+    "claude大小姐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+  "url": "https://github.com/GoogleChrome/modern-web-guidance",
+  "hn": "https://news.ycombinator.com/item?id=50443812",
+  "points": 388,
+  "comments": 123,
+  "date": "2026-11-10",
+  "status": "原链 200 OK",
+  "excerpt": "Keep your coding agent up to date with the latest web best practices - GoogleChrome/modern-web-guidance",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "JavaScript",
+  "cn": {
+   "kw": "JavaScript",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 79790,
+    "recent_median": 653,
+    "max_play": 8139650,
+    "recent30d": 6,
+    "top": [
+     "黑马程序员前端JavaScript入门到精通全套视频教程，javascript核心进阶E(7815993)",
+     "【JavaScript基础】 2小时快速入门，全程无废话，入门到精通，前端js全套基础&(601064)",
+     "1小时学完JavaScript(2106)"
+    ]
+   },
+   "suggest": [
+    "javascript零基础入门到精通",
+    "JavaScript",
+    "JavaScript是什么",
+    "JavaScript速成",
+    "javascript前端开发与实例教程",
+    "JavaScript下载",
+    "javascript和java的区别",
+    "JavaScript教程"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Apple has new Mac app coming to make running local AI models easy",
+  "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+  "hn": "https://news.ycombinator.com/item?id=50446520",
+  "points": 325,
+  "comments": 310,
+  "date": "2026-11-10",
+  "status": "原链 200 OK",
+  "excerpt": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple that makes it easy to run local AI models. ‖ 0 Comments Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple called Harbor, which makes it easy to run local AI models across one or more Macs. The Mac has been getting a lot more popular this year, ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "苹果",
+  "cn": {
+   "kw": "苹果",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3604,
+    "recent_median": 3604,
+    "max_play": 1817572,
+    "recent30d": 20,
+    "top": [
+     "据说这部剧范冰冰被假戏真做了，都说是福利电影，那被删减的片段到底演了什么？电影《苹果》！(1781)",
+     "苹果(1817572)",
+     "张萌直接送许飞手机！许飞用苹果13借不到充电线被玩梗，张萌霸总式甩出颜色让许飞挑一句姐不(33197)"
+    ]
+   },
+   "suggest": [
+    "苹果手机",
+    "苹果",
+    "苹果18promax",
+    "苹果平板",
+    "苹果17",
+    "苹果饭冰冰佟大为",
+    "苹果duo",
+    "苹果酱 教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Gemini 4 Carbon is now available",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+  "hn": "https://news.ycombinator.com/item?id=50442303",
+  "points": 287,
+  "comments": 159,
+  "date": "2026-11-10",
+  "status": "原链 200 OK",
+  "excerpt": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2411,
+    "recent_median": 2411,
+    "max_play": 26005,
+    "recent30d": 18,
+    "top": [
+     "周五重置 + GPT-6.2？Gemini 4 Flash 马上发布！Qwen4 Max(15367)",
+     "GPT-6.2首次现身官方API文档；Gemini 4 Carbon登陆反重力；Clau(5513)",
+     "【Gemini】小游戏：我带过的最差一届 正式版(3364)"
+    ]
+   },
+   "suggest": [
+    "gemini",
+    "gemini直播回放",
+    "Gemini 4 Carbon",
+    "gemini使用教程",
+    "Gemini 4 Argon",
+    "gemini4",
+    "gemini小游戏",
+    "gemini pro"
+   ],
+   "hot": true,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+  "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+  "hn": "https://news.ycombinator.com/item?id=50443716",
+  "points": 248,
+  "comments": 181,
+  "date": "2026-11-10",
+  "status": "原链 200 OK",
+  "excerpt": "Brainstorm on a shared whiteboard, build a spreadsheet, and share dashboards with your team, all with Claude. Available today on all paid plans. ‖ Today we’re launching Claude Whiteboards and Claude Sheets in beta, and Claude Dashboards (opens in new tab) becomes generally available as Claude Data. Whiteboards is a shared board where your team brainstorms wi",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3451,
+    "recent_median": 3451,
+    "max_play": 2106419,
+    "recent30d": 16,
+    "top": [
+     "【全网首发】Claude防封号独家指南！前后花了5万元！小白保姆级教程【包含对话铺垫/I(89376)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2106419)",
+     "这次claude要彻底跟大家说再见了(5926)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "Claudefable52",
+    "claude code",
+    "claude封号",
+    "claude下载",
+    "claude大小姐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+  "url": "https://news.ycombinator.com/item?id=50422628",
+  "hn": "https://news.ycombinator.com/item?id=50422628",
+  "points": 216,
+  "comments": 78,
+  "date": "2026-11-09",
+  "status": "原链 405",
+  "excerpt": "HN 讨论要点：I'd suggest to use ssh keys inside the secure enclave on macOS that require your fingerprint for every new session [0].  / It's amazing how often product decisions head this way for the purposes of 'removing friction'.In security, friction is  / Of course it does. That's what the codex <> chat merge is actually doing.But codex <> chat merge is what t",
+  "dup": true,
+  "dup_why": "1天前(2026-11-10)用过同一条链接",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 343,
+    "recent_median": 328,
+    "max_play": 980873,
+    "recent30d": 16,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(980873)",
+     "史上最详细GPT使用教程，涵盖注册、安装、订阅以及各种问题解决方案！(194507)",
+     "利用ChatGPT快速发表高质量SCI论文(130931)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt国内使用教程",
+    "chatgpt",
+    "chatgpt电脑端安装",
+    "chatgptplus如何购买",
+    "chatgpt安卓下载",
+    "chatgpt安装教程",
+    "chatgpt6.2"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+  "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-11",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 20181,
+    "recent_median": 25316,
+    "max_play": 1504840,
+    "recent30d": 18,
+    "top": [
+     "黄仁勋承认婚外情，英伟达市值蒸发六千亿！——比大佬出轨更严重的是利益冲突(209089)",
+     "抄底纳指英伟达小赚！(8318)",
+     "11.10全网炸锅！黄仁勋：出轨我也认！想抢英伟达，可以直说！英伟达要易主？(28378)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达商城重新上架5090显卡",
+    "英伟达股票暴跌",
+    "英伟达的名义",
+    "英伟达显卡驱动",
+    "英伟达app",
+    "英伟达怎么了"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+  "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-10",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry. ‖ OpenAI acquires Odessia, travel startup created by Sonder founder Julie Bort 1:08 PM PST · November 10, 2026 OpenAI has acquired an AI travel agent called Odessia, according to Odessia’s founder, Francis Da",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 538,
+    "recent_median": 538,
+    "max_play": 1249794,
+    "recent30d": 20,
+    "top": [
+     "Gemini 4 Carbon终于开放！Vertex现已可用 | 11月10日AI日报第(20343)",
+     "Gemini 4 Carbon正式发布，Anthropic路演开始，OpenAI你的GP(8533)",
+     "Fable5.2解决量子难题,当场吓哭, Claude 文档惊现openai/ui,马斯(1212)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openai怎么下载",
+    "OpenAI公布三项科学成果",
+    "openai失控",
+    "openaiAPI密钥",
+    "openai智能体失控",
+    "openai创始人",
+    "openai封号"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+  "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-10",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines. ‖ OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect Rebecca Bellan 12:52 PM PST · November 10, 2026 New York is gearing up to enforce",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3451,
+    "recent_median": 3451,
+    "max_play": 2106419,
+    "recent30d": 16,
+    "top": [
+     "【全网首发】Claude防封号独家指南！前后花了5万元！小白保姆级教程【包含对话铺垫/I(89376)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2106419)",
+     "这次claude要彻底跟大家说再见了(5926)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "Claudefable52",
+    "claude code",
+    "claude封号",
+    "claude下载",
+    "claude大小姐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]

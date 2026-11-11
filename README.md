@@ -7,6 +7,19 @@
 ## 最新资讯
 
 
+### 2026-11-11（周三·工程落地）
+
+1. **你的谷歌网盘可能被人工翻看** — 一份放上 GitHub 的复现文档说，用个人谷歌账号（@gmail.com）时，Gemini 会把网盘文件和邮件转给人工审核；作者强调针对普通消费者账号，非企业版。HN 上 721 分、147 条讨论。国内谷歌话题还在 B 站热搜，但现有内容基本只教「怎么注册账号」，没人讲这件事。想继续用云盘，敏感文件先自己加密再上传。来源：Hacker News 721pts https://news.ycombinator.com/item?id=50429426
+
+2. **Claude 又换代，编程科研再上一档** — Anthropic 一次放出 Fable 5.2 和 Mythos 5.2 两个新模型，专攻最难的技术问题，Fable 5.2 在编程、金融、科研三块刷新纪录。HN 993 分，当天最热。但国内搜索热词是「claude 国内怎么使用」「claude code」，卡点在「用不上」；现有爆款是 5 万元试出的防封号指南和 8 分钟装好 Claude Code，中间的「普通人第一次怎么用上」是空的。来源：Hacker News 993pts https://news.ycombinator.com/item?id=50429906
+
+3. **AI 写的代码正在变脆** — 一位 5 月被 Meta 裁掉的工程师说，他在 Meta 最后几个月 90% 的代码是 AI 生成的，而这只是拿合格绩效的最低要求；他的判断是 AI 让写代码变快，但产物越来越脆，改一处塌一片，返工成本在半年后才显现。HN 599 分、563 条评论，当天讨论最激烈。对普通上班族的启示：任何「AI 快速产出」的活，省下的时间常以返工形式还回来。来源：Hacker News 599pts https://news.ycombinator.com/item?id=50438318
+
+4. **苹果要做本地 AI，不联网也能跑** — 爆料人 Aaron Perris 在系统里发现一款未发布的 Mac 软件 Harbor，可在一台或多台 Mac 上轻松跑本地 AI 模型；本地即内容不出本机、不上传服务器。报道提到 Mac 今年销量更好。HN 325 分。目前仅为爆料，苹果未官宣，上线时间与收费未知。来源：Hacker News 325pts https://news.ycombinator.com/item?id=50446520
+
+5. **OpenAI 买下一家旅行 AI** — OpenAI 收购做 AI 旅行助手的 Odessia，创始人 Francis Davidson 此前创办共享住宿公司 Sonder；OpenAI 未说明收购后计划。提示很直接：订票订房这类跑腿活是 AI 公司下一步要抢的入口，而国内内容还没把「AI 工具」和「以后怎么订旅行」连起来讲。来源：TechCrunch https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/
+
+
 ### 2026-11-10（周二·AI安全与行业）
 
 📡 每日AI信息差 · 今日要点
@@ -96,25 +109,11 @@
 5. **Postman 打开就自动装 AI 插件，还想同步你的接口数据** — 有人在 GitHub 反馈：Mac 上打开 Postman 会自动安装 AI 插件，并试图把接口数据同步出去。这条已冲到 HN 第一（1506 分、487 条评论）。核心问题不是 AI，而是你没点过同意。接口数据常带密钥和用户信息，升级前先查同步与插件开关。— 来源：GitHub https://github.com/postmanlabs/postman-app-support/issues/14370
 
 
-### 2026-11-04（周三·Agent/工程落地）
-
-📡 每日AI信息差 · 今日要点
-
-1. **AI 能直接改自己的大脑** — 一个叫 Astra 的实验说，大模型能直接读懂、直接改自己的参数，不用重训。另一位开发者用 Qwen 27B 在普通笔记本上跑出类似效果，Hacker News 2930 分登顶。往远了看，修 AI 可能跟改文档一样便宜；但模型也能被悄悄动手脚，"谁改过、改了什么"以后必须查得到。— Hacker News 2930pts · https://rikiyat.github.io/blog/weight-space-programming/
-
-2. **800 美元的吊线机器人** — 天花板四角各一个电机，四根线吊着一只夹爪，靠收放线在整间屋里移动。不用轮子不用腿，地上堆满杂物进不去的地方，它从上面伸手下去拿。整套开源，800 美元覆盖一整个房间，机器人不一定非得长成人样。— Hacker News 650pts · https://neufangled.com/
-
-3. **你的代码对话又被拿去训练** — 有用户发现，OpenAI 在悄悄给 Codex 重新打开"用你的对话训练模型"，连用量入口也藏了，493 分讨论一夜没停。你贴进对话框的报错、代码、业务数据可能正在变成训练材料，而且连用了多少都查不到。公司最该紧张：代码就是命根子。— Hacker News 493pts · https://news.ycombinator.com/item?id=50352757
-
-4. **学校禁 AI，谷歌就断搜索** — 谷歌管教育的副总裁说，禁用 AI 的学校，学生将无法使用谷歌搜索，632 分讨论一半在骂。翻成人话：你不配合我的 AI 产品，我就把最基础的搜索也关掉。家长该追问两点：学校数据会不会被拿去喂模型，拒绝的代价凭什么由学生承担。— Hacker News 632pts · https://news.ycombinator.com/item?id=50353192
-
-5. **半年涨 90%，3.2 万亿暗债** — 日经统计，美国科技巨头为 AI 背的隐性债务半年涨 90%，到 3.2 万亿美元，多是数据中心租约和长期采购承诺，不上主报表。这些钱最后要靠服务涨价、融资和股价消化，你买的基金里就有它们。AI 泡沫破不破没人知道，但账单已经先记上了。— Hacker News 369pts · https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-11 | [→](daily/2026-11-11.md) |
 | 11-10 | [→](daily/2026-11-10.md) |
 | 11-09 | [→](daily/2026-11-09.md) |
 | 11-08 | [→](daily/2026-11-08.md) |
@@ -144,4 +143,3 @@
 | 10-15 | [→](daily/2026-10-15.md) |
 | 10-14 | [→](daily/2026-10-14.md) |
 | 10-13 | [→](daily/2026-10-13.md) |
-| 10-12 | [→](daily/2026-10-12.md) |
