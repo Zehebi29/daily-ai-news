@@ -1,0 +1,453 @@
+[
+ {
+  "src": "HN",
+  "title": "Nvidia is preparing to oust Jensen Huang",
+  "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+  "hn": "https://news.ycombinator.com/item?id=50459703",
+  "points": 1116,
+  "comments": 1496,
+  "date": "2026-11-11",
+  "status": "原链 401 · 正文经 jina",
+  "excerpt": "Title: wsj.com URL Source: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7864,
+    "recent_median": 9541,
+    "max_play": 84457,
+    "recent30d": 17,
+    "top": [
+     "黄仁勋已回英伟达上班：试图表现“一切照常”(33222)",
+     "速报！美媒：黄仁勋持有的英伟达股份究竟归谁所有？(11966)",
+     "【双语】70人直接向他汇报！黄仁勋被撤后，英伟达还剩什么？(18494)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达股票暴跌",
+    "英伟达显卡驱动",
+    "英伟达ceo",
+    "英伟达显卡驱动更新",
+    "英伟达app",
+    "英伟达b300"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "My AI agents found an unmapped Maya site?",
+  "url": "https://pietromiotti.com/latest/maya-site",
+  "hn": "https://news.ycombinator.com/item?id=50452455",
+  "points": 1009,
+  "comments": 369,
+  "date": "2026-11-11",
+  "status": "原链 200 OK",
+  "excerpt": "AI agents analyzed public lidar data overnight and found a Maya site under the jungle. It turned out archaeologists had mapped it already, but it wasn't in Mexico's official register yet. ‖ Update (11 November): it turns out the site had already been mapped in Estrada-Belli et al. The agents missed it while going through the literature, so they rediscovered ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1002,
+    "recent_median": 702,
+    "max_play": 1495462,
+    "recent30d": 16,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1495462)",
+     "豆包工作agent教程之用AI让任务协作更高效01丨把通知固定部分和变量分开(2615)",
+     "AI Agent 开发实战（Eino框架）(8317)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发学习路线",
+    "aiagent开发",
+    "aiagent实战项目",
+    "aiagent推荐",
+    "aiagent使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI usage generates a fragile codebase",
+  "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+  "hn": "https://news.ycombinator.com/item?id=50438318",
+  "points": 636,
+  "comments": 617,
+  "date": "2026-11-10",
+  "status": "原链 200 OK",
+  "excerpt": "I can only speculate as to the reasons why I was laid off from Meta in May, but I suspect that one of the reasons is that I was a little bit more resistant to adopting AI/LLMs as coding tools than some of my peers. Don't get me wrong, I generated at least 90% of my code using AI in my last few months there, which was the minimum for a decent rating. But AI d",
+  "dup": true,
+  "dup_why": "1天前(2026-11-11)用过同一条链接",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+  "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+  "hn": "https://news.ycombinator.com/item?id=50458900",
+  "points": 578,
+  "comments": 603,
+  "date": "2026-11-11",
+  "status": "原链 200 OK",
+  "excerpt": "Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United. ‖ United Airlines said on Wednesday that it is banning artificial intelligence agents from making flight reservations on behalf of travelers, citing security risks and the possibility that such actions could violate fe",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1002,
+    "recent_median": 702,
+    "max_play": 1495462,
+    "recent30d": 16,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1495462)",
+     "豆包工作agent教程之用AI让任务协作更高效01丨把通知固定部分和变量分开(2615)",
+     "AI Agent 开发实战（Eino框架）(8317)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发学习路线",
+    "aiagent开发",
+    "aiagent实战项目",
+    "aiagent推荐",
+    "aiagent使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Apple has new Mac app coming to make running local AI models easy",
+  "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+  "hn": "https://news.ycombinator.com/item?id=50446520",
+  "points": 535,
+  "comments": 541,
+  "date": "2026-11-10",
+  "status": "原链 200 OK",
+  "excerpt": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple that makes it easy to run local AI models. ‖ 0 Comments Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple called Harbor, which makes it easy to run local AI models across one or more Macs. The Mac has been getting a lot more popular this year, ",
+  "dup": true,
+  "dup_why": "1天前(2026-11-11)用过同一条链接",
+  "cn_kw": "苹果",
+  "cn": {
+   "kw": "苹果",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2275,
+    "recent_median": 2275,
+    "max_play": 33826,
+    "recent30d": 20,
+    "top": [
+     "苹果全家桶用户必看配件清单~iPhone18系列和iWatch系列通用！(263)",
+     "女朋友家里有40万斤苹果，老丈人让我全部卖完之后才可以娶她，这是不是考验我？(6287)",
+     "阿文红苹果，又红又甜(18)"
+    ]
+   },
+   "suggest": [
+    "苹果",
+    "苹果饭冰冰佟大为",
+    "苹果平板",
+    "苹果手机",
+    "苹果18promax",
+    "苹果新款产品上手体验",
+    "苹果b服游戏怎么下",
+    "苹果笔记本"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Gemini Decisions API",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+  "hn": "https://news.ycombinator.com/item?id=50456791",
+  "points": 466,
+  "comments": 143,
+  "date": "2026-11-11",
+  "status": "原链 200 OK",
+  "excerpt": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions. ‖ Gemini Decisions API: Fast, calibrated multimodal decisions Nov 11, 2026 Introducing the Gemini Decisions API, powered by our new Gemini Decision 1 model. Evaluate up to 1,000 yes/no, choice, and rubric-scoring questions in a fast",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3494,
+    "recent_median": 3494,
+    "max_play": 55937,
+    "recent30d": 18,
+    "top": [
+     "Gemini 4 Carbon 实测：Ultra 才能用，到底值不值？(55937)",
+     "谷歌Gemini 4 Hydrogen上线，更快更强 | 11月12日AI日报第577期(9231)",
+     "职场后半程逆袭：Gemini AI 全流程实战指(717)"
+    ]
+   },
+   "suggest": [
+    "gemini",
+    "gemini4argon",
+    "gemini直播回放",
+    "gemini使用教程",
+    "gemini4",
+    "Gemini 4 Carbon",
+    "gemini不支持你所在地区",
+    "gemini陪看时差五小时"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Tracking Anthropic-discovered vulnerabilities",
+  "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+  "hn": "https://news.ycombinator.com/item?id=50447074",
+  "points": 456,
+  "comments": 218,
+  "date": "2026-11-10",
+  "status": "原链 200 OK",
+  "excerpt": "Seven months into Project Glasswing, VulnCheck has tracked 442 CVEs attributable to Anthropic, roughly 0.5% of all CVEs published this year, with only two identified as exploited in the wild. Of Anthropic’s 37,966 reported findings, only 7,349 (19.4%) have been made public and just 217 have been marked fixed. ‖ We're seven months into Anthropic's flagship Pr",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2599,
+    "recent_median": 2599,
+    "max_play": 2111129,
+    "recent30d": 16,
+    "top": [
+     "小白也能用上claude·自己账号(6948)",
+     "Gemini 4 Flash 这次一定！Claude 提前开杀？重置钓鱼？GPT-6.2(9296)",
+     "【致敬老黄】无法抵抗间谍诱惑，Claude公开承认出轨(5544)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "ClaudeFable52",
+    "claude code",
+    "claude封号",
+    "Claude Opus 5.5",
+    "claudecode安装教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+  "url": "https://github.com/GoogleChrome/modern-web-guidance",
+  "hn": "https://news.ycombinator.com/item?id=50443812",
+  "points": 431,
+  "comments": 142,
+  "date": "2026-11-10",
+  "status": "原链 200 OK",
+  "excerpt": "Keep your coding agent up to date with the latest web best practices - GoogleChrome/modern-web-guidance",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "JavaScript",
+  "cn": {
+   "kw": "JavaScript",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 26888,
+    "recent_median": 37,
+    "max_play": 8139786,
+    "recent30d": 9,
+    "top": [
+     "黑马程序员前端JavaScript入门到精通全套视频教程，javascript核心进阶E(7817397)",
+     "【JavaScript基础】 2小时快速入门，全程无废话，入门到精通，前端js全套基础&(602256)",
+     "Javascript+Nodejs全栈前端全能课(643506)"
+    ]
+   },
+   "suggest": [
+    "javascript零基础入门到精通",
+    "JavaScript",
+    "JavaScript是什么",
+    "JavaScript速成",
+    "JavaScript下载",
+    "javascript前端开发与实例教程",
+    "javascript和java的区别",
+    "JavaScript教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+  "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+  "hn": "https://news.ycombinator.com/item?id=50443716",
+  "points": 286,
+  "comments": 217,
+  "date": "2026-11-10",
+  "status": "原链 200 OK",
+  "excerpt": "Brainstorm on a shared whiteboard, build a spreadsheet, and share dashboards with your team, all with Claude. Available today on all paid plans. ‖ Today we’re launching Claude Whiteboards and Claude Sheets in beta, and Claude Dashboards (opens in new tab) becomes generally available as Claude Data. Whiteboards is a shared board where your team brainstorms wi",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2599,
+    "recent_median": 2599,
+    "max_play": 2111129,
+    "recent30d": 16,
+    "top": [
+     "小白也能用上claude·自己账号(6948)",
+     "Gemini 4 Flash 这次一定！Claude 提前开杀？重置钓鱼？GPT-6.2(9296)",
+     "【致敬老黄】无法抵抗间谍诱惑，Claude公开承认出轨(5544)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "ClaudeFable52",
+    "claude code",
+    "claude封号",
+    "Claude Opus 5.5",
+    "claudecode安装教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Why the data center you dread might never even be built",
+  "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-11",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "he data center boom looks huge on paper, but how much will actually get built? On this episode of Equity, an energy expert breaks down the projects likely to happen and the ones that never will. ‖ Why the data center you dread might never even be built Theresa Loconsolo Rebecca Bellan Tim De Chant 12:15 PM PST · November 11, 2026 31 min Loading the player… T",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+  "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-11",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings. ‖ CoreWeave turns to customer prepayments, shorter contracts to fund AI growth Rebecca Bellan 11:54 AM PST · November 11, 2026 CoreWeave is ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "CoreWeave",
+  "cn": {
+   "kw": "CoreWeave",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 561,
+    "recent_median": 418,
+    "max_play": 6971,
+    "recent30d": 19,
+    "top": [
+     "CoreWeave一份财报，为什么能让美股绝地反击？AI泡沫真的被打脸了吗？(903)",
+     "导致上一波AI产业链大跌的CoreWeave三季度财报出人意料(774)",
+     "AI链风暴中心的CoreWeave：Neo Cloud 模式存在吗？(244)"
+    ]
+   },
+   "suggest": [
+    "coreweave",
+    "coreweave财报",
+    "coreweave公司",
+    "coreweave债务",
+    "coreweave股价",
+    "coreweaver",
+    "新云coreweave",
+    "nebis与coreweave"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+  "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-11",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Britain",
+  "cn": {
+   "kw": "Britain",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 12036,
+    "recent_median": 1989,
+    "max_play": 1205010,
+    "recent30d": 1,
+    "top": [
+     "【【ＢＲＩＴＡＩＮ！ＢＲＩＴＡＩＮ！】】(1205010)",
+     "三分钟带你了解Britain，England，United Kingdom的区别(70705)",
+     "【英国日常介绍】This is Britain(14006)"
+    ]
+   },
+   "suggest": [
+    "Britain",
+    "britainsgottalent",
+    "britainnia",
+    "britainnica",
+    "Britain意思",
+    "Britains",
+    "britaindalton",
+    "britain发音"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ }
+]
