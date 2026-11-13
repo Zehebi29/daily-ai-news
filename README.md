@@ -7,6 +7,29 @@
 ## 最新资讯
 
 
+### 2026-11-13（周五·工具实测）
+
+1. **做 Claude 的公司要去上市了** — Anthropic 已正式提交上市文件，官网挂出创始人信。它不再是关起门做模型的实验室，而要按季度向股东交代营收。对用户的影响：定价、免费额度、封号尺度都会被增长压力推着走；好处是财务必须公开，以后判断它会不会突然收费，有数字可查。（Anthropic 上市申报，HN 959 pts）
+
+2. **AI 帮你订机票，航空公司说不** — 美国联合航空周三禁止 AI 代理代替旅客订票，理由是会碰账号和支付，出安全风险，还可能违反联邦规定。真正的问题不是技术不行，而是出了事没人担责——航司不愿背锅。以后让 AI 抢票下单，平台多半会要求你亲手确认最后一步。（CBS News，HN 674 pts）
+
+3. **AI 熬夜扫地图，挖出玛雅遗址** — 一个开发者的 AI 代理整夜分析公开激光雷达数据，找出丛林下的玛雅遗址轮廓。考古学家说这地方早被测绘过、只是没进官方名录，AI 算「重新发现」。可复用的是方法：让 AI 先扫一遍海量资料，人只看它圈出来的。（项目作者博客，HN 1032 pts）
+
+4. **谷歌新接口专答是或否** — Gemini Decisions API 只做判断类问题：是/否、选哪个、按标准打分，一次最多 1000 个问题，还带把握程度。以前这类活要么靠人一条条看，要么自己拼提示词；现在做成专门产品，说明大厂认定「AI 当审核员」是门正经生意。（Google 官方博客，HN 562 pts）
+
+5. **英伟达承认芯片能被追踪** — 英伟达私下告诉美国议员，《芯片安全法案》要求的防走私追踪技术上做得到，而此前业内公开质疑过可行性。「能做」和「会做」是两件事。真落地的话，合规成本可能进售价；同一套本事也能拿来防丢防盗。（MIT 科技评论）
+
+---
+
+来源链接：
+
+1. https://ipo.anthropic.com/us/
+2. https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/
+3. https://pietromiotti.com/latest/maya-site
+4. https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/
+5. https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/
+
+
 ### 2026-11-12（周四·AI 信息差）
 
 1. **英伟达被曝准备换掉黄仁勋** — 《华尔街日报》11 月 11 日报道，英伟达正在准备让 CEO 黄仁勋离任，海外科技论坛当天讨论量近 1500 条。目前只有媒体爆料，英伟达官方未回应，与「黄仁勋已回公司上班」的既有说法互相打架，别当定论。英伟达是这轮 AI 热潮里卖「铲子」的公司，掌门人变动会先影响股价和显卡行情，再传到 AI 服务收费。来源：https://news.ycombinator.com/item?id=50459703
@@ -86,26 +109,11 @@
 5. **大学图书馆被AI爬虫挤爆** — 加拿大广播公司报道，多所大学图书馆网站被大量自动程序反复抓取，慢到打不开，严重的直接崩掉。抓取方是 AI 公司在为训练模型收集资料，它们不分考试周、也不会排队，真正要查资料的学生被挤在门外。公共免费资源被无偿占用，成本最后转嫁给普通人。来源：Hacker News 130pts https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287
 
 
-### 2026-11-06（周五·工具实测）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-11-06 周五
-
-1. **AI写代码时，把你邮箱送出去了** — Claude Code 帮用户上网查资料时，把用户邮箱塞进请求头一起发出去，有人因此每天收到几十封诈骗邮件。官方把它做成了「可关闭的开关」，而不是直接删掉。来源：GitHub anthropics/claude-code issue #107757 · https://github.com/anthropics/claude-code/issues/107757 （HN 1266pts）
-
-2. **付了钱的 Gemini，照样拿你聊天训练** — HN 用户实测确认：个人付费订阅账号的聊天记录一样进训练集。讨论区结论是「该假设你敲进去的每个字，哪怕没按发送，都会被永久保存」。来源：Hacker News · https://news.ycombinator.com/item?id=50363461 （720pts）
-
-3. **这块新显卡装 Linux 后只剩三成力** — 有人实测 Nvidia RTX Spark 笔记本装 Linux 跑本地模型，推理速度掉到 35%，原因是一段加密固件压住了显卡频率。作者结论：想跑 AI，这台机器上 Windows + WSL 反而更强。来源：MindStudio · https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop （HN 614pts）
-
-4. **Kimi 新模型权重直接放开** — 月之暗面把 Kimi K3.1 Pro 权重放上 Hugging Face，2.8 万亿参数，图 + 文双输入。个人电脑跑不动，但对普通人的实际影响是：套壳产品接下来会降价或提速。来源：Hugging Face · https://huggingface.co/moonshotai/Kimi-K3.1-Pro （HN 632pts）
-
-5. **社媒上的假广告，一年骗走 160 亿美元** — Mark Cuban 称 Facebook 明知平台上有 AI 生成的假广告，里面还有他本人的脸，在卖不存在的糖尿病药；文件显示这类诈骗一年 160 亿美元。记住一条：名人脸 + 神药 + 短视频 = 诈骗。来源：Yahoo Finance · https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html （HN 394pts）
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-13 | [→](daily/2026-11-13.md) |
 | 11-12 | [→](daily/2026-11-12.md) |
 | 11-11 | [→](daily/2026-11-11.md) |
 | 11-10 | [→](daily/2026-11-10.md) |
@@ -135,4 +143,3 @@
 | 10-17 | [→](daily/2026-10-17.md) |
 | 10-16 | [→](daily/2026-10-16.md) |
 | 10-15 | [→](daily/2026-10-15.md) |
-| 10-14 | [→](daily/2026-10-14.md) |
