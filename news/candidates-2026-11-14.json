@@ -1,0 +1,482 @@
+[
+ {
+  "src": "HN",
+  "title": "Anthropic IPO",
+  "url": "https://ipo.anthropic.com/us/",
+  "hn": "https://news.ycombinator.com/item?id=50465829",
+  "points": 996,
+  "comments": 911,
+  "date": "2026-11-12",
+  "status": "原链 200 OK",
+  "excerpt": "Anthropic has filed to become a public company. Read the Founders’ letter and other relevant information.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13695,
+    "recent_median": 10645,
+    "max_play": 2118894,
+    "recent30d": 16,
+    "top": [
+     "【硬核科普】11月12日Claude新规封号潮！我研究了官方条款，总结出8个封号原因+7(15023)",
+     "【全网首发】Claude防封号独家指南！前后花了5万元！小白保姆级教程【包含对话铺垫/I(109842)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2118894)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claude封号",
+    "claude code",
+    "Claude Opus 5.5",
+    "claude下载",
+    "ClaudeFable52"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nvidia employees petition to bring back Jensen Huang",
+  "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+  "hn": "https://news.ycombinator.com/item?id=50477231",
+  "points": 805,
+  "comments": 667,
+  "date": "2026-11-13",
+  "status": "原链 200 OK",
+  "excerpt": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him. ‖ An internal “suggestion box” post submitted before Huang’s resignation by a longtime engineer at Nvidia urged the company’s board to take employee sentiment into consideration prior",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 44880,
+    "recent_median": 62332,
+    "max_play": 218003,
+    "recent30d": 18,
+    "top": [
+     "见证历史！黄仁勋辞职！英伟达将会走向何方？(218003)",
+     "黄仁勋研发英伟达骑士系统，彻底解决美国党派之争【AI全民制作人】(131380)",
+     "AI原生重塑组织，来自英伟达字节贝壳中智的思考(382)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达发展史",
+    "英伟达黄仁勋辞职",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达罢免黄仁勋",
+    "英伟达新ceo",
+    "英伟达显卡驱动"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+  "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+  "hn": "https://news.ycombinator.com/item?id=50493251",
+  "points": 722,
+  "comments": 418,
+  "date": "2026-11-14",
+  "status": "原链 405",
+  "excerpt": "Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups that would go on to buy NVIDIA GPUs and build data centers.... ‖ This should only take a few seconds. If you have issues, ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 44880,
+    "recent_median": 62332,
+    "max_play": 218003,
+    "recent30d": 18,
+    "top": [
+     "见证历史！黄仁勋辞职！英伟达将会走向何方？(218003)",
+     "黄仁勋研发英伟达骑士系统，彻底解决美国党派之争【AI全民制作人】(131380)",
+     "AI原生重塑组织，来自英伟达字节贝壳中智的思考(382)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达发展史",
+    "英伟达黄仁勋辞职",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达罢免黄仁勋",
+    "英伟达新ceo",
+    "英伟达显卡驱动"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Gemini 4 Hydrogen",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+  "hn": "https://news.ycombinator.com/item?id=50471431",
+  "points": 565,
+  "comments": 350,
+  "date": "2026-11-12",
+  "status": "原链 200 OK",
+  "excerpt": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 12531,
+    "recent_median": 12677,
+    "max_play": 343087,
+    "recent30d": 17,
+    "top": [
+     "54分钟提速变8分钟！Gemini 4 Hydrogen 实测，效果跟得上吗？(38489)",
+     "一个月30就能用上最新的Gemini4！市面上最全的Gemini 学生优惠教程(8516)",
+     "Gemini 4 Carbon 实测：Ultra 才能用，到底值不值？(79484)"
+    ]
+   },
+   "suggest": [
+    "gemini",
+    "gemini使用教程",
+    "gemini直播回放",
+    "gemini4argon",
+    "gemini小游戏",
+    "gemini4hydrogen",
+    "gemini4carbon",
+    "gemini4"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+  "url": "https://status.claude.com/incidents/nn11wk485zfn",
+  "hn": "https://news.ycombinator.com/item?id=50481187",
+  "points": 489,
+  "comments": 387,
+  "date": "2026-11-13",
+  "status": "原链 200 OK",
+  "excerpt": "Claude's Status Page - Elevated errors on claude.ai, Claude Code, and platform.claude.com.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13695,
+    "recent_median": 10645,
+    "max_play": 2118894,
+    "recent30d": 16,
+    "top": [
+     "【硬核科普】11月12日Claude新规封号潮！我研究了官方条款，总结出8个封号原因+7(15023)",
+     "【全网首发】Claude防封号独家指南！前后花了5万元！小白保姆级教程【包含对话铺垫/I(109842)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2118894)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claude封号",
+    "claude code",
+    "Claude Opus 5.5",
+    "claude下载",
+    "ClaudeFable52"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+  "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+  "hn": "https://news.ycombinator.com/item?id=50473190",
+  "points": 454,
+  "comments": 485,
+  "date": "2026-11-12",
+  "status": "原链 401",
+  "excerpt": "HN 讨论要点：This seems like a coordinated hit, slowly releasing more and more information. What's really going on? / One affair is a scandal.Two affairs is a pattern.Three affairs is just funny. / There are three \"I\"s in NVIDIA (latin) / I don't who the 3rd affair will be with, but the 4th one will be with sticks and stones / That is it...I am buying a leather j",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 44880,
+    "recent_median": 62332,
+    "max_play": 218003,
+    "recent30d": 18,
+    "top": [
+     "见证历史！黄仁勋辞职！英伟达将会走向何方？(218003)",
+     "黄仁勋研发英伟达骑士系统，彻底解决美国党派之争【AI全民制作人】(131380)",
+     "AI原生重塑组织，来自英伟达字节贝壳中智的思考(382)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达发展史",
+    "英伟达黄仁勋辞职",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达罢免黄仁勋",
+    "英伟达新ceo",
+    "英伟达显卡驱动"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+  "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+  "hn": "https://news.ycombinator.com/item?id=50486748",
+  "points": 397,
+  "comments": 101,
+  "date": "2026-11-13",
+  "status": "原链 200 OK",
+  "excerpt": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems ‖ Gödel’s work inspired Alan Turing and paved the way for the digital age. Photograph: Alfred Eisenstaedt/The LIFE Picture Collection/Shutterstock View image in fullscreen Gödel’s work inspired Alan Turing and p",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+  "url": "https://unemploymentlabs.com/checkpoint-forensics",
+  "hn": "https://news.ycombinator.com/item?id=50474883",
+  "points": 365,
+  "comments": 159,
+  "date": "2026-11-12",
+  "status": "原链 200 OK",
+  "excerpt": "Our forensic analysis of publicly released AI models finds evidence that DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to NVIDIA’s Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models. ‖ Our forensic analysis of publicly released AI models finds evidence that DeepSeek,",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Chinese",
+  "cn": {
+   "kw": "Chinese",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 8213,
+    "recent_median": 1888,
+    "max_play": 562736,
+    "recent30d": 10,
+    "top": [
+     "HSK 1 complete course Chinese 15 lessons(1842)",
+     "B1U5_Video Time_Chinese Characters(8354)",
+     "#2 HSK 1 Daily Chinese(10987)"
+    ]
+   },
+   "suggest": [
+    "Chinese",
+    "Chinese x is 牛逼",
+    "ChineseMaoMao",
+    "Chinese song",
+    "Chinese New Year",
+    "Chinese food",
+    "chinesefootball",
+    "chinesegirl"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+  "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-13",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations. ‖ Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say Marina Temkin Dominic-Madori Davis 2:43 PM PST · November 13, 2026 It was the resignation heard across the world. Jen",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Jensen",
+  "cn": {
+   "kw": "Jensen",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 182,
+    "recent_median": 182,
+    "max_play": 76196,
+    "recent30d": 20,
+    "top": [
+     "Armin van Buuren, Mary Jensen - Go All Night(42)",
+     "11月12日 美股直播 Jensen黄仁勋卸任英伟达 三倍做空半导体(19)",
+     "THANK YOU Jensen Huang(266)"
+    ]
+   },
+   "suggest": [
+    "jensenhuang",
+    "jensen",
+    "jensenkimmit",
+    "jensen黃演讲",
+    "jensen采访",
+    "jensen黄仁勋",
+    "jensenackles",
+    "jensen黄"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "AI agent startup LangChain hits $3B valuation",
+  "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-13",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "LangChain",
+  "cn": {
+   "kw": "LangChain",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 8056,
+    "recent_median": 5037,
+    "max_play": 2784958,
+    "recent30d": 4,
+    "top": [
+     "2026版LangChain教程，langchain快速入门， Agent智能体rag项(2784958)",
+     "黑马程序员2026最新版LangChain+LangGraph开发实战全套视频课程，从A(2116746)",
+     "黑马程序员Python+FastAPI+LangGraph多Agent搭建企业级AI应用(120463)"
+    ]
+   },
+   "suggest": [
+    "langchain",
+    "langchain和langgraph",
+    "langchain教程",
+    "langchain从入门到实战",
+    "langchain4j",
+    "langchain项目实战",
+    "langchain快速入门",
+    "langchain是什么"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+  "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-13",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 44880,
+    "recent_median": 62332,
+    "max_play": 218003,
+    "recent30d": 18,
+    "top": [
+     "见证历史！黄仁勋辞职！英伟达将会走向何方？(218003)",
+     "黄仁勋研发英伟达骑士系统，彻底解决美国党派之争【AI全民制作人】(131380)",
+     "AI原生重塑组织，来自英伟达字节贝壳中智的思考(382)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达发展史",
+    "英伟达黄仁勋辞职",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达罢免黄仁勋",
+    "英伟达新ceo",
+    "英伟达显卡驱动"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+  "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-13",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 37130,
+    "recent_median": 4069,
+    "max_play": 990862,
+    "recent30d": 12,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(990862)",
+     "【百合厨】挑战和ChatGPT用英语聊一小时百合(1284)",
+     "利用ChatGPT快速发表高质量SCI论文(131310)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt",
+    "chatgpt国内使用教程",
+    "chatgpt电脑端安装",
+    "chatgpt安卓下载",
+    "chatgptplus如何购买",
+    "chatgpt充值",
+    "chatgpt安装教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]
