@@ -7,6 +7,24 @@
 ## 最新资讯
 
 
+### 2026-11-15（周日·趋势前瞻）
+
+1. **英伟达被指「自己造缺货」** — 华尔街日报报道称，英伟达给 AI 初创公司投钱，这些公司再回头买它的显卡建数据中心。HN 热帖 1077 分、642 条评论登顶。同批新闻还有：安全负责人 8 月悄悄离职，前 CEO 黄仁勋因个人关系问题辞职，内部 1600 多人留言要求请他回来。跟你有关的部分是价格：AI 公司烧的钱，最后会摊进你的会员费。
+   来源：Hacker News https://news.ycombinator.com/item?id=50493251（1077 pts）｜TechSpot https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html
+
+2. **Claude 三个入口同时挂** — 今天 claude.ai、Claude Code、开发者后台一起报错，官方状态页承认错误率升高。HN 493 分、389 条评论，抱怨最多的是「我今天的活全卡在这了」。提醒：重要资料留本地备份，别把全部工作押在一个网页上。
+   来源：Claude Status https://status.claude.com/incidents/nn11wk485zfn（HN 493 pts）
+
+3. **TechCrunch 立了块「AI 墓地」** — 一份还在持续更新的名单：Character.ai 上线五年就申请破产，苹果 Siri AI 一再跳票，OpenAI 的超级 App 发布被形容为混乱。套路很固定：大肆宣传→跳票→悄无声息。别为还不存在的功能付年费。国内近 30 天几乎无人做同题，属于空白窗口。
+   来源：TechCrunch https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
+
+4. **AI 正在毁掉写作者和读者的信任** — HN 367 分讨论。亚马逊允许个人作者每周上传 6 本书，等于一天一本。读者的第一反应从「写得好不好」变成「是不是机器写的」。判断内容值不值得看：有没有具体的人、具体的事、具体的数字。
+   来源：Hacker News https://news.ycombinator.com/item?id=50481870（367 pts）
+
+5. **DeepSeek V3 被塞进 190 行代码** — 一个开发者用纯 JAX 重写，含注意力、专家混合、负载均衡、多方预测，在 MacBook Air 上跑通，不用 PyTorch / Flax。代码能从上往下读完。门槛在降：学生用笔记本就能碰模型训练。国内近 30 天 19 条 DeepSeek 内容，但没人做「最小实现」这个角度。
+   来源：GitHub https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax（HN 246 pts）
+
+
 ### 2026-11-14（周六·信息差速览）
 
 📡 每日AI信息差 · 今日要点
@@ -97,23 +115,11 @@
 5. **OpenAI 融资 110 亿美元，估值 1.25 万亿，低于自己要的价** — 本轮融资 110 亿美元，估值 1.25 万亿美元，比最初寻求的 1.4 万亿低 1500 亿；报道称增长故事与投资人胃口的落差，最后落在两家巨头身上。投资人给钱，但不完全买它的增长故事。来源：HN 188pts https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/
 
 
-### 2026-11-08（周日 · 趋势前瞻）
-
-1. **写代码的AI，把你的密码传上了网** — 国外一家安全公司发现：Claude Code 的「别再问我」按钮，会把密码填进明文记录里。1122个公开仓库文件已经中招。任何人打开浏览器搜一下，就能看到你的密码。这不是工具坏了，是「方便」和「安全」打架，输的永远是你。密码别让任何工具替你记。来源：apiiro.com · HN 445pts https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
-
-2. **微软关掉一个研究AI的核心部门** — 微软研究院的「AI前沿小组」宣布解散，负责人自己写：一个人再聪明，也顶不过别人一整个团队推得快。不是没钱，是投入产出比算不过来。连微软这种钱最多的公司，都在承认「人堆不过规模」。能用AI放大自己产出的岗位在涨，只能一个人硬扛的岗位在缩。来源：hunch.net · HN 470pts https://hunch.net/?p=13764006
-
-3. **有人换掉了用了一年的AI工具** — 一位老用户写了篇长文，说自己从 Claude 换到了另一个工具 Pi，理由是「用起来更顺手」。不是因为它变差，而是新工具更适合他现在的用法。这类工具的迭代周期只有几个月，你现在学的那套操作，半年后可能全变。别把精力花在记按钮上，花在说清楚「我想让它干什么」上。来源：caleb.software · HN 398pts https://caleb.software/posts/claude-to-pi.html
-
-4. **还没上市的AI公司，被估到1.1万亿** — Anthropic 的早期投资者按最低 1.1万亿美元 估值买入。比现在的苹果少四倍，但比伯克希尔还高，可这家公司还在亏损、靠融资活着。评论区一句话很扎心：苹果才5万亿，这家凭什么。你现在免费用得爽，是因为有人在替你烧钱。来源：HN 317pts https://news.ycombinator.com/item?id=50394906
-
-5. **英伟达放出管显卡集群的新工具** — GitHub 上出现一个叫 NVKE 的项目：在裸机上管理GPU集群，把这套活儿变成像点外卖一样下单。国内这块近30天几乎没人做，但搜「kubernetes教程」的人一直很多，历史上有过184万播放的入门课。意思是：AI背后的算力正在被做成标准商品，以后租显卡会像租云服务器一样便宜。来源：github.com/dsx-ai-factory/nvke · HN 124pts https://github.com/dsx-ai-factory/nvke
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-15 | [→](daily/2026-11-15.md) |
 | 11-14 | [→](daily/2026-11-14.md) |
 | 11-13 | [→](daily/2026-11-13.md) |
 | 11-12 | [→](daily/2026-11-12.md) |
@@ -143,4 +149,3 @@
 | 10-19 | [→](daily/2026-10-19.md) |
 | 10-18 | [→](daily/2026-10-18.md) |
 | 10-17 | [→](daily/2026-10-17.md) |
-| 10-16 | [→](daily/2026-10-16.md) |

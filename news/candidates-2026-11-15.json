@@ -1,0 +1,425 @@
+[
+ {
+  "src": "HN",
+  "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+  "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+  "hn": "https://news.ycombinator.com/item?id=50493251",
+  "points": 1077,
+  "comments": 642,
+  "date": "2026-11-14",
+  "status": "原链 405",
+  "excerpt": "Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups that would go on to buy NVIDIA GPUs and build data centers.... ‖ This should only take a few seconds. If you have issues, ",
+  "dup": true,
+  "dup_why": "1天前(2026-11-14)用过同一条链接",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 53965,
+    "recent_median": 72141,
+    "max_play": 759142,
+    "recent30d": 18,
+    "top": [
+     "速报！马斯克发文惊叹：英伟达的董事诡异了，卖薯条卖汽水卖煎饼炒股的，就这些人开除了黄仁勋(71414)",
+     "英伟达又出事了！遭反垄断调查，全美航班停飞！(205725)",
+     "没有了黄仁勋的英伟达，还会是那个英伟达吗？【差评君】(173405)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达新ceo",
+    "英伟达黄仁勋辞职",
+    "英伟达罢免黄仁勋",
+    "英伟达发展史",
+    "英伟达是什么"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nvidia employees petition to bring back Jensen Huang",
+  "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+  "hn": "https://news.ycombinator.com/item?id=50477231",
+  "points": 815,
+  "comments": 691,
+  "date": "2026-11-13",
+  "status": "原链 200 OK",
+  "excerpt": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him. ‖ An internal “suggestion box” post submitted before Huang’s resignation by a longtime engineer at Nvidia urged the company’s board to take employee sentiment into consideration prior",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 53965,
+    "recent_median": 72141,
+    "max_play": 759142,
+    "recent30d": 18,
+    "top": [
+     "速报！马斯克发文惊叹：英伟达的董事诡异了，卖薯条卖汽水卖煎饼炒股的，就这些人开除了黄仁勋(71414)",
+     "英伟达又出事了！遭反垄断调查，全美航班停飞！(205725)",
+     "没有了黄仁勋的英伟达，还会是那个英伟达吗？【差评君】(173405)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达新ceo",
+    "英伟达黄仁勋辞职",
+    "英伟达罢免黄仁勋",
+    "英伟达发展史",
+    "英伟达是什么"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+  "url": "https://status.claude.com/incidents/nn11wk485zfn",
+  "hn": "https://news.ycombinator.com/item?id=50481187",
+  "points": 493,
+  "comments": 389,
+  "date": "2026-11-13",
+  "status": "原链 200 OK",
+  "excerpt": "Claude's Status Page - Elevated errors on claude.ai, Claude Code, and platform.claude.com.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 25357,
+    "recent_median": 13198,
+    "max_play": 2122416,
+    "recent30d": 17,
+    "top": [
+     "【全网首发】Claude防封号独家指南！前后花了5万元！小白保姆级教程【包含对话铺垫/I(114878)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2122416)",
+     "小白也能用上claude·自己账号(11313)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude封号",
+    "claude使用教程",
+    "Claude Opus 5.5",
+    "claude大小姐",
+    "claude下载",
+    "claude code"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+  "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+  "hn": "https://news.ycombinator.com/item?id=50484658",
+  "points": 472,
+  "comments": 708,
+  "date": "2026-11-13",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：It is not the same, it is worst. Nothing seems functional nowadays / The video does actually answer its own title, which is refreshing.And I agree, it’s because organizations and people hav / Good supporting evidence for this is that it is changing your software dramatically if you're making your own personaliz / I find Jonathon Blow to be insufferab",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Jonathan",
+  "cn": {
+   "kw": "Jonathan",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 17010,
+    "recent_median": 704,
+    "max_play": 476482,
+    "recent30d": 5,
+    "top": [
+     "【搬运】全身调频~Jonathan Goldman(41)",
+     "Jonathan Blow — 如果 AI 解决了编程问题，为什么我的软件还是老样子？ (1029)",
+     "Jonathan彭老师地道口语四合一(236655)"
+    ]
+   },
+   "suggest": [
+    "Jonathan",
+    "Jonathan彭玉印",
+    "jonathanrhysmeyers",
+    "Jonathan Anderson",
+    "jonathanblow编程",
+    "Jonathan综艺",
+    "Jonathan Young",
+    "Jonathan Bailey"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+  "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+  "hn": "https://news.ycombinator.com/item?id=50486748",
+  "points": 430,
+  "comments": 110,
+  "date": "2026-11-13",
+  "status": "原链 200 OK",
+  "excerpt": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems ‖ Gödel’s work inspired Alan Turing and paved the way for the digital age. Photograph: Alfred Eisenstaedt/The LIFE Picture Collection/Shutterstock View image in fullscreen Gödel’s work inspired Alan Turing and p",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+  "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+  "hn": "https://news.ycombinator.com/item?id=50501631",
+  "points": 427,
+  "comments": 218,
+  "date": "2026-11-14",
+  "status": "原链 200 OK",
+  "excerpt": "A recent Wall Street Journal profile of Nvidia interim CEO Colette Kress has shed more light on how Nvidia controversially financed its own customers to drive the... ‖ Serving tech enthusiasts for over 25 years. TechSpot means tech analysis and advice you can trust. Connecting the dots: The AI boom has been widely blamed for GPU prices spinning out of contro",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 53965,
+    "recent_median": 72141,
+    "max_play": 759142,
+    "recent30d": 18,
+    "top": [
+     "速报！马斯克发文惊叹：英伟达的董事诡异了，卖薯条卖汽水卖煎饼炒股的，就这些人开除了黄仁勋(71414)",
+     "英伟达又出事了！遭反垄断调查，全美航班停飞！(205725)",
+     "没有了黄仁勋的英伟达，还会是那个英伟达吗？【差评君】(173405)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达新ceo",
+    "英伟达黄仁勋辞职",
+    "英伟达罢免黄仁勋",
+    "英伟达发展史",
+    "英伟达是什么"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+  "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+  "hn": "https://news.ycombinator.com/item?id=50487864",
+  "points": 383,
+  "comments": 214,
+  "date": "2026-11-13",
+  "status": "原链 200 OK",
+  "excerpt": "Oakland police confirmed a grand theft investigation involving a shipment reportedly worth $11.4 million. The carrier's identity and circumstances surrounding the disappearance remain unclear. ‖ Six pallets of NVIDIA computer hardware worth a reported $11.4 million disappeared during a shipment from California to Texas. A truck collected the merchandise in O",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 53965,
+    "recent_median": 72141,
+    "max_play": 759142,
+    "recent30d": 18,
+    "top": [
+     "速报！马斯克发文惊叹：英伟达的董事诡异了，卖薯条卖汽水卖煎饼炒股的，就这些人开除了黄仁勋(71414)",
+     "英伟达又出事了！遭反垄断调查，全美航班停飞！(205725)",
+     "没有了黄仁勋的英伟达，还会是那个英伟达吗？【差评君】(173405)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达新ceo",
+    "英伟达黄仁勋辞职",
+    "英伟达罢免黄仁勋",
+    "英伟达发展史",
+    "英伟达是什么"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI is destroying the trust between writers and readers",
+  "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+  "hn": "https://news.ycombinator.com/item?id=50481870",
+  "points": 367,
+  "comments": 232,
+  "date": "2026-11-13",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：http://archive.today/8sikZ / We could just say \"AI has destroyed trust\" and it's accurate.First hand experiences myself:I can't commission an artist  / When reading takes more effort than writing, trust is inevitably a victim. / > Amazon lets individuals upload a maximum of six books a week, allowing for endless churn.That's a book a day (give or  / ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+  "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+  "hn": "https://news.ycombinator.com/item?id=50497589",
+  "points": 246,
+  "comments": 23,
+  "date": "2026-11-14",
+  "status": "原链 200 OK",
+  "excerpt": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in 190 lines of pure JAX, trained on a MacBook Air. Write-up: vaibhaav.in/writing/deepseek-v3-jax - Vaibhaav-Tiwari/deepseek-v3-jax ‖ No Flax, no Equinox, no PyTorch. Params are plain dicts of arrays and every part of the model is a function you can read top to bottom in deepseek_v3.py. Read the wr",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "DeepSeek",
+  "cn": {
+   "kw": "DeepSeek",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4763,
+    "recent_median": 4346,
+    "max_play": 2807038,
+    "recent30d": 19,
+    "top": [
+     "凌晨1点，deepseek又炸了(1786)",
+     "DeepSeek真是对的？Fable 5.2靠代码杀穿多模态(141128)",
+     "DeepSeek把App能力全开放，开发者能1:1复刻｜DeepSeek日报(545)"
+    ]
+   },
+   "suggest": [
+    "deepseekharness",
+    "deepseek大肥鱼",
+    "deepseek梁文锋",
+    "deepseek",
+    "deepseekAPI使用教程",
+    "deepseek开源",
+    "deepseek破除限制",
+    "deepseek角色扮演指令"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "No AI Slop: A Manifesto",
+  "url": "https://www.slopmanifesto.com/",
+  "hn": "https://news.ycombinator.com/item?id=50488769",
+  "points": 220,
+  "comments": 132,
+  "date": "2026-11-13",
+  "status": "原链 200 OK",
+  "excerpt": "The No AI Slop Manifesto, from the speakers and attendees of AIE Code Summit 2026.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Manifesto",
+  "cn": {
+   "kw": "Manifesto",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 9392,
+    "recent_median": 0,
+    "max_play": 3201661,
+    "recent30d": 0,
+    "top": [
+     "【明日方舟】「ManiFesto:」(7702)",
+     "《明日方舟》EP - ManiFesto：(3201661)",
+     "221116 ENHYPEN MANIFESTO JP D2(15725)"
+    ]
+   },
+   "suggest": [
+    "manifesto",
+    "明日方舟manifesto",
+    "manifesto演唱会",
+    "manifesto首尔",
+    "manifestoday1",
+    "manifestomv",
+    "manifestoenhypen",
+    "MANIFESTO回归直播"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Where was Nvidia’s security team?",
+  "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-15",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch. ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 53965,
+    "recent_median": 72141,
+    "max_play": 759142,
+    "recent30d": 18,
+    "top": [
+     "速报！马斯克发文惊叹：英伟达的董事诡异了，卖薯条卖汽水卖煎饼炒股的，就这些人开除了黄仁勋(71414)",
+     "英伟达又出事了！遭反垄断调查，全美航班停飞！(205725)",
+     "没有了黄仁勋的英伟达，还会是那个英伟达吗？【差评君】(173405)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达新ceo",
+    "英伟达黄仁勋辞职",
+    "英伟达罢免黄仁勋",
+    "英伟达发展史",
+    "英伟达是什么"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+  "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-14",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations. ‖ The AI graveyard: a running list of projects and startups that didn’t make it Lauren Forristal 9:30 AM PST · November 14, 2026 Last month, chatbot platform Character.ai filed for bankruptcy just five years af",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ }
+]
