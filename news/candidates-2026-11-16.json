@@ -1,0 +1,454 @@
+[
+ {
+  "src": "HN",
+  "title": "All AI-generated code should be Open Source",
+  "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+  "hn": "https://news.ycombinator.com/item?id=50507303",
+  "points": 1180,
+  "comments": 625,
+  "date": "2026-11-15",
+  "status": "原链 200 OK",
+  "excerpt": "All code generated with help from AI should be Open Source or on Creative Commons Zero (CC0) license.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI-generated",
+  "cn": {
+   "kw": "AI-generated",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 279,
+    "recent_median": 140,
+    "max_play": 211422,
+    "recent30d": 11,
+    "top": [
+     "THE HUNT (Chapter 2) Epic Dark Fantasy Full (47)",
+     "认识 AIGC (AI Generated Content)(3795)",
+     "AI Native—重写你的生活(7)"
+    ]
+   },
+   "suggest": [
+    "aigeneratedvideo",
+    "aigenerated下载",
+    "aigeneratedmusic"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+  "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+  "hn": "https://news.ycombinator.com/item?id=50493251",
+  "points": 1104,
+  "comments": 651,
+  "date": "2026-11-14",
+  "status": "原链 405",
+  "excerpt": "Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups that would go on to buy NVIDIA GPUs and build data centers.... ‖ This should only take a few seconds. If you have issues, ",
+  "dup": true,
+  "dup_why": "1天前(2026-11-15)用过同一条链接",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 35363,
+    "recent_median": 57606,
+    "max_play": 3371911,
+    "recent30d": 16,
+    "top": [
+     "11.16大反转？！黄仁勋考虑重返英伟达担任CEO！(68242)",
+     "黄仁勋能重返英伟达吗？英伟达离不开黄仁勋？黄仁勋为什么第一个被清算？(12463)",
+     "一口气了解英伟达，芯片新王凭什么是他？(3371911)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达发展史",
+    "英伟达宣布CEO黄仁勋辞职影响",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达新ceo",
+    "英伟达黄仁勋辞职",
+    "英伟达商城重新上架5090显卡"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+  "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+  "hn": "https://news.ycombinator.com/item?id=50501631",
+  "points": 448,
+  "comments": 236,
+  "date": "2026-11-14",
+  "status": "原链 200 OK",
+  "excerpt": "A recent Wall Street Journal profile of Nvidia interim CEO Colette Kress has shed more light on how Nvidia controversially financed its own customers to drive the... ‖ Serving tech enthusiasts for over 25 years. TechSpot means tech analysis and advice you can trust. Connecting the dots: The AI boom has been widely blamed for GPU prices spinning out of contro",
+  "dup": true,
+  "dup_why": "1天前(2026-11-15)用过同一条链接",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 35363,
+    "recent_median": 57606,
+    "max_play": 3371911,
+    "recent30d": 16,
+    "top": [
+     "11.16大反转？！黄仁勋考虑重返英伟达担任CEO！(68242)",
+     "黄仁勋能重返英伟达吗？英伟达离不开黄仁勋？黄仁勋为什么第一个被清算？(12463)",
+     "一口气了解英伟达，芯片新王凭什么是他？(3371911)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达发展史",
+    "英伟达宣布CEO黄仁勋辞职影响",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达新ceo",
+    "英伟达黄仁勋辞职",
+    "英伟达商城重新上架5090显卡"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+  "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+  "hn": "https://news.ycombinator.com/item?id=50497589",
+  "points": 273,
+  "comments": 29,
+  "date": "2026-11-14",
+  "status": "原链 200 OK",
+  "excerpt": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in 190 lines of pure JAX, trained on a MacBook Air. Write-up: vaibhaav.in/writing/deepseek-v3-jax - Vaibhaav-Tiwari/deepseek-v3-jax ‖ No Flax, no Equinox, no PyTorch. Params are plain dicts of arrays and every part of the model is a function you can read top to bottom in deepseek_v3.py. Read the wr",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "DeepSeek",
+  "cn": {
+   "kw": "DeepSeek",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13513,
+    "recent_median": 6852,
+    "max_play": 2865749,
+    "recent30d": 17,
+    "top": [
+     "【全网最全】DeepSeek Harness超详细教程！50分钟吃透DSH，让Super(2865749)",
+     "天塌了！11月16日 DeepSeek 免费时代要结束了？7天不说话就失效，几十万字的对(22324)",
+     "666，DeepSeek限制拉满！长对话、文档读取全部砍额度，算力扛不住了？(40735)"
+    ]
+   },
+   "suggest": [
+    "deepseekharness",
+    "deepseek",
+    "deepseekAPI使用教程",
+    "deepseekharness使用教学",
+    "deepseek梁文锋",
+    "deepseek额度限制",
+    "DeepSeek使用额度",
+    "DeepSeek V4.1 Flash"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+  "hn": "https://news.ycombinator.com/item?id=50492993",
+  "points": 218,
+  "comments": 56,
+  "date": "2026-11-14",
+  "status": "原链 200 OK",
+  "excerpt": "Huang stepped down as CEO after reports of a second extramarital relationship with Nvidia executive Kimberly Powell emerged. ‖ Skip to navigation Skip to main content Skip to right column Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal broke — and no trading plan was flagged Joseph Zeballos-Roig Sat, November 14, 2026 at 12:00 ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 35363,
+    "recent_median": 57606,
+    "max_play": 3371911,
+    "recent30d": 16,
+    "top": [
+     "11.16大反转？！黄仁勋考虑重返英伟达担任CEO！(68242)",
+     "黄仁勋能重返英伟达吗？英伟达离不开黄仁勋？黄仁勋为什么第一个被清算？(12463)",
+     "一口气了解英伟达，芯片新王凭什么是他？(3371911)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达发展史",
+    "英伟达宣布CEO黄仁勋辞职影响",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达新ceo",
+    "英伟达黄仁勋辞职",
+    "英伟达商城重新上架5090显卡"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "The Claude Delusion",
+  "url": "https://www.netmeister.org/blog/claude-delusion.html",
+  "hn": "https://news.ycombinator.com/item?id=50496921",
+  "points": 152,
+  "comments": 200,
+  "date": "2026-11-14",
+  "status": "原链 200 OK",
+  "excerpt": "Something weird happens to people who are successful. They start to think they're gods. Actually accomplishing anything is obviously no strict pre-requisite of success. And maybe it's not so much \"being successful\", but rather \"being rich\". How do you become rich? Some people are just lucky. Lucky to have a physical talent, lucky to have parents able and wil",
+  "dup": true,
+  "dup_why": "1天前(2026-11-15)同一事件（专名 50%）",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 25479,
+    "recent_median": 11932,
+    "max_play": 2126283,
+    "recent30d": 17,
+    "top": [
+     "国内稳定使用 Claude Code 保姆级教程-3 步搞定(2798)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2126283)",
+     "11·12 大封号真相！扒光 Claude 风控底层：中国护照能过审，真正致命的是这 3(3502)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude code",
+    "claude",
+    "claude使用教程",
+    "claude封号",
+    "claudecode安装教程",
+    "claudecode接入deepseek",
+    "Claude Opus 5.5"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+  "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+  "hn": "https://news.ycombinator.com/item?id=50497155",
+  "points": 147,
+  "comments": 70,
+  "date": "2026-11-14",
+  "status": "原链 200 OK",
+  "excerpt": "Running a frontier-scale model locally means keeping all its weights in GPU memory; the largest models no longer fit on one machine. Two NVIDIA DGX Stations connected over ConnectX-8 RDMA serve one… ‖ Powered by NVIDIA Nemotron. AI-generated content may summarize information incompletely. Verify important information. Learn more Running a frontier-scale mode",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 35363,
+    "recent_median": 57606,
+    "max_play": 3371911,
+    "recent30d": 16,
+    "top": [
+     "11.16大反转？！黄仁勋考虑重返英伟达担任CEO！(68242)",
+     "黄仁勋能重返英伟达吗？英伟达离不开黄仁勋？黄仁勋为什么第一个被清算？(12463)",
+     "一口气了解英伟达，芯片新王凭什么是他？(3371911)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达发展史",
+    "英伟达宣布CEO黄仁勋辞职影响",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达新ceo",
+    "英伟达黄仁勋辞职",
+    "英伟达商城重新上架5090显卡"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+  "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-16",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs. ‖ Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM Jagmeet Singh 4:30 AM PST · November 16, 2026 Dreamteam, a startup founded by former Freshworks executives, has raised $53 million to challenge Salesforce an",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Freshworks",
+  "cn": {
+   "kw": "Freshworks",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 859,
+    "recent_median": 40,
+    "max_play": 168634,
+    "recent30d": 2,
+    "top": [
+     "低估的SaaS潜力股？Freshworks（FRSH）深度剖析(313)",
+     "2025.08.27 【SCALER】AI、SaaS和创业公司：从Freshworks到(9)",
+     "【海外创意广告精选】Freshworks_ ITSM(17)"
+    ]
+   },
+   "suggest": [],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Apple launches new app to study how people use AI for health",
+  "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-16",
+  "desc": "",
+  "status": "原链 200 OK · 正文经 jina",
+  "excerpt": "Title: Apple launches new app to study how people use AI for health URL Source: https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/ Published Time: 2026-11-16T01:30:00+00:00 Markdown Content: Big AI labs like [OpenAI](https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/) and [Anthropic](https://techcrunch.com/2",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "苹果",
+  "cn": {
+   "kw": "苹果",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 20306,
+    "recent_median": 1134,
+    "max_play": 765075,
+    "recent30d": 6,
+    "top": [
+     "苹果(8860)",
+     "据说这部剧范冰冰被假戏真做了，都说是福利电影，那被删减的片段到底演了什么？电影《苹果》！(1215)",
+     "“这感觉不像演的吖”(281625)"
+    ]
+   },
+   "suggest": [
+    "苹果手机",
+    "苹果18promax",
+    "苹果饭冰冰佟大为",
+    "苹果",
+    "苹果手机如何上外网",
+    "苹果美区id",
+    "苹果平板",
+    "苹果笔记本"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+  "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-15",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics. ‖ Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market Jagmeet Singh 3:30 PM PST · November 15, 2026 Bharat Semi, an Indian semiconductor startup, has raised $24 million in seed funding to develop AI-e",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "芯片",
+  "cn": {
+   "kw": "芯片",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 220236,
+    "recent_median": 29497,
+    "max_play": 5422000,
+    "recent30d": 7,
+    "top": [
+     "中国芯片到底卡在哪？中芯和台积电，真只差一台EUV？(11247)",
+     "芯片放大几万倍，你会看到什么？(5422000)",
+     "小学生都能看懂的芯片工作原理，看完能手搓芯片哦【芯片系列科普第一期】(1295586)"
+    ]
+   },
+   "suggest": [
+    "芯片",
+    "芯片制造过程",
+    "芯片制造过程视频详解",
+    "芯片测试工程师零基础入门",
+    "芯片的工作原理",
+    "芯片设计全流程",
+    "芯片制造全流程",
+    "芯片的制作过程"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+  "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-15",
+  "desc": "",
+  "status": "原链 200 OK · 正文经 jina",
+  "excerpt": "Title: Is bad news for Jensen Huang also bad news for the AI industry? URL Source: https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/ Published Time: 2026-11-15T21:56:35+00:00 Markdown Content: We didn’t see this coming. Or at least, _I_ didn’t — a week ago, when [I wrote about Nvidia’s board opening an investigation](https://techcrunch.com/2026/11/08/nvidia-says-its-inv",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Jensen",
+  "cn": {
+   "kw": "Jensen",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 17902,
+    "recent_median": 271,
+    "max_play": 548578,
+    "recent30d": 9,
+    "top": [
+     "《我要辞职啦》-Jensen(20)",
+     "黄仁勋卸任英伟达！Claude Fable 5.2发布是AGI的新突破吗？| Jense(153)",
+     "What the Jensen Huang Scandal Means for the (762)"
+    ]
+   },
+   "suggest": [
+    "jensenhuang",
+    "jensen",
+    "jensenkimmit",
+    "jensen黄詹森",
+    "jensen黃演讲",
+    "jensen采访",
+    "jensen直播",
+    "Jensen导演"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]

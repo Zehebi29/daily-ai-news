@@ -7,6 +7,19 @@
 ## 最新资讯
 
 
+### 2026-11-16（周一·模型发布/开源）
+
+1. **英伟达被曝自导自演：显卡缺货是算出来的** — 华尔街日报报道被这两天翻出：英伟达向一批 AI 创业公司投钱，这些公司拿到钱后第一件事就是买英伟达显卡、租机房建数据中心，钱绕一圈回到英伟达账上。批评者称之为循环融资，结果就是显卡一直紧张、价格一直高，这份紧张有一部分是人为造出来的。对普通人影响很直接：装机、用便宜的 AI 服务都要为这个循环多掏钱。同一周，英伟达一位董事被曝抛售近 10 亿美元股票且未提前报备交易计划，原 CEO 黄仁勋已卸任。来源：HackerNews <https://news.ycombinator.com/item?id=50493251>｜TechCrunch <https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/>
+
+2. **有人提议：AI 写的代码都该免费公开** — 一篇博客主张所有借助 AI 生成的代码都应开源，或直接按 CC0 放弃版权，谁都能用、能改、能卖。支持者说 AI 是拿全人类代码喂出来的，产出凭什么被一家公司锁起来收费；反对者说这么搞就没人愿意再花钱做产品。HackerNews 1180 分、625 条评论。这事跟你有关：手机里的 App、公司里的系统，背后可能已有大量 AI 写的代码，这些代码归谁、能不能免费用，会决定以后软件越来越便宜还是越来越贵。来源：HackerNews <https://news.ycombinator.com/item?id=50507303>｜原文 <https://jakub.jankiewicz.org/blog/ai-code-open-source/>
+
+3. **200 行代码，在笔记本上跑通 DeepSeek V3** — 一位开发者把 DeepSeek V3 的四个关键设计（注意力压缩、专家混合、负载均衡、多词预测）压进 190 行纯 JAX 代码，不用 PyTorch、不用任何框架，参数就是普通数组字典，还在 MacBook Air 上跑通了训练。以前想搞懂一个大模型怎么运转得啃几十万行代码，现在一个下午能从第一行读到最后一行。意义是 AI 不再是完全的黑箱，想学的人门槛降到「有台笔记本就行」；反过来看，能读懂模型代码的人正在变得值钱。来源：HackerNews <https://news.ycombinator.com/item?id=50497589>｜项目 <https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax>
+
+4. **把 AI 当神拜，正在反噬用它的人** — 一篇热文讲了个不太舒服的现象：一部分人用 AI 用久了开始把工具当权威，AI 说什么就信什么，不再自己核对、不再自己判断。作者说越成功越有钱的人越容易这样，因为习惯了「我说的对」，很容易把这份自信平移到 AI 身上。国内「Claude 怎么用、会不会封号」一直是高搜索量问题，说明不少人已深度依赖。真正的风险不是 AI 骗你，是你不再检查它：写方案、算数据、做决定，AI 可以出初稿，最后拍板的还得是你自己。来源：HackerNews <https://news.ycombinator.com/item?id=50496921>｜原文 <https://www.netmeister.org/blog/claude-delusion.html>
+
+5. **苹果出新 App，研究你怎么用 AI 看病** — 苹果上线一款研究类 App，目的是搞清楚普通人到底怎么用 AI 问健康问题：问什么、信不信、问完有没有真的去看医生。OpenAI 和 Anthropic 都已推出面向医疗的 AI 产品，苹果这一步是在抢健康数据入口——它手里本来就有手表的心率、睡眠数据，再加上你问 AI 的那些话，拼起来就是一张相当完整的健康画像。对普通人有两面：一边是看病更方便，小毛病先问问 AI；另一边是健康数据越来越集中，交给谁、用来干什么值得多留个心眼。来源：TechCrunch <https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/>
+
+
 ### 2026-11-15（周日·趋势前瞻）
 
 1. **英伟达被指「自己造缺货」** — 华尔街日报报道称，英伟达给 AI 初创公司投钱，这些公司再回头买它的显卡建数据中心。HN 热帖 1077 分、642 条评论登顶。同批新闻还有：安全负责人 8 月悄悄离职，前 CEO 黄仁勋因个人关系问题辞职，内部 1600 多人留言要求请他回来。跟你有关的部分是价格：AI 公司烧的钱，最后会摊进你的会员费。
@@ -102,23 +115,11 @@
 5. **不买显卡也能跑 284B 大模型** — 开源项目 llama-modchip 把 284B 参数的 DeepSeek-V4-Flash 塞进 64GB 内存、零显卡的纯 CPU 机器，占用不到 59GB，速度 9.1 到 14.7 字/秒，上下文 256K（论坛 481 分）。跟你有关：跑大模型的门槛从「买几万块显卡」变成「内存配大点」，一台旧电脑就能开试。—— 来源：GitHub llama-modchip / Hacker News 481 pts https://news.ycombinator.com/item?id=50411961
 
 
-### 2026-11-09（周一·模型发布/开源）
-
-1. **黄仁勋承认出轨，英伟达董事会启动独立调查** — 英伟达官网挂出黄仁勋致全体员工信，第一句就承认对妻子不忠并道歉；同日董事会发声明启动独立调查，起因是有报道称他成了外国情报行动的目标。掌门人陷入私人丑闻加安全调查，最先晃的是投资者信心，手里有 AI/芯片基金的人这两天会先感觉到。来源：HN 750pts https://nvidianews.nvidia.com/news/a-message-to-our-company ；HN 472pts https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors
-
-2. **Claude Code 的「别再问我」，把密码写进了 1,122 个公开代码库** — 安全公司 apiiro 发现，勾选「别再问我」后 AI 会把密码、密钥、访问令牌直接写进代码，再跟着代码推到人人可见的 GitHub 公开仓库。公开仓库会被爬虫扫，泄出去的密码等于挂在网上任人取。今天花两分钟检查项目里密钥文件有没有被排除。来源：HN 611pts https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
-
-3. **64GB 内存、没有显卡，跑起 284B 大模型** — 开源项目 llama-modchip 让 284B 参数的 DeepSeek-V4-Flash 在纯 64GB 内存的普通 CPU 上运行，解码约 9-15 字/秒，0 显卡；同一套代码也能跑 30B 模型，达 25-111 字/秒。好处是数据不出本机、不按次付费、断网能用。来源：HN 437pts https://github.com/synchopate/llama-modchip
-
-4. **高盛把 AI 工具从交易员手里收回** — 高盛将 Claude Code 和 GitHub 权限收回到工程师手里，交易员和银行家被断掉，他们原本用这些工具追踪客户资金流、搭市场模型；今年 4 月已先停香港银行家的 Claude 权限。启示是公司会让你用 AI，但不会让你把秘密喂给 AI。来源：HN 805pts https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers
-
-5. **OpenAI 融资 110 亿美元，估值 1.25 万亿，低于自己要的价** — 本轮融资 110 亿美元，估值 1.25 万亿美元，比最初寻求的 1.4 万亿低 1500 亿；报道称增长故事与投资人胃口的落差，最后落在两家巨头身上。投资人给钱，但不完全买它的增长故事。来源：HN 188pts https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-16 | [→](daily/2026-11-16.md) |
 | 11-15 | [→](daily/2026-11-15.md) |
 | 11-14 | [→](daily/2026-11-14.md) |
 | 11-13 | [→](daily/2026-11-13.md) |
@@ -148,4 +149,3 @@
 | 10-20 | [→](daily/2026-10-20.md) |
 | 10-19 | [→](daily/2026-10-19.md) |
 | 10-18 | [→](daily/2026-10-18.md) |
-| 10-17 | [→](daily/2026-10-17.md) |
