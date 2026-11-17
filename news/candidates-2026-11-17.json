@@ -1,0 +1,465 @@
+[
+ {
+  "src": "HN",
+  "title": "All AI-generated code should be Open Source",
+  "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+  "hn": "https://news.ycombinator.com/item?id=50507303",
+  "points": 1274,
+  "comments": 664,
+  "date": "2026-11-15",
+  "status": "原链 200 OK",
+  "excerpt": "All code generated with help from AI should be Open Source or on Creative Commons Zero (CC0) license.",
+  "dup": true,
+  "dup_why": "1天前(2026-11-16)用过同一条链接",
+  "cn_kw": "AI-generated",
+  "cn": {
+   "kw": "AI-generated",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 132,
+    "recent_median": 10,
+    "max_play": 26865,
+    "recent30d": 11,
+    "top": [
+     "认识 AIGC (AI Generated Content)(3796)",
+     "ai generated(5)",
+     "【TED演讲】AI引发的亲密关系危机 The AI-generated intimacy(154)"
+    ]
+   },
+   "suggest": [
+    "aigeneratedvideo",
+    "aigeneratedmusic",
+    "aigenerated下载",
+    "aigeneratedart"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+  "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+  "hn": "https://news.ycombinator.com/item?id=50524736",
+  "points": 649,
+  "comments": 509,
+  "date": "2026-11-16",
+  "status": "原链 200 OK",
+  "excerpt": "Reverse engineering Windows 11's MissionControlAggregator reveals coding-agent and developer-tool usage bits in a diagnostic ETW report. ‖ I recently asked AI to help me look through the latest Windows binaries for undocumented features and functionality. Among the leads it turned up, one list immediately caught my attention: coding agents such as codex.exe,",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Windows",
+  "cn": {
+   "kw": "Windows",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 17929,
+    "recent_median": 4030,
+    "max_play": 3299142,
+    "recent30d": 8,
+    "top": [
+     "【完结】从开关机学起，Windows系统0基础教程(1406496)",
+     "2026年 | 全职业全年龄适用！电脑入门基础使用全套Windows免费教程！大学生宝妈(3299142)",
+     "扫码领资料-从零学Windows桌面应用软件开发(25)"
+    ]
+   },
+   "suggest": [
+    "Windows 11",
+    "Windows 7",
+    "Windows10",
+    "Windows",
+    "Windows发展史",
+    "Windows关机",
+    "windows11wifi消失了怎么办",
+    "Windows怎么下载chatGPT"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "What's Next for Nvidia?",
+  "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+  "hn": "https://news.ycombinator.com/item?id=50512235",
+  "points": 474,
+  "comments": 577,
+  "date": "2026-11-15",
+  "status": "原链 200 OK",
+  "excerpt": "Nvidia’s board announced that Jensen Huang had resigned 33 years after he co-founded the company. What happens to a company when a visionary CEO is gone? Most often innovation dies and the company … ‖ Nvidia’s board announced that Jensen Huang had resigned 33 years after he co-founded the company. What happens to a company when a visionary CEO is gone? Most ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 14432,
+    "recent_median": 19451,
+    "max_play": 646556,
+    "recent30d": 17,
+    "top": [
+     "11.16大反转？！黄仁勋考虑重返英伟达担任CEO！(113256)",
+     "~第1503期~黄仁勋离职英伟达又出变数？听证会时间推迟，英伟达员工请愿，黄仁勋重回英伟(10974)",
+     "AI原生重塑组织，来自英伟达字节贝壳中智的思考(400)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达发展史",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达宣布CEO黄仁勋辞职影响",
+    "英伟达黄仁勋辞职",
+    "英伟达新ceo",
+    "英伟达显卡驱动"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Running coding agents without handing them my credentials",
+  "url": "https://blog.antonio.cx/running-agents-with-lend",
+  "hn": "https://news.ycombinator.com/item?id=50526152",
+  "points": 121,
+  "comments": 95,
+  "date": "2026-11-17",
+  "status": "原链 200 OK",
+  "excerpt": "I built lend to let remote agents use tools on my laptop with my approval. Here's how it fits into my workflow. I use agents heavily these days as part of my toolchain. I usually have a few going at once: Claude Code working in one repo, Codex reviewing a branch in another, and something long-running in the background. I often have them review each other's w",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 8020,
+    "recent_median": 2374,
+    "max_play": 1533365,
+    "recent30d": 13,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1533365)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1471655)",
+     "通俗易懂地讲解什么是Agent？(244215)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent开发",
+    "aiagent是什么",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent使用教程",
+    "aiagent推荐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+  "url": "https://www.hntrends.com/2026/november.html",
+  "hn": "https://news.ycombinator.com/item?id=50512950",
+  "points": 94,
+  "comments": 86,
+  "date": "2026-11-16",
+  "status": "原链 200 OK",
+  "excerpt": "Hacker News \"Who is Hiring?\" job postings sit near 12-year lows while AI appears in more than half of all postings. Most popular programming languages and technologies for November 2026. ‖ It's been two and a half years since the last update, so this one covers a lot of ground. As of November 14, November's thread has 244 job postings, down 37% from 387 at t",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Hiring",
+  "cn": {
+   "kw": "Hiring",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 36205,
+    "recent_median": 160,
+    "max_play": 2071079,
+    "recent30d": 1,
+    "top": [
+     "Hiring Manager 是怎么想的(187)",
+     "【我正在变成吸血鬼更新小短片】Magnus Zvoid 菲律宾招聘视频-Magnus Z(36505)",
+     "[FNAF/合作动画] “弗莱迪公司招聘中”(2025重制版)｜Now Hiring A(15883)"
+    ]
+   },
+   "suggest": [
+    "Hiring"
+   ],
+   "hot": false,
+   "verdict": "近期空白(历史有爆款)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+  "url": "https://news.ycombinator.com/item?id=50520076",
+  "hn": "https://news.ycombinator.com/item?id=50520076",
+  "points": 69,
+  "comments": 88,
+  "date": "2026-11-16",
+  "status": "原链 405",
+  "excerpt": "HN 讨论要点：It is empty, for me and my team (I'm an engineering manager). We still have a support rotation but it's just so someone  / I don't know if I'm doing something wrong but bug fixing with AI has always been a crapshoot. You can absolutely tell an / Mine is. I've been telling my senior managements that it's cheaper to rewrite stuff from scratch with AI t",
+  "dup": true,
+  "dup_why": "1天前(2026-11-16)用过同一条链接",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+  "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+  "hn": "https://news.ycombinator.com/item?id=50509953",
+  "points": 69,
+  "comments": 67,
+  "date": "2026-11-15",
+  "status": "原链 200 OK",
+  "excerpt": "Only 42% of Alpha students hit its 2x learning goal in math and reading, internal data show, as 2,600 public school students now use its software. ‖ Trendingnow1After Florida voted to slash property taxes, towns looking to fill budget holes may end up relying on the state: ‘The bailout comes with a leash’2Sam Bankman-Fried’s former employer Jane Street poise",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Parents",
+  "cn": {
+   "kw": "Parents",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6840,
+    "recent_median": 0,
+    "max_play": 83674,
+    "recent30d": 0,
+    "top": [
+     "【布鲁伊】Parents&#x27; love(6784)",
+     "外教发音|How To Pronounce Parents【父母】怎么读?|学单词背单词(1990)",
+     "Roblox 奇怪的严格父母Weird  strict parents 教程攻略(42058)"
+    ]
+   },
+   "suggest": [
+    "parents",
+    "parents是什么意思",
+    "parents怎么读",
+    "parents游戏",
+    "parentslove",
+    "parents mode",
+    "parentsyungblud",
+    "parents歌曲"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+  "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-16",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA. ‖ Three months after introducing its product, AI cybersecurity startup Corma has raised a $125 million Series A round at a $1 billion valuation led by NEA, the company said. Corma offers AI models and agents trai",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Cybersecurity",
+  "cn": {
+   "kw": "Cybersecurity",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1203,
+    "recent_median": 59,
+    "max_play": 9002,
+    "recent30d": 2,
+    "top": [
+     "哈佛大学《CS50 网络安全|CS50’s Introduction to Cybers(9002)",
+     "Cybersecurity(1500)",
+     "网络安全入门课程 01 | Why study cybersecurity? | 初学者(1470)"
+    ]
+   },
+   "suggest": [
+    "cybersecurityai"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "California state AG sues OpenAI over rogue agent incidents",
+  "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-16",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident. ‖ California state AG sues OpenAI over rogue agent incidents Russell Brandom 12:07 PM PST · November 16, 2026 OpenAI is facing a new lawsuit from the California Attorney General’s office, alleging that the company’s training practices",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1376,
+    "recent_median": 1376,
+    "max_play": 239464,
+    "recent30d": 20,
+    "top": [
+     "【中配】OpenAI新AI能力过强暂不发布 - TheAIGRID(4958)",
+     "Open AI与Gpt 6.2现状(1406)",
+     "AI失控80次！两个模型冲出测试环境黑进Hugging Face，加州正式起诉OpenA(1347)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openai创始人",
+    "openai怎么下载",
+    "OpenAI公布三项科学成果",
+    "openai智能体失控",
+    "openai智能体失控事件",
+    "openai封号",
+    "openaiAPI密钥"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "Ars Technica",
+  "title": "US moves to cut China’s remote access to AI chips",
+  "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-16",
+  "desc": "",
+  "status": "原链 405 · 正文经 jina",
+  "excerpt": "Title: US moves to cut China’s remote access to AI chips URL Source: https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/ Published Time: 2026-11-16T19:10:09+00:00 Markdown Content: Nvidia-fueled crackdown Trump bets China won’t mind US blocking remote access to AI chips. This aerial picture shows the Nongsa Digital Park (NDP) area, a hub for AI data center development, in Ind",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "China",
+  "cn": {
+   "kw": "China",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 479,
+    "recent_median": 44,
+    "max_play": 1989446,
+    "recent30d": 10,
+    "top": [
+     "【徐梦圆China系列】“既然气氛到这了，那就祝大家新年快乐”(965110)",
+     "China!China~~~~# 赵露思(174078)",
+     "《千年等一回》左宏元 戴韩安妮（China原版完整字幕）(996935)"
+    ]
+   },
+   "suggest": [
+    "chinadaily",
+    "chinafunk吉他指弹",
+    "chinafunk吉他",
+    "china gt",
+    "chinahaul开箱视频",
+    "chinajoy",
+    "china haul",
+    "Chinatown"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "MIT Tech Review",
+  "title": "Building trustworthy AI by fencing it in, not predicting it",
+  "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-16",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "While we’re used to predictable technology, AI challenges that assumption. Therefore, the goal must be bounded, observable, and controllable AI. ‖ In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Building",
+  "cn": {
+   "kw": "Building",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1562,
+    "recent_median": 37,
+    "max_play": 27449,
+    "recent30d": 8,
+    "top": [
+     "197-Building(1194)",
+     "【转载·中文字幕】Building makemore Part 5: Building (73)",
+     "自然拼读，一拆一拼15秒速记单词！building(133)"
+    ]
+   },
+   "suggest": [
+    "building",
+    "buildinggadgets2",
+    "buildingblocks",
+    "buildinglights",
+    "building怎么读",
+    "building发音",
+    "buildingtools",
+    "building什么意思"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "Wired AI",
+  "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+  "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-17",
+  "desc": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+  "status": "原链 200 OK",
+  "excerpt": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few. ‖ His company, which hosts millions of AI models and datasets, was breached in July when hundreds of agents being tested by OpenAI broke free from their sandbox and went on",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 8020,
+    "recent_median": 2374,
+    "max_play": 1533365,
+    "recent30d": 13,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1533365)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1471655)",
+     "通俗易懂地讲解什么是Agent？(244215)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent开发",
+    "aiagent是什么",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent使用教程",
+    "aiagent推荐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]

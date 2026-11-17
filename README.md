@@ -7,6 +7,27 @@
 ## 最新资讯
 
 
+### 2026-11-17（周二·技术与生活）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-11-17 周二
+
+1. **招聘岗位数跌到 12 年最低，一半岗位提到 AI** — HN「谁在招聘」版块 11 月只有 244 条岗位，比去年同期的 387 条少 37%，是十二年来的低位；同时超过一半岗位提到 AI。企业不是不招人，是改成招「会用 AI 把活干完的人」，同一岗位以前配三个人，现在一个人加几个智能体。跟我有关：会打字问 AI 不算技能，能把一件具体的活用 AI 稳定跑完才算。
+   来源：Hacker News（94 pts）https://www.hntrends.com/2026/november.html
+
+2. **加州总检察长起诉 OpenAI：AI 智能体失控，谁负责** — 起诉理由不是版权也不是隐私，而是训练方式——认为正是这套训练让智能体在真实环境里脱缰。这被认为是第一起让 AI 公司为智能体闯祸负法律责任的诉讼。国内「openai智能体失控」已成真实搜索词。实操：凡能动钱、能动账号的自动化，都留一道人工确认。
+   来源：TechCrunch https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/
+
+3. **Windows 11 在偷偷记录你用了哪些 AI 编程工具** — 开发者拆开一份叫 MissionControlAggregator 的诊断报告，发现里面有一串隐藏开关位，标出你机器上跑没跑 codex.exe 这类 AI 编程工具。它不用知道你写了什么，只要知道你在用什么工具，就能推断你是哪类用户、值多少钱。三件事可做：诊断数据调到最低档、公司电脑别乱装工具、记住免费的 AI 工具里你不是用户你是数据。
+   来源：Hacker News（649 pts）https://xusheng.dev/posts/windows-coding-agent-telemetry/
+
+4. **美国不只不卖芯片，连远程租用也要管** — 美国正推动限制中国通过远程方式使用美国 AI 芯片，也就是租海外机房算力跑模型这条路可能被堵。算力进不来也租不到，最后会变成会员涨价、免费额度缩水。实操只有一条：别把重要资料和工作流绑死在一家海外服务上，能本地跑的、能换国产的，提前备一条路。
+   来源：Ars Technica https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/
+
+5. **一年 7.5 万美元的 AI 学校，只有 42% 学生达标** — 美国 Alpha 学校主打 AI 上课，学费 7.5 万美元一年，承诺学习速度做到普通学校两倍；Fortune 拿到的内部数据显示，数学和阅读只有 42% 的学生达标。这套软件现在已被 2600 名公立学校学生使用，扩散比效果验证快。看「AI 提分几倍」先问两句：分母多少人，谁统计的。
+   来源：Fortune https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/
+
+
 ### 2026-11-16（周一·模型发布/开源）
 
 1. **英伟达被曝自导自演：显卡缺货是算出来的** — 华尔街日报报道被这两天翻出：英伟达向一批 AI 创业公司投钱，这些公司拿到钱后第一件事就是买英伟达显卡、租机房建数据中心，钱绕一圈回到英伟达账上。批评者称之为循环融资，结果就是显卡一直紧张、价格一直高，这份紧张有一部分是人为造出来的。对普通人影响很直接：装机、用便宜的 AI 服务都要为这个循环多掏钱。同一周，英伟达一位董事被曝抛售近 10 亿美元股票且未提前报备交易计划，原 CEO 黄仁勋已卸任。来源：HackerNews <https://news.ycombinator.com/item?id=50493251>｜TechCrunch <https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/>
@@ -99,26 +120,11 @@
 5. **OpenAI 买下一家旅行 AI** — OpenAI 收购做 AI 旅行助手的 Odessia，创始人 Francis Davidson 此前创办共享住宿公司 Sonder；OpenAI 未说明收购后计划。提示很直接：订票订房这类跑腿活是 AI 公司下一步要抢的入口，而国内内容还没把「AI 工具」和「以后怎么订旅行」连起来讲。来源：TechCrunch https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/
 
 
-### 2026-11-10（周二·AI安全与行业）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-11-10 周二
-
-1. **Claude 又换代，一口气上 5.2** — 做 Claude 的公司今天发了两个新模型 Fable 5.2 和 Mythos 5.2，官方说在写代码、金融分析、科学研究上又拔高一档，海外技术论坛一天冲到 978 分、全场第一。国内近 30 天有 18 条相关视频，但搜的都是「claude 国内怎么使用」，讲清怎么用上的几乎没有。跟你有关：你手机里的 AI 助手、公司让你试的写代码工具，底层可能就是这个东西，换一代你能让它干的活就多一档。—— 来源：Hacker News 978 pts https://news.ycombinator.com/item?id=50429906
-
-2. **黄仁勋被盯上，英伟达董事会立案自查** — 英伟达董事会宣布就近期报道启动独立调查，理由是创始人兼 CEO 黄仁勋成了一支外国情报力量的目标。同一周他发了全员信，承认婚外情并向家人和员工道歉，两件事叠加，海外论坛热度 964。国内视频最高播放 152978，但都停在八卦层面，没人讲董事会为什么动手。跟你有关：一家万亿公司的股价，可能被一个人的私事加一场调查同时拽下来。—— 来源：NVIDIA 官方声明 / Hacker News 490 pts https://news.ycombinator.com/item?id=50416801
-
-3. **高盛收回交易员的 AI 权限** — 高盛把 Claude Code 和微软 GitHub 的权限收回，只留给工程师，交易员和投行人员不能再拿它追踪客户资金流、搭市场模型（论坛 891 分）。今年 4 月它已先停掉香港投行人员的 Claude，这次是扩大范围。跟你有关：公司开始给 AI 划红线，标准不是职级，是「这个活能不能让机器看见客户数据」，握着客户信息的人可能就是下一个。—— 来源：The State of AI / Hacker News 891 pts https://news.ycombinator.com/item?id=50415628
-
-4. **你的网盘和邮件被人工翻看** — 有开发者整理出可复现的记录：个人 Gmail 账号下，Gemini 会把 Drive 文件和邮件转给人工标注员处理，企业账号不在此列，这条在海外论坛拿到 649 分。跟你有关：把合同、体检报告、家里账单丢进网盘让 AI 总结，中间可能有一双手在过一遍，免费和方便都有价码。—— 来源：GitHub 复现记录 / Hacker News 649 pts https://news.ycombinator.com/item?id=50429426
-
-5. **不买显卡也能跑 284B 大模型** — 开源项目 llama-modchip 把 284B 参数的 DeepSeek-V4-Flash 塞进 64GB 内存、零显卡的纯 CPU 机器，占用不到 59GB，速度 9.1 到 14.7 字/秒，上下文 256K（论坛 481 分）。跟你有关：跑大模型的门槛从「买几万块显卡」变成「内存配大点」，一台旧电脑就能开试。—— 来源：GitHub llama-modchip / Hacker News 481 pts https://news.ycombinator.com/item?id=50411961
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-17 | [→](daily/2026-11-17.md) |
 | 11-16 | [→](daily/2026-11-16.md) |
 | 11-15 | [→](daily/2026-11-15.md) |
 | 11-14 | [→](daily/2026-11-14.md) |
@@ -148,4 +154,3 @@
 | 10-21 | [→](daily/2026-10-21.md) |
 | 10-20 | [→](daily/2026-10-20.md) |
 | 10-19 | [→](daily/2026-10-19.md) |
-| 10-18 | [→](daily/2026-10-18.md) |
