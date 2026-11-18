@@ -1,0 +1,511 @@
+[
+ {
+  "src": "HN",
+  "title": "GPT‑6.2 Astra and Sol",
+  "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+  "hn": "https://news.ycombinator.com/item?id=50535230",
+  "points": 1298,
+  "comments": 811,
+  "date": "2026-11-17",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：I thought OpenAI would drop an awesome model on the day of Anthropic IPO, just to troll them / Waiting for the pelicans benchmark. / Another wave of Openai just killed ....Also, is it website very laggy or is it just me? / Nice 3D effect. Runs surprisingly well even on on brave on my linux pc without hardware acceleration / Will need to play around w",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 14856,
+    "recent_median": 529,
+    "max_play": 1006087,
+    "recent30d": 12,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(1006087)",
+     "史上最详细GPT使用教程，涵盖注册、安装、订阅以及各种问题解决方案！(312215)",
+     "利用ChatGPT快速发表高质量SCI论文(131823)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt",
+    "chatgpt国内使用教程",
+    "chatgpt6.2",
+    "chatgpt电脑端安装",
+    "chatgpt安卓下载",
+    "chatgptplus如何购买",
+    "chatgpt安装教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+  "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+  "hn": "https://news.ycombinator.com/item?id=50524736",
+  "points": 723,
+  "comments": 609,
+  "date": "2026-11-16",
+  "status": "原链 200 OK",
+  "excerpt": "I recently asked AI to help me look through the latest Windows binaries for undocumented features and functionality. Among the leads it turned up, one list immediately caught my attention: coding agents such as codex.exe, claude.exe, copilot.exe, and cursor.exe, alongside familiar developer tools such as python.exe, dotnet.exe, gcc.exe, and code.exe. Why wou",
+  "dup": true,
+  "dup_why": "1天前(2026-11-17)用过同一条链接",
+  "cn_kw": "Windows",
+  "cn": {
+   "kw": "Windows",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 14700,
+    "recent_median": 3606,
+    "max_play": 3300210,
+    "recent30d": 5,
+    "top": [
+     "我把Windows10装进了哔哩哔哩里，点击即玩!【B站AI创造公开赛】(24406)",
+     "【完结】从开关机学起，Windows系统0基础教程(1409281)",
+     "我把Windows10装进了哔哩哔哩里,点击即玩!【B站AI创造公开赛】(62051)"
+    ]
+   },
+   "suggest": [
+    "Windows",
+    "windows11",
+    "Windows10",
+    "Windows 7",
+    "Windows壁纸",
+    "Windows发展史",
+    "Windows XP",
+    "windows防火墙有必要开吗"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+  "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+  "hn": "https://news.ycombinator.com/item?id=50534631",
+  "points": 591,
+  "comments": 267,
+  "date": "2026-11-17",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：https://wallhop.io/https://www.ft.com/content/dbde7a30-548c-... / For context: Singapore was allegedly used as a route to smuggle chips into China. According to the FT, about half of NVI / So initially they were telling us the revenue from the Singapore sales was minuscule 2B, then 4B now it was 104B?Wth? Th / Half of their revenue was booked through",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 59069,
+    "recent_median": 85636,
+    "max_play": 1119548,
+    "recent30d": 18,
+    "top": [
+     "英伟达拒绝黄仁勋，史上最大的泡沫更脆弱了(101722)",
+     "11.16大反转？！黄仁勋考虑重返英伟达担任CEO！(120550)",
+     "~第1503期~黄仁勋离职英伟达又出变数？听证会时间推迟，英伟达员工请愿，黄仁勋重回英伟(30661)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达发展史",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达新ceo",
+    "英伟达宣布CEO黄仁勋辞职影响",
+    "英伟达财报",
+    "英伟达N卡显卡驱动下载及安装教程"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Google's AI answers reducing search traffic by 40%",
+  "url": "https://revscope.co/blog/search-seo-geo-2026/",
+  "hn": "https://news.ycombinator.com/item?id=50540178",
+  "points": 497,
+  "comments": 367,
+  "date": "2026-11-18",
+  "status": "原链 200 OK",
+  "excerpt": "Google's AI answers are taking clicks from websites in the search results. In a randomized experiment, researchers hid AI Overviews from some US desktop users. Comparing them with users who still saw Overviews shows that an Overview cuts clicks to outside websites by about 40%. Those Overviews now appear on more than half the US keywords DataForSEO tracks, u",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 11706,
+    "recent_median": 4720,
+    "max_play": 4104735,
+    "recent30d": 12,
+    "top": [
+     "谷谷歌歌！(17274)",
+     "【最新】谷歌Ultra 20X免费试用一个月教程，反重力也能用！(2703)",
+     "【B站最新】Google AI Pro突然没了？新一轮谷歌清算|全网唯一可行订阅渠道|全(12358)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌",
+    "谷歌浏览器怎么下",
+    "谷歌地图",
+    "谷歌play打不开",
+    "谷歌ultra",
+    "谷歌三件套怎么安装",
+    "谷歌最佳游戏"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI is killing All About Berlin",
+  "url": "https://nicolasbouliane.com/blog/death-by-ai",
+  "hn": "https://news.ycombinator.com/item?id=50542705",
+  "points": 471,
+  "comments": 438,
+  "date": "2026-11-18",
+  "status": "原链 200 OK",
+  "excerpt": "They used my work to train their AI, and now they're using their AI to put me out of work.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Berlin",
+  "cn": {
+   "kw": "Berlin",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 20093,
+    "recent_median": 2699,
+    "max_play": 213972,
+    "recent30d": 9,
+    "top": [
+     "【Berlin】ASMR 柏林认证经典之作 | 快速而强烈的标志性触发音(119870)",
+     "【Berlin】这支 ASMR 比任何内容都更上头 快速又强烈(20883)",
+     "【Berlin】适合需要入睡的人的ASMR(1172)"
+    ]
+   },
+   "suggest": [
+    "berlin",
+    "berlinpsychonurses",
+    "极速拍档berlin",
+    "berlin2204",
+    "berlin0912",
+    "berlin丶柏林林孽蜥",
+    "berlin丶柏林林直播",
+    "berlin直播回放"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nvidia was in trouble before the Jensen Huang mess",
+  "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+  "hn": "https://news.ycombinator.com/item?id=50518567",
+  "points": 287,
+  "comments": 262,
+  "date": "2026-11-16",
+  "status": "原链 200 OK",
+  "excerpt": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 59069,
+    "recent_median": 85636,
+    "max_play": 1119548,
+    "recent30d": 18,
+    "top": [
+     "英伟达拒绝黄仁勋，史上最大的泡沫更脆弱了(101722)",
+     "11.16大反转？！黄仁勋考虑重返英伟达担任CEO！(120550)",
+     "~第1503期~黄仁勋离职英伟达又出变数？听证会时间推迟，英伟达员工请愿，黄仁勋重回英伟(30661)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达发展史",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达新ceo",
+    "英伟达宣布CEO黄仁勋辞职影响",
+    "英伟达财报",
+    "英伟达N卡显卡驱动下载及安装教程"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "How the Claude Code team thinks about verification",
+  "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+  "hn": "https://news.ycombinator.com/item?id=50529612",
+  "points": 284,
+  "comments": 228,
+  "date": "2026-11-17",
+  "status": "原链 200 OK",
+  "excerpt": "How end-to-end, property and differential tests let coding agents verify their work with evidence, and what the Claude Code team does to keep its verifiers honest. ‖ EngineeringHow the Claude Code team thinks about verificationHow end-to-end, property and differential tests let coding agents verify their work with evidence, and what the Claude Code team does",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 46116,
+    "recent_median": 21191,
+    "max_play": 2133773,
+    "recent30d": 17,
+    "top": [
+     "国内稳定使用 Claude Code 保姆级教程-3 步搞定(16019)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2133773)",
+     "claude订阅经验分享  中国大学生订阅Claude pro账号(14152)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude code",
+    "claude封号",
+    "claudekyc认证",
+    "ClaudeFable52",
+    "claudecode安装教程"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+  "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+  "hn": "https://news.ycombinator.com/item?id=50538303",
+  "points": 218,
+  "comments": 302,
+  "date": "2026-11-17",
+  "status": "原链 200 OK",
+  "excerpt": "Harvard study: AI coding agents raised code output 30 percent; finished work did not measurably rise, and getting code through review took 49 percent longer. ‖ Editor’s Note: Engineers at firms that adopted AI coding agents added about 30 percent more code, yet finished work did not measurably rise and getting code through review took 49 percent longer, acco",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7913,
+    "recent_median": 2213,
+    "max_play": 2155493,
+    "recent30d": 11,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1543272)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1475010)",
+     "通俗易懂地讲解什么是Agent？(248816)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发",
+    "aiagent开发学习路线",
+    "aiagent实战项目",
+    "aiagent使用教程",
+    "aiagent开发课程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+  "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+  "hn": "https://news.ycombinator.com/item?id=50531751",
+  "points": 189,
+  "comments": 248,
+  "date": "2026-11-17",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：The industry is just busy overall with day to day work and it just takes ages to implement things.Which also means that  / China seems to always have viewed AI as \"normal technology\". Maybe they know that they're falling behind and won't hit R / I mean, yeah. They're deeply connected to the Chinese state and the Chinese state is trying to undermine t",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "小米",
+  "cn": {
+   "kw": "小米",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6980,
+    "recent_median": 6619,
+    "max_play": 434608,
+    "recent30d": 17,
+    "top": [
+     "鸿蒙要变天？孙少军透露架构大调整，小米订单周涨至 9500 台(5803)",
+     "谁是更好的宽折叠？iPhoneDuo对比华为PuraXMax对比小米18Fold对比三星(213191)",
+     "小米汽车支持iPhone数字钥匙啦｜1.20更新(5895)"
+    ]
+   },
+   "suggest": [
+    "小米",
+    "小米su7",
+    "小米手机",
+    "小米yu7",
+    "小米澎程N90",
+    "小米18promax",
+    "小米粥舞蹈",
+    "小米root权限怎么开"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Not Everything Needs an LLM",
+  "url": "https://newsletter.posthog.com/p/decision-models",
+  "hn": "https://news.ycombinator.com/item?id=50535740",
+  "points": 164,
+  "comments": 71,
+  "date": "2026-11-17",
+  "status": "原链 200 OK",
+  "excerpt": "Ask a simple question and you get a few hundred words of \"it depends.\" It's annoying as hell. This is why we love decision models like Jev for simpler tasks. You ask a structured question and get a typed answer with a probability, which looks something like this: Choice. Which animal family do hedgehogs belong to? → Mammal, 0.99 Score. What is the current co",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "大模型",
+  "cn": {
+   "kw": "大模型",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 10514,
+    "recent_median": 3747,
+    "max_play": 3885022,
+    "recent30d": 15,
+    "top": [
+     "从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！(2263505)",
+     "【全748集】目前B站最全最细的AI大模型零基础全套教程，2025最新版，包含所有干货！(3885022)",
+     "AI 大模型全栈开发上岸集训营：直通 offer(44453)"
+    ]
+   },
+   "suggest": [
+    "大模型零基础入门教程",
+    "大模型",
+    "大模型原理",
+    "大模型训练全流程",
+    "大模型本地部署",
+    "大模型应用开发",
+    "大模型原理讲解",
+    "大模型本地部署教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+  "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-18",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained. ‖ Nvidia clarifies when it will — and won’t —keep financing neoclouds Julie Bort 5:00 AM PST · November 18, 2026 One reason 197,000 people, including ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 59069,
+    "recent_median": 85636,
+    "max_play": 1119548,
+    "recent30d": 18,
+    "top": [
+     "英伟达拒绝黄仁勋，史上最大的泡沫更脆弱了(101722)",
+     "11.16大反转？！黄仁勋考虑重返英伟达担任CEO！(120550)",
+     "~第1503期~黄仁勋离职英伟达又出变数？听证会时间推迟，英伟达员工请愿，黄仁勋重回英伟(30661)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达发展史",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达新ceo",
+    "英伟达宣布CEO黄仁勋辞职影响",
+    "英伟达财报",
+    "英伟达N卡显卡驱动下载及安装教程"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+  "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-18",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market. ‖ Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents Jagmeet Singh 4:00 AM PST · November 18, 2026 As businesses increasingly turn to AI agents to automate work, the vast amounts ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7913,
+    "recent_median": 2213,
+    "max_play": 2155493,
+    "recent30d": 11,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1543272)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1475010)",
+     "通俗易懂地讲解什么是Agent？(248816)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发",
+    "aiagent开发学习路线",
+    "aiagent实战项目",
+    "aiagent使用教程",
+    "aiagent开发课程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]
