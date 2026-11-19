@@ -1,0 +1,503 @@
+[
+ {
+  "src": "HN",
+  "title": "GPT‑6.2 Astra and Sol",
+  "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+  "hn": "https://news.ycombinator.com/item?id=50535230",
+  "points": 1340,
+  "comments": 853,
+  "date": "2026-11-17",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：I thought OpenAI would drop an awesome model on the day of Anthropic IPO, just to troll them / Waiting for the pelicans benchmark. / Another wave of Openai just killed ....Also, is it website very laggy or is it just me? / Nice 3D effect. Runs surprisingly well even on on brave on my linux pc without hardware acceleration / Will need to play around w",
+  "dup": true,
+  "dup_why": "1天前(2026-11-18)用过同一条链接",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7251,
+    "recent_median": 512,
+    "max_play": 1010269,
+    "recent30d": 13,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(1010269)",
+     "ChatGPT订阅教程，从注册安装到完成订阅！快速体验GPT6.2astra(13885)",
+     "利用ChatGPT快速发表高质量SCI论文(131934)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt",
+    "chatgpt国内使用教程",
+    "chatgpt电脑端安装",
+    "chatgpt安卓下载",
+    "chatgpt安装教程",
+    "chatgptplus如何购买",
+    "chatgpt6.2"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Gemini 4 Neon",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+  "hn": "https://news.ycombinator.com/item?id=50552424",
+  "points": 884,
+  "comments": 698,
+  "date": "2026-11-18",
+  "status": "原链 200 OK",
+  "excerpt": "Google introduces Gemini 4 Neon, delivering frontier-level intelligence for complex coding and analysis at a lower cost. ‖ Bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows. Today, we’re introducing Gemini 4 Neon — bringing frontier-level intelligence with fast",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 11746,
+    "recent_median": 11746,
+    "max_play": 371335,
+    "recent30d": 16,
+    "top": [
+     "【最新教程】10块即可薅3个月Gemini Pro会员可用反重力满血版！Gemini4系(11588)",
+     "【全网最新】Gemini学生优惠认证教程 _ 免费领取一年 Google AI Pro会(36154)",
+     "Gemini 4 Neon 马上就发布，定位旗舰级 Pro；Tibo 回应 6.2 反馈(34425)"
+    ]
+   },
+   "suggest": [
+    "gemini",
+    "gemini4neon",
+    "geminineon",
+    "gemini4",
+    "gemini使用教程",
+    "gemini看我们的时代",
+    "gemini怎么下载",
+    "gemini4argon"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI is killing All About Berlin",
+  "url": "https://nicolasbouliane.com/blog/death-by-ai",
+  "hn": "https://news.ycombinator.com/item?id=50542705",
+  "points": 790,
+  "comments": 700,
+  "date": "2026-11-18",
+  "status": "原链 200 OK",
+  "excerpt": "They used my work to train their AI, and now they're using their AI to put me out of work.",
+  "dup": true,
+  "dup_why": "1天前(2026-11-18)用过同一条链接",
+  "cn_kw": "Berlin",
+  "cn": {
+   "kw": "Berlin",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 20423,
+    "recent_median": 2298,
+    "max_play": 214462,
+    "recent30d": 10,
+    "top": [
+     "【Berlin】ASMR 柏林认证经典之作 | 快速而强烈的标志性触发音(120190)",
+     "【Berlin】适合需要入睡的人的ASMR(1441)",
+     "【Berlin助眠】免疫党进！尝试一切办法修复你的触发免疫，快速且激进的视觉助眠(2014)"
+    ]
+   },
+   "suggest": [
+    "berlin",
+    "berlin丶柏林林直播回放",
+    "berlin直播回放",
+    "极速拍档berlin",
+    "berlin丶柏林林直播",
+    "berlinpsychonurses",
+    "berlin幽影",
+    "berlin事件"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Google's AI answers reducing search traffic by 40%",
+  "url": "https://revscope.co/blog/search-seo-geo-2026/",
+  "hn": "https://news.ycombinator.com/item?id=50540178",
+  "points": 702,
+  "comments": 556,
+  "date": "2026-11-18",
+  "status": "原链 200 OK",
+  "excerpt": "Google's AI answers are taking clicks from websites in the search results. In a randomized experiment, researchers hid AI Overviews from some US desktop users. Comparing them with users who still saw Overviews shows that an Overview cuts clicks to outside websites by about 40%. Those Overviews now appear on more than half the US keywords DataForSEO tracks, u",
+  "dup": true,
+  "dup_why": "1天前(2026-11-18)用过同一条链接",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 8034,
+    "recent_median": 7744,
+    "max_play": 4106634,
+    "recent30d": 13,
+    "top": [
+     "全网最简单的谷歌账号注册教程（无需拔卡、扫码、更改设置），只用手机即可轻松操作(1087774)",
+     "谷歌基米家族又双叒上新了，氖基米 Gemini 4 Neon 跑分小胜Carbon，国模(21363)",
+     "谷谷歌歌！(63681)"
+    ]
+   },
+   "suggest": [
+    "谷歌",
+    "谷歌账号怎么注册",
+    "谷歌ultra",
+    "谷歌浏览器怎么下",
+    "谷歌play打不开",
+    "谷歌地图",
+    "谷歌浏览器无法打开网页",
+    "谷歌三件套怎么安装"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+  "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+  "hn": "https://news.ycombinator.com/item?id=50534631",
+  "points": 664,
+  "comments": 295,
+  "date": "2026-11-17",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：https://wallhop.io/https://www.ft.com/content/dbde7a30-548c-... / For context: Singapore was allegedly used as a route to smuggle chips into China. According to the FT, about half of NVI / So initially they were telling us the revenue from the Singapore sales was minuscule 2B, then 4B now it was 104B?Wth? Th / Half of their revenue was booked through",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 17910,
+    "recent_median": 18547,
+    "max_play": 1077699,
+    "recent30d": 18,
+    "top": [
+     "英伟达拒绝黄仁勋，史上最大的泡沫更脆弱了(1077699)",
+     "~第1504期~黄仁勋打破沉默表示回归意愿，英伟达董事会干脆拒绝，AI泡沫面临严峻形势？(26109)",
+     "英伟达业绩超预期！但黄仁勋，回不去了！(111057)"
+    ]
+   },
+   "suggest": [
+    "英伟达",
+    "英伟达黄仁勋",
+    "英伟达新ceo",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达宣布CEO黄仁勋辞职影响",
+    "英伟达发展史",
+    "英伟达帧率显示怎么开启",
+    "英伟达h200"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI agents ask better questions than KPMG accountants in audit trial",
+  "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+  "hn": "https://news.ycombinator.com/item?id=50547777",
+  "points": 471,
+  "comments": 224,
+  "date": "2026-11-18",
+  "status": "原链 200 OK",
+  "excerpt": "LONDON, November 18, 2026 — Artificial intelligence has taken another significant step into the world of professional services after KPMG revealed that AI ‖ LONDON, November 18, 2026 — Artificial intelligence has taken another significant step into the world of professional services after KPMG revealed that AI agents examining the accounts of a major UK-list",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 10702,
+    "recent_median": 2512,
+    "max_play": 2165579,
+    "recent30d": 11,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1552921)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1478331)",
+     "【全748集】目前B站最细最全的AI Agent搭建零基础全套教程，2026最新版，手把(19399)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent开发",
+    "aiagent是什么",
+    "aiagent开发学习路线",
+    "aiagent使用教程",
+    "aiagent推荐",
+    "aiagent开发课程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+  "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+  "hn": "https://news.ycombinator.com/item?id=50538303",
+  "points": 321,
+  "comments": 444,
+  "date": "2026-11-17",
+  "status": "原链 200 OK",
+  "excerpt": "Harvard study: AI coding agents raised code output 30 percent; finished work did not measurably rise, and getting code through review took 49 percent longer. ‖ Editor’s Note: Engineers at firms that adopted AI coding agents added about 30 percent more code, yet finished work did not measurably rise and getting code through review took 49 percent longer, acco",
+  "dup": true,
+  "dup_why": "1天前(2026-11-18)用过同一条链接",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 10702,
+    "recent_median": 2512,
+    "max_play": 2165579,
+    "recent30d": 11,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1552921)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1478331)",
+     "【全748集】目前B站最细最全的AI Agent搭建零基础全套教程，2026最新版，手把(19399)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent开发",
+    "aiagent是什么",
+    "aiagent开发学习路线",
+    "aiagent使用教程",
+    "aiagent推荐",
+    "aiagent开发课程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Energy-Based Reasoners: 385x more efficient inference",
+  "url": "https://energy-based-reasoners.github.io/",
+  "hn": "https://news.ycombinator.com/item?id=50543989",
+  "points": 312,
+  "comments": 55,
+  "date": "2026-11-18",
+  "status": "原链 200 OK",
+  "excerpt": "One learned energy refines, stops and selects. Over 99% Sudoku-Extreme accuracy with 1.8M parameters, up to 345x fewer inference FLOPs than EqR at comparable accuracy. ‖ Looping is a powerful inductive bias for reasoning. By repeatedly iterating a recurrent block, looped models can scale their effective depth and enable multi-step reasoning in latent space. ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Energy-Based",
+  "cn": {
+   "kw": "Energy-Based",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1016,
+    "recent_median": 15,
+    "max_play": 98960,
+    "recent30d": 1,
+    "top": [
+     "《energy-based models 入门》(2831)",
+     "073 Energy-Based Models (EBM)(116)",
+     "美国X-ENERGY公司高温气冷堆XE-100简介(1124)"
+    ]
+   },
+   "suggest": [
+    "energybasedmodel"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "How the Claude Code team thinks about verification",
+  "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+  "hn": "https://news.ycombinator.com/item?id=50529612",
+  "points": 294,
+  "comments": 233,
+  "date": "2026-11-17",
+  "status": "原链 200 OK",
+  "excerpt": "How end-to-end, property and differential tests let coding agents verify their work with evidence, and what the Claude Code team does to keep its verifiers honest. ‖ EngineeringHow the Claude Code team thinks about verificationHow end-to-end, property and differential tests let coding agents verify their work with evidence, and what the Claude Code team does",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 27722,
+    "recent_median": 16956,
+    "max_play": 2136863,
+    "recent30d": 15,
+    "top": [
+     "国内稳定使用 Claude Code 保姆级教程-3 步搞定(22864)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2136863)",
+     "把小克（Claude娘）装进 Claude Code 桌面端：13 套日常与四季外观 m(2697)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude封号",
+    "claude code",
+    "ClaudeFable52",
+    "Claude Opus 5.5",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic prices initial public offering",
+  "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+  "hn": "https://news.ycombinator.com/item?id=50553843",
+  "points": 282,
+  "comments": 528,
+  "date": "2026-11-18",
+  "status": "原链 200 OK",
+  "excerpt": "Today Anthropic, PBC priced its initial public offering of its Class A common stock.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 27722,
+    "recent_median": 16956,
+    "max_play": 2136863,
+    "recent30d": 15,
+    "top": [
+     "国内稳定使用 Claude Code 保姆级教程-3 步搞定(22864)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2136863)",
+     "把小克（Claude娘）装进 Claude Code 桌面端：13 套日常与四季外观 m(2697)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude封号",
+    "claude code",
+    "ClaudeFable52",
+    "Claude Opus 5.5",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+  "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-18",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world. ‖ Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’ Lucas Ropek 3:45 PM PST · November 18, 2026 During his appearance at The New York Times’ ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Amidst",
+  "cn": {
+   "kw": "Amidst",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3759,
+    "recent_median": 18,
+    "max_play": 92439,
+    "recent30d": 1,
+    "top": [
+     "【小竹】万能种子查看器-Amidst-MC周边软件教程(46975)",
+     "「 Rhythm Amidst the Reeds 钓客漫歌 」(8661)",
+     "风中的军垒 The Redoubt Amidst the Frigid Wind(31239)"
+    ]
+   },
+   "suggest": [
+    "amidsthearts",
+    "amidst怎么用",
+    "amidst怎么下载",
+    "amidst怎么读",
+    "amidst有人知道怎么用吗",
+    "怎么下载amidst",
+    "我的世界amidst怎么用",
+    "我的世界amidst怎么下载"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+  "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-18",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO. ‖ Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit Amanda Silberling 3:17 PM PST · November 18, 2026 Microsoft CEO Satya Nadella weighed in on former Nvidia CEO Jensen Huang’s unexpected departure amid ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "微软",
+  "cn": {
+   "kw": "微软",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1819,
+    "recent_median": 2834,
+    "max_play": 154682,
+    "recent30d": 17,
+    "top": [
+     "26年11月18日晚报：英伟达财报营收翻倍、微软AI芯片送进产线、苹果三项服务中断、植田(1509)",
+     "黄仁勋成帽子收集者了，问题都等着黄仁勋辞职后才出现？？９１１报警系统崩溃、美国国家安全机(154682)",
+     "微软SharePoint系列1(738)"
+    ]
+   },
+   "suggest": [
+    "微软",
+    "微软surface",
+    "微软浏览器",
+    "微软模拟飞行2024",
+    "微软商店",
+    "微软科技",
+    "微软账号注册",
+    "微软崩溃"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]
