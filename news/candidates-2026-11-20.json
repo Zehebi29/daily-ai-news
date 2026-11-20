@@ -1,0 +1,493 @@
+[
+ {
+  "src": "HN",
+  "title": "Anthropic’s Nasdaq debut",
+  "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+  "hn": "https://news.ycombinator.com/item?id=50562754",
+  "points": 1102,
+  "comments": 2186,
+  "date": "2026-11-19",
+  "status": "原链 401",
+  "excerpt": "（未取到正文，仅标题可用；写稿时不要补细节）",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 29542,
+    "recent_median": 5445,
+    "max_play": 2139626,
+    "recent30d": 13,
+    "top": [
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2139626)",
+     "11·12 大封号真相！扒光 Claude 风控底层：中国护照能过审，真正致命的是这 3(29156)",
+     "Claude code搞定综述论文发表(32601)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claude code",
+    "claude封号",
+    "claude特朗普",
+    "claudecode安装教程",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Gemini 4 Neon",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+  "hn": "https://news.ycombinator.com/item?id=50552424",
+  "points": 1037,
+  "comments": 772,
+  "date": "2026-11-18",
+  "status": "原链 200 OK",
+  "excerpt": "Google introduces Gemini 4 Neon, delivering frontier-level intelligence for complex coding and analysis at a lower cost. ‖ Bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows. Today, we’re introducing Gemini 4 Neon — bringing frontier-level intelligence with fast",
+  "dup": true,
+  "dup_why": "1天前(2026-11-19)用过同一条链接",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 12173,
+    "recent_median": 12166,
+    "max_play": 376288,
+    "recent30d": 19,
+    "top": [
+     "【全网最新】Gemini学生优惠认证教程 _ 免费领取一年 Google AI Pro会(59401)",
+     "Gemini 4 Neon 实测：谷歌发力！这次真不一样了！(62924)",
+     "首发测评！Gemini4 Neon正式发布，写小说网文能力实际测评演示！(12166)"
+    ]
+   },
+   "suggest": [
+    "gemini",
+    "gemini使用教程",
+    "gemini怎么下载",
+    "gemini学生认证",
+    "gemini4",
+    "gemini不支持你所在地区",
+    "gemini4neon",
+    "gemini4hydrogen"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI is killing All About Berlin",
+  "url": "https://nicolasbouliane.com/blog/death-by-ai",
+  "hn": "https://news.ycombinator.com/item?id=50542705",
+  "points": 810,
+  "comments": 711,
+  "date": "2026-11-18",
+  "status": "原链 200 OK",
+  "excerpt": "They used my work to train their AI, and now they're using their AI to put me out of work.",
+  "dup": true,
+  "dup_why": "2天前(2026-11-18)用过同一条链接",
+  "cn_kw": "Berlin",
+  "cn": {
+   "kw": "Berlin",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 17882,
+    "recent_median": 2323,
+    "max_play": 214852,
+    "recent30d": 11,
+    "top": [
+     "【Berlin】ASMR 柏林认证经典之作 | 快速而强烈的标志性触发音(120460)",
+     "【Berlin】这支 ASMR 比任何内容都更上头 快速又强烈(22001)",
+     "【Berlin】适合需要入睡的人的ASMR(1623)"
+    ]
+   },
+   "suggest": [
+    "berlin",
+    "berlin丶柏林林直播回放",
+    "berlinpsychonurses",
+    "berlin丶柏林林直播",
+    "berlin2204",
+    "berlin丶柏林林孽蜥",
+    "berlinetta怎么获得",
+    "李柏霖berlin"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Google's AI answers reducing search traffic by 40%",
+  "url": "https://revscope.co/blog/search-seo-geo-2026/",
+  "hn": "https://news.ycombinator.com/item?id=50540178",
+  "points": 709,
+  "comments": 564,
+  "date": "2026-11-18",
+  "status": "原链 200 OK",
+  "excerpt": "Google's AI answers are taking clicks from websites in the search results. In a randomized experiment, researchers hid AI Overviews from some US desktop users. Comparing them with users who still saw Overviews shows that an Overview cuts clicks to outside websites by about 40%. Those Overviews now appear on more than half the US keywords DataForSEO tracks, u",
+  "dup": true,
+  "dup_why": "1天前(2026-11-19)用过同一条链接",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 17769,
+    "recent_median": 12257,
+    "max_play": 4108587,
+    "recent30d": 13,
+    "top": [
+     "Gemini 4 Neon 实测：谷歌发力！这次真不一样了！(62924)",
+     "全网最简单的谷歌账号注册教程（无需拔卡、扫码、更改设置），只用手机即可轻松操作(1093230)",
+     "谷歌广告投放实战实操课程-初级-RobinLuo(1037)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌浏览器怎么下",
+    "谷歌",
+    "谷歌地图",
+    "谷歌浏览器无法打开网页",
+    "谷歌邮箱怎么注册",
+    "谷歌play打不开",
+    "谷歌浏览器怎么注册账号"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Fuck Your AI Safeguards",
+  "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+  "hn": "https://news.ycombinator.com/item?id=50562262",
+  "points": 566,
+  "comments": 228,
+  "date": "2026-11-19",
+  "status": "原链 200 OK",
+  "excerpt": "While refrigerators were getting hacked in Estonia, I half-seriously took a project I&rsquo;m working on and asked Claude Code if there are any low-hanging fruit regarding security that we could improve. It found one issue that was easy to fix, simple oversight with a one line fix, so I just went along with it. Then it got stopped because of bullshit &ldquo;",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Safeguards",
+  "cn": {
+   "kw": "Safeguards",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 561,
+    "recent_median": 193,
+    "max_play": 23506,
+    "recent30d": 3,
+    "top": [
+     "Men Without Hats - The Safety Dance (Officia(2039)",
+     "刺客信条英灵殿 The Ravens Saga EP JesperKyd .  Sara(2296)",
+     "日推歌曲|Go Down Deh（feat.Shaggy and Sean Paul）-(2153)"
+    ]
+   },
+   "suggest": [],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Claude solves two open problems in the physics of black holes",
+  "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+  "hn": "https://news.ycombinator.com/item?id=50563148",
+  "points": 516,
+  "comments": 242,
+  "date": "2026-11-19",
+  "status": "原链 200 OK",
+  "excerpt": "Claude Fable 5.2 has solved two open problems in theoretical physics. Both concern black holes and the search for a theory of quantum gravity. ‖ Skip to main content 01Introduction Claude has solved two open problems in theoretical physics. Both concern black holes and the search for a theory of quantum gravity. In the first, it completed a calculation that ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 29542,
+    "recent_median": 5445,
+    "max_play": 2139626,
+    "recent30d": 13,
+    "top": [
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2139626)",
+     "11·12 大封号真相！扒光 Claude 风控底层：中国护照能过审，真正致命的是这 3(29156)",
+     "Claude code搞定综述论文发表(32601)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claude code",
+    "claude封号",
+    "claude特朗普",
+    "claudecode安装教程",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI agents ask better questions than KPMG accountants in audit trial",
+  "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+  "hn": "https://news.ycombinator.com/item?id=50547777",
+  "points": 492,
+  "comments": 260,
+  "date": "2026-11-18",
+  "status": "原链 200 OK",
+  "excerpt": "LONDON, November 18, 2026 — Artificial intelligence has taken another significant step into the world of professional services after KPMG revealed that AI ‖ LONDON, November 18, 2026 — Artificial intelligence has taken another significant step into the world of professional services after KPMG revealed that AI agents examining the accounts of a major UK-list",
+  "dup": true,
+  "dup_why": "1天前(2026-11-19)用过同一条链接",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 18002,
+    "recent_median": 1620,
+    "max_play": 1561093,
+    "recent30d": 12,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1561093)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1481027)",
+     "通俗易懂地讲解什么是Agent？(256452)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent使用教程",
+    "aiagent推荐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic prices initial public offering",
+  "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+  "hn": "https://news.ycombinator.com/item?id=50553843",
+  "points": 417,
+  "comments": 788,
+  "date": "2026-11-18",
+  "status": "原链 200 OK",
+  "excerpt": "Today Anthropic, PBC priced its initial public offering of its Class A common stock.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 29542,
+    "recent_median": 5445,
+    "max_play": 2139626,
+    "recent30d": 13,
+    "top": [
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2139626)",
+     "11·12 大封号真相！扒光 Claude 风控底层：中国护照能过审，真正致命的是这 3(29156)",
+     "Claude code搞定综述论文发表(32601)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claude code",
+    "claude封号",
+    "claude特朗普",
+    "claudecode安装教程",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Energy-Based Reasoners: 385x more efficient inference",
+  "url": "https://energy-based-reasoners.github.io/",
+  "hn": "https://news.ycombinator.com/item?id=50543989",
+  "points": 315,
+  "comments": 57,
+  "date": "2026-11-18",
+  "status": "原链 200 OK",
+  "excerpt": "One learned energy refines, stops and selects. Over 99% Sudoku-Extreme accuracy with 1.8M parameters, up to 345x fewer inference FLOPs than EqR at comparable accuracy. ‖ Looping is a powerful inductive bias for reasoning. By repeatedly iterating a recurrent block, looped models can scale their effective depth and enable multi-step reasoning in latent space. ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Energy-Based",
+  "cn": {
+   "kw": "Energy-Based",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 778,
+    "recent_median": 6,
+    "max_play": 87927,
+    "recent30d": 1,
+    "top": [
+     "《energy-based models 入门》(2831)",
+     "073 Energy-Based Models (EBM)(116)",
+     "Actran 教学视频：基于板件的传递损失的统计能量建模（TL based SEA mo(286)"
+    ]
+   },
+   "suggest": [
+    "energybasedmodel"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Apple may be developing its own AI agent that runs your Mac",
+  "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-20",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots. ‖ Apple may be developing its own AI agent that runs your Mac Lucas Ropek 4:56 PM PST · November 19, 2026 Apple appears to be working on its own AI agent to conduct computer work on behalf of users — including using apps, accessing ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "苹果",
+  "cn": {
+   "kw": "苹果",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 30599,
+    "recent_median": 359,
+    "max_play": 1987720,
+    "recent30d": 5,
+    "top": [
+     "sub搬运｜ug｜他忍不住了，超想和你吃苹果｜油管超多反馈(64810)",
+     "苹果儿(359)",
+     "为艺术献身的女星（四）范冰冰(13013)"
+    ]
+   },
+   "suggest": [
+    "苹果",
+    "苹果手机",
+    "苹果怎么上推特x",
+    "苹果饭冰冰佟大为",
+    "苹果平板",
+    "苹果手机如何上外网",
+    "苹果18promax",
+    "苹果美区id"
+   ],
+   "hot": false,
+   "verdict": "近期空白(历史有爆款)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+  "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-20",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion. ‖ Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO Julie Bort 4:43 PM PST · November 19, 2026 Anthropic became a public company on Thursday, raising a total of $81.3 billion, including $1.95 billion for ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 29542,
+    "recent_median": 5445,
+    "max_play": 2139626,
+    "recent30d": 13,
+    "top": [
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2139626)",
+     "11·12 大封号真相！扒光 Claude 风控底层：中国护照能过审，真正致命的是这 3(29156)",
+     "Claude code搞定综述论文发表(32601)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claude code",
+    "claude封号",
+    "claude特朗普",
+    "claudecode安装教程",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "These tech outages are giving Y2K, AI agent style",
+  "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-19",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say. ‖ These tech outages are giving Y2K, AI agent style Dominic-Madori Davis 1:42 PM PST · November 19, 2026 It’s going down, as the American rapper Yung Joc might",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 18002,
+    "recent_median": 1620,
+    "max_play": 1561093,
+    "recent30d": 12,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1561093)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1481027)",
+     "通俗易懂地讲解什么是Agent？(256452)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent使用教程",
+    "aiagent推荐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]

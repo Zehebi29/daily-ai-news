@@ -7,6 +7,22 @@
 ## 最新资讯
 
 
+### 2026-11-20（周五·工具实测）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-11-20 周五
+
+1. **Anthropic 上市，7 个创始人一夜套现 20 亿美元** — 做 Claude 的 Anthropic 昨天在纳斯达克上市，发行价每股 83 美元。7 位创始人每人卖出约 2.8 亿美元股票，合计接近 20 亿美元，被媒体称为纪录级的一单。跟普通人有关：AI 公司成了资本市场的造富机器，接下来订阅涨价、好功能优先给企业，都会变成常态。 — 来源：Reuters https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ ｜ HN 1102 分
+
+2. **Claude 解开了黑洞物理的两个开放问题** — Anthropic 官方说，Claude Fable 5.2 解决了理论物理里两个悬而未决的问题，都跟黑洞和量子引力有关，第一个是一道一直没算完的计算。官方没提同行评审，先当强信号看。跟你有关：AI 已经从写文案挪到做原创研究，最先受冲击的是写论文、做课题的学生和研究人员。 — 来源：Anthropic Research https://www.anthropic.com/research/claude-black-hole-physics ｜ HN 516 分
+
+3. **谷歌的 AI 摘要，把网站点击砍掉 40%** — 研究者做了随机实验：把搜索顶部的 AI 摘要对一部分美国桌面用户隐藏，对比后发现，看到摘要的人点进外部网站的次数少了约 40%。这块摘要现在覆盖美国一半以上被追踪的关键词。跟你有关：靠搜索流量吃饭的公众号、小红书、独立站和电商，客人正在被 AI 直接截走。 — 来源：RevScope https://revscope.co/blog/search-seo-geo-2026/ ｜ HN 709 分
+
+4. **毕马威测试：AI 查账问的问题比人类会计师更好** — 毕马威让 AI agent 去查一家英国大型上市公司的账目，结论是它提出的问题比自家会计师更好。查账的核心不是算数，是知道该问什么。跟你有关：财务、审计、记账这类「核对加提问」的活最容易先被替，短期被替的是翻凭证、做底稿。 — 来源：European Business Magazine https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ ｜ HN 492 分
+
+5. **苹果疑似在自研能操作 Mac 的 AI agent** — TechCrunch 报道，苹果在做自己的 AI agent，能替用户操作电脑：打开 App、点按钮、把活干完，对手是 Meta Muse、Instinct、Claude 和 OpenAI Dots。跟你有关：重复的电脑操作先被吃掉，值钱的能力变成「把活讲清楚」。 — 来源：TechCrunch https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
+
+
 ### 2026-11-19（周四·行业观察）
 
 1. **谷歌AI抢走40%网站点击** — 研究者做随机对照实验：让一部分美国用户看不到谷歌搜索顶部的 AI 摘要，结果这批人点进网站的次数更多，说明摘要让外部网站少掉约 40% 点击。谷歌一半以上的美国搜索词现在都带 AI 摘要。对小生意和自媒体来说，流量入口变了；以后能被点进去的，是 AI 答不全的内容（真实体验、具体报价、现场细节）。来源：https://revscope.co/blog/search-seo-geo-2026/ （HN 702 分）
@@ -100,33 +116,11 @@
 5. **谷歌发布 Gemini 4 Hydrogen** — 官方定位是「日常主力」，给 AI 自己连着干好几步的任务用，外网 565 分、350 条讨论。「更强」和「更能干活」是两回事，值不值得换只看一件事：你有没有愿意交给它串起来的重复活。来源：HN 565 分 2026-11-12 https://news.ycombinator.com/item?id=50471431
 
 
-### 2026-11-13（周五·工具实测）
-
-1. **做 Claude 的公司要去上市了** — Anthropic 已正式提交上市文件，官网挂出创始人信。它不再是关起门做模型的实验室，而要按季度向股东交代营收。对用户的影响：定价、免费额度、封号尺度都会被增长压力推着走；好处是财务必须公开，以后判断它会不会突然收费，有数字可查。（Anthropic 上市申报，HN 959 pts）
-
-2. **AI 帮你订机票，航空公司说不** — 美国联合航空周三禁止 AI 代理代替旅客订票，理由是会碰账号和支付，出安全风险，还可能违反联邦规定。真正的问题不是技术不行，而是出了事没人担责——航司不愿背锅。以后让 AI 抢票下单，平台多半会要求你亲手确认最后一步。（CBS News，HN 674 pts）
-
-3. **AI 熬夜扫地图，挖出玛雅遗址** — 一个开发者的 AI 代理整夜分析公开激光雷达数据，找出丛林下的玛雅遗址轮廓。考古学家说这地方早被测绘过、只是没进官方名录，AI 算「重新发现」。可复用的是方法：让 AI 先扫一遍海量资料，人只看它圈出来的。（项目作者博客，HN 1032 pts）
-
-4. **谷歌新接口专答是或否** — Gemini Decisions API 只做判断类问题：是/否、选哪个、按标准打分，一次最多 1000 个问题，还带把握程度。以前这类活要么靠人一条条看，要么自己拼提示词；现在做成专门产品，说明大厂认定「AI 当审核员」是门正经生意。（Google 官方博客，HN 562 pts）
-
-5. **英伟达承认芯片能被追踪** — 英伟达私下告诉美国议员，《芯片安全法案》要求的防走私追踪技术上做得到，而此前业内公开质疑过可行性。「能做」和「会做」是两件事。真落地的话，合规成本可能进售价；同一套本事也能拿来防丢防盗。（MIT 科技评论）
-
----
-
-来源链接：
-
-1. https://ipo.anthropic.com/us/
-2. https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/
-3. https://pietromiotti.com/latest/maya-site
-4. https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/
-5. https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-20 | [→](daily/2026-11-20.md) |
 | 11-19 | [→](daily/2026-11-19.md) |
 | 11-18 | [→](daily/2026-11-18.md) |
 | 11-17 | [→](daily/2026-11-17.md) |
@@ -156,4 +150,3 @@
 | 10-24 | [→](daily/2026-10-24.md) |
 | 10-23 | [→](daily/2026-10-23.md) |
 | 10-22 | [→](daily/2026-10-22.md) |
-| 10-21 | [→](daily/2026-10-21.md) |
