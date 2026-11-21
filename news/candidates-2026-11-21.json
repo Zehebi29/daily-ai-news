@@ -1,0 +1,501 @@
+[
+ {
+  "src": "HN",
+  "title": "Anthropic’s Nasdaq debut",
+  "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+  "hn": "https://news.ycombinator.com/item?id=50562754",
+  "points": 1133,
+  "comments": 2301,
+  "date": "2026-11-19",
+  "status": "原链 401 · 正文经 jina",
+  "excerpt": "Title: reuters.com URL Source: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.",
+  "dup": true,
+  "dup_why": "1天前(2026-11-20)用过同一条链接",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7004,
+    "recent_median": 6234,
+    "max_play": 2142461,
+    "recent30d": 16,
+    "top": [
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2142461)",
+     "疯了！！！ns方程无外力版也被Claude解决(3970)",
+     "今天来找Claude合租了…(3092)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claude黎曼猜想",
+    "claude code",
+    "claude封号",
+    "claude大小姐",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+  "url": "https://architectlabs.com/blog/frostbite",
+  "hn": "https://news.ycombinator.com/item?id=50572503",
+  "points": 651,
+  "comments": 338,
+  "date": "2026-11-20",
+  "status": "原链 200 OK",
+  "excerpt": "Frostbite is a general-purpose CPU built around interaction nets, discovered, designed, and verified end-to-end by our AI systems, reaching 4.59x the performance-per-watt of a modern superscalar (dual-issue, in-order) CPU core. ‖ In our previous post, Redwood, we showed that given an architecture, our AI systems could implement, verify, and deploy an inferen",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Frostbite",
+  "cn": {
+   "kw": "Frostbite",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3916,
+    "recent_median": 552,
+    "max_play": 573167,
+    "recent30d": 3,
+    "top": [
+     "Doors硬核模式:重燃Part6(frostbite特别篇)(1085)",
+     "Hypno’s Lullaby Reboot [OST] Frostbite V3 官方(14075)",
+     "【摇光Benetnasch X RINO】Frostbite(冻伤）歌词PV(3151)"
+    ]
+   },
+   "suggest": [
+    "frostbite",
+    "frostbitev7",
+    "frostbiteV8",
+    "frostbiteV1",
+    "frostbitev3",
+    "frostbiteV2",
+    "frostbiteV6",
+    "frostbiteV9"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Fuck Your AI Safeguards",
+  "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+  "hn": "https://news.ycombinator.com/item?id=50562262",
+  "points": 609,
+  "comments": 249,
+  "date": "2026-11-19",
+  "status": "原链 200 OK",
+  "excerpt": "While refrigerators were getting hacked in Estonia, I half-seriously took a project I&rsquo;m working on and asked Claude Code if there are any low-hanging fruit regarding security that we could improve. It found one issue that was easy to fix, simple oversight with a one line fix, so I just went along with it. Then it got stopped because of bullshit &ldquo;",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Safeguards",
+  "cn": {
+   "kw": "Safeguards",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 724,
+    "recent_median": 202,
+    "max_play": 6456,
+    "recent30d": 3,
+    "top": [
+     "【𝐇𝐢-𝐑𝐞𝐬无损音质】｜《Saving》- Agera -(6456)",
+     "日推歌曲|Go Down Deh（feat.Shaggy and Sean Paul）-(2156)",
+     "【MMTV】Sagan - Cant Save Me (feat. Kazi)(1479)"
+    ]
+   },
+   "suggest": [],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Claude solves two open problems in the physics of black holes",
+  "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+  "hn": "https://news.ycombinator.com/item?id=50563148",
+  "points": 559,
+  "comments": 270,
+  "date": "2026-11-19",
+  "status": "原链 200 OK",
+  "excerpt": "Claude Fable 5.2 has solved two open problems in theoretical physics. Both concern black holes and the search for a theory of quantum gravity. ‖ Skip to main content 01Introduction Claude has solved two open problems in theoretical physics. Both concern black holes and the search for a theory of quantum gravity. In the first, it completed a calculation that ",
+  "dup": true,
+  "dup_why": "1天前(2026-11-20)用过同一条链接",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7004,
+    "recent_median": 6234,
+    "max_play": 2142461,
+    "recent30d": 16,
+    "top": [
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2142461)",
+     "疯了！！！ns方程无外力版也被Claude解决(3970)",
+     "今天来找Claude合租了…(3092)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claude黎曼猜想",
+    "claude code",
+    "claude封号",
+    "claude大小姐",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+  "url": "https://signal.org/blog/protecting-your-privacy/",
+  "hn": "https://news.ycombinator.com/item?id=50572348",
+  "points": 556,
+  "comments": 327,
+  "date": "2026-11-20",
+  "status": "原链 200 OK",
+  "excerpt": "Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting the latest AI agents built into mobile operating systems from potentially capturing and storing your Signal data. ‖ Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting th",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 16034,
+    "recent_median": 2531,
+    "max_play": 1566726,
+    "recent30d": 13,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1566726)",
+     "【全748集】目前B站最全最细的AI Agent零基础全套教程，2026最新版，包含所有(7853)",
+     "通俗易懂地讲解什么是Agent？(259829)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent开发",
+    "aiagent是什么",
+    "aiagent开发学习路线",
+    "aiagent实战项目",
+    "aiagent推荐",
+    "aiagent使用教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+  "url": "https://git-aarvin.github.io/mei/",
+  "hn": "https://news.ycombinator.com/item?id=50568130",
+  "points": 370,
+  "comments": 243,
+  "date": "2026-11-19",
+  "status": "原链 200 OK",
+  "excerpt": "Language model performance on engineering tasks, compared by cost and token use.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Gemini",
+  "cn": {
+   "kw": "Gemini",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 12497,
+    "recent_median": 10792,
+    "max_play": 381044,
+    "recent30d": 17,
+    "top": [
+     "Gemini 4 Neon 实测：谷歌发力！这次真不一样了！(88569)",
+     "【全网最新】Gemini学生优惠认证教程 _ 免费领取一年 Google AI Pro会(78043)",
+     "¥30/月拿下谷歌日区学生 AI Pro！吊打美区免费试用，反重力直连 Gemini 4(16486)"
+    ]
+   },
+   "suggest": [
+    "gemini",
+    "gemini使用教程",
+    "gemini学生认证",
+    "gemini怎么下载",
+    "gemini新模型20刀反超旗舰",
+    "gemini4",
+    "gemini4hydrogen",
+    "gemini看我们的时代"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+  "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+  "hn": "https://news.ycombinator.com/item?id=50581438",
+  "points": 291,
+  "comments": 156,
+  "date": "2026-11-20",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：Oh boy, here we go! / Didn't have nvidia being Enron 2.0 on my bingo card. / Just as predicted, the AI market collapses right after midterm. / This is just a continuation of the circular financing that has plagued Nvidia for the past 5 years. If the last earnings / Black Monday? / They're now down nearly 50% since their high 6 weeks ago. Absolutely c",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 18575,
+    "recent_median": 20764,
+    "max_play": 1774139,
+    "recent30d": 19,
+    "top": [
+     "美股暴跌！英伟达被查！(89312)",
+     "AI锁国时代来了？英伟达被SEC盯上！反弹只是死猫跳？大空头要收手了？(9005)",
+     "~第1506期~英伟达临时CEO试图“金元维稳”，AI泡沫面临釜底抽薪？20261120(21082)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达发展史",
+    "英伟达股票暴跌",
+    "英伟达宣布CEO黄仁勋辞职",
+    "英伟达显卡驱动",
+    "英伟达621.24",
+    "英伟达新ceo"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Google workers tell their employer not to punish schools that don't want AI",
+  "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+  "hn": "https://news.ycombinator.com/item?id=50577901",
+  "points": 277,
+  "comments": 214,
+  "date": "2026-11-20",
+  "status": "原链 200 OK",
+  "excerpt": "Executives are “convinced that resistance to AI\" just means schools \"don’t see the vision,” a Google staffer said.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2777,
+    "recent_median": 1420,
+    "max_play": 4110843,
+    "recent30d": 13,
+    "top": [
+     "全网最简单的谷歌账号注册教程（无需拔卡、扫码、更改设置），只用手机即可轻松操作(1099476)",
+     "Gemini 4 Neon 实测：谷歌发力！这次真不一样了！(88569)",
+     "【搬运】oppo手机安装google play商店方法，操作简单！OPPO手机如何安装g(351920)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌",
+    "谷歌浏览器怎么下",
+    "谷歌ultra",
+    "谷歌地图",
+    "谷歌浏览器无法打开网页",
+    "谷歌play打不开",
+    "谷歌邮箱怎么下"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+  "url": "https://thedataexchange.media/pete-warden-moonshine/",
+  "hn": "https://news.ycombinator.com/item?id=50561508",
+  "points": 270,
+  "comments": 247,
+  "date": "2026-11-19",
+  "status": "原链 200 OK",
+  "excerpt": "Pete Warden on Local AI, Open Models, Voice Interfaces, and the Future of Hardware.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Warden",
+  "cn": {
+   "kw": "Warden",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3267,
+    "recent_median": 318,
+    "max_play": 182628,
+    "recent30d": 3,
+    "top": [
+     "The Warden音色试听2(598)",
+     "roblox《warden》(160)",
+     "【Deadlock死锁】沃督 Warden｜职业选手 Jamside 狂野火力全开！第一(318)"
+    ]
+   },
+   "suggest": [
+    "warden",
+    "warden教学",
+    "warden看守者",
+    "Wardenplus",
+    "warden玩家的一生",
+    "warden削弱",
+    "warden怎么玩",
+    "warden出装"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+  "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-20",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building. ‖ Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building. Tim De Chant 11:53 AM PST · November 20, 2026 Spotify founder Daniel Ek is backing Europa Fusion, a stealthy fusion power startup fou",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Daniel",
+  "cn": {
+   "kw": "Daniel",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 204,
+    "recent_median": 170,
+    "max_play": 325060,
+    "recent30d": 15,
+    "top": [
+     "Daniel Palanker- -Prosthetic Vision with a P(1)",
+     "Daniel&#x27;s Car Shop(58)",
+     "Daniel老师的美式英语发音和口语课程(87313)"
+    ]
+   },
+   "suggest": [
+    "Daniel",
+    "DanielGrassl",
+    "danielcaesar",
+    "danielricciardo",
+    "Danielcraig",
+    "danielmillar",
+    "DanielPowter",
+    "danielnaroditsky"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+  "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-20",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too. ‖ AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too Tim Fernholz 11:32 AM PST · November 20, 2026 It’s a big week for Levent Alpöge: The mathematician saw his employer, Anthropic, become the first publicl",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Riemann",
+  "cn": {
+   "kw": "Riemann",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1960,
+    "recent_median": 217,
+    "max_play": 51053,
+    "recent30d": 4,
+    "top": [
+     "【黎曼曲面】【MSRI】Riemann Surfaces by Jacob Bernst(4881)",
+     "Brian Williams - Higher central charges and (10)",
+     "32-riemann sum黎曼和(1794)"
+    ]
+   },
+   "suggest": [
+    "Riemann猜想",
+    "riemannhypothesis",
+    "Riemann函数",
+    "riemannintegral",
+    "riemann积分",
+    "riemann曲面",
+    "riemann函数连续性",
+    "riemann积分的分析性质"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "Ars Technica",
+  "title": "Google rolls out new search homepage with AI chat history and no search button",
+  "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-20",
+  "desc": "",
+  "status": "原链 405 · 正文经 jina",
+  "excerpt": "Title: Google rolls out new search homepage with AI chat history and no search button URL Source: https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/ Published Time: 2026-11-20T21:58:29+00:00 Markdown Content: Privacy Center Currently, only residents from GDPR countries and certain US states can opt out of Tracking Technologies through our Consent Management",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2777,
+    "recent_median": 1420,
+    "max_play": 4110843,
+    "recent30d": 13,
+    "top": [
+     "全网最简单的谷歌账号注册教程（无需拔卡、扫码、更改设置），只用手机即可轻松操作(1099476)",
+     "Gemini 4 Neon 实测：谷歌发力！这次真不一样了！(88569)",
+     "【搬运】oppo手机安装google play商店方法，操作简单！OPPO手机如何安装g(351920)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌",
+    "谷歌浏览器怎么下",
+    "谷歌ultra",
+    "谷歌地图",
+    "谷歌浏览器无法打开网页",
+    "谷歌play打不开",
+    "谷歌邮箱怎么下"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]

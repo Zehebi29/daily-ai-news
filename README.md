@@ -7,6 +7,22 @@
 ## 最新资讯
 
 
+### 2026-11-21（周六·轻量问答/讨论）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-11-21 周六
+
+1. **AI宣称解开167年黎曼猜想，人类数学家也交了另一份** — 这道题挂了167年没人解开，现在AI给出答案，同时还有一位人类数学家交出竞争解法。它问的是素数怎么分布，而素数是网上加密的地基，所以离你的银行卡没那么远。B站热搜同时在刷「AI解决黎曼猜想」「AI宣称击破NS方程」。来源：TechCrunch AI https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/
+
+2. **Signal 禁止手机自带AI读取聊天内容** — Signal 官方公告，限制手机系统内置的AI助手抓取和存储其聊天数据。原因是这类AI能看屏幕、能代操作App，记录被抄走加密就白做了。端到端加密只管路上不被偷看，管不了终点的AI另存一份。来源：Signal 官方博客 https://signal.org/blog/protecting-your-privacy/ （HN 556pts）
+
+3. **美国证监会调查英伟达会计问题，讨论区刷「Enron 2.0」** — 路透消息，SEC 正查英伟达潜在会计问题，具体内容未公开；HN 291分、150多条评论。网友提「循环融资」：投钱给客户、客户再回来买货。这是网友判断，非官方结论。对持有AI相关基金或股票的人，直接影响短期情绪。来源：Hacker News https://news.ycombinator.com/item?id=50581438
+
+4. **谷歌搜索首页改版：搜索按钮没了，加AI侧栏** — 新版首页取消搜索按钮，右侧加AI侧栏，并可查看此前的AI对话历史。搜索从「挑十条链接」变成「判断一段话靠不靠谱」，提问历史也在积累成个人档案。国内百度、夸克走的是同一条路。来源：Ars Technica https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/
+
+5. **AI自己设计出CPU，能效达现代核心4.59倍** — Architect Labs 称其AI系统端到端完成 Frostbite 的架构发现、设计与验证，走「交互网」路线，每瓦性能为现代超标量核心的4.59倍。数据来自公司自家博客，尚无第三方复现，先当参考。来源：Architect Labs https://architectlabs.com/blog/frostbite （HN 651pts）
+
+
 ### 2026-11-20（周五·工具实测）
 
 📡 每日AI信息差 · 今日要点
@@ -100,26 +116,11 @@
    来源：GitHub https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax（HN 246 pts）
 
 
-### 2026-11-14（周六·信息差速览）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-11-14 周六
-
-1. **ChatGPT 上线「钱包」，AI 能替你下单付款** — 官方说法是先在美国小范围放开，AI 代理可以直接挑商品、结账。方便，但卡额度、收货地址、退款纠纷都交给一个会自己拿主意的程序。开通前先划清：哪些消费不许 AI 自己决定。来源：TechCrunch AI 2026-11-13 https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
-
-2. **英伟达被曝自己制造缺货：投钱给创业公司，再让它们买自家显卡** — 黄仁勋离职后曝出的报道称，英伟达投资 AI 创业公司，这些公司回头买英伟达显卡建数据中心。若成立，涨价缺货不全是市场造成，游戏显卡、内存条、云服务器都跟着涨。来源：HN 722 分 2026-11-14 https://news.ycombinator.com/item?id=50493251
-
-3. **取证团队称国产大模型里有禁售显卡的痕迹** — 分析称 DeepSeek、月之暗面、MiniMax、蚂蚁的模型出现英伟达 Blackwell 特征，而这批卡不该卖到中国。限制如果没完全生效，或继续收紧，都会传导到国产 AI 产品的价格与速度。来源：HN 365 分 2026-11-12 https://news.ycombinator.com/item?id=50474883
-
-4. **Anthropic 提交文件，正式启动上市流程** — 同时公开创始人信，外网讨论一天 996 分、九百多条评论。上市意味着开始对股东负责，免费额度和定价会更看财报。重要对话记录、常用提示词先自己备份。来源：HN 996 分 2026-11-12 https://news.ycombinator.com/item?id=50465829
-
-5. **谷歌发布 Gemini 4 Hydrogen** — 官方定位是「日常主力」，给 AI 自己连着干好几步的任务用，外网 565 分、350 条讨论。「更强」和「更能干活」是两回事，值不值得换只看一件事：你有没有愿意交给它串起来的重复活。来源：HN 565 分 2026-11-12 https://news.ycombinator.com/item?id=50471431
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-21 | [→](daily/2026-11-21.md) |
 | 11-20 | [→](daily/2026-11-20.md) |
 | 11-19 | [→](daily/2026-11-19.md) |
 | 11-18 | [→](daily/2026-11-18.md) |
@@ -149,4 +150,3 @@
 | 10-25 | [→](daily/2026-10-25.md) |
 | 10-24 | [→](daily/2026-10-24.md) |
 | 10-23 | [→](daily/2026-10-23.md) |
-| 10-22 | [→](daily/2026-10-22.md) |
