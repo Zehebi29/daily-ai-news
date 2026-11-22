@@ -7,6 +7,19 @@
 ## 最新资讯
 
 
+### 2026-11-22（周日·趋势前瞻）
+
+1. **AI 自己设计出芯片，能效是现在的 4.59 倍** — Architect Labs 称，自家的 AI 系统从零发现、设计并验证了一颗通用 CPU，取名 Frostbite，同样耗电下性能是现代通用 CPU 的 4.59 倍。芯片设计一直是最吃人力的环节，这条路走通，被波及的可能是硬件工程师。来源：Hacker News 671 分 · https://architectlabs.com/blog/frostbite
+
+2. **纳指抹平 2026 全年涨幅，AI 泡沫开始漏气？** — 11 月 20 日纳斯达克把今年涨幅全部跌回去，Anthropic 上市第二天股价几乎回到发行价。报道称投资人开始怀疑砸进 AI 基建的钱是不是太多了。如果你买了科技 ETF 或美股基金，这条值得盯。来源：The Guardian · https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off
+
+3. **手机 AI 助手不许再「偷看」你的聊天** — Signal 宣布限制手机系统自带 AI 助手读取和保存它的聊天数据，同时在安卓和 iOS 上限制截图，理由是 AI 监控已成「生存威胁」。手机厂商都在推 AI 帮回消息，代价是你的对话要先被读一遍。来源：Signal 官方博客 · https://signal.org/blog/protecting-your-privacy/
+
+4. **你每问一次 AI，背后在烧天然气** — 一份针对 Anthropic 用电的案例分析估算：到 2028 年它 87% 的电来自天然气、11% 来自煤，一年或排放 3200 万吨二氧化碳。AI 公司等不及电网扩容，开始自己建电站、包燃气机组。来源：Hacker News 222 分 · https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/
+
+5. **英伟达被 SEC 调查会计问题，股价距高点跌近一半** — 美国证券交易委员会正调查英伟达的会计问题，消息来自知情人士。HN 讨论称它距六周前高点已跌近 50%，有人喊「第二个安然」。英伟达是这轮 AI 行情的地基，账本被查，整条产业链都要重新估值。来源：Hacker News 303 分 · https://news.ycombinator.com/item?id=50581438
+
+
 ### 2026-11-21（周六·轻量问答/讨论）
 
 📡 每日AI信息差 · 今日要点
@@ -98,28 +111,11 @@
 5. **苹果出新 App，研究你怎么用 AI 看病** — 苹果上线一款研究类 App，目的是搞清楚普通人到底怎么用 AI 问健康问题：问什么、信不信、问完有没有真的去看医生。OpenAI 和 Anthropic 都已推出面向医疗的 AI 产品，苹果这一步是在抢健康数据入口——它手里本来就有手表的心率、睡眠数据，再加上你问 AI 的那些话，拼起来就是一张相当完整的健康画像。对普通人有两面：一边是看病更方便，小毛病先问问 AI；另一边是健康数据越来越集中，交给谁、用来干什么值得多留个心眼。来源：TechCrunch <https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/>
 
 
-### 2026-11-15（周日·趋势前瞻）
-
-1. **英伟达被指「自己造缺货」** — 华尔街日报报道称，英伟达给 AI 初创公司投钱，这些公司再回头买它的显卡建数据中心。HN 热帖 1077 分、642 条评论登顶。同批新闻还有：安全负责人 8 月悄悄离职，前 CEO 黄仁勋因个人关系问题辞职，内部 1600 多人留言要求请他回来。跟你有关的部分是价格：AI 公司烧的钱，最后会摊进你的会员费。
-   来源：Hacker News https://news.ycombinator.com/item?id=50493251（1077 pts）｜TechSpot https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html
-
-2. **Claude 三个入口同时挂** — 今天 claude.ai、Claude Code、开发者后台一起报错，官方状态页承认错误率升高。HN 493 分、389 条评论，抱怨最多的是「我今天的活全卡在这了」。提醒：重要资料留本地备份，别把全部工作押在一个网页上。
-   来源：Claude Status https://status.claude.com/incidents/nn11wk485zfn（HN 493 pts）
-
-3. **TechCrunch 立了块「AI 墓地」** — 一份还在持续更新的名单：Character.ai 上线五年就申请破产，苹果 Siri AI 一再跳票，OpenAI 的超级 App 发布被形容为混乱。套路很固定：大肆宣传→跳票→悄无声息。别为还不存在的功能付年费。国内近 30 天几乎无人做同题，属于空白窗口。
-   来源：TechCrunch https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
-
-4. **AI 正在毁掉写作者和读者的信任** — HN 367 分讨论。亚马逊允许个人作者每周上传 6 本书，等于一天一本。读者的第一反应从「写得好不好」变成「是不是机器写的」。判断内容值不值得看：有没有具体的人、具体的事、具体的数字。
-   来源：Hacker News https://news.ycombinator.com/item?id=50481870（367 pts）
-
-5. **DeepSeek V3 被塞进 190 行代码** — 一个开发者用纯 JAX 重写，含注意力、专家混合、负载均衡、多方预测，在 MacBook Air 上跑通，不用 PyTorch / Flax。代码能从上往下读完。门槛在降：学生用笔记本就能碰模型训练。国内近 30 天 19 条 DeepSeek 内容，但没人做「最小实现」这个角度。
-   来源：GitHub https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax（HN 246 pts）
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-22 | [→](daily/2026-11-22.md) |
 | 11-21 | [→](daily/2026-11-21.md) |
 | 11-20 | [→](daily/2026-11-20.md) |
 | 11-19 | [→](daily/2026-11-19.md) |
@@ -149,4 +145,3 @@
 | 10-26 | [→](daily/2026-10-26.md) |
 | 10-25 | [→](daily/2026-10-25.md) |
 | 10-24 | [→](daily/2026-10-24.md) |
-| 10-23 | [→](daily/2026-10-23.md) |

@@ -1,0 +1,509 @@
+[
+ {
+  "src": "HN",
+  "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+  "url": "https://architectlabs.com/blog/frostbite",
+  "hn": "https://news.ycombinator.com/item?id=50572503",
+  "points": 671,
+  "comments": 360,
+  "date": "2026-11-20",
+  "status": "原链 200 OK",
+  "excerpt": "Frostbite is a general-purpose CPU built around interaction nets, discovered, designed, and verified end-to-end by our AI systems, reaching 4.59x the performance-per-watt of a modern superscalar (dual-issue, in-order) CPU core. ‖ In our previous post, Redwood, we showed that given an architecture, our AI systems could implement, verify, and deploy an inferen",
+  "dup": true,
+  "dup_why": "1天前(2026-11-21)用过同一条链接",
+  "cn_kw": "Frostbite",
+  "cn": {
+   "kw": "Frostbite",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 8687,
+    "recent_median": 0,
+    "max_play": 573323,
+    "recent30d": 0,
+    "top": [
+     "Doors硬核模式:重燃Part6(frostbite特别篇)(1086)",
+     "【FNF Hypnos Lullaby V2】白银山之雪都市传说，可怜的Gold！神曲f(573323)",
+     "【incredibox】Frostbite v1 全人物档案翻译(9603)"
+    ]
+   },
+   "suggest": [
+    "frostbite",
+    "frostbitev7",
+    "frostbiteV1",
+    "frostbitev3",
+    "frostbiteV6",
+    "frostbitev8",
+    "frostbiteV5",
+    "frostbiteV2"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+  "url": "https://signal.org/blog/protecting-your-privacy/",
+  "hn": "https://news.ycombinator.com/item?id=50572348",
+  "points": 576,
+  "comments": 342,
+  "date": "2026-11-20",
+  "status": "原链 200 OK",
+  "excerpt": "Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting the latest AI agents built into mobile operating systems from potentially capturing and storing your Signal data. ‖ Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting th",
+  "dup": true,
+  "dup_why": "1天前(2026-11-21)用过同一条链接",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 23237,
+    "recent_median": 3261,
+    "max_play": 1572467,
+    "recent30d": 10,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1572467)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1485457)",
+     "【全748集】目前B站最全最细的AI Agent零基础全套教程，2026最新版，包含所有(11355)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent开发",
+    "aiagent是什么",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent使用教程",
+    "aiagent开发课程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+  "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+  "hn": "https://news.ycombinator.com/item?id=50574383",
+  "points": 514,
+  "comments": 899,
+  "date": "2026-11-20",
+  "status": "原链 200 OK",
+  "excerpt": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout ‖ Shares in Anthropic, which makes the Claude chatbot, were on Friday worth hardly more than when they listed. Photograph: Leonardo Muñoz/AFP/Getty Images View image in fullscreen Shares in Anthropic, which makes the ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13600,
+    "recent_median": 11192,
+    "max_play": 2145869,
+    "recent30d": 18,
+    "top": [
+     "Claude证明了黎曼猜想？然后呢？(2032)",
+     "人类 + Claude、100%纯人工，都各自独立证明了「黎曼猜想 」？无外力的纳维-斯(11156)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2145869)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude黎曼猜想",
+    "claude大小姐",
+    "claude封号",
+    "claude code",
+    "claude下载"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+  "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+  "hn": "https://news.ycombinator.com/item?id=50581438",
+  "points": 303,
+  "comments": 169,
+  "date": "2026-11-20",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：Oh boy, here we go! / Didn't have nvidia being Enron 2.0 on my bingo card. / Just as predicted, the AI market collapses right after midterm. / This is just a continuation of the circular financing that has plagued Nvidia for the past 5 years. If the last earnings / Black Monday? / They're now down nearly 50% since their high 6 weeks ago. Absolutely c",
+  "dup": true,
+  "dup_why": "1天前(2026-11-21)用过同一条链接",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 12272,
+    "recent_median": 16049,
+    "max_play": 1944016,
+    "recent30d": 18,
+    "top": [
+     "美股暴跌！英伟达被查！(200587)",
+     "英伟达拒绝黄仁勋，史上最大的泡沫更脆弱了(1944016)",
+     "AI锁国时代来了？英伟达被SEC盯上！反弹只是死猫跳？大空头要收手了？(12048)"
+    ]
+   },
+   "suggest": [
+    "英伟达不再接受中国订单",
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达发展史",
+    "英伟达股票暴跌",
+    "英伟达显卡驱动",
+    "英伟达新ceo",
+    "英伟达遭美国证交会调查"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Google workers tell their employer not to punish schools that don't want AI",
+  "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+  "hn": "https://news.ycombinator.com/item?id=50577901",
+  "points": 282,
+  "comments": 229,
+  "date": "2026-11-20",
+  "status": "原链 200 OK",
+  "excerpt": "Executives are “convinced that resistance to AI\" just means schools \"don’t see the vision,” a Google staffer said.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6200,
+    "recent_median": 6400,
+    "max_play": 1105697,
+    "recent30d": 15,
+    "top": [
+     "Gemini 4 Neon 实测：谷歌发力！这次真不一样了！(107515)",
+     "手机电脑都能用 Google Chrome【谷歌浏览器】安装包，网页秒开不卡顿，电脑手机(1456)",
+     "2026最新谷歌三件套安装教程，保姆级教程 小白也会一键安装谷歌框架简单操作(2045)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌",
+    "谷歌地图",
+    "谷歌浏览器怎么下",
+    "谷歌怎么登录",
+    "谷歌浏览器无法打开网页",
+    "谷歌ultra",
+    "谷歌play打不开"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+  "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+  "hn": "https://news.ycombinator.com/item?id=50597612",
+  "points": 222,
+  "comments": 324,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "A case study of Anthropic’s total power use and emissions. We find the company could emit 32 million metric tons of carbon dioxide in 2028. ‖ A case study of Anthropic’s total power use and emissions. We find the company could emit 32 million metric tons of carbon dioxide in 2028. In The AI Gas Rush: Risks and Implications of “Bring Your Own Power”, we dug i",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13600,
+    "recent_median": 11192,
+    "max_play": 2145869,
+    "recent30d": 18,
+    "top": [
+     "Claude证明了黎曼猜想？然后呢？(2032)",
+     "人类 + Claude、100%纯人工，都各自独立证明了「黎曼猜想 」？无外力的纳维-斯(11156)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2145869)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude使用教程",
+    "claude黎曼猜想",
+    "claude大小姐",
+    "claude封号",
+    "claude code",
+    "claude下载"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Data Processing Incidents on Inference Providers",
+  "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+  "hn": "https://news.ycombinator.com/item?id=50595554",
+  "points": 179,
+  "comments": 68,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "OpenRouter off-boarded three providers, removed 125 endpoints from Zero Data Retention eligibility, and notified potentially affected customers after canary token research on inference providers. ‖ Provider security announcements Provider security announcementsEarlier this week, security researchers reported that certain inference providers had data compromi",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Processing",
+  "cn": {
+   "kw": "Processing",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7215,
+    "recent_median": 12980,
+    "max_play": 145966,
+    "recent30d": 2,
+    "top": [
+     "每天十分钟，爱上processing！超详细processing 入门课(127364)",
+     "二锅头【Processing零基础中文教程】1、入门篇(艺术生适用)(145966)",
+     "【Processing教程】吹气互动(24909)"
+    ]
+   },
+   "suggest": [
+    "processing",
+    "processing教学",
+    "processing下载",
+    "processing交互设计",
+    "processing作品",
+    "processing下载安装",
+    "processing怎么下载",
+    "processing图片交互"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Vibecoding an inference chip",
+  "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+  "hn": "https://news.ycombinator.com/item?id=50579297",
+  "points": 175,
+  "comments": 76,
+  "date": "2026-11-20",
+  "status": "原链 200 OK",
+  "excerpt": "how coding agents wrote 3M lines of code to implement and optimize LLM inference on an FPGA",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "芯片",
+  "cn": {
+   "kw": "芯片",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 53621,
+    "recent_median": 54302,
+    "max_play": 3352558,
+    "recent30d": 17,
+    "top": [
+     "EUV光刻机 | &quot;上帝的手术刀&quot;(3352558)",
+     "地铁逃拼装大金《微缩战蛛模型》主控芯片！(85410)",
+     "BIS芯片管控|不止断供芯片！美国新规锁死海外代工 + 算力 #美国芯片禁令 #全球半导(2168)"
+    ]
+   },
+   "suggest": [
+    "芯片",
+    "芯片控制大脑",
+    "芯片的工作原理",
+    "芯片怎么堆叠",
+    "芯片组",
+    "芯片性能排行",
+    "芯片专业有哪些",
+    "芯片如何工作"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "ClawDOS – An AI coding agent for DOS",
+  "url": "http://ricapar.net/ClawDOS/",
+  "hn": "https://news.ycombinator.com/item?id=50586292",
+  "points": 166,
+  "comments": 52,
+  "date": "2026-11-21",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：I love what I see! / It feels very cute and mischievous to start agents in unusual environments (DOS, Linux running on a feature phone, Windo / Seriously speaking, I feel the market is sorely lacking an Agent for the large number of existing devices running WinXP, / prob. many people dont even know what DOS is anymore :D / I have to say this is reall",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 23237,
+    "recent_median": 3261,
+    "max_play": 1572467,
+    "recent30d": 10,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1572467)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1485457)",
+     "【全748集】目前B站最全最细的AI Agent零基础全套教程，2026最新版，包含所有(11355)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent开发",
+    "aiagent是什么",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent使用教程",
+    "aiagent开发课程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "ChatGPT for SNES",
+  "url": "https://www.bxfoundry.com/chatgpt_snes/",
+  "hn": "https://news.ycombinator.com/item?id=50568548",
+  "points": 128,
+  "comments": 42,
+  "date": "2026-11-20",
+  "status": "原链 200 OK",
+  "excerpt": "An unofficial experiment: a small language model running on the Super FX chip of a Super NES cartridge. Not made or endorsed by OpenAI. ‖ Type on your keyboard. Backspace deletes; Page Up and Page Down scroll. It simulates a control pad entry.Your keys are the controller: arrows, X = A, Z = B, A = Y, Enter = Start. Your keys are the controller: arrows, X = A",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 24512,
+    "recent_median": 22083,
+    "max_play": 7930051,
+    "recent30d": 12,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(1021092)",
+     "史上最详细GPT使用教程，涵盖注册、安装、订阅以及各种问题解决方案！(379821)",
+     "ChatGPT手机版如何下载？安卓苹果保姆级教程，从安装到订阅Plus全搞定(489839)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt国内使用教程",
+    "chatgpt",
+    "chatgpt电脑端安装",
+    "chatgpt安卓下载",
+    "chatgpt安装教程",
+    "chatgptplus如何购买",
+    "chatgptapp安卓怎么下载"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+  "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-21",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Signal",
+  "cn": {
+   "kw": "Signal",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 12751,
+    "recent_median": 52000,
+    "max_play": 3012643,
+    "recent30d": 2,
+    "top": [
+     "【韩剧】signal 信-号【16集全】(3012643)",
+     "白宫都在用的聊天App，Signal到底有多强？(247822)",
+     "【匿名代投】Rejection - Signal ft. Such(0.9x) 95.5(9)"
+    ]
+   },
+   "suggest": [
+    "signal",
+    "signals",
+    "signaltwice",
+    "signal信号",
+    "signalis全结局",
+    "signaltapii的使用方法",
+    "signalis流程",
+    "signal下载"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Here are the top AI agents that can live in your text messages",
+  "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-21",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. ‖ Here are the top AI agents that can live in your text messages Lauren Forristal 9:00 AM PST · November 21, 2026 Rather than downloading another app, a growing number of agents can simply be texted l",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 23237,
+    "recent_median": 3261,
+    "max_play": 1572467,
+    "recent30d": 10,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1572467)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1485457)",
+     "【全748集】目前B站最全最细的AI Agent零基础全套教程，2026最新版，包含所有(11355)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent开发",
+    "aiagent是什么",
+    "aiagent实战项目",
+    "aiagent开发学习路线",
+    "aiagent使用教程",
+    "aiagent开发课程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]
