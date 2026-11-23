@@ -1,0 +1,478 @@
+[
+ {
+  "src": "HN",
+  "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+  "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+  "hn": "https://news.ycombinator.com/item?id=50597612",
+  "points": 988,
+  "comments": 968,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "A case study of Anthropic’s total power use and emissions. We find the company could emit 32 million metric tons of carbon dioxide in 2028. ‖ A case study of Anthropic’s total power use and emissions. We find the company could emit 32 million metric tons of carbon dioxide in 2028. In The AI Gas Rush: Risks and Implications of “Bring Your Own Power”, we dug i",
+  "dup": true,
+  "dup_why": "1天前(2026-11-22)用过同一条链接",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 18556,
+    "recent_median": 11274,
+    "max_play": 2150579,
+    "recent30d": 15,
+    "top": [
+     "Claude:我们终于又见面了(3245)",
+     "为了使用Claude，中国地区用户都用了什么招？(10644)",
+     "大肥鱼：和Claude大小姐一起去露营！(116538)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude黎曼猜想",
+    "claude使用教程",
+    "claude大小姐",
+    "claude code",
+    "claude封号",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+  "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+  "hn": "https://news.ycombinator.com/item?id=50603845",
+  "points": 579,
+  "comments": 239,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "Set up your own free personal ChatGPT on your PC with Unsloth and Inkling or Qwen. It's private, and the whole house can use it. ‖ Set up your own free personal ChatGPT on your PC with Unsloth and Inkling or Qwen. It's private, and the whole house can use it. With the launch of open-weight models like Qwen, cloud-based LLM providers seem like they're more of",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "通义千问",
+  "cn": {
+   "kw": "通义千问",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 14300,
+    "recent_median": 3244,
+    "max_play": 1058396,
+    "recent30d": 9,
+    "top": [
+     "阿里通义千问发布 Qwen 4 Max 正式版，办公方面表现良好，综合表现中等偏上(41738)",
+     "【2026最新版】Qwen3本地部署与微调实战，手把手带你从零训练特定领域大模型，环境配(48470)",
+     "新旗舰模型Qwen4-Max限时免费！6个白嫖渠道大汇总(2313)"
+    ]
+   },
+   "suggest": [
+    "通义千问api",
+    "通义千问使用教程",
+    "通义千问部署",
+    "通义千问教程",
+    "通义千问api调用教程",
+    "通义千问本地部署教程",
+    "通义千问apikey",
+    "通义千问免费api"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Show HN: I built a game where you are an LLM's subagent",
+  "url": "https://github.com/gulivan/worker755",
+  "hn": "https://news.ycombinator.com/item?id=50599762",
+  "points": 333,
+  "comments": 79,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "A browser game where an AI manager thinks you are its subagent. Play at worker755.com - gulivan/worker755",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "大模型",
+  "cn": {
+   "kw": "大模型",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2053,
+    "recent_median": 1641,
+    "max_play": 3888873,
+    "recent30d": 15,
+    "top": [
+     "【文明与地图】12个大模型在文明中轮回，让我们赞美圣皇！(53801)",
+     "11.22直播回放:登顶设计榜的神秘大模型，到底是谁的？(10886)",
+     "从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！(2283192)"
+    ]
+   },
+   "suggest": [
+    "大模型零基础入门教程",
+    "大模型",
+    "大模型原理",
+    "大模型训练全流程",
+    "大模型本地部署",
+    "大模型君主",
+    "大模型应用开发",
+    "大模型原理讲解"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Data Processing Incidents on Inference Providers",
+  "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+  "hn": "https://news.ycombinator.com/item?id=50595554",
+  "points": 289,
+  "comments": 100,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "OpenRouter off-boarded three providers, removed 125 endpoints from Zero Data Retention eligibility, and notified potentially affected customers after canary token research on inference providers. ‖ Provider security announcements Provider security announcementsEarlier this week, security researchers reported that certain inference providers had data compromi",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Processing",
+  "cn": {
+   "kw": "Processing",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7219,
+    "recent_median": 0,
+    "max_play": 145986,
+    "recent30d": 0,
+    "top": [
+     "每天十分钟，爱上processing！超详细processing 入门课(127367)",
+     "二锅头【Processing零基础中文教程】1、入门篇(艺术生适用)(145986)",
+     "processing载入视频教程(1400)"
+    ]
+   },
+   "suggest": [
+    "processing",
+    "processing教学",
+    "processing作品",
+    "processing交互设计",
+    "processing下载",
+    "processing下载安装",
+    "processing图片交互",
+    "processing怎么下载"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+  "url": "https://z.ai/blog/glm-5.4",
+  "hn": "https://news.ycombinator.com/item?id=50609685",
+  "points": 283,
+  "comments": 123,
+  "date": "2026-11-23",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：Hard to say how good this is without benchmarks, I'm guessing they're not impressive or else they would have included th / Neuralese, here we come / This has come up a few times on r/LocalLLaMa and it's been considered one obvious missing piece for the latent space loo / 'Most notably, it tends to get caught in overly long \"marathon thinking\"'Get out",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Transformer",
+  "cn": {
+   "kw": "Transformer",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 31439,
+    "recent_median": 436,
+    "max_play": 1482757,
+    "recent30d": 3,
+    "top": [
+     "Transformer算法原理与实战(903678)",
+     "Transformer零基础完整流程_动画讲解(103)",
+     "【Transformer】最强动画讲解！目前B站最全最详细的Transformer教程，(510875)"
+    ]
+   },
+   "suggest": [
+    "transformer",
+    "transformer架构详解",
+    "transformer原理通俗",
+    "transformer模型",
+    "transformer原理",
+    "transformer详解",
+    "transformer2",
+    "transformer原理讲解"
+   ],
+   "hot": false,
+   "verdict": "近期空白(历史有爆款)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "The Mythology of Conscious AI",
+  "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+  "hn": "https://news.ycombinator.com/item?id=50595537",
+  "points": 177,
+  "comments": 523,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "Why consciousness is more likely a property of life than of computation and why creating conscious, or even conscious-seeming AI, is a bad idea. ‖ Why consciousness is more likely a property of life than of computation and why creating conscious, or even conscious-seeming AI, is a bad idea. Anil Seth won the 2025 annual Berggruen Prize Essay Competition for ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Mythology",
+  "cn": {
+   "kw": "Mythology",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3751,
+    "recent_median": 1012,
+    "max_play": 210644,
+    "recent30d": 3,
+    "top": [
+     "【英语】古典神话.TGC.Classical Mythology(77544)",
+     "《神话时代·重述版》Age of Mythology: Retold 全战役泰坦难度【完(21327)",
+     "【SophiaC医学英语】医学原著精读课(61549)"
+    ]
+   },
+   "suggest": [
+    "mythology998",
+    "mythologyguy",
+    "mythology黑神话",
+    "mythology怎么读",
+    "mythologyguy黑神话",
+    "什么是神话mythology"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "ClawDOS – An AI coding agent for DOS",
+  "url": "http://ricapar.net/ClawDOS/",
+  "hn": "https://news.ycombinator.com/item?id=50586292",
+  "points": 175,
+  "comments": 52,
+  "date": "2026-11-21",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：I love what I see! / It feels very cute and mischievous to start agents in unusual environments (DOS, Linux running on a feature phone, Windo / Seriously speaking, I feel the market is sorely lacking an Agent for the large number of existing devices running WinXP, / prob. many people dont even know what DOS is anymore :D / I have to say this is reall",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4933,
+    "recent_median": 1320,
+    "max_play": 1580971,
+    "recent30d": 15,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1580971)",
+     "【全748集】目前B站最全最细的AI Agent零基础全套教程，2026最新版，包含所有(16166)",
+     "FDE工程师实战：从产品需求到AI Agent开(24)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent开发",
+    "aiagent开发学习路线",
+    "aiagent是什么",
+    "aiagent实战项目",
+    "aiagent推荐",
+    "aiagent智能体开发教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Pandex – Official European Law for AI Agents, over MCP",
+  "url": "https://www.pandex.io",
+  "hn": "https://news.ycombinator.com/item?id=50593481",
+  "points": 140,
+  "comments": 33,
+  "date": "2026-11-21",
+  "status": "原链 200 OK",
+  "excerpt": "Legislation and highest-court decisions of the EU, seven European countries and the European Court of Human Rights, from the institutions that publish them, in one API and MCP server built for search and AI. ‖ Legislation and highest-court decisions of the EU and seven European countries, straight from the institutions that publish them, ready for search and",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4933,
+    "recent_median": 1320,
+    "max_play": 1580971,
+    "recent30d": 15,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1580971)",
+     "【全748集】目前B站最全最细的AI Agent零基础全套教程，2026最新版，包含所有(16166)",
+     "FDE工程师实战：从产品需求到AI Agent开(24)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent开发",
+    "aiagent开发学习路线",
+    "aiagent是什么",
+    "aiagent实战项目",
+    "aiagent推荐",
+    "aiagent智能体开发教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI is becoming a disaster for the climate",
+  "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+  "hn": "https://news.ycombinator.com/item?id=50598961",
+  "points": 127,
+  "comments": 55,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "Two new studies reveal the exploding carbon emissions of the AI industry, while Silicon Valley pushes to kill communities’ means of protesting data centers and the impacts on human health mount. ‖ The leading AI company, just five years old, now officially boasts a net worth in the neighborhood of $1.3-$1.7 trillion, depending on how you do your accounting. ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "AI Supply Chain Security: What Canary Tokens Found",
+  "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+  "hn": "https://news.ycombinator.com/item?id=50596511",
+  "points": 103,
+  "comments": 22,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings. ‖ Blog Three breaches, endless leaks: Your AI supply chain needs canaries November 19, 2026 08:00 AM15 min readHD Moore Table of Contents Following inference data Why does AI inference data matter? How do AI routers e",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Supply",
+  "cn": {
+   "kw": "Supply",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1064,
+    "recent_median": 0,
+    "max_play": 46506,
+    "recent30d": 0,
+    "top": [
+     "supply(688)",
+     "IGCSE经济知识点精讲：Price elasticity of supply (PES(4964)",
+     "provide和supply的区别(3026)"
+    ]
+   },
+   "suggest": [
+    "supplychain",
+    "supply",
+    "supply剃须刀",
+    "supplyanddemand",
+    "supplysidepolicy",
+    "supplyment",
+    "supplybox",
+    "supply和demand"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+  "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-23",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 18556,
+    "recent_median": 11274,
+    "max_play": 2150579,
+    "recent30d": 15,
+    "top": [
+     "Claude:我们终于又见面了(3245)",
+     "为了使用Claude，中国地区用户都用了什么招？(10644)",
+     "大肥鱼：和Claude大小姐一起去露营！(116538)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude黎曼猜想",
+    "claude使用教程",
+    "claude大小姐",
+    "claude code",
+    "claude封号",
+    "claude是什么"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+  "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-22",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4503,
+    "recent_median": 4503,
+    "max_play": 308338,
+    "recent30d": 20,
+    "top": [
+     "OpenAI疑似攻克P=NP？我不信！(308338)",
+     "OpenAI：一起阻止 AI 超越人类理解；GLM-5.4 正式发布，未公布跑分；Gem(3209)",
+     "突发！OpenAI 破解 P=NP？5 分钟大白话看懂新闻与原理！(6549)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openai官宣攻克千禧年难题",
+    "OpenAI公布三项科学成果",
+    "OpenAI声称证明全维度挂谷猜想",
+    "openai智能体失控事件",
+    "openai怎么下载",
+    "openaiAPI密钥",
+    "openai智能体失控"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]

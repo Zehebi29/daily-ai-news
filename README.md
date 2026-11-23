@@ -7,6 +7,19 @@
 ## 最新资讯
 
 
+### 2026-11-23（周一·模型发布与开源日）
+
+1. **在自己电脑上装个免费私人AI** — 海外技术圈热帖（HN 579 分）：用开源模型 Qwen 等加 Unsloth 加速，在自己电脑上搭私人 AI，全家共用、断网可用、聊天记录不外传、零订阅费；门槛是要动手，但现在有一键脚本。来源：HN 579pts https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth
+
+2. **国产GLM-5.4换了个新脑结构** — 智谱发布 GLM-5.4，首次用「循环 Transformer」架构，主打写代码更稳；但没公布跑分，讨论区高赞质疑「成绩不亮眼才不放」。来源：HN 283pts https://z.ai/blog/glm-5.4
+
+3. **你发给AI的话可能被第三方看到** — 安全公司 Dragos 往 200 万条提示词里埋追踪标记，发现 3 家服务商泄露、违约留存数据；OpenRouter 随即下线 3 家供应商、125 个接口从「不留数据」名单除名。来源：HN 289pts https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
+
+4. **这款小游戏里你是AI的下属** — 海外程序员做了浏览器游戏 worker755：AI 当老板，你是它派活的子代理，免费几分钟一局，HN 333 分、79 条评论。来源：HN 333pts https://github.com/gulivan/worker755
+
+5. **OpenAI首席科学家想给AI装限速器** — 他主张给 AI 发展定「限速」，但第一步得先统一「速度怎么量」，目前没有公认标准。来源：TechCrunch https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/
+
+
 ### 2026-11-22（周日·趋势前瞻）
 
 1. **AI 自己设计出芯片，能效是现在的 4.59 倍** — Architect Labs 称，自家的 AI 系统从零发现、设计并验证了一颗通用 CPU，取名 Frostbite，同样耗电下性能是现代通用 CPU 的 4.59 倍。芯片设计一直是最吃人力的环节，这条路走通，被波及的可能是硬件工程师。来源：Hacker News 671 分 · https://architectlabs.com/blog/frostbite
@@ -98,23 +111,11 @@
    来源：Fortune https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/
 
 
-### 2026-11-16（周一·模型发布/开源）
-
-1. **英伟达被曝自导自演：显卡缺货是算出来的** — 华尔街日报报道被这两天翻出：英伟达向一批 AI 创业公司投钱，这些公司拿到钱后第一件事就是买英伟达显卡、租机房建数据中心，钱绕一圈回到英伟达账上。批评者称之为循环融资，结果就是显卡一直紧张、价格一直高，这份紧张有一部分是人为造出来的。对普通人影响很直接：装机、用便宜的 AI 服务都要为这个循环多掏钱。同一周，英伟达一位董事被曝抛售近 10 亿美元股票且未提前报备交易计划，原 CEO 黄仁勋已卸任。来源：HackerNews <https://news.ycombinator.com/item?id=50493251>｜TechCrunch <https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/>
-
-2. **有人提议：AI 写的代码都该免费公开** — 一篇博客主张所有借助 AI 生成的代码都应开源，或直接按 CC0 放弃版权，谁都能用、能改、能卖。支持者说 AI 是拿全人类代码喂出来的，产出凭什么被一家公司锁起来收费；反对者说这么搞就没人愿意再花钱做产品。HackerNews 1180 分、625 条评论。这事跟你有关：手机里的 App、公司里的系统，背后可能已有大量 AI 写的代码，这些代码归谁、能不能免费用，会决定以后软件越来越便宜还是越来越贵。来源：HackerNews <https://news.ycombinator.com/item?id=50507303>｜原文 <https://jakub.jankiewicz.org/blog/ai-code-open-source/>
-
-3. **200 行代码，在笔记本上跑通 DeepSeek V3** — 一位开发者把 DeepSeek V3 的四个关键设计（注意力压缩、专家混合、负载均衡、多词预测）压进 190 行纯 JAX 代码，不用 PyTorch、不用任何框架，参数就是普通数组字典，还在 MacBook Air 上跑通了训练。以前想搞懂一个大模型怎么运转得啃几十万行代码，现在一个下午能从第一行读到最后一行。意义是 AI 不再是完全的黑箱，想学的人门槛降到「有台笔记本就行」；反过来看，能读懂模型代码的人正在变得值钱。来源：HackerNews <https://news.ycombinator.com/item?id=50497589>｜项目 <https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax>
-
-4. **把 AI 当神拜，正在反噬用它的人** — 一篇热文讲了个不太舒服的现象：一部分人用 AI 用久了开始把工具当权威，AI 说什么就信什么，不再自己核对、不再自己判断。作者说越成功越有钱的人越容易这样，因为习惯了「我说的对」，很容易把这份自信平移到 AI 身上。国内「Claude 怎么用、会不会封号」一直是高搜索量问题，说明不少人已深度依赖。真正的风险不是 AI 骗你，是你不再检查它：写方案、算数据、做决定，AI 可以出初稿，最后拍板的还得是你自己。来源：HackerNews <https://news.ycombinator.com/item?id=50496921>｜原文 <https://www.netmeister.org/blog/claude-delusion.html>
-
-5. **苹果出新 App，研究你怎么用 AI 看病** — 苹果上线一款研究类 App，目的是搞清楚普通人到底怎么用 AI 问健康问题：问什么、信不信、问完有没有真的去看医生。OpenAI 和 Anthropic 都已推出面向医疗的 AI 产品，苹果这一步是在抢健康数据入口——它手里本来就有手表的心率、睡眠数据，再加上你问 AI 的那些话，拼起来就是一张相当完整的健康画像。对普通人有两面：一边是看病更方便，小毛病先问问 AI；另一边是健康数据越来越集中，交给谁、用来干什么值得多留个心眼。来源：TechCrunch <https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/>
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-23 | [→](daily/2026-11-23.md) |
 | 11-22 | [→](daily/2026-11-22.md) |
 | 11-21 | [→](daily/2026-11-21.md) |
 | 11-20 | [→](daily/2026-11-20.md) |
@@ -144,4 +145,3 @@
 | 10-27 | [→](daily/2026-10-27.md) |
 | 10-26 | [→](daily/2026-10-26.md) |
 | 10-25 | [→](daily/2026-10-25.md) |
-| 10-24 | [→](daily/2026-10-24.md) |
