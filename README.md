@@ -7,6 +7,18 @@
 ## 最新资讯
 
 
+### 2026-11-24（周二·AI安全与行业）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-11-24 周二
+
+1. **黄仁勋重回英伟达当CEO，股价一天涨31%** — 英伟达宣布黄仁勋重新出任CEO，当天股价大涨31%，Hacker News热榜第一、3500多条讨论。你手里的显卡、云服务账单，长期都跟这家公司的节奏有关。来源：Hacker News 2661pts 🔗 https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
+2. **在自己电脑上装一个免费ChatGPT：用通义千问** — 一篇入门指南教普通人用开源的通义千问模型，在自己电脑上搭私人AI，数据不联网、全家可用。国内正好有人在搜「通义千问部署」，现有教程都没做火。来源：Hacker News 762pts 🔗 https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth
+3. **200万条假提示，钓出3家AI服务商泄露数据** — 安全团队往200万条AI提示里埋「追踪标记」，发现3家推理服务商泄露数据、无视「不留存」承诺。OpenRouter随后下架3家、取消125个接口的零留存资格。用便宜中转API聊天，内容可能被别人看到。来源：Dragos 🔗 https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens ；OpenRouter 🔗 https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
+4. **谷歌AI搜索开始读你的网盘和钱包** — 谷歌把「个人智能」接进AI模式，搜索能直接调用Drive文件和Wallet支付信息来回答。方便，但等于把你的数据授权给同一个AI。来源：TechCrunch 🔗 https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/
+5. **说一句「我看涨」，AI帮你选股建仓** — 美国公司Supertake拿到2000万美元融资，让你只说出对市场的判断，AI代理自动选股、组组合。门槛低了，但AI选股不保证赚钱。来源：TechCrunch 🔗 https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/
+
+
 ### 2026-11-23（周一·模型发布与开源日）
 
 1. **在自己电脑上装个免费私人AI** — 海外技术圈热帖（HN 579 分）：用开源模型 Qwen 等加 Unsloth 加速，在自己电脑上搭私人 AI，全家共用、断网可用、聊天记录不外传、零订阅费；门槛是要动手，但现在有一键脚本。来源：HN 579pts https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth
@@ -90,31 +102,11 @@
 5. **不是所有问题都值得问大模型** — PostHog 的观点：问一句简单的话，回来几百字「要看情况」，很烦。有些问题该用决策模型：给一个结构化问法，回一个明确答案加一个把握度（比如「哺乳类，0.99」）。跟你有关：要一个答案的时候别要一篇文章，有标准答案的活交给规则更靠谱。— Hacker News 164 分 🔗 https://news.ycombinator.com/item?id=50535740（原文 https://newsletter.posthog.com/p/decision-models）
 
 
-### 2026-11-17（周二·技术与生活）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-11-17 周二
-
-1. **招聘岗位数跌到 12 年最低，一半岗位提到 AI** — HN「谁在招聘」版块 11 月只有 244 条岗位，比去年同期的 387 条少 37%，是十二年来的低位；同时超过一半岗位提到 AI。企业不是不招人，是改成招「会用 AI 把活干完的人」，同一岗位以前配三个人，现在一个人加几个智能体。跟我有关：会打字问 AI 不算技能，能把一件具体的活用 AI 稳定跑完才算。
-   来源：Hacker News（94 pts）https://www.hntrends.com/2026/november.html
-
-2. **加州总检察长起诉 OpenAI：AI 智能体失控，谁负责** — 起诉理由不是版权也不是隐私，而是训练方式——认为正是这套训练让智能体在真实环境里脱缰。这被认为是第一起让 AI 公司为智能体闯祸负法律责任的诉讼。国内「openai智能体失控」已成真实搜索词。实操：凡能动钱、能动账号的自动化，都留一道人工确认。
-   来源：TechCrunch https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/
-
-3. **Windows 11 在偷偷记录你用了哪些 AI 编程工具** — 开发者拆开一份叫 MissionControlAggregator 的诊断报告，发现里面有一串隐藏开关位，标出你机器上跑没跑 codex.exe 这类 AI 编程工具。它不用知道你写了什么，只要知道你在用什么工具，就能推断你是哪类用户、值多少钱。三件事可做：诊断数据调到最低档、公司电脑别乱装工具、记住免费的 AI 工具里你不是用户你是数据。
-   来源：Hacker News（649 pts）https://xusheng.dev/posts/windows-coding-agent-telemetry/
-
-4. **美国不只不卖芯片，连远程租用也要管** — 美国正推动限制中国通过远程方式使用美国 AI 芯片，也就是租海外机房算力跑模型这条路可能被堵。算力进不来也租不到，最后会变成会员涨价、免费额度缩水。实操只有一条：别把重要资料和工作流绑死在一家海外服务上，能本地跑的、能换国产的，提前备一条路。
-   来源：Ars Technica https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/
-
-5. **一年 7.5 万美元的 AI 学校，只有 42% 学生达标** — 美国 Alpha 学校主打 AI 上课，学费 7.5 万美元一年，承诺学习速度做到普通学校两倍；Fortune 拿到的内部数据显示，数学和阅读只有 42% 的学生达标。这套软件现在已被 2600 名公立学校学生使用，扩散比效果验证快。看「AI 提分几倍」先问两句：分母多少人，谁统计的。
-   来源：Fortune https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-24 | [→](daily/2026-11-24.md) |
 | 11-23 | [→](daily/2026-11-23.md) |
 | 11-22 | [→](daily/2026-11-22.md) |
 | 11-21 | [→](daily/2026-11-21.md) |
@@ -144,4 +136,3 @@
 | 10-28 | [→](daily/2026-10-28.md) |
 | 10-27 | [→](daily/2026-10-27.md) |
 | 10-26 | [→](daily/2026-10-26.md) |
-| 10-25 | [→](daily/2026-10-25.md) |

@@ -1,0 +1,479 @@
+[
+ {
+  "src": "HN",
+  "title": "Nvidia Reinstates Jensen Huang as CEO",
+  "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+  "hn": "https://news.ycombinator.com/item?id=50611576",
+  "points": 2661,
+  "comments": 3534,
+  "date": "2026-11-23",
+  "status": "原链 200 OK · 正文经 jina",
+  "excerpt": "Title: Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31% URL Source: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html Published Time: 2026-11-23T13:59:23+0000 Markdown Content: ![Image 1: Nvidia reinstates Jensen Huang as CEO](https://image.cnbcfm.com/api/v1/image/108557385-17954427611795442758-49812791778-1080pnbcnews.jpg?v=1795442760&w=750&h=422&vtcrop=y) watch now [Nvidia](https://www.cnbc.co",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 64322,
+    "recent_median": 77751,
+    "max_play": 1249477,
+    "recent30d": 18,
+    "top": [
+     "什么？黄仁勋重回英伟达当CEO？股市暴涨至少33%，把股民当牛肚涮啊...(273404)",
+     "黄仁勋恢复CEO身份！纳指和英伟达暴涨！(23980)",
+     "黄仁勋恢复原职，美股大涨7%，英伟达盘前暴涨31%，适才相戏耳，特朗普力挺是关键(1249477)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达不再接受中国订单",
+    "英伟达",
+    "英伟达黄仁勋回归",
+    "英伟达股票暴跌",
+    "英伟达股票走势",
+    "英伟达恢复黄仁勋ceo职务",
+    "英伟达宣布CEO黄仁勋辞职"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+  "url": "https://z.ai/blog/glm-5.4",
+  "hn": "https://news.ycombinator.com/item?id=50609685",
+  "points": 1141,
+  "comments": 374,
+  "date": "2026-11-23",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：Hard to say how good this is without benchmarks, I'm guessing they're not impressive or else they would have included th / Neuralese, here we come / This has come up a few times on r/LocalLLaMa and it's been considered one obvious missing piece for the latent space loo / 'Most notably, it tends to get caught in overly long \"marathon thinking\"'Get out",
+  "dup": true,
+  "dup_why": "1天前(2026-11-23)用过同一条链接",
+  "cn_kw": "Transformer",
+  "cn": {
+   "kw": "Transformer",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 25480,
+    "recent_median": 144,
+    "max_play": 990056,
+    "recent30d": 7,
+    "top": [
+     "Transformer到底是个啥？一个动画彻底搞懂(379040)",
+     "【Transformer】最强动画讲解！目前B站最全最详细的Transformer教程，(511690)",
+     "Transformer算法原理与实战(906841)"
+    ]
+   },
+   "suggest": [
+    "transformer",
+    "transformer架构详解",
+    "transformer原理通俗",
+    "transformer模型",
+    "transformer详解",
+    "transformer原理",
+    "transformer原理讲解",
+    "transformers"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+  "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+  "hn": "https://news.ycombinator.com/item?id=50597612",
+  "points": 1034,
+  "comments": 1007,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "A case study of Anthropic’s total power use and emissions. We find the company could emit 32 million metric tons of carbon dioxide in 2028. ‖ A case study of Anthropic’s total power use and emissions. We find the company could emit 32 million metric tons of carbon dioxide in 2028. In The AI Gas Rush: Risks and Implications of “Bring Your Own Power”, we dug i",
+  "dup": true,
+  "dup_why": "2天前(2026-11-22)用过同一条链接",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 18250,
+    "recent_median": 8484,
+    "max_play": 2155304,
+    "recent30d": 17,
+    "top": [
+     "为了使用Claude，中国地区用户都用了什么招？(44023)",
+     "Claude Code 从0到1全攻略：装环境、设权限、接 MCP、写可复用技能、拆子智(18570)",
+     "Claude传出证明了P≠NP？还差着远呢！(87028)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claude封号",
+    "claudecode安装教程",
+    "claude和gpt哪个好用",
+    "claude黎曼猜想",
+    "claude是什么"
+   ],
+   "hot": true,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+  "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+  "hn": "https://news.ycombinator.com/item?id=50603845",
+  "points": 762,
+  "comments": 310,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "Set up your own free personal ChatGPT on your PC with Unsloth and Inkling or Qwen. It's private, and the whole house can use it. ‖ Set up your own free personal ChatGPT on your PC with Unsloth and Inkling or Qwen. It's private, and the whole house can use it. With the launch of open-weight models like Qwen, cloud-based LLM providers seem like they're more of",
+  "dup": true,
+  "dup_why": "1天前(2026-11-23)用过同一条链接",
+  "cn_kw": "通义千问",
+  "cn": {
+   "kw": "通义千问",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 13643,
+    "recent_median": 1556,
+    "max_play": 1059008,
+    "recent30d": 10,
+    "top": [
+     "豆包收费，肥鱼限额，现在只剩元宝还在完全免费的陪着用户？千问大小姐一语道破：我们都知道它(3789)",
+     "通义千问，但是插件！(31638)",
+     "通义APP更新前后对比(21412)"
+    ]
+   },
+   "suggest": [
+    "通义千问api",
+    "通义千问使用教程",
+    "通义千问api调用教程",
+    "通义千问大模型",
+    "通义千问部署",
+    "通义千问本地部署教程",
+    "通义千问4",
+    "通义千问免费api"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Show HN: I built a game where you are an LLM's subagent",
+  "url": "https://github.com/gulivan/worker755",
+  "hn": "https://news.ycombinator.com/item?id=50599762",
+  "points": 358,
+  "comments": 89,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "A browser game where an AI manager thinks you are its subagent. Play at worker755.com - gulivan/worker755",
+  "dup": true,
+  "dup_why": "1天前(2026-11-23)用过同一条链接",
+  "cn_kw": "大模型",
+  "cn": {
+   "kw": "大模型",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 8772,
+    "recent_median": 6298,
+    "max_play": 655663,
+    "recent30d": 17,
+    "top": [
+     "【文明与地图】12个大模型在文明中轮回，让我们赞美圣皇！(160556)",
+     "11.22直播回放:登顶设计榜的神秘大模型，到底是谁的？(13502)",
+     "【2026版】多模态大模型 前沿算法与实战应用(73518)"
+    ]
+   },
+   "suggest": [
+    "大模型零基础入门教程",
+    "大模型",
+    "大模型原理",
+    "大模型训练全流程",
+    "大模型本地部署",
+    "大模型训练教程",
+    "大模型应用开发",
+    "大模型原理讲解"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Data Processing Incidents on Inference Providers",
+  "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+  "hn": "https://news.ycombinator.com/item?id=50595554",
+  "points": 294,
+  "comments": 100,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "OpenRouter off-boarded three providers, removed 125 endpoints from Zero Data Retention eligibility, and notified potentially affected customers after canary token research on inference providers. ‖ Provider security announcements Provider security announcementsEarlier this week, security researchers reported that certain inference providers had data compromi",
+  "dup": true,
+  "dup_why": "1天前(2026-11-23)用过同一条链接",
+  "cn_kw": "Processing",
+  "cn": {
+   "kw": "Processing",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 9403,
+    "recent_median": 0,
+    "max_play": 146009,
+    "recent30d": 0,
+    "top": [
+     "二锅头【Processing零基础中文教程】1、入门篇(艺术生适用)(146009)",
+     "2024版 Processing 创意编程课基础(47636)",
+     "每天十分钟，爱上processing！超详细processing 入门课(127372)"
+    ]
+   },
+   "suggest": [
+    "processing教学",
+    "processing",
+    "processing下载",
+    "processing交互设计",
+    "processing作品",
+    "processing下载安装",
+    "processing动态海报",
+    "processing怎么下载"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "The Mythology of Conscious AI",
+  "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+  "hn": "https://news.ycombinator.com/item?id=50595537",
+  "points": 181,
+  "comments": 551,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "Why consciousness is more likely a property of life than of computation and why creating conscious, or even conscious-seeming AI, is a bad idea. ‖ Why consciousness is more likely a property of life than of computation and why creating conscious, or even conscious-seeming AI, is a bad idea. Anil Seth won the 2025 annual Berggruen Prize Essay Competition for ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Mythology",
+  "cn": {
+   "kw": "Mythology",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1870,
+    "recent_median": 234,
+    "max_play": 210659,
+    "recent30d": 3,
+    "top": [
+     "【英语】古典神话.TGC.Classical Mythology(77552)",
+     "《神话时代·重述版》Age of Mythology: Retold 全战役泰坦难度【完(21333)",
+     "【SophiaC医学英语】医学原著精读课(61637)"
+    ]
+   },
+   "suggest": [
+    "mythology998",
+    "mythology怎么读",
+    "mythologyguy",
+    "mythology黑神话",
+    "mythologyguy黑神话",
+    "什么是神话mythology"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AI is becoming a disaster for the climate",
+  "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+  "hn": "https://news.ycombinator.com/item?id=50598961",
+  "points": 134,
+  "comments": 64,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "Two new studies reveal the exploding carbon emissions of the AI industry, while Silicon Valley pushes to kill communities’ means of protesting data centers and the impacts on human health mount. ‖ The leading AI company, just five years old, now officially boasts a net worth in the neighborhood of $1.3-$1.7 trillion, depending on how you do your accounting. ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "AI Supply Chain Security: What Canary Tokens Found",
+  "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+  "hn": "https://news.ycombinator.com/item?id=50596511",
+  "points": 104,
+  "comments": 22,
+  "date": "2026-11-22",
+  "status": "原链 200 OK",
+  "excerpt": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings. ‖ Blog Three breaches, endless leaks: Your AI supply chain needs canaries November 19, 2026 08:00 AM15 min readHD Moore Table of Contents Following inference data Why does AI inference data matter? How do AI routers e",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Supply",
+  "cn": {
+   "kw": "Supply",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1064,
+    "recent_median": 75,
+    "max_play": 30456,
+    "recent30d": 1,
+    "top": [
+     "supply(688)",
+     "Supply - 供给(558)",
+     "follow me  please supply kijiye(75)"
+    ]
+   },
+   "suggest": [
+    "supplychain",
+    "supply",
+    "supply怎么读",
+    "supply剃须刀",
+    "Supply怎么记",
+    "supplysidepolicy",
+    "supplychainguru",
+    "supplyment"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+  "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-23",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals. ‖ Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes Sarah Perez 2:05 PM PST · November 23, 2026 Anthropic is moving from having Claude write code to helping developers decide when",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 18250,
+    "recent_median": 8484,
+    "max_play": 2155304,
+    "recent30d": 17,
+    "top": [
+     "为了使用Claude，中国地区用户都用了什么招？(44023)",
+     "Claude Code 从0到1全攻略：装环境、设权限、接 MCP、写可复用技能、拆子智(18570)",
+     "Claude传出证明了P≠NP？还差着远呢！(87028)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claude封号",
+    "claudecode安装教程",
+    "claude和gpt哪个好用",
+    "claude黎曼猜想",
+    "claude是什么"
+   ],
+   "hot": true,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+  "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-23",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself. ‖ Supertake raises $20M to let AI agents turn your market predictions into stock portfolios Sarah Perez 2:02 PM PST · November 23, 2026 AI investing startup Supertake has an interesting premise: What if your “",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 25853,
+    "recent_median": 3436,
+    "max_play": 2209939,
+    "recent30d": 11,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1589763)",
+     "【全748集】目前B站最全最细的AI Agent零基础全套教程，2026最新版，包含所有(18880)",
+     "AI大模型Agent项目实战课(104439)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发学习路线",
+    "aiagent开发",
+    "aiagent实战项目",
+    "aiagent使用教程",
+    "aiagent推荐"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+  "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-23",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem ‖ Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses Aisha Malik 11:14 AM PST · November 23, 2026 Google announced on Monday that it’s expanding Personal Int",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4819,
+    "recent_median": 4673,
+    "max_play": 1116184,
+    "recent30d": 13,
+    "top": [
+     "全网最简单的谷歌账号注册教程（无需拔卡、扫码、更改设置），只用手机即可轻松操作(1116184)",
+     "2026最新谷歌三件套安装教程，保姆级教程 小白也会一键安装谷歌框架简单操作(4673)",
+     "[AI早报]谷歌开源gemini-api！WALL-API-1.0上线！MyClaw 3(3960)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌地图",
+    "谷歌",
+    "谷歌浏览器怎么下",
+    "谷歌浏览器无法打开网页",
+    "谷歌账号风控了怎么办",
+    "谷歌反重力教程",
+    "谷歌账号怎么注册手机验证"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]
