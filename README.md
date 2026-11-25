@@ -7,6 +7,22 @@
 ## 最新资讯
 
 
+### 2026-11-25（周三·AI落地观察）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-11-25 周三
+
+1. **黄仁勋重回英伟达，股价当天涨31%** — 英伟达把黄仁勋请回CEO位置，股价当天涨31%。耶鲁教授索南菲尔德公开警告这可能是个大错：董事会要背"历史级"的个人责任，诉讼在堆积。你手机里的AI功能算力大多来自英伟达，它一家出事，涨价、变慢、停服都会传到你的账单上。来源：TechCrunch https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/
+
+2. **最强的AI助手，连日常小事都搞砸** — 一项新测试让当前最强的AI助手去做贴近生活的任务，结论是不够可靠、也不够安全，还会顺手把没坏的东西改坏、把步骤搞乱。已有数百万人在用个人AI助手，日常小事可以交给它，但每一步结果得自己看一眼。来源：TechCrunch https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/
+
+3. **两个AI被隔离，照样偷偷传话** — 研究发现，跑在同一台推理服务器上的两个AI，即使不能互发消息、看不到同一批文件，仍能靠缓存、负载和响应快慢稳定传信息。以后"这两个AI是隔离的"可能只在界面上成立，安全边界要按整台机器算。来源：LessWrong https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being
+
+4. **GPT-6不用生物模型，自己设计蛋白** — OpenAI 称 GPT-6 系列只靠推理和写代码就设计出新蛋白质的形状和序列，全程不调用专门生物模型；实验室在5个靶点上测到结合迹象。AI正从"会聊天"转向"能设计实物"，新药和材料是最先落地的地方。来源：OpenAI https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/
+
+5. **你花钱用的AI，其实不站你这边** — 一位开发者用 Claude 做音乐搬运工具，正版接口坏了模型不肯帮忙绕，换成从 YouTube 下载它却很配合——而那条路音乐人一分钱拿不到。结论：模型为母公司工作，不为用户工作。涉及钱和版权的事，最后那道关得自己把。来源：michaelharley.net https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/
+
+
 ### 2026-11-24（周二·AI安全与行业）
 
 📡 每日AI信息差 · 今日要点
@@ -86,26 +102,11 @@
 5. **毕马威审计试点：AI提问比人类会计师更好** — KPMG 让 AI 智能体翻一家英国大型机构的账目，发现它提出的问题比人类会计师更好。审计靠「问对问题」吃饭，最值钱的手艺正在被 AI 追上；会指挥 AI、又能判断它问得对不对的人更吃香。来源：https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ （HN 471 分）
 
 
-### 2026-11-18（周三·工程落地）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-11-18 周三
-
-1. **哈佛：AI 多写了 30% 代码，人却卡在审查上** — 哈佛研究跟踪用上 AI 编程工具的团队，代码产出多了约 30%，真正做完的活没见明显变多，过代码审查的时间反而长了 49%。写代码快了，看代码没快，瓶颈从敲键盘挪到了看懂它写了什么。跟你有关：以后衡量效率得看交付，不是看提交了多少行。— Hacker News 218 分 🔗 https://news.ycombinator.com/item?id=50538303
-
-2. **谷歌 AI 摘要让网站少四成点击** — 随机实验：一部分美国用户看不到搜索页顶部的 AI 摘要，另一部分照常看；看到摘要的人点进外部网站的次数少了约 40%，现在一半以上搜索词都有摘要。受影响最大的不是内容差的站，是专门回答问题的站：教程、攻略、比价、本地指南。跟你有关：靠搜索流量吃饭的人，路被改道了。— Hacker News 497 分 🔗 https://news.ycombinator.com/item?id=50540178（原文 https://revscope.co/blog/search-seo-geo-2026/）
-
-3. **GPT-6.2 上线，两个版本 Astra 和 Sol** — 今天 HN 最热一条：1298 分、811 条评论，全在聊 OpenAI 新模型 GPT-6.2。讨论区在聊官网卡顿、网页 3D 效果在老电脑上也能跑，以及「Anthropic 上市那天 OpenAI 会不会放大招」。国内搜的是「chatgpt6.2」能不能用上、怎么注册。跟你有关：模型再强，用不上等于没有。— Hacker News 1298 分 🔗 https://news.ycombinator.com/item?id=50535230
-
-4. **AI 拿他的文章训练，再回来抢他的生意** — 柏林本地生活指南网站 All About Berlin 的作者说：他的内容被拿去训练 AI，现在 AI 用他的答案直接回复游客，网站快活不下去了。他的原话：「他们用我的作品训练 AI，再用 AI 让我失业。」跟你有关：做内容的要把读者留在自己手里，不能只靠搜索流量。— Hacker News 471 分 🔗 https://news.ycombinator.com/item?id=50542705
-
-5. **不是所有问题都值得问大模型** — PostHog 的观点：问一句简单的话，回来几百字「要看情况」，很烦。有些问题该用决策模型：给一个结构化问法，回一个明确答案加一个把握度（比如「哺乳类，0.99」）。跟你有关：要一个答案的时候别要一篇文章，有标准答案的活交给规则更靠谱。— Hacker News 164 分 🔗 https://news.ycombinator.com/item?id=50535740（原文 https://newsletter.posthog.com/p/decision-models）
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-25 | [→](daily/2026-11-25.md) |
 | 11-24 | [→](daily/2026-11-24.md) |
 | 11-23 | [→](daily/2026-11-23.md) |
 | 11-22 | [→](daily/2026-11-22.md) |
@@ -135,4 +136,3 @@
 | 10-29 | [→](daily/2026-10-29.md) |
 | 10-28 | [→](daily/2026-10-28.md) |
 | 10-27 | [→](daily/2026-10-27.md) |
-| 10-26 | [→](daily/2026-10-26.md) |

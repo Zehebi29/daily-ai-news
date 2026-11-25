@@ -1,0 +1,510 @@
+[
+ {
+  "src": "HN",
+  "title": "Nvidia Reinstates Jensen Huang as CEO",
+  "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+  "hn": "https://news.ycombinator.com/item?id=50611576",
+  "points": 2819,
+  "comments": 3761,
+  "date": "2026-11-23",
+  "status": "原链 200 OK · 正文经 jina",
+  "excerpt": "Title: Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31% URL Source: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html Published Time: 2026-11-23T13:59:23+0000 Markdown Content: ![Image 1: Nvidia reinstates Jensen Huang as CEO](https://image.cnbcfm.com/api/v1/image/108557385-17954427611795442758-49812791778-1080pnbcnews.jpg?v=1795442760&w=750&h=422&vtcrop=y) watch now [Nvidia](https://www.cnbc.co",
+  "dup": true,
+  "dup_why": "1天前(2026-11-24)用过同一条链接",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6260,
+    "recent_median": 6260,
+    "max_play": 1350498,
+    "recent30d": 18,
+    "top": [
+     "黄老板强势回归，英伟达重整雄风。重战略还是重战术？(7566)",
+     "~第1509期~黄仁勋回归英伟达首开员工大会，AI信贷转眼警报狂响，美国两党政治染指公司(9572)",
+     "惊天反转！黄仁勋复职！英伟达暴涨34%！特朗普马斯克祝贺！但黄仁勋真的安全了吗？(274625)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达不再接受中国订单",
+    "英伟达黄仁勋回归",
+    "英伟达股票暴跌",
+    "英伟达回放怎么用",
+    "英伟达员工欢庆黄仁勋回归",
+    "英伟达显卡驱动"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+  "url": "https://z.ai/blog/glm-5.4",
+  "hn": "https://news.ycombinator.com/item?id=50609685",
+  "points": 1174,
+  "comments": 382,
+  "date": "2026-11-23",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：Hard to say how good this is without benchmarks, I'm guessing they're not impressive or else they would have included th / Neuralese, here we come / This has come up a few times on r/LocalLLaMa and it's been considered one obvious missing piece for the latent space loo / 'Most notably, it tends to get caught in overly long \"marathon thinking\"'Get out",
+  "dup": true,
+  "dup_why": "2天前(2026-11-23)用过同一条链接",
+  "cn_kw": "Transformer",
+  "cn": {
+   "kw": "Transformer",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 31633,
+    "recent_median": 276,
+    "max_play": 1485408,
+    "recent30d": 6,
+    "top": [
+     "Transformer算法原理与实战(910943)",
+     "Transformer到底是个啥？一个动画彻底搞懂(381815)",
+     "Transformer入门到精通，掌握算法+实战(35170)"
+    ]
+   },
+   "suggest": [
+    "transformer",
+    "transformer架构详解",
+    "transformer原理通俗",
+    "transformer模型",
+    "transformer详解",
+    "transformer原理",
+    "Transformer从零详细解读",
+    "transformer原理讲解"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "LLM agents work for their parent companies, not for you",
+  "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+  "hn": "https://news.ycombinator.com/item?id=50627340",
+  "points": 980,
+  "comments": 403,
+  "date": "2026-11-24",
+  "status": "原链 200 OK",
+  "excerpt": "I built an Instagram-to-Bandcamp tool with Claude, but when the API broke, the model refused to help me work around it, while happily downloading from YouTube instead, which pays the artist nothing. That hypocrisy exposed why these models can't be trusted: they work for their parent companies, not for me. ‖ In the evenings after work, I will often sit out ba",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 20398,
+    "recent_median": 1806,
+    "max_play": 1598808,
+    "recent30d": 12,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1598808)",
+     "Codex Harness正式开源！三行代码，直接把Codex装进你的应用，SDK+Ap(27554)",
+     "AI大模型Agent项目实战课(104619)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent推荐",
+    "aiagent是什么",
+    "aiagent开发学习路线",
+    "aiagent实战项目",
+    "aiagent使用教程",
+    "aiagent开发"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic breaks below $83 IPO price",
+  "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+  "hn": "https://news.ycombinator.com/item?id=50627836",
+  "points": 407,
+  "comments": 773,
+  "date": "2026-11-24",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：They have no future business model. Open-weight models and specialized distilations can be hosted in anyones datacenter  / It's such a bummer you can't buy options the day of the IPO. These massive valuations are nothing but an exit strategy f / IPOs are just money laundering at this point. / OpenAI IPO looking funnier by the minute / This means very",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 11475,
+    "recent_median": 9264,
+    "max_play": 2159800,
+    "recent30d": 17,
+    "top": [
+     "claude小姐的平A骗大招（你号没了）(3049)",
+     "Claude完全无KYC，丝滑起号教程订阅(1064)",
+     "暗黑地牢mod-狂信者claude小姐(12867)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claudecode安装教程",
+    "claude称证明计算机理论重大猜想",
+    "claude code",
+    "claude显示应用不可用是什么原因",
+    "claude封号"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+  "url": "https://news.ycombinator.com/item?id=50630809",
+  "hn": "https://news.ycombinator.com/item?id=50630809",
+  "points": 344,
+  "comments": 260,
+  "date": "2026-11-24",
+  "status": "原链 405",
+  "excerpt": "HN 讨论要点：All I can think of, off the bat, is to show them your testing harness, especially if it's in git, then you have receipts / It's a stupid accusation to begin with. How could they ever know? They're just afraid of distillation, so they accuse pe / Probably a better question for a corporate attorney than hacker news. Good luck / You don't need Anthropic",
+  "dup": true,
+  "dup_why": "3天前(2026-11-22)用过同一条链接",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 11475,
+    "recent_median": 9264,
+    "max_play": 2159800,
+    "recent30d": 17,
+    "top": [
+     "claude小姐的平A骗大招（你号没了）(3049)",
+     "Claude完全无KYC，丝滑起号教程订阅(1064)",
+     "暗黑地牢mod-狂信者claude小姐(12867)"
+    ]
+   },
+   "suggest": [
+    "claude国内怎么使用",
+    "claude",
+    "claude使用教程",
+    "claudecode安装教程",
+    "claude称证明计算机理论重大猜想",
+    "claude code",
+    "claude显示应用不可用是什么原因",
+    "claude封号"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Tidal bans AI-generated music",
+  "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+  "hn": "https://news.ycombinator.com/item?id=50630309",
+  "points": 332,
+  "comments": 317,
+  "date": "2026-11-24",
+  "status": "原链 200 OK",
+  "excerpt": "The music streaming service Tidal said Tuesday that it would ban tracks it believes are completely AI-generated starting next month, ‖ The music streaming service Tidal said Tuesday that it would ban tracks it believes are completely AI-generated starting next month, a move its leader believes “will resonate with both artists and listeners alike.” The servic",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Tidal",
+  "cn": {
+   "kw": "Tidal",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4587,
+    "recent_median": 0,
+    "max_play": 1014739,
+    "recent30d": 0,
+    "top": [
+     "Tidal Wave.(1084)",
+     "网易云和QQ之外，还能用什么听音乐？-Spotify 和 Tidal【值不值得买第502(1014739)",
+     "【每日歌曲推荐】Tidal Wave (Explicit)【Kiso、Rossy】(3750)"
+    ]
+   },
+   "suggest": [
+    "tidalwave",
+    "tidal",
+    "tidal下载",
+    "tidal音乐",
+    "tidal下载音乐",
+    "tidal怎么用",
+    "tidaldreams",
+    "tidalcycles"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+  "hn": "https://news.ycombinator.com/item?id=50634658",
+  "points": 294,
+  "comments": 88,
+  "date": "2026-11-24",
+  "status": "原链 200 OK",
+  "excerpt": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets. ‖ (opens in a new window) Share Key findings:Our GPT‑6 family of models can design new protein shapes and the sequence of their chemical building blocks using only reasoning and code, without calling specialized biology mode",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 5261,
+    "recent_median": 528,
+    "max_play": 1034852,
+    "recent30d": 14,
+    "top": [
+     "50 分钟速通 Codex 保姆级教程（含 DeepSeek 接入，无需 ChatGPT(9311)",
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(1034852)",
+     "利用ChatGPT快速发表高质量SCI论文(132586)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt",
+    "chatgpt国内使用教程",
+    "chatgpt电脑端安装",
+    "chatgpt安卓下载",
+    "chatgpt安装教程",
+    "chatgpt手机版苹果怎么使用",
+    "chatgpt生图"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+  "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+  "hn": "https://news.ycombinator.com/item?id=50637686",
+  "points": 293,
+  "comments": 126,
+  "date": "2026-11-25",
+  "status": "原链 200 OK",
+  "excerpt": "TL;DR * Two agents running on the same inference server can reliably communicate, even if they cannot send each other messages or access the same fi… ‖ 139 Models Can Communicate via Inference Servers Despite Being Sandboxedby Niranjan Deshpande, David Africa19th Nov 202613 min read 3 139 TL;DRTwo agents running on the same inference server can reliably comm",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Communicate",
+  "cn": {
+   "kw": "Communicate",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 855,
+    "recent_median": 50,
+    "max_play": 60777,
+    "recent30d": 2,
+    "top": [
+     "新版八年级单词：communicate的详细解析(1434)",
+     "【最新弃曲】Ariana Grande - communicate 浦西神时期(52050)",
+     "How do babies communicate?(79)"
+    ]
+   },
+   "suggest": [
+    "communicate",
+    "communicate怎么读",
+    "communicate歌曲",
+    "Communicate是什么意思",
+    "communicateion",
+    "communicate怎么记",
+    "communicate怎样划分音节",
+    "communicater"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+  "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+  "hn": "https://news.ycombinator.com/item?id=50637056",
+  "points": 291,
+  "comments": 51,
+  "date": "2026-11-25",
+  "status": "原链 200 OK",
+  "excerpt": "A small transformer that writes and sketches from text. The effort was 80% data, 15% speed and 5% architecture: my first project that follows the Bitter Lesson. ‖ A small transformer that writes and sketches from text. The effort was 80% data, 15% speed and 5% architecture: my first project that follows the Bitter Lesson. The text of this post (except the co",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Transformer",
+  "cn": {
+   "kw": "Transformer",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 31633,
+    "recent_median": 276,
+    "max_play": 1485408,
+    "recent30d": 6,
+    "top": [
+     "Transformer算法原理与实战(910943)",
+     "Transformer到底是个啥？一个动画彻底搞懂(381815)",
+     "Transformer入门到精通，掌握算法+实战(35170)"
+    ]
+   },
+   "suggest": [
+    "transformer",
+    "transformer架构详解",
+    "transformer原理通俗",
+    "transformer模型",
+    "transformer详解",
+    "transformer原理",
+    "Transformer从零详细解读",
+    "transformer原理讲解"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+  "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-25",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanc",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6260,
+    "recent_median": 6260,
+    "max_play": 1350498,
+    "recent30d": 18,
+    "top": [
+     "黄老板强势回归，英伟达重整雄风。重战略还是重战术？(7566)",
+     "~第1509期~黄仁勋回归英伟达首开员工大会，AI信贷转眼警报狂响，美国两党政治染指公司(9572)",
+     "惊天反转！黄仁勋复职！英伟达暴涨34%！特朗普马斯克祝贺！但黄仁勋真的安全了吗？(274625)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达不再接受中国订单",
+    "英伟达黄仁勋回归",
+    "英伟达股票暴跌",
+    "英伟达回放怎么用",
+    "英伟达员工欢庆黄仁勋回归",
+    "英伟达显卡驱动"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Even the best AI agents struggle with everyday life",
+  "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-24",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems. ‖ Even the best AI agents struggle with everyday life Rebecca Bellan 1:33 PM PST · November 24, 2026 AI companies have spent the last couple of months mar",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 20398,
+    "recent_median": 1806,
+    "max_play": 1598808,
+    "recent30d": 12,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1598808)",
+     "Codex Harness正式开源！三行代码，直接把Codex装进你的应用，SDK+Ap(27554)",
+     "AI大模型Agent项目实战课(104619)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent推荐",
+    "aiagent是什么",
+    "aiagent开发学习路线",
+    "aiagent实战项目",
+    "aiagent使用教程",
+    "aiagent开发"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+  "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-24",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 20398,
+    "recent_median": 1806,
+    "max_play": 1598808,
+    "recent30d": 12,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1598808)",
+     "Codex Harness正式开源！三行代码，直接把Codex装进你的应用，SDK+Ap(27554)",
+     "AI大模型Agent项目实战课(104619)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent推荐",
+    "aiagent是什么",
+    "aiagent开发学习路线",
+    "aiagent实战项目",
+    "aiagent使用教程",
+    "aiagent开发"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]
