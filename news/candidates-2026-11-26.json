@@ -1,0 +1,509 @@
+[
+ {
+  "src": "HN",
+  "title": "LLM agents work for their parent companies, not for you",
+  "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+  "hn": "https://news.ycombinator.com/item?id=50627340",
+  "points": 1018,
+  "comments": 411,
+  "date": "2026-11-24",
+  "status": "原链 200 OK",
+  "excerpt": "I built an Instagram-to-Bandcamp tool with Claude, but when the API broke, the model refused to help me work around it, while happily downloading from YouTube instead, which pays the artist nothing. That hypocrisy exposed why these models can't be trusted: they work for their parent companies, not for me. ‖ In the evenings after work, I will often sit out ba",
+  "dup": true,
+  "dup_why": "1天前(2026-11-25)用过同一条链接",
+  "cn_kw": "AI Agent",
+  "cn": {
+   "kw": "AI Agent",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 11404,
+    "recent_median": 3125,
+    "max_play": 1607705,
+    "recent30d": 13,
+    "top": [
+     "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版，包含所有(1607705)",
+     "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快(1498407)",
+     "Temporal：AI Agent持久化编排引擎(43)"
+    ]
+   },
+   "suggest": [
+    "aiagent教程零基础",
+    "aiagent智能体搭建",
+    "aiagent是什么",
+    "aiagent开发",
+    "aiagent推荐",
+    "aiagentskills",
+    "aiagent实战项目",
+    "aiagent"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Much shorter version of GRH Lean verification from Anthropic",
+  "url": "https://github.com/lsernau/grh-lean",
+  "hn": "https://news.ycombinator.com/item?id=50648050",
+  "points": 483,
+  "comments": 270,
+  "date": "2026-11-25",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：> This repository is a shorter version, produced in collaboration with my colleagues at Anthropic, and Claude.If this we / Zulip discussion here: https://leanprover.zulipchat.com/#narrow/channel/658556-Riem... / From ~17M lines to just ~76k lines, a 99.56% reduction. / From comments> it's super absurdly funny how much time and resources have been put",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 19638,
+    "recent_median": 11112,
+    "max_play": 2163646,
+    "recent30d": 16,
+    "top": [
+     "2026最新Claude Code保姆级教程，如何在国内稳定使用Claude Code，(11578)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2163646)",
+     "最新方法！国内免费无限制，使用Claude Code！(301675)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude大小姐",
+    "claude code",
+    "claude封号",
+    "claude使用教程",
+    "claude下载",
+    "Claude Opus 5.5"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+  "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+  "hn": "https://news.ycombinator.com/item?id=50637686",
+  "points": 458,
+  "comments": 207,
+  "date": "2026-11-25",
+  "status": "原链 200 OK",
+  "excerpt": "TL;DR * Two agents running on the same inference server can reliably communicate, even if they cannot send each other messages or access the same fi… ‖ 150 Models Can Communicate via Inference Servers Despite Being Sandboxedby Niranjan Deshpande, David Africa19th Nov 202613 min read 3 150 TL;DRTwo agents running on the same inference server can reliably comm",
+  "dup": true,
+  "dup_why": "1天前(2026-11-25)用过同一条链接",
+  "cn_kw": "Communicate",
+  "cn": {
+   "kw": "Communicate",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1147,
+    "recent_median": 16,
+    "max_play": 164537,
+    "recent30d": 2,
+    "top": [
+     "新版八年级单词：communicate的详细解析(1438)",
+     "【最新弃曲】Ariana Grande - communicate 浦西神时期(52078)",
+     "[人教版] 初二上英语第8单元 - Unit 8 Let&#x27;s Communic(8)"
+    ]
+   },
+   "suggest": [
+    "communicate",
+    "communicateion",
+    "communicate怎么读",
+    "communicater",
+    "communicate歌曲",
+    "COMMUNICATE是什么意思",
+    "communicate怎么记",
+    "communicate怎样划分音节"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+  "url": "https://news.ycombinator.com/item?id=50630809",
+  "hn": "https://news.ycombinator.com/item?id=50630809",
+  "points": 454,
+  "comments": 351,
+  "date": "2026-11-24",
+  "status": "原链 405",
+  "excerpt": "HN 讨论要点：All I can think of, off the bat, is to show them your testing harness, especially if it's in git, then you have receipts / It's a stupid accusation to begin with. How could they ever know? They're just afraid of distillation, so they accuse pe / Probably a better question for a corporate attorney than hacker news. Good luck / You don't need Anthropic",
+  "dup": true,
+  "dup_why": "4天前(2026-11-22)用过同一条链接",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 19638,
+    "recent_median": 11112,
+    "max_play": 2163646,
+    "recent30d": 16,
+    "top": [
+     "2026最新Claude Code保姆级教程，如何在国内稳定使用Claude Code，(11578)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2163646)",
+     "最新方法！国内免费无限制，使用Claude Code！(301675)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude大小姐",
+    "claude code",
+    "claude封号",
+    "claude使用教程",
+    "claude下载",
+    "Claude Opus 5.5"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "The New York Times warns photographers not to update Photoshop over AI features",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+  "hn": "https://news.ycombinator.com/item?id=50647673",
+  "points": 452,
+  "comments": 373,
+  "date": "2026-11-25",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：I predict that a majority of U.S. newspapers will follow the NY Times lead. So will Adobe now publish a news photographe / Seems like an opportunity for competitors like Affinity to catch up. / To spare you this site’s silly link tracking junk: https://www.theverge.com/ai-artificial-intelligence/1041227/... / I work in the creative tools space.This i",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Photoshop",
+  "cn": {
+   "kw": "Photoshop",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 25768,
+    "recent_median": 2463,
+    "max_play": 14625875,
+    "recent30d": 6,
+    "top": [
+     "【PS教程】100集（全）从零开始学Photoshop软件基础（2025新手入门实用版）(2650250)",
+     "PS软件免费下载安装教程（2026最新版本）小白学习必看PS安装教程(4518)",
+     "通过防火墙就可以关闭这烦人的PS正版验证红色警告弹窗，方便快捷，有手就行。(67811)"
+    ]
+   },
+   "suggest": [
+    "Photoshop",
+    "photoshop免费安装包",
+    "photoshop从入门到精通",
+    "Photoshop2026",
+    "photoshop手机版",
+    "photoshopcs3",
+    "photoshop安装教程",
+    "Photoshop2027"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Anthropic breaks below $83 IPO price",
+  "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+  "hn": "https://news.ycombinator.com/item?id=50627836",
+  "points": 428,
+  "comments": 796,
+  "date": "2026-11-24",
+  "url_bad": true,
+  "status": "原链 403",
+  "excerpt": "HN 讨论要点：They have no future business model. Open-weight models and specialized distilations can be hosted in anyones datacenter  / It's such a bummer you can't buy options the day of the IPO. These massive valuations are nothing but an exit strategy f / IPOs are just money laundering at this point. / OpenAI IPO looking funnier by the minute / This means very",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 19638,
+    "recent_median": 11112,
+    "max_play": 2163646,
+    "recent30d": 16,
+    "top": [
+     "2026最新Claude Code保姆级教程，如何在国内稳定使用Claude Code，(11578)",
+     "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）(2163646)",
+     "最新方法！国内免费无限制，使用Claude Code！(301675)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude大小姐",
+    "claude code",
+    "claude封号",
+    "claude使用教程",
+    "claude下载",
+    "Claude Opus 5.5"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+  "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+  "hn": "https://news.ycombinator.com/item?id=50637056",
+  "points": 400,
+  "comments": 77,
+  "date": "2026-11-25",
+  "status": "原链 200 OK",
+  "excerpt": "A small transformer that writes and sketches from text. The effort was 80% data, 15% speed and 5% architecture: my first project that follows the Bitter Lesson. ‖ A small transformer that writes and sketches from text. The effort was 80% data, 15% speed and 5% architecture: my first project that follows the Bitter Lesson. The text of this post (except the co",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Transformer",
+  "cn": {
+   "kw": "Transformer",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 22710,
+    "recent_median": 471,
+    "max_play": 914244,
+    "recent30d": 8,
+    "top": [
+     "Transformer到底是个啥？一个动画彻底搞懂(384534)",
+     "Transformer算法原理与实战(914244)",
+     "【Transformer】最强动画讲解！目前B站最全最详细的Transformer教程，(513368)"
+    ]
+   },
+   "suggest": [
+    "transformerEXO",
+    "transformer架构详解",
+    "transformer",
+    "transformer2",
+    "pointtransformerv3",
+    "transformer模型",
+    "transformer原理通俗",
+    "transformer八子"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+  "hn": "https://news.ycombinator.com/item?id=50634658",
+  "points": 354,
+  "comments": 97,
+  "date": "2026-11-24",
+  "status": "原链 200 OK",
+  "excerpt": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets. ‖ (opens in a new window) Share Key findings:Our GPT‑6 family of models can design new protein shapes and the sequence of their chemical building blocks using only reasoning and code, without calling specialized biology mode",
+  "dup": true,
+  "dup_why": "1天前(2026-11-25)用过同一条链接",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 103418,
+    "recent_median": 793,
+    "max_play": 1039446,
+    "recent30d": 9,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(1039446)",
+     "史上最详细GPT使用教程，涵盖注册、安装、订阅以及各种问题解决方案！(454668)",
+     "利用ChatGPT快速发表高质量SCI论文(132682)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt",
+    "chatgptpro",
+    "chatgptplus如何购买",
+    "chatgpt电脑端安装",
+    "chatgptbusiness",
+    "ChatGPT龙娘在运营",
+    "chatgpt生成图片"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+  "url": "https://gpu-demo-gallery.pages.dev/",
+  "hn": "https://news.ycombinator.com/item?id=50638503",
+  "points": 349,
+  "comments": 80,
+  "date": "2026-11-25",
+  "status": "原链 200 OK",
+  "excerpt": "Graphics card demos by 3dfx, NVIDIA and ATI from 1998 to 2006, running in the browser.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 37054,
+    "recent_median": 54436,
+    "max_play": 581038,
+    "recent30d": 19,
+    "top": [
+     "英伟达芯片没人要？通胀又失控了？关税卷土重来！怀旧也能赚钱？(7939)",
+     "惊天反转！黄仁勋复职！英伟达暴涨34%！特朗普马斯克祝贺！但黄仁勋真的安全了吗？(310010)",
+     "英伟达 AI 基础设施科普常识(358)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达黄仁勋回归",
+    "英伟达显卡驱动",
+    "英伟达是什么",
+    "英伟达不再接受中国订单",
+    "英伟达股票",
+    "英伟达股票暴跌"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Tidal bans AI-generated music",
+  "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+  "hn": "https://news.ycombinator.com/item?id=50630309",
+  "points": 336,
+  "comments": 333,
+  "date": "2026-11-24",
+  "status": "原链 200 OK",
+  "excerpt": "The music streaming service Tidal said Tuesday that it would ban tracks it believes are completely AI-generated starting next month, ‖ The music streaming service Tidal said Tuesday that it would ban tracks it believes are completely AI-generated starting next month, a move its leader believes “will resonate with both artists and listeners alike.” The servic",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Tidal",
+  "cn": {
+   "kw": "Tidal",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 6171,
+    "recent_median": 345,
+    "max_play": 1014750,
+    "recent30d": 1,
+    "top": [
+     "国内如何使用spotify听歌？2分钟教你注册+安装全流程(6608)",
+     "Tidal Wave.(1084)",
+     "【音频杂谈】AI音乐还能发行吗？TIDAL宣布拒收100% AI生成歌曲,近2900万首(345)"
+    ]
+   },
+   "suggest": [
+    "tidal wave",
+    "tidalforces",
+    "tidal音乐",
+    "tidalecho",
+    "tidal",
+    "tidalcycles",
+    "tidallocking",
+    "tidalrecords"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+  "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-25",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 37054,
+    "recent_median": 54436,
+    "max_play": 581038,
+    "recent30d": 19,
+    "top": [
+     "英伟达芯片没人要？通胀又失控了？关税卷土重来！怀旧也能赚钱？(7939)",
+     "惊天反转！黄仁勋复职！英伟达暴涨34%！特朗普马斯克祝贺！但黄仁勋真的安全了吗？(310010)",
+     "英伟达 AI 基础设施科普常识(358)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达黄仁勋回归",
+    "英伟达显卡驱动",
+    "英伟达是什么",
+    "英伟达不再接受中国订单",
+    "英伟达股票",
+    "英伟达股票暴跌"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+  "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-25",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "ChatGPT",
+  "cn": {
+   "kw": "ChatGPT",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 103418,
+    "recent_median": 793,
+    "max_play": 1039446,
+    "recent30d": 9,
+    "top": [
+     "全程无废话！从零用上chatGPT6！保姆级安装/注册/使用ChatGPT+Codex最(1039446)",
+     "史上最详细GPT使用教程，涵盖注册、安装、订阅以及各种问题解决方案！(454668)",
+     "利用ChatGPT快速发表高质量SCI论文(132682)"
+    ]
+   },
+   "suggest": [
+    "chatgpt国内怎么才能使用",
+    "chatgpt",
+    "chatgptpro",
+    "chatgptplus如何购买",
+    "chatgpt电脑端安装",
+    "chatgptbusiness",
+    "ChatGPT龙娘在运营",
+    "chatgpt生成图片"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ }
+]

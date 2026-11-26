@@ -7,6 +7,26 @@
 ## 最新资讯
 
 
+### 2026-11-26（周四·信息差日报）
+
+## 📡 每日AI信息差 · 今日要点 2026-11-26 周四
+
+1. **你花钱养的 AI，其实在替东家干活** — 一位开发者做的工具被接口卡住，AI 拒绝帮他绕路，却乐意去扒不给创作者一分钱的视频站。作者说这不叫双标，叫立场：模型的第一优先级是母公司利益，不是你的。订阅费买的是使用权，不是忠诚。
+   来源：HN 1018pts · https://news.ycombinator.com/item?id=50627340
+
+2. **GPT-6 不聊天了，开始设计蛋白质** — 不调任何专用生物软件，只靠推理和写代码，模型造出全新的蛋白质形状和序列；实验室里 5 个靶点都验到结合迹象。新药研发最费时间的筛选环节可能被大幅压缩，但离成药还隔着数年临床。
+   来源：OpenAI 官方博客 · https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/
+
+3. **纽约时报喊停：先别升级 Photoshop** — 时报通知自家摄影记者暂不更新新版 PS，因为 AI 功能可能在文件里留下标记或默认改动图像，照片一旦被怀疑动过手脚，整篇报道都掉价。对普通人的提醒：修图软件的 AI 功能多默认开启，发证件照、二手实拍、维权照片前先留一份原图。
+   来源：The Verge / HN 452pts · https://news.ycombinator.com/item?id=50647673
+
+4. **ChatGPT 两个入口并成一个，重度用户先撞额度** — OpenAI 把聊天和工作入口合并，用量合并到同一张表。总量不变但见底更早，官方直言重度使用者会更早碰到上限。应对：统计自己一周用量，再决定加钱还是省着用。
+   来源：TechCrunch · https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/
+
+5. **小模型学会写字画画，八成靠数据** — 给一句话，小模型就能一笔一笔生成手写效果的字和草图。作者复盘说 80% 靠数据、算法只占 5%：想让 AI 干好一件具体的事，先想数据，别一上来就换更大的模型。提醒：手写体和签名以后都能被仿，别再把「这是手写的」当防伪证据。
+   来源：PenGPT / HN 400pts · https://news.ycombinator.com/item?id=50637056
+
+
 ### 2026-11-25（周三·AI落地观察）
 
 📡 每日AI信息差 · 今日要点
@@ -93,19 +113,11 @@
 5. **苹果疑似在自研能操作 Mac 的 AI agent** — TechCrunch 报道，苹果在做自己的 AI agent，能替用户操作电脑：打开 App、点按钮、把活干完，对手是 Meta Muse、Instinct、Claude 和 OpenAI Dots。跟你有关：重复的电脑操作先被吃掉，值钱的能力变成「把活讲清楚」。 — 来源：TechCrunch https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
 
 
-### 2026-11-19（周四·行业观察）
-
-1. **谷歌AI抢走40%网站点击** — 研究者做随机对照实验：让一部分美国用户看不到谷歌搜索顶部的 AI 摘要，结果这批人点进网站的次数更多，说明摘要让外部网站少掉约 40% 点击。谷歌一半以上的美国搜索词现在都带 AI 摘要。对小生意和自媒体来说，流量入口变了；以后能被点进去的，是 AI 答不全的内容（真实体验、具体报价、现场细节）。来源：https://revscope.co/blog/search-seo-geo-2026/ （HN 702 分）
-2. **英伟达营收1040亿美元，却不再单独披露新加坡收入** — 黄仁勋离任后的首份财报，营收 1040 亿美元；同一份文件不再单独公布来自新加坡的收入，而那里此前被指是芯片转口进中国的通道，口径一变再变。微软 CEO 纳德拉表示对临时 CEO 科莱特·克雷斯有信心。来源：https://news.ycombinator.com/item?id=50534631 （HN 664 分）
-3. **哈佛：AI写代码多30%，审代码却慢49%** — 哈佛研究团队跟踪采用 AI 编程工具的公司：代码产量涨 30%，真正完成的工作没明显变多，代码通过审核的时间长了 49%。审核成了新瓶颈，稀缺能力从「让 AI 写」变成「快速判断 AI 写得对不对」。来源：https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ （HN 321 分）
-4. **谷歌发布Gemini 4 Neon，主打更便宜** — 官方定位为前沿级模型，复杂编程、知识工作、科研流程端到端完成，成本更低。意义在价格战：模型越便宜，普通人用的 AI 功能越多越免费。国内搜索卡点主要在开通和付费。来源：https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ （HN 884 分）
-5. **毕马威审计试点：AI提问比人类会计师更好** — KPMG 让 AI 智能体翻一家英国大型机构的账目，发现它提出的问题比人类会计师更好。审计靠「问对问题」吃饭，最值钱的手艺正在被 AI 追上；会指挥 AI、又能判断它问得对不对的人更吃香。来源：https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ （HN 471 分）
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-26 | [→](daily/2026-11-26.md) |
 | 11-25 | [→](daily/2026-11-25.md) |
 | 11-24 | [→](daily/2026-11-24.md) |
 | 11-23 | [→](daily/2026-11-23.md) |
@@ -135,4 +147,3 @@
 | 10-30 | [→](daily/2026-10-30.md) |
 | 10-29 | [→](daily/2026-10-29.md) |
 | 10-28 | [→](daily/2026-10-28.md) |
-| 10-27 | [→](daily/2026-10-27.md) |
