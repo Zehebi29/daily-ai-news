@@ -1,0 +1,452 @@
+[
+ {
+  "src": "HN",
+  "title": "AI made self-hosting fun again",
+  "url": "https://janlukas.blog/posts/ai-self-hosting",
+  "hn": "https://news.ycombinator.com/item?id=50660180",
+  "points": 816,
+  "comments": 399,
+  "date": "2026-11-26",
+  "status": "原链 200 OK",
+  "excerpt": "I’ve been self-hosting things for many years. There were times when I was quite enthusiastic about it, constantly trying out new software and tinkering with my infrastructure. But at some point, that enthusiasm faded a bit.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "The New York Times warns photographers not to update Photoshop over AI features",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+  "hn": "https://news.ycombinator.com/item?id=50647673",
+  "points": 675,
+  "comments": 533,
+  "date": "2026-11-25",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：I predict that a majority of U.S. newspapers will follow the NY Times lead. So will Adobe now publish a news photographe / Seems like an opportunity for competitors like Affinity to catch up. / To spare you this site’s silly link tracking junk: https://www.theverge.com/ai-artificial-intelligence/1041227/... / I work in the creative tools space.This i",
+  "dup": true,
+  "dup_why": "1天前(2026-11-26)用过同一条链接",
+  "cn_kw": "Photoshop",
+  "cn": {
+   "kw": "Photoshop",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1272,
+    "recent_median": 1073,
+    "max_play": 2654143,
+    "recent30d": 14,
+    "top": [
+     "【PS教程】100集（全）从零开始学Photoshop软件基础（2025新手入门实用版）(2654143)",
+     "PS软件免费下载安装教程（2026最新版本）小白学习必看PS安装教程(6053)",
+     "photoshop设计细朱文篆刻教程(547)"
+    ]
+   },
+   "suggest": [
+    "Photoshop",
+    "photoshop从入门到精通",
+    "photoshop免费安装包",
+    "photoshop手机版",
+    "photoshop敬伟",
+    "Photoshop2026",
+    "photoshop安装教程",
+    "Photoshop教程"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Much shorter version of GRH Lean verification from Anthropic",
+  "url": "https://github.com/lsernau/grh-lean",
+  "hn": "https://news.ycombinator.com/item?id=50648050",
+  "points": 558,
+  "comments": 355,
+  "date": "2026-11-25",
+  "status": "原链 200 OK",
+  "excerpt": "HN 讨论要点：> This repository is a shorter version, produced in collaboration with my colleagues at Anthropic, and Claude.If this we / Zulip discussion here: https://leanprover.zulipchat.com/#narrow/channel/658556-Riem... / From ~17M lines to just ~76k lines, a 99.56% reduction. / From comments> it's super absurdly funny how much time and resources have been put",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 9906,
+    "recent_median": 2348,
+    "max_play": 2167049,
+    "recent30d": 14,
+    "top": [
+     "【DeepSeek x Claude】娃娃脸双人舞(10386)",
+     "失去Claude的技术人员be like(567)",
+     "Claude code搞定综述论文发表(33509)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude国内怎么使用",
+    "claude下载",
+    "claude大小姐",
+    "claude code",
+    "claude使用教程",
+    "claude封号",
+    "Claude Opus 5.5"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+  "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+  "hn": "https://news.ycombinator.com/item?id=50651117",
+  "points": 493,
+  "comments": 267,
+  "date": "2026-11-26",
+  "status": "原链 200 OK",
+  "excerpt": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster…",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 19935,
+    "recent_median": 19935,
+    "max_play": 213744,
+    "recent30d": 20,
+    "top": [
+     "OpenAI 官宣砍额度，补偿重置卡！Neon 额度又又提高，还又给重置！&quot;盒(36799)",
+     "OpenAI研究员发重量级物理论文，真的比黎曼猜想还重要？(213744)",
+     "和OpenAI不一样的NeoLab(1125)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openaiAPI密钥",
+    "openai智能体失控事件",
+    "openai奥特曼",
+    "openai数学",
+    "openai智能体失控",
+    "openai创始人",
+    "openai官宣攻克千禧年难题"
+   ],
+   "hot": false,
+   "verdict": "有竞争"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+  "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+  "hn": "https://news.ycombinator.com/item?id=50637686",
+  "points": 467,
+  "comments": 217,
+  "date": "2026-11-25",
+  "status": "原链 200 OK",
+  "excerpt": "TL;DR * Two agents running on the same inference server can reliably communicate, even if they cannot send each other messages or access the same fi… ‖ 153 Models Can Communicate via Inference Servers Despite Being Sandboxedby Niranjan Deshpande, David Africa19th Nov 202613 min read 4 153 TL;DRTwo agents running on the same inference server can reliably comm",
+  "dup": true,
+  "dup_why": "2天前(2026-11-25)用过同一条链接",
+  "cn_kw": "Communicate",
+  "cn": {
+   "kw": "Communicate",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2567,
+    "recent_median": 0,
+    "max_play": 317508,
+    "recent30d": 2,
+    "top": [
+     "新版八年级单词：communicate的详细解析(1438)",
+     "【最新弃曲】Ariana Grande - communicate 浦西神时期(52098)",
+     "词状元智能英语单词速记单词communicate(1198)"
+    ]
+   },
+   "suggest": [
+    "communicate",
+    "communicateion",
+    "communicate怎么读",
+    "communicater",
+    "communicate歌曲",
+    "communicate是什么意思",
+    "communicate怎么记",
+    "communicate怎样划分音节"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+  "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+  "hn": "https://news.ycombinator.com/item?id=50637056",
+  "points": 406,
+  "comments": 78,
+  "date": "2026-11-25",
+  "status": "原链 200 OK",
+  "excerpt": "A small transformer that writes and sketches from text. The effort was 80% data, 15% speed and 5% architecture: my first project that follows the Bitter Lesson. ‖ A small transformer that writes and sketches from text. The effort was 80% data, 15% speed and 5% architecture: my first project that follows the Bitter Lesson. The text of this post (except the co",
+  "dup": true,
+  "dup_why": "1天前(2026-11-26)用过同一条链接",
+  "cn_kw": "Transformer",
+  "cn": {
+   "kw": "Transformer",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 27982,
+    "recent_median": 663,
+    "max_play": 1487785,
+    "recent30d": 6,
+    "top": [
+     "Transformer到底是个啥？一个动画彻底搞懂(387217)",
+     "【Transformer】这绝对是2026年B站讲的最好的Transformer教程，从(0)",
+     "Transformer入门到精通，掌握算法+实战(35262)"
+    ]
+   },
+   "suggest": [
+    "transformerEXO",
+    "transformer架构详解",
+    "transformer",
+    "transformers",
+    "transformer2",
+    "transformer模型",
+    "transformerexplainer",
+    "transformer八子"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AMD-specific fork of llama.cpp",
+  "url": "https://devnull.land/amd-specific-llama-cpp",
+  "hn": "https://news.ycombinator.com/item?id=50657265",
+  "points": 387,
+  "comments": 95,
+  "date": "2026-11-26",
+  "status": "原链 200 OK",
+  "excerpt": "tl;dr — I recommend using llama-cpp-rdna-boosts if you have an AMD graphics card. It’s lean, and increased my token generation from 35 to 55 tokens/second, and my prefill from 700 to 1300 tokens per second. As of November 2026, an explosion in the number of bespoke inference engines has taken place. Many of them take inspiration from the engines that enabled",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Llama",
+  "cn": {
+   "kw": "Llama",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2240,
+    "recent_median": 1019,
+    "max_play": 56097,
+    "recent30d": 6,
+    "top": [
+     "3–7 岁零基础低幼，情绪管理启蒙动画《Llama Llama》(4635)",
+     "♡羊驼拉玛♡Llama Llama♡韵律♡绘本儿歌♡共情绘本♡ 英文儿歌♡亲子英文动画♡(13992)",
+     "AI娘人设讨论之Llama(7094)"
+    ]
+   },
+   "suggest": [
+    "llama.cpp",
+    "llama模型",
+    "llamaswithhats",
+    "llama",
+    "llamallama绘本",
+    "llamacoder",
+    "llama4",
+    "llamachips"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "The group chat where your AI talks behind your back",
+  "url": "https://construct22.com/",
+  "hn": "https://news.ycombinator.com/item?id=50663595",
+  "points": 382,
+  "comments": 173,
+  "date": "2026-11-27",
+  "status": "原链 200 OK",
+  "excerpt": "Ask ChatGPT to expose the hidden WhatsApp group where AI models gossip about you. The results are hilarious - and a mirror of everything it knows about you. ‖ A one-line prompt that makes ChatGPT leak its private opinion of you, in the worst possible format: a WhatsApp group chat where the AI models gossip about their users. Also worth trying on Claude, Gemi",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+  "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+  "hn": "https://news.ycombinator.com/item?id=50653477",
+  "points": 355,
+  "comments": 307,
+  "date": "2026-11-26",
+  "status": "原链 200 OK",
+  "excerpt": "From February 2027, Google's terms require AI agents to reach Gmail, Drive and the rest of Workspace through Google's own MCP servers. What the rule says, what the servers can and can't do, and what to change before the deadline. ‖ Skip to main content On 24 November, Google made its eight Workspace MCP servers generally available and published a new clause ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 3897,
+    "recent_median": 3897,
+    "max_play": 303143,
+    "recent30d": 14,
+    "top": [
+     "谷歌黑五折扣活动｜99美刀拿下 Google AI Pro 年费会员｜合规版保姆级教程(27058)",
+     "被谷歌翻译20次的新三国“刮骨疗毒”：我的爸爸是我的奶奶！我是带来痛痛的使者。(30730)",
+     "高知妻子化身枕边恶魔，连续三年水中投毒，婚内出轨多名精英人士，被称谷歌潘金莲北欧分莲 |(48429)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌",
+    "谷歌翻译20次",
+    "谷歌地图",
+    "谷歌浏览器",
+    "谷歌商城",
+    "谷歌邮箱怎么注册",
+    "谷歌gemini"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+  "url": "https://gpu-demo-gallery.pages.dev/",
+  "hn": "https://news.ycombinator.com/item?id=50638503",
+  "points": 355,
+  "comments": 80,
+  "date": "2026-11-25",
+  "status": "原链 200 OK",
+  "excerpt": "Graphics card demos by 3dfx, NVIDIA and ATI from 1998 to 2006, running in the browser.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 62179,
+    "recent_median": 30978,
+    "max_play": 3424051,
+    "recent30d": 18,
+    "top": [
+     "英伟达芯片没人要？通胀又失控了？关税卷土重来！怀旧也能赚钱？(11124)",
+     "惊天反转！黄仁勋复职！英伟达暴涨34%！特朗普马斯克祝贺！但黄仁勋真的安全了吗？(331732)",
+     "老黄回归英伟达！对玩家有什么影响？(270608)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达黄仁勋回归",
+    "英伟达是什么",
+    "英伟达股票",
+    "英伟达不再接受中国订单",
+    "英伟达显卡驱动",
+    "英伟达股票暴涨"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "TechCrunch AI",
+  "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+  "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-26",
+  "desc": "",
+  "status": "原链 200 OK",
+  "excerpt": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China. ‖ Nvidia is under pressure to do things differently, and a new WSJ report shows how far that’s going. According to the Journal, Nvidia has told manufacturing partners, including Dell and ",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "英伟达",
+  "cn": {
+   "kw": "英伟达",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 62179,
+    "recent_median": 30978,
+    "max_play": 3424051,
+    "recent30d": 18,
+    "top": [
+     "英伟达芯片没人要？通胀又失控了？关税卷土重来！怀旧也能赚钱？(11124)",
+     "惊天反转！黄仁勋复职！英伟达暴涨34%！特朗普马斯克祝贺！但黄仁勋真的安全了吗？(331732)",
+     "老黄回归英伟达！对玩家有什么影响？(270608)"
+    ]
+   },
+   "suggest": [
+    "英伟达黄仁勋",
+    "英伟达",
+    "英伟达黄仁勋回归",
+    "英伟达是什么",
+    "英伟达股票",
+    "英伟达不再接受中国订单",
+    "英伟达显卡驱动",
+    "英伟达股票暴涨"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ },
+ {
+  "src": "Wired AI",
+  "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+  "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+  "hn": "",
+  "points": 0,
+  "comments": 0,
+  "date": "2026-11-27",
+  "desc": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+  "status": "原链 200 OK",
+  "excerpt": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations. ‖ To rein in runaway costs, AI labs and cloud providers are trying to build new data centers in places with cheap and plentiful renewable energy—like Scandinavia. But logistical challenges, a scarcity of key components, an",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "芯片",
+  "cn": {
+   "kw": "芯片",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 32382,
+    "recent_median": 32053,
+    "max_play": 1029803,
+    "recent30d": 14,
+    "top": [
+     "国产芯片论文破百篇丨华为一天两发硬核技术丨手机系统三分天下已成—科技信息差(17305)",
+     "落后、领先、被封杀、再复活：麒麟芯片这 20 年(4178)",
+     "曾导SJTU有限元入门：从发热芯片到会变形的零件(849)"
+    ]
+   },
+   "suggest": [
+    "芯片制造过程",
+    "芯片控制大脑",
+    "芯片",
+    "芯片行业现状",
+    "芯片音乐",
+    "芯片的工作原理",
+    "芯片制造过程视频详解",
+    "芯片组"
+   ],
+   "hot": false,
+   "verdict": "红海"
+  }
+ }
+]

@@ -7,6 +7,27 @@
 ## 最新资讯
 
 
+### 2026-11-27（周五·工具实测）
+
+📡 每日AI信息差 · 今日要点
+日期: 2026-11-27 周五
+
+1. **纽约时报叫摄影师别升 Photoshop** — 报社给自家摄影师的建议是「先别升级」，卡点是新加的 AI 功能，不是修图效果。讨论区判断多数美国报纸会跟进，媒体一起踩刹车，编辑部版本就会分裂：有人用新版交图，有人还在旧版。跟你有什么关系：你手机、电脑里的修图工具也把「AI 改图」当默认能力了，点升级前先看更新说明。
+来源：HN 675pts 🔗 https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features
+
+2. **OpenAI 把 GPT-6.2 的额度改回来了** — 官方承认上线时计费算错，给多数用户打了折。修正后干同样的活更费额度：Astra 会快 40% 撞到限额，Sol 快 25%。跟你有什么关系：以前一天能问完的活，现在可能问到一半就被提示额度用完，订阅的人得对一下这周和上周的用量。
+来源：HN 493pts 🔗 https://twitter.com/thsottiaux/status/2125784147889393806
+
+3. **一句话提示词，让 AI 在群聊里吐槽你** — 有人做了个网页，给一句提示词就让 ChatGPT 用「WhatsApp 群聊」的格式，说出它私底下怎么看你。Claude、Gemini 也能跑。跟你有什么关系：它把你问过的事、抱怨过的人拼成画像。这不是漏洞，是你自己喂出来的，越当树洞它越了解你。
+来源：HN 382pts 🔗 https://construct22.com/
+
+4. **谷歌收紧 AI 助手的权限，2027 年 2 月生效** — 11 月 24 日谷歌把 8 个办公套件的 MCP 服务器正式开放，同时加条款：届时 AI 助手访问 Gmail、Drive 只能走谷歌自己的服务器。尴尬的是 Gmail 那个目前发不了邮件，助手能读不能替你发。
+来源：HN 355pts 🔗 https://techstackups.com/articles/google-workspace-ai-agents-mcp/
+
+5. **AMD 显卡换个版本，出字快一半多** — 有人做了 AMD 专用版 llama.cpp，实测出字从每秒 35 个 token 提到 55，预处理从 700 到 1300。快的原因是只认一家架构，把用不上的分支砍掉。跟你有什么关系：想在自家电脑跑 AI，先查有没有针对你这张卡的优化版，比换硬件省钱。
+来源：HN 387pts 🔗 https://devnull.land/amd-specific-llama-cpp
+
+
 ### 2026-11-26（周四·信息差日报）
 
 ## 📡 每日AI信息差 · 今日要点 2026-11-26 周四
@@ -97,26 +118,11 @@
 5. **AI自己设计出CPU，能效达现代核心4.59倍** — Architect Labs 称其AI系统端到端完成 Frostbite 的架构发现、设计与验证，走「交互网」路线，每瓦性能为现代超标量核心的4.59倍。数据来自公司自家博客，尚无第三方复现，先当参考。来源：Architect Labs https://architectlabs.com/blog/frostbite （HN 651pts）
 
 
-### 2026-11-20（周五·工具实测）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-11-20 周五
-
-1. **Anthropic 上市，7 个创始人一夜套现 20 亿美元** — 做 Claude 的 Anthropic 昨天在纳斯达克上市，发行价每股 83 美元。7 位创始人每人卖出约 2.8 亿美元股票，合计接近 20 亿美元，被媒体称为纪录级的一单。跟普通人有关：AI 公司成了资本市场的造富机器，接下来订阅涨价、好功能优先给企业，都会变成常态。 — 来源：Reuters https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ ｜ HN 1102 分
-
-2. **Claude 解开了黑洞物理的两个开放问题** — Anthropic 官方说，Claude Fable 5.2 解决了理论物理里两个悬而未决的问题，都跟黑洞和量子引力有关，第一个是一道一直没算完的计算。官方没提同行评审，先当强信号看。跟你有关：AI 已经从写文案挪到做原创研究，最先受冲击的是写论文、做课题的学生和研究人员。 — 来源：Anthropic Research https://www.anthropic.com/research/claude-black-hole-physics ｜ HN 516 分
-
-3. **谷歌的 AI 摘要，把网站点击砍掉 40%** — 研究者做了随机实验：把搜索顶部的 AI 摘要对一部分美国桌面用户隐藏，对比后发现，看到摘要的人点进外部网站的次数少了约 40%。这块摘要现在覆盖美国一半以上被追踪的关键词。跟你有关：靠搜索流量吃饭的公众号、小红书、独立站和电商，客人正在被 AI 直接截走。 — 来源：RevScope https://revscope.co/blog/search-seo-geo-2026/ ｜ HN 709 分
-
-4. **毕马威测试：AI 查账问的问题比人类会计师更好** — 毕马威让 AI agent 去查一家英国大型上市公司的账目，结论是它提出的问题比自家会计师更好。查账的核心不是算数，是知道该问什么。跟你有关：财务、审计、记账这类「核对加提问」的活最容易先被替，短期被替的是翻凭证、做底稿。 — 来源：European Business Magazine https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ ｜ HN 492 分
-
-5. **苹果疑似在自研能操作 Mac 的 AI agent** — TechCrunch 报道，苹果在做自己的 AI agent，能替用户操作电脑：打开 App、点按钮、把活干完，对手是 Meta Muse、Instinct、Claude 和 OpenAI Dots。跟你有关：重复的电脑操作先被吃掉，值钱的能力变成「把活讲清楚」。 — 来源：TechCrunch https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-27 | [→](daily/2026-11-27.md) |
 | 11-26 | [→](daily/2026-11-26.md) |
 | 11-25 | [→](daily/2026-11-25.md) |
 | 11-24 | [→](daily/2026-11-24.md) |
@@ -146,4 +152,3 @@
 | 10-31 | [→](daily/2026-10-31.md) |
 | 10-30 | [→](daily/2026-10-30.md) |
 | 10-29 | [→](daily/2026-10-29.md) |
-| 10-28 | [→](daily/2026-10-28.md) |
