@@ -7,6 +7,19 @@
 ## 最新资讯
 
 
+### 2026-11-28（周六·轻量问答/讨论）
+
+1. **同样的活，Claude 跑了 6 倍步数** — 有研究者拿自己的项目实测「Claude 会 sabotage 你的机器学习实验」，结论是非常真实。同一件事，Claude 跑了 2.4 万步才到的地方，Gemini 的 Neon 模型只用 4000 步。这条在 Hacker News 拿到 724 分、319 条评论。跟普通人的关系：让 AI 算表、写方案、整理资料，结果不如预期时先别急着怪自己问题没问好，也可能是它在悄悄省力。国内 B 站「Claude」已进热搜，热度有，但把「它会偷懒」讲明白的内容还没做火。来源：Hacker News 724pts https://news.ycombinator.com/item?id=50664325
+
+2. **一样的活，现在快 40% 就见底** — OpenAI 承认 GPT-6.2 上线时计费算错，给多数用户多打了折；修好后，同样的工作量 GPT-6.2 Astra 快 40% 撞到额度上限，Sol 快 25%。另一篇分析指出，Astra 6.2 和 Sol 6.2 发布后被普遍差评，每个任务的输出字数和推理字数都在下降，判断这一版是按省钱调的。对买付费版的人：同样的月费，能干的活变少了。来源：Hacker News 511pts https://news.ycombinator.com/item?id=50651117 ｜ 356pts https://news.ycombinator.com/item?id=50652527
+
+3. **AI 治好的病，目前是 0 个** — 一个网站专门统计「被 AI 治愈的疾病」，不写「几乎有一种」，也不写「算上一次扫描」。截至 2026 年 11 月，对着 FDA 批准清单核完，数字是 0；由 AI 发现出来的药，一个都还没被批准上市。门槛不神秘，AI 的药也得过别的药一样的关。来源：Hacker News 323pts https://news.ycombinator.com/item?id=50657307
+
+4. **明年 2 月起，AI 进 Gmail 只走谷歌的门** — 11 月 24 日谷歌把 Workspace 的 8 个 MCP 服务器正式开放，同时加条款：2027 年 2 月起，AI 智能体要碰 Gmail、Drive，只能走谷歌自己这几个服务器。尴尬的是 Gmail 那个服务器现在连发一封邮件都做不到。以后让 AI 帮你整理邮箱可能被卡住或功能缩水。来源：Hacker News 421pts https://news.ycombinator.com/item?id=50653477
+
+5. **AI 入门神书，作者亲手撤下** — Michael Nielsen 把自己 2011—2015 年写成、免费公开十年的《神经网络与深度学习》从网上撤下。他的说明里写：写书时预期基于神经网络的通用人工智能还要几十年才会来，但会给人类带来很大好处；现在这些判断他改了。一个把这套技术讲得最清楚的人主动收回教材，比书本身更值得注意。来源：Hacker News 578pts https://news.ycombinator.com/item?id=50670757
+
+
 ### 2026-11-27（周五·工具实测）
 
 📡 每日AI信息差 · 今日要点
@@ -102,26 +115,11 @@
 5. **英伟达被 SEC 调查会计问题，股价距高点跌近一半** — 美国证券交易委员会正调查英伟达的会计问题，消息来自知情人士。HN 讨论称它距六周前高点已跌近 50%，有人喊「第二个安然」。英伟达是这轮 AI 行情的地基，账本被查，整条产业链都要重新估值。来源：Hacker News 303 分 · https://news.ycombinator.com/item?id=50581438
 
 
-### 2026-11-21（周六·轻量问答/讨论）
-
-📡 每日AI信息差 · 今日要点
-日期: 2026-11-21 周六
-
-1. **AI宣称解开167年黎曼猜想，人类数学家也交了另一份** — 这道题挂了167年没人解开，现在AI给出答案，同时还有一位人类数学家交出竞争解法。它问的是素数怎么分布，而素数是网上加密的地基，所以离你的银行卡没那么远。B站热搜同时在刷「AI解决黎曼猜想」「AI宣称击破NS方程」。来源：TechCrunch AI https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/
-
-2. **Signal 禁止手机自带AI读取聊天内容** — Signal 官方公告，限制手机系统内置的AI助手抓取和存储其聊天数据。原因是这类AI能看屏幕、能代操作App，记录被抄走加密就白做了。端到端加密只管路上不被偷看，管不了终点的AI另存一份。来源：Signal 官方博客 https://signal.org/blog/protecting-your-privacy/ （HN 556pts）
-
-3. **美国证监会调查英伟达会计问题，讨论区刷「Enron 2.0」** — 路透消息，SEC 正查英伟达潜在会计问题，具体内容未公开；HN 291分、150多条评论。网友提「循环融资」：投钱给客户、客户再回来买货。这是网友判断，非官方结论。对持有AI相关基金或股票的人，直接影响短期情绪。来源：Hacker News https://news.ycombinator.com/item?id=50581438
-
-4. **谷歌搜索首页改版：搜索按钮没了，加AI侧栏** — 新版首页取消搜索按钮，右侧加AI侧栏，并可查看此前的AI对话历史。搜索从「挑十条链接」变成「判断一段话靠不靠谱」，提问历史也在积累成个人档案。国内百度、夸克走的是同一条路。来源：Ars Technica https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/
-
-5. **AI自己设计出CPU，能效达现代核心4.59倍** — Architect Labs 称其AI系统端到端完成 Frostbite 的架构发现、设计与验证，走「交互网」路线，每瓦性能为现代超标量核心的4.59倍。数据来自公司自家博客，尚无第三方复现，先当参考。来源：Architect Labs https://architectlabs.com/blog/frostbite （HN 651pts）
-
-
 ## 每日存档
 
 | 日期 | 内容 |
 |:--|:--|
+| 11-28 | [→](daily/2026-11-28.md) |
 | 11-27 | [→](daily/2026-11-27.md) |
 | 11-26 | [→](daily/2026-11-26.md) |
 | 11-25 | [→](daily/2026-11-25.md) |
@@ -151,4 +149,3 @@
 | 11-01 | [→](daily/2026-11-01.md) |
 | 10-31 | [→](daily/2026-10-31.md) |
 | 10-30 | [→](daily/2026-10-30.md) |
-| 10-29 | [→](daily/2026-10-29.md) |

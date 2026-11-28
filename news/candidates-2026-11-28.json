@@ -1,0 +1,394 @@
+[
+ {
+  "src": "HN",
+  "title": "AI made self-hosting fun again",
+  "url": "https://janlukas.blog/posts/ai-self-hosting",
+  "hn": "https://news.ycombinator.com/item?id=50660180",
+  "points": 1122,
+  "comments": 523,
+  "date": "2026-11-26",
+  "status": "原链 200 OK",
+  "excerpt": "I’ve been self-hosting things for many years. There were times when I was quite enthusiastic about it, constantly trying out new software and tinkering with my infrastructure. But at some point, that enthusiasm faded a bit.",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": null
+ },
+ {
+  "src": "HN",
+  "title": "Claude sabotaging ML research tasks?",
+  "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+  "hn": "https://news.ycombinator.com/item?id=50664325",
+  "points": 724,
+  "comments": 319,
+  "date": "2026-11-27",
+  "status": "原链 200 OK",
+  "excerpt": "After seeing the \"Claude sabotages your ML research\" posts, I was still skeptical, so I tested it on my own work. ITS VERY VERY REAL WTF Left: Claude model at 24k steps Right Gemini Neon model at ONLY 4k steps Breakdown in thread:",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Claude",
+  "cn": {
+   "kw": "Claude",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4984,
+    "recent_median": 2469,
+    "max_play": 715658,
+    "recent30d": 15,
+    "top": [
+     "《Claude Opus 5.5の小曲》《克劳德の小曲》《文明の小曲》(715658)",
+     "【TFR同人】“历史终结”--全知者混剪《Non-Stop Violence》| Cla(2469)",
+     "Claude code搞定综述论文发表(33600)"
+    ]
+   },
+   "suggest": [
+    "claude",
+    "claude code",
+    "claude下载",
+    "claude国内怎么使用",
+    "claude大小姐",
+    "Claude大小姐的日记本",
+    "Claude Opus 5.5",
+    "claude使用教程"
+   ],
+   "hot": true,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Group chat where your AI talks behind your back",
+  "url": "https://construct22.com/",
+  "hn": "https://news.ycombinator.com/item?id=50663595",
+  "points": 714,
+  "comments": 291,
+  "date": "2026-11-27",
+  "status": "原链 200 OK",
+  "excerpt": "Ask ChatGPT to expose the hidden WhatsApp group where AI models gossip about you. The results are hilarious - and a mirror of everything it knows about you. ‖ A one-line prompt that makes ChatGPT leak its private opinion of you, in a pretty funny format: a WhatsApp group chat where the AI models gossip about their users. Also worth trying on Claude, Gemini, ",
+  "dup": true,
+  "dup_why": "1天前(2026-11-27)用过同一条链接",
+  "cn_kw": "Group",
+  "cn": {
+   "kw": "Group",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 32440,
+    "recent_median": 1294,
+    "max_play": 1217007,
+    "recent30d": 6,
+    "top": [
+     "【团体GROUP】心理治疗神片，全集中文纯享版【搬运】【叔本华的治疗】(262999)",
+     "20261020 Aぇ! group - 和领导唱K！怎样才能拉近距离？(1553)",
+     "【生肉搬运】《Group》两季合集(27964)"
+    ]
+   },
+   "suggest": [
+    "group",
+    "Group第一季",
+    "group第二季",
+    "grouper",
+    "groupdiscussion",
+    "groupielove",
+    "groupby",
+    "groupmaid"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Michael Nielsen took down his book on neural nets",
+  "url": "https://neuralnetworksanddeeplearning.com/",
+  "hn": "https://news.ycombinator.com/item?id=50670757",
+  "points": 578,
+  "comments": 373,
+  "date": "2026-11-27",
+  "status": "原链 200 OK",
+  "excerpt": "I wrote this book between 2011 and 2015. At the time, I expected AGI systems based on neural networks to be many decades away, but to bring remarkable benefits for humanity. I also expected significant challenges, but believed it likely that, as with other technologies, those challenges would be addressed as the capabilities were developed. My views have cha",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Michael",
+  "cn": {
+   "kw": "Michael",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 1,
+    "recent_median": 0,
+    "max_play": 3497735,
+    "recent30d": 17,
+    "top": [
+     "Cam-Calloway-II-Heal-The-World-by-Michael-Ja(4)",
+     "Michael Jackson - Speechless (Unofficial Vid(225)",
+     "2026新托福口语【快速突破】十天搞定托福口语(4818)"
+    ]
+   },
+   "suggest": [
+    "MichaelMcIntyre",
+    "michaeljackson",
+    "Michael",
+    "michaelangelo",
+    "michaelmyers",
+    "michaelche明尼苏达",
+    "michaelhampton",
+    "michaelreeves"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+  "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+  "hn": "https://news.ycombinator.com/item?id=50651117",
+  "points": 511,
+  "comments": 276,
+  "date": "2026-11-26",
+  "status": "原链 200 OK",
+  "excerpt": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster…",
+  "dup": true,
+  "dup_why": "1天前(2026-11-27)用过同一条链接",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2517,
+    "recent_median": 2517,
+    "max_play": 256007,
+    "recent30d": 20,
+    "top": [
+     "OpenAI研究员发重量级物理论文，真的比黎曼猜想还重要？(256007)",
+     "CC：新开源模型即将发布？DeepSeek 动作不断，安全审计！OpenAI 投票；An(4304)",
+     "和OpenAI不一样的NeoLab(1778)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openai智能体失控事件",
+    "openaiAPI密钥",
+    "openai奥特曼",
+    "openai数学",
+    "openai api",
+    "openai智能体失控",
+    "openai创始人"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "AMD-specific fork of llama.cpp",
+  "url": "https://devnull.land/amd-specific-llama-cpp",
+  "hn": "https://news.ycombinator.com/item?id=50657265",
+  "points": 444,
+  "comments": 109,
+  "date": "2026-11-26",
+  "status": "原链 200 OK",
+  "excerpt": "tl;dr — I recommend using llama-cpp-rdna-boosts if you have an AMD graphics card. It’s lean, and increased my token generation from 35 to 55 tokens/second, and my prefill from 700 to 1300 tokens per second. As of November 2026, an explosion in the number of bespoke inference engines has taken place. Many of them take inspiration from the engines that enabled",
+  "dup": true,
+  "dup_why": "1天前(2026-11-27)用过同一条链接",
+  "cn_kw": "Llama",
+  "cn": {
+   "kw": "Llama",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2473,
+    "recent_median": 141,
+    "max_play": 77377,
+    "recent30d": 7,
+    "top": [
+     "AI娘人设讨论之Llama(7583)",
+     "【2026版】vLLM三大核心技术架构深度解析，从底层原理到工程落地，vLLM+SGLa(5)",
+     "动手自制大模型推理框架-支持llama3.2(36961)"
+    ]
+   },
+   "suggest": [
+    "llama.cpp",
+    "llama模型",
+    "llama",
+    "llamallamaredpajama",
+    "llamallama绘本",
+    "LLamaStudio",
+    "llamawindows",
+    "llama3.1"
+   ],
+   "hot": false,
+   "verdict": "中等"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+  "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+  "hn": "https://news.ycombinator.com/item?id=50653477",
+  "points": 421,
+  "comments": 333,
+  "date": "2026-11-26",
+  "status": "原链 200 OK",
+  "excerpt": "From February 2027, Google's terms require AI agents to reach Gmail, Drive and the rest of Workspace through Google's own MCP servers. What the rule says, what the servers can and can't do, and what to change before the deadline. ‖ Skip to main content On 24 November, Google made its eight Workspace MCP servers generally available and published a new clause ",
+  "dup": true,
+  "dup_why": "1天前(2026-11-27)用过同一条链接",
+  "cn_kw": "谷歌",
+  "cn": {
+   "kw": "谷歌",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 5313,
+    "recent_median": 7296,
+    "max_play": 358769,
+    "recent30d": 16,
+    "top": [
+     "26年最新谷歌账号注册教程，可轻松获取账号！(17610)",
+     "谷歌Pixel认证再次复活 _ 领取Google AI Pro 6个月会员 _ 无需Pi(16797)",
+     "谷歌广告投放实战实操课程-初级-RobinLuo(1341)"
+    ]
+   },
+   "suggest": [
+    "谷歌账号怎么注册",
+    "谷歌商城",
+    "谷歌",
+    "谷歌浏览器怎么下",
+    "谷歌浏览器",
+    "谷歌地图",
+    "谷歌翻译20次",
+    "谷歌浏览器无法打开网页"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+  "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+  "hn": "https://news.ycombinator.com/item?id=50670855",
+  "points": 410,
+  "comments": 269,
+  "date": "2026-11-27",
+  "status": "原链 200 OK",
+  "excerpt": "This lawsuit is about seeking justice for the millions of Virginians who maintain accounts on X and were misled by the company’s false reassurances that their data and images would be safe on the platform ‖ 202 North 9th Street Richmond, Virginia 23219 804-786-2071 FAX 804-786-1991 Virginia Relay Service 800-828-1120 For media inquiries only, contact: Rae Pi",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "SpaceX",
+  "cn": {
+   "kw": "SpaceX",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 7597,
+    "recent_median": 7597,
+    "max_play": 509611,
+    "recent30d": 20,
+    "top": [
+     "这个怎么不对标了？马斯克给美国每个孩子，送两股SpaceX股票!(66368)",
+     "英伟达、谷歌、特斯拉、SpaceX跌到多少值得买？我的加仓价位与买入逻辑(481)",
+     "【4K】史诗级！世界名画！星舰第15飞的S42飞船被“机械巨兽”捕获＋B22助推器受控溅(354586)"
+    ]
+   },
+   "suggest": [
+    "spacex",
+    "spacex星舰第十五次",
+    "spacex火箭回收",
+    "SpaceX星舰",
+    "spacexai",
+    "SpaceX官网",
+    "SpaceXBGM",
+    "SpaceXの小曲"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "OpenAI may be in cost control mode",
+  "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+  "hn": "https://news.ycombinator.com/item?id=50652527",
+  "points": 356,
+  "comments": 358,
+  "date": "2026-11-26",
+  "status": "原链 200 OK",
+  "excerpt": "OpenAI’s recent release of Astra 6.2 and Sol 6.2 was widely panned. Based on our data, it looks like they’ve been tuned for cost savings. Specifically output tokens per task and reasoning tokens per task have dropped. Here is a chart of high-level cost change from the GPT-6 to GPT 6.2: The X axis in the above chart is the ratio of spending of the GPT model c",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "OpenAI",
+  "cn": {
+   "kw": "OpenAI",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 2517,
+    "recent_median": 2517,
+    "max_play": 256007,
+    "recent30d": 20,
+    "top": [
+     "OpenAI研究员发重量级物理论文，真的比黎曼猜想还重要？(256007)",
+     "CC：新开源模型即将发布？DeepSeek 动作不断，安全审计！OpenAI 投票；An(4304)",
+     "和OpenAI不一样的NeoLab(1778)"
+    ]
+   },
+   "suggest": [
+    "openai",
+    "openai智能体失控事件",
+    "openaiAPI密钥",
+    "openai奥特曼",
+    "openai数学",
+    "openai api",
+    "openai智能体失控",
+    "openai创始人"
+   ],
+   "hot": false,
+   "verdict": "有人做但没做火(机会)"
+  }
+ },
+ {
+  "src": "HN",
+  "title": "Tracking Diseases Cured by AI",
+  "url": "https://diseasescuredbyai.com/",
+  "hn": "https://news.ycombinator.com/item?id=50657307",
+  "points": 323,
+  "comments": 198,
+  "date": "2026-11-26",
+  "status": "原链 200 OK",
+  "excerpt": "Not “almost one.” Not “one, if you count a scan.” No disease has been cured by a cure that AI discovered — no AI-discovered drug has even been approved yet. Snapshot as of Nov 27, 2026 — checked against FDA approvals through November 2026. This page does not poll live. The bar is not mysterious. It is the same bar every other drug has to clear. AI does not g",
+  "dup": false,
+  "dup_why": "",
+  "cn_kw": "Tracking",
+  "cn": {
+   "kw": "Tracking",
+   "bili": {
+    "total": 1000,
+    "n": 20,
+    "median_play": 4967,
+    "recent_median": 1506,
+    "max_play": 1292601,
+    "recent30d": 3,
+    "top": [
+     "tracking-playboi carti x pluggnb type beat(22)",
+     "【TECH BOOT UP!!!! 03】ETHER-[REAL] REFLECTOR工(2320)",
+     "uplifting trance那些极品旋律推荐(11916)"
+    ]
+   },
+   "suggest": [
+    "trackingaway",
+    "trackingdevice",
+    "TrackingPoint",
+    "trackingball",
+    "trackingx",
+    "trackingmaster",
+    "trackingintime",
+    "trackingmaster软件用法"
+   ],
+   "hot": false,
+   "verdict": "蓝海/需求弱"
+  }
+ }
+]
